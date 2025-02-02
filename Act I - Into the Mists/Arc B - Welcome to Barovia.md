@@ -1,241 +1,241 @@
-*An adventure for five 3rd-level characters.*
+Uma aventura para 5 personagens de 3° nível.
 
-> [!warning]+ **Recent Update**
-> This arc was substantially revised on July 19, 2024. To access the deprecated version of this arc, visit [[Deprecated Material/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] in the Deprecated Materials appendix.
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
 
-There, the players learn that the village has been under attack by Strahd’s undead horde each night for the past six nights—and that the horde is expected to return at dusk. In exchange for food, shelter, and information, Ismark asks the players to take up arms alongside the Barovians and prepare to defend the village’s fortifications against the onslaught of the dead.
+Neste arco, os PJs viajam para a sombria vila de Baróvia, que foi devastada pela morte e pelo desespero após a ressurreição de Strahd. Quando um licantropo-corvo disfarçado os guia até a taverna Sangue da Vinha, eles encontram Ismark, o filho mais velho do burgomestre da vila, recentemente ferido.
 
-After successfully defending the barricades, the players learn that Strahd has personally invaded the burgomaster’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s burgomaster dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
+Lá, os PJs aprendem que a vila tem sido atacada pela horda de mortos-vivos de Strahd todas as noites, nos últimos seis dias—e que a horda deve retornar ao crepúsculo. Em troca de comida, abrigo e informações, Ismark pede aos PJs que peguem em armas ao lado dos barovianos e se preparem para defender as fortificações da aldeia contra o ataque dos mortos.
 
-The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
+Após defenderem com sucesso as barricadas, os PJs descobrem que Strahd invadiu pessoalmente a mansão do burgomestre, matando o pai de Ismark e mordendo sua irmã, Irene. Com o burgomestre da vila morto, Strahd retira formalmente a horda da vila, permitindo que Ismark, Irene e os PJs comecem a juntar os pedaços.
 
-> [!design]+ **Design Note: Arrival in Barovia**
-> The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
-# B1. Old Svalich Road
-<span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
+Na manhã seguinte, Ismark pede aos PJs que ajudem a levar os restos de seu pai para a igreja local para o sepultamento, escoltem Irene até Vallaki e perguntem à vidente Vistani Madame Eva como Strahd pode ser derrotado. Ao entregar o caixão do Burgomestre à igreja na manhã seguinte, os PJs podem encontrar Doru, o filho do Donavich, que Strahd transformou em uma cria vampírica como punição por sua rebelião. Os PJs então enfrentam uma escolha: Eles destruirão Doru, como pede o Padre Donavich—ou o pouparão?
 
-The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
+> [!design]+ **Nota de Design: Chegada em Baróvia**
+> A chegada dos PJs na vila da Baróvia foi substancialmente reformulada para criar um forte incidente incitante para a campanha, garantindo que tenham uma razão imediata e concreta para buscar a leitura de cartas Tarokka da Madame Eva, uma oportunidade de formar relacionamentos com os habitantes da Baróvia e interesses personalizados em ver Strahd derrotado.
+# B1. Velha estrada Svalich
+<span class="citation"><em>Esta cena ocorre no Capítulo 2: Área A.</em></span>
 
-This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
-# B2. Gates of Barovia
-<span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
+A jornada da [[Arco A - Fuga da Casa da Morte#A3. Fora da Casa da Morte|A torre]] até [[#B2. Portões da Baróvia]] tem três quilômetros de extensão e leva quarenta minutos.
 
-This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
+Esta cena se desenrola como descrito em <span class="citation">Velha estrada Svalich (p. 33)</span>.  
+# B2. Portões da Baróvia  
+<span class="citation"><em>Esta cena ocorre no Capítulo 2: Área B.</em></span>
 
-The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
-# B3. Svalich Woods
-<span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
+Esta cena se desenrola como descrito em <span class="citation">Portões da Baróvia (p. 34)</span>.
 
-This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+A jornada dos Portões da Baróvia até [[#B3. Floresta Svalich]] tem 400m de extensão e leva cinco minutos.  
+# B3. Floresta Svalich  
+<span class="citation"><em>Esta cena ocorre no Capítulo 2: Área C.</em></span>
 
-Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
+Esta cena começa como descrito em <span class="citation">Floresta Svalich (p. 34)</span>. No entanto, quando os PJs encontram o corpo de Dalvan Olensky, ele não está segurando um envelope amassado, e suas roupas parecem ter sido rasgadas por arbustos e espinhos, em vez de marcas de garras. Ele não aparenta ter feridas visíveis, mas um teste bem-sucedido de Sabedoria (Medicina) com CD 10 revela que ele morreu de exaustão.
 
-Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, which bears thirteen tally marks and an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
+Em vez do envelope, Dalvan agora segura uma antiga bússola de cobre manchada. Enquanto permanece próximo à borda do vale baroviano, sua agulha treme estranhamente, mesmo quando mantida parada.
 
-> [!lore]+ **What Happened to Dalvan?**
+A mão de Dalvan segurando a bússola está estendida na direção de uma árvore próxima, que possui treze marcas de contagem e uma seta que aponta mais fundo na floresta, ao longo do que parece ser um caminho bem trilhado.
+
+> [!lore]+ **O Que Aconteceu com Dalvan?**
 >
-> In the wake of Strahd's attack on the village of Barovia, one of the survivors—a young man named Dalvan Olensky—was overcome with terror and despair.
+> Na esteira do ataque de Strahd à vila da Baróvia, um dos sobreviventes—um jovem chamado Dalvan Olensky—foi dominado pelo terror e desespero.
 >
-> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Pool, seeking out the reputed Vistani seer Madam Eva. There, Madam Eva read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
+> Determinado a encontrar uma forma de escapar da Baróvia, Dalvan viajou até o acampamento Vistani em Tser Pool, buscando a renomada vidente Vistani, Madame Eva. Lá, Madame Eva leu seu futuro nas cartas Tarokka e tirou o Cavaleiro—uma carta que previu que ele morreria no vale Baroviano.
 >
-> Panicked, Dalvan returned to the village of Barovia under cover of night, stole a horse and compass, and set off for the eastern road out of Barovia. When the Svalich Road seemed to end, Dalvan delved into the woods, crossing through the mist and reemerging on the opposite side of the road.
+> Em pânico, Dalvan retornou à vila da Baróvia sob a cobertura da noite, roubou um cavalo e uma bússola, e partiu em direção à estrada oriental que levava para fora da Baróvia. Quando a Estrada Svalich parecia chegar ao fim, Dalvan se aventurou na floresta, atravessando a névoa e reaparecendo do outro lado da estrada.
 >
-> A terrified, desperate, and delirious Dalvan repeated the loop thirteen times, his stolen horse expiring from exhaustion halfway through. It wasn't long before Dalvan succumbed to the effects of the Barovian fog as well—though not before inscribing his own epitaph in the form of the carving on the fourth tree.
+> Um Dalvan aterrorizado, desesperado e delirante repetiu o ciclo treze vezes, seu cavalo roubado sucumbindo ao exaustão no meio do caminho. Não demorou muito para que Dalvan também cedesse aos efeitos da névoa Baroviana—embora não antes de inscrever seu próprio epitáfio na forma da entalhe na quarta árvore.
 >
-> Madam Eva regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
+> Madame Eva lamenta o destino de Dalvan—mas como a avatar do Buscador, ela está obrigada a ler o futuro quando solicitada, e sabe que nenhum esforço para escapar pode desfazer um futuro que ela já previu.
 
->[!info]+ **Dalvan's Compass**
->Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[Arc J - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc T - The Amber Temple]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
+>[!info]+ **Bússola de Dalvan**
+>Como todas as bússolas na Baróvia, a bússola de Dalvan se comporta de maneira estranha ao se aproximar da proximidade da borda do vale Baroviano—como perto da Colina d'Antes em [[Arco J - A gema Roubada]] ou em direção ao pico do Monte Ghakis em [[Arc T - O Templo de Âmbar]]. Como não existe um verdadeiro "norte magnético" além das Brumas que cercam a Baróvia, a agulha de uma bússola que se aproxima da borda do vale começa a tremer e eventualmente gira de forma descontrolada quanto mais perto fica. (Esse comportamento estranho termina quando a bússola é removida da borda do vale.)
 
-If the players follow the footpath in the direction of the arrow, they soon come to a second tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. The edge of the footpath here bears the corpse of a **horse**, which is in a similar state of decay to Dalvan's.
+Se os PJs seguirem o caminho na direção da seta, logo chegarão a uma segunda árvore, que possui mais treze marcas de contagem e uma seta que aponta mais adiante ao longo do caminho. A beira do caminho aqui exibe o corpo de um **cavalo**, que está em um estado de decomposição semelhante ao de Dalvan.
 
-If the players continue to follow the footpath in the direction of the arrows, they come to a third tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath, which visibly vanishes into a wall of impenetrable fog.
+Se os PJs continuarem a seguir o caminho na direção das setas, eles chegarão a uma terceira árvore, que possui mais treze marcas de contagem e uma seta que aponta mais adiante na direção do caminho, que visivelmente desaparece em uma parede de névoa impenetrável.
 
-The fog is part of the Mists that surround and entrap Barovia. If the players brought Dalvan's compass with them, the needle is now spinning wildly in circles.
+A névoa é parte das Brumas que cercam e aprisionam a Baróvia. Se os PJs trouxeram a bússola de Dalvan com eles, a agulha agora está girando descontroladamente em círculos.
 
-If the players follow the footpath through the fog, they emerge after 2d4 minutes in an unfamiliar portion of the Svalich Woods. Each time the players emerge from the wall of fog around Barovia, they must make a DC 5 Constitution saving throw or take 1 level of exhaustion, as the fog saps their energy and drains their life force. (The DC increases by 5 each time that the players pass through the fog again.)
+Se os PJs seguirem o caminho através da névoa, eles emergirão após 2d4 minutos em uma parte desconhecida da Floresta Svalich. Cada vez que os PJs emergirem da parede de névoa ao redor da Baróvia, eles devem fazer um teste salvaguarda de Constituição com CD 5 ou sofrer 1 nível de exaustão, pois a névoa drena sua energia e esgota sua força vital. (A CD aumenta em 5 cada vez que os PJs atravessam a névoa novamente.)
 
-Upon emerging from the fog, the players can see a fourth tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. In addition, the fourth tree appears to bear a carving and has an object protruding from its trunk. If the players inspect it, read:
+Ao emergir da névoa, os PJs podem ver uma quarta árvore, que possui mais treze marcas de contagem e uma seta que aponta mais adiante na direção da trilha. Além disso, a quarta árvore parece ter algo esculpido e um objeto saliente de seu tronco. Se os PJs a inspecionarem, leia:
 
 <div class="description">
-<p>Someone has stabbed an old dagger in the trunk of this old, gnarled tree. Beside it lies a rough carving of a figure atop a horse, just above two sets of rough-hewn words: </p>
-<p>"THE HORSEMAN RIDES." </p>
-<p>"THE SEER SPOKE TRUE."</p>
+<p>Alguém cravou uma velha adaga no tronco desta árvore antiga e retorcida. Ao lado, repousa uma escultura rudimentar de uma figura montada em um cavalo, logo acima de duas inscrições em palavras ásperas: </p>
+<p>"O CAVALEIRO GALOPA."</p>
+<p>"A VIDENTE FALOU VERDADE."</p>
 </div>
 
-If the players follow the footpath in the direction of the arrow, they find that it crosses the Svalich Road before returning to the location of Dalvan's corpse. 
+Se os PJs seguirem o caminho na direção da seta, descobrirão que ele cruza a Estrada Svalich antes de retornar ao local do corpo de Dalvan. 
 
-If the players then leave Dalvan's corpse and return, they find that both his and the horse's remains have vanished.
+Se os PJs então deixarem o corpo de Dalvan e eventualmente retornarem, descobrirão que tanto os restos dele quanto os do cavalo desapareceram.
 
-> [!design]+ **Design Note: Dalvan’s Fate**
-> Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
+> [!design]+ **Nota de Design: O Destino de Dalvan**
+> A tarefa de Dalvan no módulo original—colocar uma nota de aviso nos portões orientais da Baróvia—faz pouco sentido, dado que o Burgomestre Indirovich saberia que aqueles que chegam à Baróvia vindos das Brumas não podem voltar, mesmo antes de entrarem nos portões da Baróvia. Ao invés disso, o papel de Dalvan foi revisado para prenunciar uma visão profética da Madame Eva e comunicar os perigos (e mecânicas) de entrar nas Brumas.
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
-# B4. Barovian Overlook
-<span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
+> Dalvan e seu cavalo reaparecerão mais tarde como o cavaleiro esquelético descrito em <span class="citation">Cavaleiro Esquelético (p. 31)</span> em [[Ato I - Brumas Adentro/Arco C - No Vale#C5. O Cavaleiro Esquelético|Arco C - No Vale]]. O cavaleiro aparecerá novamente em [[Arco O - Jantar com o Diabo#O3b. A Orientação do Cavaleiro|Arco O - Jantar com o Diabo]], guiando os PJs sob a direção da Madame Eva até a árvore de Katarina e o colar perdido há muito tempo, que os PJs podem usar para permitir que o espírito de Varushka encontre paz em [[Arco O - Jantar com o Diabo#A Tristeza de Varushka|Arco O - Jantar com o Diabo]].
+# B4. Mirante da Baróvia
+<span class="citation"><em>Esta cena ocorre no Capítulo 2: Área D.</em></span>
 
-The players emerge from the Svalich Woods one mile and twenty minutes after departing Dalvan's corpse. When they do, read:
+Os PJs emergem da Floresta Svalich dois quilômetros — vinte minutos após deixarem o cadáver de Dalvan. Quando o fizerem, leia:
 
 <div class="description">
-<p>The dark woods fall away, revealing a misted, gloomy valley dotted with thick clouds of fog. </p>
-<p>Rolling thunderclouds cast a gray pall over the land below, no sun visible in the cold, grey light. Evergreen trees climb the sides of the mountains that enclose the valley. To the north rises a stony mount with tufts of trees; to the south, a snow-capped peak with rugged slopes towers imperiously above the land below.</p>
-<p>The muddy road continues on ahead, passing through yellowed grasses and farmland until it reaches a small, humble settlement hunkered down in the earth. Alongside the road, a river flows as clear as a blue winter sky through the valley. </p>
-<p>Far above the village looms a dark, twisted castle, standing alone atop a pillar of sheer stone. For an instant, a distant spear of lightning crackles, illuminating the towering keep in harsh lights and shadows—and then a thick bank of fog rolls in, concealing the village and castle from view.</p>
+<p>As florestas sombrias se afastam, revelando um vale enevoado e sombrio pontilhado por espessas nuvens de neblina.</p>
+<p>Nuvens de tempestade se acumulam, lançando um manto cinza sobre a terra abaixo, sem sol visível na fria luz cinzenta. Árvores perenes escalam os lados das montanhas que cercam o vale. Ao norte, ergue-se um monte pedregoso com tufos de árvores; ao sul, um pico coberto de neve com encostas íngremes se ergue imperiosamente acima da terra abaixo.</p>
+<p>A estrada lamacenta continua à frente, passando por gramíneas amareladas e terras agrícolas até alcançar uma pequena e humilde vila encolhida na terra. Ao lado da estrada, um rio flui tão claro quanto um céu azul de inverno através do vale.</p>
+<p>Acima da vila, um castelo escuro e retorcido se ergue, solitário no topo de um pilar de pedra nua. Por um instante, uma lança distante de relâmpago estala, iluminando a torre imponente em luzes e sombras com alto contraste—e então uma espessa camada de neblina se aproxima, ocultando a vila e o castelo da vista.</p>
 </div>
 
-The journey from here to the outskirts of the village is two miles long and takes forty minutes.
-# B5. The Village of Barovia
+A jornada daqui até os arredores da vila da Baróvia tem três quilômetros e leva quarenta minutos.  
+# B5. A Vila da Baróvia
 
-> [!info]+ **The Fortified Village**
-> The village of Barovia has been heavily fortified to defend against Strahd’s nightly siege. Barricades composed of logs, planks, and broken furniture have been erected at every major entrance into the settlement, with additional obstructions raised in every alleyway or gap between the villagers’ homes. A trench has been dug around the village and planted with sharp stakes, and archers patrol the rooftops at all hours of day and night.
-## B5a. The Barricade
-This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
+> [!info]+ **A Vila Fortificada**
+> A vila da Baróvia foi fortemente embarricada para se defender do cerco noturno de Strahd. Barricadas compostas por troncos, tábuas e móveis quebrados foram erguidas em todas as principais entradas do assentamento, com obstruções adicionais levantadas em cada beco ou espaço entre as casas dos aldeões. Uma trincheira foi cavada ao redor da vila e plantada com estacas afiadas, e arqueiros patrulham os telhados a todas as horas do dia e da noite.
+## B5a. A Barricada
+Esta cena se desenrola em grande parte como descrito em <span class="citation">Aproximando-se da Vila (p. 41)</span>. No entanto, modifique a descrição da seguinte forma:
 
 <div class="description">
-<p>As the morning deepens, the overcast skies brightening to a dull, gloomy grey, the outskirts of the village come into clearer view. A wide dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, wet cobblestones.</p>
-<p>Wooden barricades stand haphazardly along the streets. The structures around them bear scorch marks and gashes, and several buildings show partially collapsed roofs or walls, allowing the cold, creeping fog to drift silently inside.</p>
-<p>The tall shapes of village dwellings stand above the rest, looming out of the dense fog that clings to the earth. Figures bearing crossbows patrol the old rooftops above, while a half-dozen haunted-looking villagers make repairs to a thirty-foot barricade blocking the main street. A tall, broad-shouldered man with shoulder-length blond hair and a chiseled jaw leads the work, wearing an old longsword buckled to his hip and a set of splint armor over a collared coat. A raven with blue-tipped wings perches atop one of the rooftops nearby, watching the proceedings below with obvious interest.</p>
+<p>À medida que a manhã avança, os céus nublados se iluminam em um cinza opaco e sombrio, os arredores da vila tornam-se mais claros. Uma larga trincheira de terra circunda o assentamento, com cinco pés de largura e igualmente profundidade, com centenas de estacas de madeira afiadas cravadas como dentes irregulares na terra dentro. À frente, ao lado de uma alta pilha de madeira carbonizada, a estrada continua sobre uma ponte de madeira improvisada, o solo lamacento além dando lugar a paralelepípedos escorregadios e molhados.</p>
+<p>Barricadas de madeira estão dispostas de forma desordenada ao longo das ruas. As estruturas ao redor apresentam marcas de queimaduras e cortes, e vários edifícios mostram telhados ou paredes parcialmente desabadas, permitindo que a fria e rastejante névoa entre silenciosamente.</p>
+<p>As altas formas das habitações da vila se erguem acima do restante, emergindo da densa névoa que se agarra à terra. Figuras armadas com bestas patrulham os antigos telhados acima, enquanto uma meia dúzia de moradores com aparência assombrada faz reparos em uma barricada de dez metros bloqueando a rua principal. Um homem alto e de ombros largos, com cabelo loiro na altura dos ombros e um queixo bem definido, lidera o trabalho, vestindo uma antiga espada longa presa ao quadril e uma armadura de talas sobre um casaco com gola. Um corvo com asas de pontas azuis empoleira-se no topo de um dos telhados próximos, observando os acontecimentos abaixo com evidente interesse.</p>
 </div>
 
 ![[Ismark.png]]
-<span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+<span class="credit">"Ismark Kolyanovich" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+O homem é Ismark Kolyanovich, que é amplamente descrito em <span class="citation">E2. Taverna Sangue da Vinha (p. 43)</span>. O corvo é Muriel, um **licantropo-corvo** disfarçado e membro dos  [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Dois **scouts** armados com bestas leves (+4 para acertar, alcance 80/320 pés, um alvo, *Acerto:* 6 (1d8 + 2) de dano perfurante) chamados Kereza e Korga vigiam os telhados nas proximidades, enquanto seis **commoners** da Baróvia fazem reparos na barricada.
 
-> [!profile]+ **Profile: Ismark Kolyanovich**
+> [!profile]+ **Perfil: Ismark Kolyanovich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Ismark should inspire flattery with his genuine interest and empathy for the players, sympathy for his guilt and desperation, endearment for his anxiety to step beyond his ancestor's shadow, and gratitude for his friendliness and aid.
+> **Informações de Interpretação**
+> ***Ressonância.*** Ismark deve inspirar lisonjeio com seu genuíno interesse e empatia pelos PJs, simpatia por sua culpa e desespero, estima por sua ansiedade em sair da sombra de seus ancestrais, e gratidão por sua amizade e ajuda.
 >
-> ***Emotions.*** Ismark most often feels concerned, guilty, friendly, melancholy, defiant, hopeful, desperate, and grateful.
+> ***Emoções.*** Ismark mais frequentemente se sente preocupado, culpado, amigável, melancólico, desafiador, esperançoso, desesperado e grato.
 >
-> ***Motivations.*** Ismark wants to keep his village and Ireena safe, keep his father's memory alive, and one day match his ancestor's legacy.
+> ***Motivações.*** Ismark quer manter sua vila e Irene seguras, preservar a memória de seu pai e, um dia, igualar o legado de seus ancestrais.
 >
-> ***Inspirations.*** When playing Ismark, channel Jon Snow (*Game of Thrones*), Faramir (*Lord of the Rings*), and Trevor Belmont (*Castlevania*).
+> ***Inspirações.*** Ao interpretar Ismark, canalize Jon Snow (*Game of Thrones*), Faramir (*Senhor dos Anéis*) e Trevor Belmont (*Castlevania*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Ismark is a courageous, reliable, and compassionate leader. To those he trusts, Ismark is a self-doubting, struggling warrior desperate to keep his loved ones safe. Deep down, Ismark worries that he will never live up to his ancestor's deeds—and fears that he has already irreparably failed.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Ismark é um líder corajoso, confiável e compassivo. Para aqueles em quem confia, Ismark é um guerreiro que duvida de si mesmo, lutando desesperadamente para manter seus entes queridos seguros. No fundo, Ismark teme que nunca viverá à altura dos feitos de seus ancestrais—e teme que já tenha falhado de forma irreparável.
 >
-> ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
+> ***Moral.*** Em uma luta, Ismark primeiro buscaria mediar o conflito entre as partes, mas puxaria sua espada com prazer—e até lutaria até a morte—se acreditasse que estava lutando por algo ou alguém que valesse a pena proteger.
 >
-> ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
+> ***Relacionamentos.*** Ismark é o irmão adotivo de Irene Kolyana e o bisneto de Ismark, o Grande.
 
-As the players approach, Kereza challenges them. Read:
+À medida que os PJs se aproximam, Kereza os desafia. Leia:
 
 <div class="description">
-<p>A woman on the rooftops calls down to you: “Halt! Declare yourselves—be you dead or alive?" Her compatriot, a grim-looking man clad in leather armor, twitches toward the crossbow at his hip.</p>
+<p>Uma mulher nos telhados grita para vocês: “Parem! identifiquem-se—são vocês mortos ou vivos?" Seu companheiro, um homem de aparência sombria vestido com armadura de couro, se move em direção à besta em seu quadril.</p>
 </div>
 
-Kereza is suspicious of the players, believing them to be vampires, zombies, or ghouls in disguise. Regardless of the players’ response, Ismark intervenes, gently chiding Kereza for her paranoia and reassuring the other Barovians with good humor that the players are clearly alive, “just like us." 
+Kereza continua suspeitando dos PJs, acreditando que sejam vampiros, zumbis ou ghouls disfarçados. Independentemente da resposta dos PJs, Ismark intervém, repreendendo gentilmente Kereza por sua paranoia e tranquilizando os outros barovianos com bom humor de que os PJs estão claramente vivos, “assim como nós.” 
 
-Ismark then kindly invites the players beyond the barricade and welcomes them. He confesses, however, that he’s afraid they’ve come at a poor time, sharing that the village has been under siege by an undead horde the past several nights. 
+Ismark então convida gentilmente os PJs a atravessar a barricada e os recebe. Ele confessa, no entanto, que tem medo de que tenham chegado em um momento ruim, compartilhando que a vila tem estado sob cerco de uma horda de morto-vivos nas últimas noites. 
 
-After confirming that the barricade is nearly repaired, Ismark invites the players to join him at the Blood of the Vine Tavern at the center of town, where he has further business to attend to, and where they can speak further and share drinks. (“We have at least three hours before dusk falls," he says, squinting at the gray sky overhead. “Should give us enough time before the dead return.")
+Após confirmar que a barricada está quase reparada, Ismark convida os PJs a se juntarem a ele na taverna Sangue da Vinha, no centro da cidade, onde ele tem negócios a tratar e onde podem conversar mais e compartilhar bebidas. (“Temos pelo menos três horas antes que a penumbra caia," ele diz, apertando os olhos ao olhar para o céu cinza acima. “Deve nos dar tempo suficiente antes que os mortos retornem.")
 
-If the players agree, Muriel follows them to the town square, staying aloft in the air overhead and watching with keen interest.
+Se os PJs concordarem, Muriel os segue até a praça da cidade, pairando no ar acima e observando com grande interesse.
 
-> [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitutions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
+> [!abstract]+ **O Corvo**
+> Ismark não sabe que o corvo de asas azuis é um licantropo-corvo, e não sabe se alguém lhe deu um nome. No entanto, ele acredita que a presença do corvo é um bom presságio e pode compartilhar a superstição sobre corvos descrita em <span class="citation">Crenças e Superstições (p. 28)</span>. (Essa superstição é compartilhada por todos os barovianos, não apenas pelos Vistani.)
 
-> [!design]+ **Design Note: Entering the Village**
-> This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
+> [!design]+ **Nota de Design: Entrando na Vila**
+> Esta cena foi escrita para transmitir imediatamente a desconfiança dos aldeões, estabelecer Ismark como um aliado simpático e introduzir o **licantropo-corvo** Muriel Vinshaw e os corvos da Baróvia, antecipando assim os Guardiões da Pluma. 
 >
-> Muriel will later reappear in [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[Act I - Into the Mists/Arc C - Into the Valley#Ludmilla’s Provocations|Yester Hill]].
-## B5b. The Town Square
-As the players and Ismark pass through the village streets, read:
+> Muriel reaparecerá mais tarde em [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fugindo de um **greater strix** após espionar a reunião de Strahd com Madame Eva, e acompanhará os PJs até a cidade de Vallaki durante o restante do Arco C. Muriel também aparecerá em sua forma e persona humana em [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]]  para acompanhar os PJs em sua jornada até a vinícola Mago dos Vinhos, e revelará sua verdadeira natureza licantropo em [[Act I - Into the Mists/Arc C - Into the Valley#Ludmilla’s Provocations|Yester Hill]].
+## B5b. A Praça da Cidade
+Enquanto os PJs e Ismark passam pelas ruas da vila, leia:
 
 <div class="description">
-<p>Haggard villagers with haunted eyes watch as you pass, their clothes stained dark with mud or blood and their hands never far from a bow, axe, or pitchfork. Ismark greets each one by name. Several approach him, speaking quietly in hushed tones before fleeing once more into the groaning homes or gloomy alleyways around you.</p>
-<p>Ismark guides you through a second, larger barricade, manned by grim-faced villagers wielding clubs and spears. Beyond it stands an old, chipped stone statue standing at the center of a small town square, depicting a man wearing leather armor and holding a sword. More than a dozen makeshift tents and campfires have been set up around it, hosting a haggard-looking host of young, old, and sickly-looking villagers.</p>
+<p>Aldeões abatidos com olhos inchados observam enquanto vocês passam, suas roupas manchadas de lama ou sangue e suas mãos nunca longe de um arco, machado ou forcado. Ismark cumprimenta cada um pelo nome. Vários se aproximam dele, falando em voz baixa em tons sussurrantes antes de fugir mais uma vez para as casas gemendo ou os becos sombrios ao redor de vocês.</p>
+<p>Ismark os guia através de uma segunda barricada, maior, guarnecida por vilas de rostos sombrios empunhando porretes e lanças. Além dela, ergue-se uma velha estátua de pedra lascada no centro de uma pequena praça da vila, representando um homem vestindo armadura de couro e segurando uma espada. Mais de uma dúzia de tendas improvisadas e fogueiras foram montadas ao redor, abrigando um grupo de vilas com aparência desgastada, jovens, velhos e doentes.</p>
 </div>
 
-Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+Adicione a descrição do exterior da taverna Sangue da Vinha fornecida em <span class="citation">E2. A Taverna Sangue da Vinha (p. 43)</span>.
 
-The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
-![[Ismark the Great.png]]
-<span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-If the players ask about the statue, Ismark can share the following information:
+As tendas abrigam os idosos, doentes e crianças da vila, que foram reunidos aqui como uma fortificação de último recurso. A estátua possui uma placa desgastada pelo tempo em sua base, que diz: “ISMARK ANTONOVICH O GRANDE. Burgomestre da Baróvia. Flagelo dos Vampiros. 618—662 C.B." (“C.B." significa “Calendário Baroviano.")  
+![[Ismark the Great.png]]  
+<span class="credit">"Ismark the Great" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>  
+Se os PJs perguntarem sobre a estátua, Ismark pode compartilhar as seguintes informações:
  
-* In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
-* Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
-## B5c. The Blood of the Vine Tavern
-This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
+* Em vida, Ismark Antonovich, também conhecido como Ismark, o Grande, foi um poderoso guerreiro e o burgomestre da vila da Baróvia. Em seu auge, ele lutou contra dezenas de vampiros e outros morto-vivos deixados para trás quando Strahd desapareceu da vista pública. Ele acabou morrendo defendendo um grupo de caçadores de peles de um ataque de lobo feroz aos 44 anos, e a estátua do lado de fora foi erguida em sua homenagem. 
+* Ismark Antonovich era o bisavô de Ismark Kolyanovich. O pai de Ismark, Kolyan, deu-lhe esse nome na esperança de que um dia ele se tornasse um grande guerreiro.
+## B5c. A taverna Sangue da Vinha
+Esta área é em grande parte como descrita em <span class="citation">E2. A Taverna Sangue da Vinha (p. 43)</span>. No entanto, em vez de Alenka, Mirabel e Sorvia— as três Vistani encontradas aqui no módulo original—Arik é o único proprietário e proprietário da taverna. (Alenka, Mirabel e Sorvia não estão presentes na taverna, tendo fugido da vila para o Lago Tser no dia anterior ao início do cerco.)
 
-After entering the tavern, Ismark pays Arik to fetch them drinks. As the players sit down with him, Ismark apologizes for the state of the village and asks how they’ve come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
+Após entrar na taverna, Ismark paga a Arik para trazer bebidas. Enquanto os PJs se sentam com ele, Ismark se desculpa pelo estado da vila e pergunta como chegaram ao vale. "Vocês devem ter mil perguntas," ele diz com simpatia. "Ficarei feliz em responder quantas eu puder."
 
-Ismark can share the following information:
+Ismark pode compartilhar as seguintes informações:
 
-* The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by Strahd von Zarovich, a powerful vampire who slumbered in Castle Ravenloft until recently.
-* Outsiders are occasionally spirited into Barovia by the mists. (Ismark has no knowledge of Death House, but vaguely remembers tales of unorthodox ways by which travelers have come to the valley.) There is no escaping Barovia once an outsider has entered it.
-* Just over three months ago, a man named Doru, the son of the village priest, raised a rebellion against the castle, hoping to free the valley from its prison in the mists. Their revolt failed, awakening Strahd from his dormancy and spurring the vampire to vow vengeance upon the village below.
-* Several dozen Barovians fled to the town of Vallaki, almost a day’s travel to the west. The remainder stayed in the village, determined to defend their homes and those who were unable to make the journey.
-* Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
-* Many Barovians fear that the village is doomed. However, the undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
+* Os PJs entraram na terra da Baróvia, um reino cercado por brumas mortais e governado por Strahd von Zarovich, um poderoso vampiro que dormia entocado no Castelo Ravenloft até recentemente.
+* Estrangeiros são ocasionalmente levados para a Baróvia pelas brumas. (Ismark não tem conhecimento da Casa da Morte, mas lembra vagamente de contos sobre maneiras não ortodoxas pelas quais viajantes chegaram ao vale.) Não há como escapar da Baróvia uma vez que um estrangeiro a tenha adentrado.
+* Há pouco mais de três meses, um homem chamado Doru, filho do sacerdote da vila, levantou uma rebelião contra o castelo, esperando libertar o vale de sua prisão nas brumas. Sua revolta falhou, despertando Strahd de seu sono e levando o vampiro a prometer vingança sobre a vila abaixo.
+* Várias dezenas de barovianos fugiram para a cidade de Vallaki, quase um dia de viagem a oeste. O restante ficou na vila, determinado a defender seus lares e aqueles que não puderam fazer a jornada.
+* Seis noites atrás, as forças morto-vivas de Strahd começaram a atacar a cidade. A cada noite, os barovianos repeliam múltiplas ondas dos mortos—e a cada noite, a horda se aproxima cada vez mais de romper as defesas da vila.
+* Muitos barovianos temem que a vila esteja condenada. No entanto, os morto-vivos infestaram as florestas ao norte, oeste e sul, bloqueando a Velha estrada Svalich logo após o Rio Ivlis. Com as Brumas bloqueando a passagem para o leste, a vila foi efetivamente isolada do mundo, deixada para sobreviver por conta própria—ou perecer.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
-### Bildrath's Fury
-Shortly after Ismark begins answering the players' questions, read:
-
-<div class="description">
-<p>Something slams against a nearby table—and the sound draws your attention to a man sitting not far away, his clenched fist twitching against his table's wooden surface. He is squat, with greasy receding salt-and-pepper hair and a patched, well-worn coat. A scowl mars his face as he turns his dark eyes toward your group. "It's a fool's errand to put your faith in Ismark the <em>Lesser</em>," he rasps, eyes lingering upon each of you. "Best to seek better company, lest you wind up in the ground with the last fools that trusted him."</p>
-</div>
-
-The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
-
-If asked about Bildrath's statement about "the last fools that trusted him," Ismark winces. "He's right to hate me," he says quietly. "I asked the other villagers to stay and defend our homes. I was arrogant and foolish—I didn't appreciate just how powerful the Devil and his creatures were." He closes his eyes. "Now dozens of my friends and neighbors are gone—and I'm still here."
-
-Should one or more of the players join him, Bildrath can share the following information:
-
-* Just over three months ago, a pack of would-be "revolutionaries" marched off to Castle Ravenloft to "slay the vampire." Doru, the son of Father Donavich, the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
-* None of the revolutionaries ever came back. A few days later, a dusk-skinned elf came to the village and announced that the village had ninety days to make peace with the gods before the lord of Castle Ravenloft—now awoken after a hundred years of slumber—exacted penance for their disobedience.
-* Some villagers left. Many others wanted to leave. However, Ismark delivered a resounding speech in the village square before the statue of Ismark the Great, promising the villagers that those who remained would stand and defend their homes. "The audacity of the bastard," Bildrath sneers. "Standing in front of his great-grandfather's statue like he was worth a *tenth* of him."
-* Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parriwimple, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
-* Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them, which left Parriwimple—Bildrath's nephew—an orphan.)
-
-When he's regained his composure, Bildrath warns the players that the village is doomed, and likely all of Barovia with it. "There's no sun to bring back," he spits. "No escape from the mists. This is Hell, now and for all eternity. The sooner you lot accept that, the better off you'll be."
-### Mary's News
-As the players' conversations with [[Non-Player Characters#Ismark Kolyanovich|Ismark]] and Bildrath wind to a close, read:
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] também pode compartilhar a história recente da vila, bem como a maior parte das informações em <span class="citation">Interpretando Ismark (p. 43)</span> e <span class="citation">Tradições Barovianas (p. 26)</span>. No entanto, Ismark não menciona um "mago louco" e não sugere que os Vistani servem Strahd. (Note que o pai de Ismark, o Burgomestre Kolyan Indirovich, ainda está vivo—embora ferido—na mansão do burgomestre, e a irmã de Ismark, Irene Kolyana, ainda não foi mordida por Strahd.)
+### A Fúria de Bildrath
+Pouco depois de Ismark começar a responder às perguntas dos PJs, leia:
 
 <div class="description">
-<p>The door to the tavern swings open once more, and a woman steps through, clad in a tattered and threadbare cloak. Her hair, tied into two loops that fall around her neck, is unkempt and tangled, and her wide eyes dart across the room with fearful energy.</p>
-<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night, and Nori isn't in the stable. I think Gertruda's gone to the castle—alone."</p>
+<p>Algo se choca contra uma mesa próxima—e o som atrai sua atenção para um homem sentado não muito longe, seu punho cerrado tremendo contra a superfície de madeira da mesa. Ele é atarracado, com cabelos grisalhos e oleosos penteados para trás, e um casaco remendado e bem usado. Uma carranca marca seu rosto enquanto ele volta seus olhos escuros para o seu grupo. "É uma tolice confiar em Ismark, o <em>Menor</em>," ele resmunga, os olhos demorando-se sobre cada um de vocês. "Melhor buscar uma companhia mais digna, para não acabar enterrados com os últimos tolos que confiaram nele."</p>
 </div>
 
-The tavern immediately falls silent, and Ismark's eyes crease with worry. He gives Mary his condolences, and promises that he will organize a search party to look for her. "If she didn’t make it to the castle, we'll find her—and bring her home safely."
+O homem é Bildrath Cantemir, o proprietário de <span class="citation">O Empório de Bildrath (p. 43)</span>. Se algum dos PJs parecer interessado em conversar mais com ele, ele os convida a se sentar à sua mesa para "ouvir a verdadeira história desta terra sangrenta." "O vinho é uma porcaria," ele resmunga, empurrando uma jarra de vinho pela mesa, "mas tudo o mais também é."
 
-> [!abstract]+ **The Search Party**
-> If the players offer to assist the search party in locating Gertruda, Ismark thanks them for their generosity, but assures them that the hunters and trappers he plans to organize know the local roads and woods far better than they, and should be able to skirt alongside the edges of the undead horde without risking much trouble. "The more who accompany them, however," he says apologetically, "the more likely the horde notices their movements and attacks."
+Se perguntados sobre a declaração de Bildrath sobre "os últimos tolos que confiaram nele", Ismark estremece. "Ele tem razão em me odiar," diz ele em voz baixa. "Eu pedi aos outros moradores da vila que ficassem e defendessem nossos lares. Eu fui arrogante e tolo—não percebi quão poderosos o Diabo e suas criaturas eram." Ele fecha os olhos. "Agora, dezenas de meus amigos e vizinhos se foram—e eu ainda estou aqui."
+
+Se um ou mais PJs se juntarem a ele, Bildrath pode compartilhar as seguintes informações:
+
+* Há pouco mais de três meses, um grupo de "revolucionáriozinhos" marchou em direção ao Castelo Ravenloft para "matar o vampiro." Doru, o filho de Donavich, o sacerdote da vila, "encheu suas cabeças com contos de fadas" sobre banir as Brumas e trazer o Sol de volta à Baróvia.
+* Nenhum dos revolucionários jamais voltou. Alguns dias depois, um elfo de pele escura chegou à vila e anunciou que a vila tinha noventa dias para fazer as pazes com os deuses antes que o senhor do Castelo Ravenloft—agora despertado após cem anos de sono—exigisse penitência por sua desobediência.
+* Alguns moradores da vila partiram. Muitos outros queriam ir embora. No entanto, Ismark fez um discurso retumbante na praça da vila diante da estátua de Ismark, o Grande, prometendo aos moradores que aqueles que ficassem lutariam e defenderiam seus lares. "A audácia do bastardo," Bildrath zomba. "Ficando em frente à estátua de seu bisavô como se valesse um *décimo* dele."
+* Bildrath queria ir embora—mas sua irmã, Marta, e seu marido, Dragomir, escolheram ficar com seu filho, Caramujo, inspirados pelas palavras de Ismark. Relutante em deixar sua família, Bildrath também ficou. "Eles acharam que lutariam para defender o que é deles," ele solta, piscando para conter as lágrimas. "Malditos *idiotas* deveriam ter corrido e nunca olhado para trás."
+* Noventa dias depois que o elfo fez sua proclamação, os morto-vivos vieram, invadindo em hordas de dezenas a partir da Floresta Svalich. Os moradores da vila lutaram, defendendo as ruas com barricadas, espadas e flechas. "Mas os mortos continuavam vindo," Bildrath crocita. "E Marta—" Ele cai em silêncio. (Bildrath perdeu Marta e Dragomir nos ataques e culpa Ismark por sua falha em protegê-los, o que deixou Caramujo—o sobrinho de Bildrath—um órfão.)
+
+Quando ele recupera a compostura, Bildrath avisa os PJs de que a vila está condenada, e provavelmente toda a Baróvia com ela. "Não há sol para trazer de volta," ele cospe. "Não há escape das brumas. Este é o Inferno, agora e por toda a eternidade. Quanto mais cedo vocês aceitarem isso, melhor será para vocês."
+
+### As Novas de Maria
+Enquanto as conversas dos PJs com [[Non-Player Characters#Ismark Kolyanovich|Ismark]] e Bildrath chegam ao fim, leia:
+
+<div class="description">
+<p>A porta da taverna se abre mais uma vez, e uma mulher entra, vestida com uma capa esfarrapada e desgastada. Seu cabelo, preso em dois laços que caem ao redor de seu pescoço, está desgrenhado e emaranhado, e seus olhos grandes percorrem o ambiente com uma energia medrosa.</p>
+<p>Seu olhar se fixa em Ismark, e ela avança trêmula. À medida que seus traços se revelam à luz, vocês veem que seu rosto é pálido, seus olhos manchados, com lágrimas secas manchando a pele de suas bochechas. Sua voz é um sussurro áspero e assombroso enquanto ela diz: "Mestre Kolyanovich—peço desculpas por interrompê-lo e a seus convidados. Mas não vejo Gertruda desde a noite passada, e Nori não está no estábulo. Acho que Gertruda foi ao castelo—sozinha."</p>
+</div>
+
+A taverna imediatamente cai em silêncio, e os olhos de Ismark se contraem de preocupação. Ele oferece suas condolências a Maria e promete que organizará um grupo de busca para procurá-la. "Se ela não chegou ao castelo, nós a encontraremos—e a traremos de volta para casa em segurança."
+
+> [!abstract]+ **A Patrulha de Busca**
+> Se os PJs oferecerem ajuda à patrulha de busca para localizar Gertruda, Ismark agradece pela generosidade, mas assegura que os caçadores e armadilheiros que ele planeja organizar conhecem as estradas e florestas locais muito melhor do que vocês, e devem ser capazes de contornar as bordas da horda de morto-vivos sem arriscar muitos problemas. "Quanto mais pessoas os acompanharem, no entanto," ele diz com um tom de desculpas, "mais provável é que a horda perceba seus movimentos e ataque."
 > 
-> "If you'd like to help, however," he adds, "we can use all hands to organize tonight's defense here." Ismark then makes the request given in [[#Ismark’s Request]].
+> "Se vocês quiserem ajudar, no entanto," ele acrescenta, "podemos usar todas as mãos para organizar a defesa de hoje à noite aqui." Ismark então faz o pedido dado em [[#Pedido de Ismark]].
 
-As he does, Bildrath snarls and spits, "More empty promises, Kolyanovich?" He turns to the players, glowering. "Have you lot ever seen something so cruel?"
+Enquanto faz isso, Bildrath rosna e cospe: "Mais promessas vazias, Kolyanovich?" Ele se vira para os PJs, lançando um olhar fulminante. "Vocês já viram algo tão cruel?"
 
-After the players have had a chance to speak, Bildrath insists, "No one can survive alone on those roads. The girl's gone, Mary. I'm sorry." Mary then bursts into tears.
+Após os PJs terem a chance de falar, Bildrath insiste: "Ninguém pode sobreviver sozinho nessas estradas. A garota se foi, Maria. Sinto muito." Maria então desaba em lágrimas.
 
-Unless the players intervene, the following sequence then unfolds:
+A menos que os PJs intervenham, a seguinte sequência se desenrola:
 
-* Ismark stands up, pushing his seat away from the table. "That's enough, Master Cantemir," he growls.
-* "You going to put me in my place, Master Kolyanovich?" Bildrath sneers. "Stop lying to the woman. The girl's as good as dead. We'll all be joining her soon enough."
-* "There's always a chance," Ismark says heatedly. He swallows, and glances back at Mary, then at the players. "You might have given up on our people, Bildrath, but I haven't."
-* Bildrath eyes Ismark, his hands curling into fists. After a long, lingering moment, he spits on the floor and exits the tavern without addressing Ismark or the players. The taproom remains deathly quiet, the silence broken only by Mary's choking sobs.
+* Ismark se levanta, empurrando sua cadeira para longe da mesa. "Isso é o suficiente, Mestre Cantemir," ele rosna.
+* "Você vai me colocar em meu lugar, Mestre Kolyanovich?" Bildrath zomba. "Pare de mentir para a mulher. A garota está mais que morta. Todos nós nos juntaremos a ela em breve."
+* "Sempre há uma chance," Ismark diz com fervor. Ele engole em seco e lança um olhar para Maria, depois para os PJs. "Você pode ter desistido do nosso povo, Bildrath, mas eu não desisti."
+* Bildrath observa Ismark, suas mãos se cerrando em punhos. Após um longo e demorado momento, ele cospe no chão e sai da taverna sem se dirigir a Ismark ou aos PJs. O salão permanece mortalmente silencioso, o silêncio quebrado apenas pelos soluços sufocantes de Maria.
 
-If the players ask, Mary can share the following information:
+Se os PJs perguntarem, Mary pode compartilhar as seguintes informações:
 
-* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the castle, believing that, if she could only journey to Castle Ravenloft and speak with the Devil, she could convince him to set Doru free from whatever prison he's been thrown in.
-* Mary has repeatedly forbidden Gertruda from traveling to the castle. With the advent of the siege, however, Gertruda has become stubbornly convinced that a diplomatic solution is the only way to end the village's suffering.
-* Last night, Mary and Gertruda had a tumultuous argument that ended with both on poor terms. This morning, Mary woke to find their old horse, Nori, missing from her stall—and Gertruda nowhere to be found. (Mary believes Gertruda took Nori in an effort to outrun the zombie horde.)
+* Gertruda é sua filha de vinte e um anos. Desde que Doru, seu noivo, marchou para o Castelo Ravenloft e não retornou, Gertruda se tornou obcecada pelo castelo, acreditando que, se conseguisse viajar até o Castelo Ravenloft e falar com o Diabo, poderia convencê-lo a libertar Doru de qualquer prisão em que ele tenha sido lançado.
+* Mary repetidamente proibiu Gertruda de viajar para o castelo. Com o advento do cerco, no entanto, Gertruda se tornou teimosamente convencida de que uma solução diplomática é a única maneira de acabar com o sofrimento da vila.
+* Na noite passada, Maria e Gertruda tiveram uma discussão tumultuada que terminou com ambas em péssimos termos. Esta manhã, Mary acordou e descobriu que seu velho cavalo, Nori, estava desaparecido de seu estábulo—e Gertruda não estava em lugar algum. (Maria acredita que Gertruda levou Nori em uma tentativa de escapar da horda de zumbis.)
 
-A few moments after Bildrath has left, if the players haven't already done so, Ismark turns to comfort Mary. "I promise you," he says, his voice breaking, "That I will do *everything* I can to see that Gertruda is brought home safely."
+Poucos momentos depois que Bildrath saiu, se os PJs ainda não o fizeram, Ismark se vira para confortar Maria. "Eu prometo a você," ele diz, sua voz falhando, "que farei *tudo* que puder para garantir que Gertruda volte para casa em segurança."
 
-Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
+Uma vez acalmada, Maria enxuga os olhos, agradece a Ismark (e aos PJs, se eles a confortaram) e deixa a taverna.
 
-> [!lore]+ **Where's Gertruda?**
-> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Castle Ravenloft the morning of the players' arrival, seeking to plead for Strahd’s mercy. When she arrived at the castle, a trembling Gertruda demanded Strahd make good on his obligations as Barovia's liege-lord, providing for the safety and repairs the village so desperately needed. Impressed by her audacity, Strahd invited her to Castle Ravenloft to discuss the matter further—and she has remained there ever since.
-### Ismark’s Request
-After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
+> [!lore]+ **Onde está Gertruda?**
+> Gertruda, desesperada com o estado da vila e determinada a mostrar a mesma coragem que Doru, deixou a Baróvia em direção ao Castelo Ravenloft na manhã da chegada dos PJs, buscando implorar pela misericórdia de Strahd. Quando chegou ao castelo, uma Gertruda trêmula exigiu que Strahd cumprisse suas obrigações como senhor feudal da Baróvia, garantindo a segurança e os reparos que a vila tanto precisava. Impressionado com sua audácia, Strahd a convidou para o Castelo Ravenloft para discutir o assunto mais a fundo—e ela permaneceu lá desde então.
+### O Pedido de Ismark
+Após a partida de Maria, Ismark pede que os ajudem a defender a barricada leste da vila naquela noite. “Goste ou não, estamos todos juntos nessa," ele diz sombriamente. “Quanto mais mãos, melhor. Não sei se posso prometer moedas, mas posso prometer que isso ajudará todos nós a sobreviver à noite—vocês inclusos." Em troca da ajuda dos PJs, Ismark se alegra em oferecer-lhes abrigo e alimentação na casa de sua família. (A taverna Sangue da Vinha não tem quartos para alugar.) 
 
-If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
+Se os PJs concordarem em ajudar na defesa da cidade, Ismark fica profundamente grato. Ele pede que primeiro recuperem uma caixa de “garrafas de fogo” com sua irmã, Irene, que está supervisionando a defesa do perímetro sul da vila a partir de sua casa, <span class="citation">E4. Mansão do Burgomestre (p. 44)</span>. (Ismark, que precisa voltar para as barricadas ocidentais para se preparar para o retorno dos morto-vivos, não pode se dar ao luxo de fazer isso pessoalmente.) Se perguntado, Ismark pode explicar que uma “garrafa de fogo” é uma garrafa de vinho destilado com um pano como pavio, destinada a ser acesa e lançada contra os morto-vivos que se aproximam.
 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
 ## B5d. The Burgomaster’s Mansion
@@ -1101,4 +1101,4 @@ The second floor corridor contains three wooden doors. One leads to a bathroom w
 
 The third door, which is slightly ajar, leads to Gertruda’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing Gertruda tea when she found her daughter missing, and dropped it in horror.)
 
-Gertruda's room holds a clumsily handwoven dress and a shelf holding a dozen well-read, dog-eared books, as well as a hairbrush, a rug, and an open window.
+O quarto de Gertruda abriga um vestido tecido de maneira desleixada à mão e uma prateleira com uma dúzia de livros com sinais de muita leitura, com as páginas amassadas, além de uma escova de cabelo, um tapete e uma janela aberta.
