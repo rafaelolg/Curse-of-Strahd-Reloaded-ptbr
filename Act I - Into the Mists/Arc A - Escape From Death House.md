@@ -1,4 +1,4 @@
-*An adventure for five 2nd-level characters.*
+Uma aventura para 5 personagens de 3° nível.
 
 > [!tip]+ **A Taste of Horror**
 > The following pages contain a guide to the first two-thirds of the campaign: **Act I: Into the Mists**, **Act II: The Shadowed Town**, and **Act III: The Broken Land**. Updates providing additional content are expected to follow regularly on the /r/CurseOfStrahd subreddit. 
@@ -780,179 +780,179 @@ If the players continue down the corridor, read:
 <p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
 </div>
 
-### Stairs Down
-<span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
+### Escada Abaixo
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 30.</em></span>
 
-This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
-
-<div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
-</div>
-
-### Darklord’s Shrine
-<span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
-
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. In addition, when the players enter this room, read:
+Esta sala é em grande parte como descrita em <span class="citation">Escada Abaixo (p. 218)</span>. Quando os PJs se aproximarem desta área, leia:
 
 <div class="description">
-<p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
-<p>A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands beside him. The statue's right hand holds a smoky-gray crystal orb, and its painted gaze stares down toward you, a cold and cruel glint to its eye.</p>
-<p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
-<p>The room has exits to the west and north. Chanting can be heard coming from the north.</p>
+<p>Um conjunto escuro de degraus de pedra esculpidos desce adentra a escuridão. Agora é fica claro que a origem do canto abafado que vocês têm ouvido está em algum lugar abaixo.</p>
 </div>
 
-A player that approaches the orb can hear many voices whispering the following phrases:
+### Santuário do Senhor das Trevas
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 31.</em></span>
 
-* “His gaze burns upon us.”
-* “The Darklord’s eyes are always watching.”
+Esta sala é em grande parte como descrita em <span class="citation">Santuário do Senhor das Trevas (p. 218)</span>. Além disso, quando os PJs entrarem nesta sala, leia:
 
-Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
+<div class="description">
+<p>Esta sala está adornada com esqueletos mofados pendendo de grilhões enferrujados contra as paredes, suas bocas abertas em gritos silenciosos.</p>
+<p>Uma ampla alcova na parede sul contém uma estátua de madeira pintada esculpida com o que se assemelha a um homem magro, de rosto pálido, vestindo um volumoso manto negro, sua mão esquerda pálida repousando sobre a cabeça de um lobo que está ao seu lado. A mão direita da estátua segura uma esfera de cristal cinza fumê, e seu olhar pintado fita vocês, com um brilho frio e cruel em seus olhos.</p>
+<p>Cinco sombras cinzentas estão queimadas nas paredes, com marcas de fuligem se estendendo pelo chão em direção à estátua.</p>
+<p>A sala possui saídas para o oeste e para o norte. Cânticos podem ser ouvidos vindo do norte.</p>
+</div>
 
-If the orb is removed from its position, the ashen **shadows** upon the walls begin to stir. Each round, up to two of the shadows “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+Um PJ que se aproxima da esfera pode ouvir muitas vozes sussurrando as seguintes frases:
 
-* “Begone from this place!”
-* “Look not upon us.”
-* “Return the Darklord’s offering!”
+* “Seu olhar queima sobre nós.”
+* “Os olhos do Senhor das Trevas estão sempre nos observando.”
 
-Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+Além disso, a sombra daquele PJ começa a se contorcer e torcer, suas bordas se tornando esfarrapadas e embaçadas enquanto se agita de forma errática pelo chão. Um PJ que toca o orbe sente-se como se um “mal antigo e sombrio” de repente tivesse voltado seu olhar para ele. 
 
-The shadows gain the following additional feature:
+Se a esfera for removida de sua posição, as **sombras** cinzentas nas paredes começam a se agitar. A cada rodada, até duas das sombras "acordam", deslizando pelas paredes. Ao despertarem, elas murmuram e gemem as seguintes frases:
 
-***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
+* “Retirem-se deste lugar!”
+* “Não olhem para nós.”
+* “Devolvam a oferta do Senhor das Trevas!”
 
-> [!combat]- **Balancing the Shadows**
-> This combat encounter is a **crushing** encounter against a party of five 2nd-level players, and will consume approximately 131% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+Uma vez que todas as sombras tenham despertado, elas atacam, com cada sombra preferindo mirar em um PJs diferente. Se a esfera for devolvida ao seu lugar na estátua, as sombras retornam às suas posições originais e se tornam dormentes mais uma vez.
+
+As sombras ganham a seguinte característica adicional:
+
+***Sensibilidade à Luz.*** A sombra é imune a dano de ácido, frio, fogo, relâmpago e trovão, assim como a dano de contusão, perfuração e corte, enquanto estiver na escuridão. A sombra é resistente a esses tipos de dano enquanto estiver em luz fraca, e sofre dano por esses tipos de dano normalmente enquanto estiver em luz intensa.
+
+> [!combat]- **Equilibrando as Sombras**
+> Este encontro de combate é um encontro **esmagador** contra um grupo de cinco PJs de 2º nível, e consumirá aproximadamente 131% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:
 > 
-> * ***Three Players.*** Reduce the number of shadows to three.
-> * ***Four Players.*** Reduce the number of shadows to four.
-> * ***Six Players.*** Increase the number of shadows to six.
-### Hidden Trapdoor
-<span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
+> * ***Três PJs.*** Reduza o número de sombras para três.
+> * ***Quatro PJs.*** Reduza o número de sombras para quatro.
+> * ***Seis PJs.*** Aumente o número de sombras para seis.
+### Alçapão Oculto
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 32.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
-
-<div class="description">
-<p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
-</div>
-
-### Cult Leader’s Den
-<span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
-
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
+Esta sala é em grande parte como descrita em <span class="citation">Alçapão Oculto (p. 219)</span>. Quando os PJs encontrarem e entrarem nesta área, leia:
 
 <div class="description">
-<p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
+<p>A escada de barro termina em um patamar apertado. Dois metros acima do chão, um teto meio apodrecido de tábuas justas sustenta uma porta de alçapão de madeira fechada que leva a um andar superior. O alçapão está trancado deste lado.</p>
 </div>
 
-### Cult Leader’s Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
+### Esconderijo dos líderes cultistas
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 33.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
+Esta sala é em grande parte como descrita em <span class="citation">Esconderijo dos líderes cultistas (p. 219)</span>. No entanto, remova o **mimic** desta área. Além disso, quando os PJs entrarem nesta sala, leia:
 
 <div class="description">
-<p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
+<p>Este quarto silencioso contém uma mesa de madeira ladeada por duas cadeiras de encosto alto, segurando um jarro de barro e dois canecos. Acima da mesa, suspenso, está um candelabro de ferro fundido apagado. Castiçais de ferro estão em dois cantos da câmara, suas velas há muito derretidas. Um curto corredor na extremidade norte do quarto leva a uma câmara escura adiante.</p>
 </div>
 
-The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
+### Comodo dos Líderes do Culto
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 34.</em></span>
 
-Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
+Este cômodo é em grande parte como descrito em <span class="citation">Comodo dos Líderes do Culto (p. 219)</span>. Quando os PJs entrarem neste cômodo, leia:
 
-> [!combat]- **Balancing the Boneless**
-> This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+<div class="description">
+<p>Este quarto contém uma grande cama com estrutura de madeira, o colchão de penas apodrecido por anos de desuso. Um antigo guarda-roupa de madeira esculpido com rostos demoníacos se ergue contra a parede à esquerda, e um baú de madeira desbotado permanece discreto aos pés da cama.</p>
+<p>O quarto está impregnado com um fedor familiar de morte—mas muito mais forte, misturando-se com um odor nocivo que enche seus pulmões a cada respiração.</p>
+</div>
+
+O guarda-roupa contém várias túnicas antigas, um par de castiçais de ferro e uma caixa aberta contendo trinta tochas e um saco de couro com quinze velas dentro. Um aroma de decomposição também emana de um par de órgãos podres—um fígado meio comido e um intestino roído—escondidos sob as barras das túnicas.
+
+Dobrada dentro do baú, em cima de seus outros conteúdos, está um **boneless** (<span class="citation">Guia de Van Richten para Ravenloft, p. 231)</span> feito da pele reconhecível e despelada de Gustav Durst. Quando o baú é aberto, o **boneless** salta para atacar a criatura mais próxima.
+
+> [!combat]- **Equilibrando o Sem Osso**
+> Este encontro de combate é um **leve** encontro contra um grupo de cinco PJs de 2º nível, e consumirá aproximadamente 15% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:
 > 
-> * ***Three Players.*** Reduce the boneless’ hit points to 16. Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.
-> * ***Four Players.*** Reduce the boneless’ hit points to 21. Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.
-> * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
+> * ***Três PJs.*** Reduza os pontos de vida do sem osso para 16. Reduza seu ***ataque*** de ***pancada*** e sua ação de ***abraço esmagador*** para 3 (1d4+1) de dano cada.
+> * ***Quatro PJs.*** Reduza os pontos de vida do sem osso para 21. Reduza seu ataque de ***pancada*** e sua ação de ***abraço esmagador*** para 4 (1d4+2) de dano cada.
+> * ***Seis PJs.*** Aumente os pontos de vida do sem osso para 31. Aumente seu ataque de ***pancada*** e sua ação de ***abraço esmagador*** para 6 (1d6+3) de dano cada.
 
-No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
-## A2g. The Dungeon
-### Reliquary
-<span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
+Nenhum **ghast** ataca se um PJ remover qualquer item do baú, e não há cavidades ocultas atrás das paredes.  
+## A2g. A Masmorra  
+### Relicário  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 35.</em></span>
 
-This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
-<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed portcullis.</p>
-<p>You can finally understand the words.</p>
-<p>They say, over and over again, in a ceaseless refrain:</p>
-<p>"He is the Ancient."</p>
-<p>"He is the Land."</p>
-</div>
-
-### Prison
-<span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
-
-This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
+Esta sala é em grande parte como descrita em <span class="citation">Relicário (p. 219)</span>. Quando os PJs entrarem nesta sala, leiam:
 
 <div class="description">
-<p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
+<p>Os degraus de pedra empoeirados descem por um patamar e ao redor de uma curva até terminarem em uma fria câmara retangular. Uma fina neblina flutuante se arrasta pelo chão, e as vigas de madeira que sustentam o teto gemem sob o peso da casa e do complexo subterrâneo acima.</p>
+<p>As paredes desta sala são cortadas com pequenas alcovas talhadas, cada uma segurando um estranho e horripilante souvenir ou relíquia. Um corredor com um teto cedendo sai da câmara e se curva fora de vista à direita. Além dele, vocês podem ver uma ladeira de pedra que desce em direção a águas negras e turvas. O canto espectral que vocês ouviram desde que entraram no porão é mais forte aqui, e parece emanar do outro lado de um portão enferrujado e fechado.</p>
+<p>Vocês finalmente conseguem entender as palavras.</p>
+<p>Elas dizem, repetidamente, em um refrão incessante:</p>
+<p>"Ele é o Ancião."</p>
+<p>"Ele é a Terra."</p>
 </div>
 
-### Portcullis
-<span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
+### Prisão
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 36.</em></span>
 
-This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
+Esta sala é em grande parte como descrita em <span class="citation">Prisão (p. 219)</span>. Quando os PJs entrarem nesta sala, leia:
 
 <div class="description">
-<p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
+<p>O som de correntes tilintando se funde com um sussurro quase imperceptível enquanto vocês contornam a curva em um longo e escuro calabouço. Algemas enferrujadas pendem pacientemente das paredes, como se estivessem esperando para cravar novamente em carne de prisioneiros.</p>
 </div>
 
-The wooden wheel that opens the portcullis remains on the western side of the gate (i.e., the side facing the [[#Ritual Chamber]]). However, the chain-link mechanism to open the portcullis has broken, preventing the players from proceeding without repairing it (e.g., by using Rose’s _mending_ cantrip) or lifting the portcullis by hand. (If the players lift the portcullis by hand and then release it, its weight causes it to shut once more unless propped open.)
+### Portão de grade
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 37.</em></span>
+
+Esta área é em grande parte como descrita em <span class="citation">Portão de Grade (p. 219)</span>. Quando os PJs se aproximarem desta área, leia:
+
+<div class="description">
+<p>O chão está submerso sob 60 centímetros de água escura e turva que se agita ao redor de suas panturrilhas e botas. O túnel à frente está bloqueado por um portão de ferro enferrujado. Além de suas barras de ferro, vocês conseguem distinguir o contorno escuro de uma câmara semi-submersa, um altar de pedra elevado e uma espessa nuvem de brumas rolantes.</p>
+</div>
+
+A roda de madeira que abre o portão de ferro permanece no lado ocidental do portão (ou seja, o lado voltado para a [[#Câmara de Rituais]]). No entanto, o mecanismo de corrente que abre o portão de ferro quebrou, impedindo os PJs de prosseguir sem repará-lo (por exemplo, usando o truque _mending_ da Rose) ou levantando o portão de ferro à mão. (Se os PJs levantarem o portão de ferro à mão e depois o soltarem, seu peso faz com que ele se feche novamente, a menos que seja sustentado aberto.)
 ### Ritual Chamber
-<span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 38.</em></span>
 
-This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
+Esta sala é em grande parte como descrita em <span class="citation">Câmara de Rituais (p. 219)</span>. A água tem 60 cm de profundidade e deve ser tratada como terreno difícil para criaturas de tamanho Médio ou menores. Escalar da piscina para as bordas também conta como terreno difícil. Quando os PJs entrarem nesta sala, leia:
 
 <div class="description">
-<p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
-<p>The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.</p>
-<p>As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.</p>
+<p>As lisas paredes de alvenaria desta sala quadrada com 12 metros de lado proporcionam uma acústica excelente. Pilares de pedra sem adornos sustentam o teto, e água turva cobre a maior parte do chão. Escadas levam a degraus de pedra secos que se agarram às paredes. No meio da sala, mais escadas sobem para formar um altar octogonal que também se eleva acima da água. Correntes enferrujadas com grilhões pendem do teto diretamente acima de um altar de pedra montado no altar. O altar é esculpido com representações hediondas de ghouls e está manchado com sangue seco. Um pequeno pacote branco repousa sobre ele, cercado por tentáculos pulsantes em carne viva.</p>
+<p>Os tentáculos se estendem até uma brecha na parede oposta que leva a uma caverna escura, suas massas de carne conectam-se a uma sombra escura e imponente que se encontra adentro, sua massa inchada subindo e descendo com um ritmo lento e trêmulo.</p>
+<p>Assim que vocês pisam na câmara, o canto fantasmagórico que ouviram de repente cai em silêncio.</p>
 </div>
 
-A player that approaches the altar sees that the words "FEED HIM" are carved into its flat stone surface just below the white bundle, surrounded by several fleshy tendrils inset with human teeth. The tendrils belong to the **flesh mound** (see below), which awakens and attacks if the tendrils are damaged.
+Um PJ que se aproxima do altar vê que as palavras "ALIMENTE-O" estão esculpidas em sua superfície de pedra plana logo abaixo do pacote branco, cercado por vários tentáculos de carne incrustados com dentes humanos. Os tentáculos pertencem à **flesh mound** (veja abaixo), que desperta e ataca se os tentáculos forem danificados.
 
-The bundle atop the altar is the size and shape of an infant wrapped in swaddling clothes. If unwrapped, the players instead find it to hold a rusted, serrated dagger stained red with ancient blood.
+O fardo sobre o altar tem o tamanho e a forma de um infante envolto em panos de batismo. Se desembrulhado, os PJs descobrirão que, em vez disso, ele contém uma adaga enferrujada e serrilhada manchada de vermelho com sangue antigo.
 
-The dark shadow in the cave is a **flesh mound** containing Walter’s spirit and remains.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> It is a swollen, bloated mound of bones, flesh, and gore that seems to breathe as its mass rises and falls. A player that observes it concludes that it appears to be sleeping.
+A sombra escura na caverna é um **flesh mound** contendo o espírito e os restos de Walter.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> É um monte inchado e distendido de ossos, carne e vísceras que parece respirar enquanto sua massa sobe e desce. Um PJ que o observa conclui que parece estar dormindo.
 
-The cultists' shadows described in <span class="citation">“One Must Die!” (p. 220)</span> do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
+As sombras dos cultistas descritas em <span class="citation">“Um Precisa Morrer!” (p. 220)</span> não aparecem quando um PJ sobe no altar. Em vez disso, os PJs têm duas escolhas: sacrificar uma criatura viva no altar ou atacar o **flesh mound**.
 
-If a creature is sacrificed on the altar, the flesh mound's tendrils accept its corpse and pull it to the mound's lair. There, the mound messily devours it before returning its tendrils to the altar once more. Feeding the mound does not free the players, because its hunger cannot be sated.
+Se uma criatura for sacrificada no altar, os tentáculos do flesh mound aceitam o corpo e o puxam para o covil do monte. Lá, o monte devora a presa de forma desordenada antes de devolver seus tentáculos ao altar mais uma vez. Alimentar o monte não liberta os PJs, pois sua fome não pode ser saciada.
 
-The flesh mound awakens if attacked. When it does, its subsequent screeching wail causes the earth to tremble, sending the [[#Portcullis]] crashing to the ground if it's been opened and damaging the mechanism responsible for opening it.
+A montanha de carne desperta se atacada. Quando isso acontece, seu grito agudo subsequente faz a terra tremer, fazendo com que o [[#Portão de Grade]] desmorone no chão se estiver aberto e danificando o mecanismo responsável por abri-la.
 
-In combat, the flesh mound begins in its first form, **the flesh mound**. For one minute after it has awoken, the flesh mound’s **_heavy sleeper_** feature reduces the power of its ***multiattack*** actions in either form.
+Em combate, a flesh mound começa em sua primeira forma, **the flesh mound**. Por um minuto após ter despertado, a característica **_sono pesado_** da montanha de carne reduz o poder de suas ações de ***multiataque*** em qualquer uma das formas.
 
-A creature engulfed by the mound’s first form can hear the faint sound of a baby crying at the center of its swollen bulk.
+Uma criatura engolida pela primeira forma do monte de carne pode ouvir o suave som de um bebê chorando no centro de sua massa inchada.
 
-> [!item]+ **Elisabeth's Amber Shard**
+> [!item]+ **Fragmento Âmbar de Elisabeth**
 >
-> A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 13 Charisma (Intimidation) check, the mound must immediately use a reaction, if available, to follow the command, moving up to its speed to do so if necessary. The mound won't obey a command that is directly harmful to it, and can stop following a command at the start of its next turn.
+> Um PJ na posse do fragmento âmbar de Elisabeth do **Suíte Master** pode apresentar o fragmento como uma ação bônus enquanto estiver a até 5 metros do **monte de carne**, pronunciar o nome "Walter" e dar uma breve ordem. Se o PJ tiver sucesso em um teste de Carisma (Intimidação) com CD 13, o monte deve imediatamente usar uma reação, se disponível, para seguir a ordem, movendo-se até sua velocidade para fazê-lo, se necessário. O monte não obedecerá a uma ordem que seja diretamente prejudicial a ele e pode parar de seguir uma ordem no início de seu próximo turno.
 
-> [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> [!warning]+ **Não Use Táticas!**
+> Todos os inimigos neste guia, incluindo monstros chefes, foram exaustivamente testados e equilibrados usando o sistema de construção de encontros Challenge Ratings 2.0. Todos os principais encontros com chefes, incluindo a luta em duas fases contra o **flesh mound**, foram calibrados para consumir a maior parte ou todos os pontos de vida dos PJs, a fim de criar uma luta perigosa e emocionante.
 > 
-> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> No entanto, esses blocos de estatísticas de chefes têm pontos de vida suficientes e causam dano suficiente por rodada (DPR) para garantir que possam apresentar uma ameaça adequada sem táticas ou estratégias especiais. Na medida em que tais estratégias existam, elas foram incorporadas ao bloco de estatísticas e não requerem nenhuma estratégia adicional por parte do DM.
 > 
-> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> Assim, a menos que seus PJs tenham provado ser altamente táticos e/ou otimizados, **evite jogar esses blocos de estatísticas de chefes taticamente**—porque se você *fizer* isso, é muito provável que cause um TPK nos PJs. Em vez disso, simplesmente escolha quais ações, ações bônus, reações e alvos proporcionarão mais interesse e emoção para a rodada atual.
 
-> [!combat]- **Balancing the Flesh Mound**
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 2nd-level players and will consume approximately 28% of their total maximum hit points per phase (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Equilibrando o Monte de Carne**
+> Devido à mecânica de fase, este encontro de combate é uma série de dois encontros de combate **brutais** consecutivos contra um grupo de cinco PJs de 2º nível e consumirá aproximadamente 28% de seus pontos de vida máximos totais por fase (totalizando 56% de seus pontos de vida máximos). Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:
 > 
-> * ***Three Players.*** Reduce the mound’s hit points to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
-> * ***Four Players.*** Reduce the mound’s hit points to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
-> * ***Six Players.*** Increase the mound’s hit points to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
+> * ***Três PJs.*** Reduza os pontos de vida da montanha para 56 em cada fase. Reduza o ataque Pancada da primeira forma para 8 (2d6+1) de dano, ou 6 (2d4+1) de dano enquanto o recurso pesado dorminhoco estiver ativo. Reduza os Fragmentos de Osso para 3 (1d4+1) de dano. Reduza o Engolfar para 6 (2d4+1) de dano. Reduza o dano do ataque Tentáculo para 9 (2d6+2) de dano, ou 4 (1d4+2) enquanto o Pesado Dorminhoco estiver ativo. Reduza o dano do ataque Mordida para 7 (2d4+2). Reduza o dano do Jato de Vísceras para 5 (2d4).
+> * ***Quatro PJs.*** Reduza os pontos de vida da montanha para 75 em cada fase. Reduza o ataque Pancada da primeira forma para 11 (2d10+1) de dano, ou 8 (2d6+1) de dano enquanto o recurso pesado dorminhoco estiver ativo. Reduza os Fragmentos de Osso para 4 (1d6+1) de dano. Mude o Engolfar para 8 (2d6+1) de dano. Reduza o dano do ataque Tentáculo para 12 (2d10+1) de dano, ou 5 (1d8+1) enquanto o Pesado Dorminhoco estiver ativo. Reduza o dano do ataque Mordida para 9 (2d8+1).
+> * ***Seis PJs.*** Aumente os pontos de vida da montanha para 112 em cada fase. Aumente o ataque Pancada da primeira forma para 16 (2d12+3) de dano, ou 12 (2d8+3) de dano enquanto o recurso pesado dorminhoco estiver ativo. Aumente os Fragmentos de Osso para 6 (1d6+3) de dano. Aumente o Engolfar para 12 (2d8+3) de dano. Aumente o dano do ataque Tentáculo para 17 (4d6+3) de dano, ou 8 (2d4+3) enquanto o Pesado Dorminhoco estiver ativo. Aumente o dano do ataque Mordida para 14 (2d10+3). Aumente o dano do Jato de Vísceras para 9 (2d8).
 <div class="statblock">
-<h2>The Flesh Mound</h2>
-<em>Large undead, chaotic evil</em>
+<h2>Monte de Carne</h2>
+<em>Grande morto-vivo, caótico maligno</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe de Armadura</strong> 15 (armadura natural)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Pontos de Vida</strong> 93 (11d10 + 33)
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Velocidade</strong> 20 pés.
 <hr>
 <table class="ability-table">
   <thead>
@@ -977,37 +977,37 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion, grappled, prone<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <strong><em>heavy sleeper</em></strong> feature is active.<br>
+<strong>Imunidades a Condições</strong> cegueira, surdez, exaustão, agarrado, caído<br>
+<strong>Sentidos</strong> visão no escuro 60 pés, Percepção passiva 10<br>
+<strong>Idiomas</strong> Entende Comum, mas não consegue falar<br>
+<strong>Desafio</strong> 4, ou 3 quando seu recurso <strong><em>pesadão</em></strong> está ativo.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>slam</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two attacks. It can replace one of those attacks with <strong><em>engulf</em></strong>. If its <strong><em>heavy sleeper</em></strong> feature is active, it can't use its <strong><em>slam</em></strong> attack more than once, and it can't use <strong><em>engulf</em></strong> on the same turn it uses its <strong><em>slam</em></strong>.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
-<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<p><strong><em>Engulf.</em></strong> The flesh mound attempts to engulf a Medium or smaller creature grappled by it, forcing that creature to make a DC 13 Strength saving throw. On a failure, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Rupture.</em></strong> The flesh mound expels a pustule of rotting flesh, which hits a point within 20 feet of the mound and bursts, spraying each creature within 5 feet with caustic blood and pus. A target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the flesh mound's next turn.</p>
-<p><strong><em>Quake.</em></strong> The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.</p>
-<h3>Reactions</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Squelch.</em></strong> In response to taking damage from a melee attack, the flesh mound attempts to grapple the attacker using their <strong><em>Slam.</em></strong></p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks.</p>
+<p><strong><em>Sono Pesado.</em></strong> Se qualquer uma das formas do montículo estiver inconsciente nos últimos minutos, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez por turno.</p>
+<p><strong><em>Corpo Viscoso.</em></strong> O montículo de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado, e provoca ataques de oportunidade normalmente.)</p>
+<p><strong><em>Defesa Instintiva.</em></strong> Quando o montículo cai a 0 pontos de vida, ele expulsa cada criatura atualmente engolida por ele. (Essas criaturas aparecem caídas em um espaço vazio dentro de 2 metros do montículo.) As estatísticas do montículo são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não se transfere para sua nova forma, mas ele retém quaisquer condições que tinha em sua forma anterior.</p>
+<h3>Ações</h3>
+<p><strong><em>Múltiplo Ataque.</em></strong> O montículo de carne faz dois ataques. Ele pode substituir um desses ataques por <strong><em>engolir</em></strong>. Se seu recurso <strong><em>pesadão</em></strong> estiver ativo, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez, e não pode usar <strong><em>engolir</em></strong> no mesmo turno em que usa seu <strong><em>pancada</em></strong>.</p>
+<p><strong><em>Pancada.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 5 pés, um alvo. <em>Atingido:</em> 14 (2d10 + 3) de dano contundente, ou 10 (2d6 + 3) de dano contundente se o recurso <strong><em>pesadão</em></strong> do montículo estiver ativo. Se o ataque acerta um alvo Médio ou menor, o alvo é agarrado (DC de fuga 13).</p>
+<p><strong><em>Estilhaços de Osso.</em></strong> <em>Ataque de Arma à Distância:</em> +5 para acertar, alcance 20/60 pés, até dois alvos que estejam a até 5 pés um do outro. <em>Atingido:</em> 5 (1d4 + 3) de dano perfurante.</p>
+<p><strong><em>Engolir.</em></strong> O montículo de carne tenta engolir uma criatura Média ou menor que esteja agarrada por ele, forçando essa criatura a fazer um teste de salvaguarda de Força DC 13. Em caso de falha, o alvo engolido fica cego, restrito e incapaz de respirar, e deve ter sucesso em um teste de salvaguarda de Constituição DC 13 no início de cada um de seus turnos ou sofrer 8 (2d4 + 3) de dano contundente. Se o montículo se mover, o alvo engolido se move com ele. O montículo pode ter apenas uma criatura engolida por vez. Uma criatura engolida pode fazer um teste de salvaguarda de Força DC 13 no final de cada um de seus turnos, libertando-se em caso de sucesso. (Uma vez livre, a criatura não está mais agarrada.)</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Ruptura.</em></strong> O montículo de carne expulsa uma pústula de carne podre, que atinge um ponto dentro de 20 pés do montículo e explode, borrifando cada criatura dentro de 5 pés com sangue cáustico e pus. Um alvo deve ter sucesso em um teste de salvaguarda de Constituição DC 13 ou ficará envenenado até o início do próximo turno do montículo de carne.</p>
+<p><strong><em>Treme-Treme.</em></strong> O montículo de carne bate contra o chão, fazendo o cômodo tremer. Cada criatura dentro de 10 pés do montículo deve ter sucesso em um teste de salvaguarda de Força DC 13 ou cairá no chão.</p>
+<h3>Reações</h3>
+<p>O montículo de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
+<p><strong><em>Esguicho.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, o montículo de carne tenta agarrar o atacante usando seu <strong><em>Pancada.</em></strong></p>
+<p><strong><em>Rolamento.</em></strong> Em resposta a receber dano de um ataque à distância ou feitiço, o montículo de carne se move até sua velocidade diretamente em direção ou afastando-se do atacante sem provocar ataques de oportunidade.</p>
 </div><br>
 
 <div class="statblock">
-<h2>Walter, the Graveborn</h2>
-<em>Large undead, chaotic evil</em>
+<h2>Walter, o Nascido do Túmulo</h2>
+<em>Grande morto-vivo, maligno caótico</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe de Armadura</strong> 15 (armadura natural)
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Pontos de Vida</strong> 93 (11d10 + 33)
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Velocidade</strong> 20 pés.
 <hr>
 <table class="ability-table">
   <thead>
@@ -1032,120 +1032,120 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion, grappled, prone<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <em>heavy sleeper</em> feature is active.<br>
+<strong>Imunidades a Condições</strong> cegos, surdos, exaustão, agarrado, caído<br>
+<strong>Sentidos</strong> visão cega 60 pés, Percepção passiva 10<br>
+<strong>Idiomas</strong> Entende Comum, mas não pode falar<br>
+<strong>Desafio</strong> 4, ou 3 quando seu recurso <em>pesadão</em> está ativo.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>tentacle</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
-<p><strong><em>Mother's Lullaby.</em></strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 10 Charisma (Performance) check, the mound exposes its heart and can't use its <strong><em>withdraw</em></strong> reaction until the start of the player's next turn.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes three attacks, or two attacks if its <strong><em>heavy sleeper</em></strong> feature is active.</p>
-<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be pulled up to 15 feet toward the mound.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<p><strong><em>Wail.</em></strong> The infant corpse of Walter Durst releases a piercing shriek. Each creature that can hear the shriek within 30 feet of the mound must succeed on a DC 10 Constitution saving throw or take 2 (1d4) psychic damage and be deafened until the end of the mound's next turn. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<h3>Reaction</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Withdraw.</em></strong> In response to an attack or harmful spell hitting or missing its heart, the mound withdraws its heart into its body, concealing it from view and protecting it from attacks.</p>
-<p><strong><em>Lash Out.</em></strong> In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. The attacker must succeed on a DC 13 Dexterity saving throw or be pushed 10 feet away. If the attacker fails the saving throw by 5 or more, they also fall prone.</p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
+<p><strong><em>Sono Pesado.</em></strong> Se qualquer uma das formas do montículo estiver inconsciente nos últimos minutos, ele não pode usar seu ataque <strong><em>tentáculo</em></strong> mais de uma vez por turno.</p>
+<p><strong><em>Corpo Viscoso.</em></strong> O montículo de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado, e provoca ataques de oportunidade normalmente.)</p>
+<p><strong><em>Coração Inocente.</em></strong> O centro do montículo oculta seu "coração": uma grande e deformada caixa torácica. Dentro da caixa torácica paira o cadáver infantil de Walter Durst. O cadáver de Walter tem CA 15 e os mesmos valores de habilidade que o montículo de carne. Cada vez que o cadáver de Walter recebe dano, o montículo de carne recebe o dobro de dano.</p>
+<p><strong><em>Canção de Ninar da Mãe.</em></strong> Se um PJ usar sua ação para cantarolar ou tocar <em>Valsa para Klara</em> e tiver sucesso em um teste de Carisma (Performance) CD 10, o montículo expõe seu coração e não pode usar sua reação <strong><em>retirada</em></strong> até o início do próximo turno do PJ.
+<h3>Ações</h3>
+<p><strong><em>Múltiplo Ataque.</em></strong> O montículo de carne faz três ataques, ou dois ataques se seu recurso <strong><em>pesadão</em></strong> estiver ativo.</p>
+<p><strong><em>Tentáculo.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 15 pés, um alvo. <em>Atingir:</em> 14 (2d10 + 3) de dano contundente, ou 7 (1d8 + 3) de dano contundente se o recurso <strong><em>pesadão</em></strong> do montículo estiver ativo. Se o alvo for uma criatura, ela deve ter sucesso em um teste de salvaguarda de Força CD 13 ou ser puxada até 15 pés em direção ao montículo.</p>
+<p><strong><em>Mordida.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 5 pés, um alvo. <em>Atingir:</em> 10 (2d6 + 3) de dano perfurante.</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Jato de Vísceras.</em></strong> O montículo jorra sangue e vísceras em um cone de 15 pés. Cada criatura nessa área deve fazer um teste de salvaguarda de Destreza CD 13. Em caso de falha, uma criatura recebe 7 (2d6) de dano necrótico e fica cega até o final do próximo turno do montículo. Em caso de sucesso, uma criatura recebe metade do dano e não fica cega. Usar essa habilidade expõe o coração do montículo, permitindo que ele seja atacado.</p>
+<p><strong><em>Uivo.</em></strong> O cadáver infantil de Walter Durst emite um grito penetrante. Cada criatura que pode ouvir o grito dentro de 30 pés do montículo deve ter sucesso em um teste de salvaguarda de Constituição CD 10 ou sofrer 2 (1d4) de dano psíquico e ficar surda até o final do próximo turno do montículo. Usar essa habilidade expõe o coração do montículo, permitindo que ele seja atacado.</p>
+<h3>Reação</h3>
+<p>O montículo de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
+<p><strong><em>Retirada.</em></strong> Em resposta a um ataque ou feitiço prejudicial que acerte ou erre seu coração, o montículo retira seu coração para dentro de seu corpo, ocultando-o da vista e protegendo-o de ataques.</p>
+<p><strong><em>Atacar.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, o montículo ataca o agressor com um tentáculo. O agressor deve ter sucesso em um teste de salvaguarda de Destreza CD 13 ou ser empurrado 10 pés para longe. Se o agressor falhar no teste de salvaguarda por 5 ou mais, ele também cai no chão.</p>
+<p><strong><em>Rolamento.</em></strong> Em resposta a receber dano de um ataque à distância ou feitiço, o montículo se move até sua velocidade diretamente em direção ou para longe do agressor sem provocar ataques de oportunidade. Se ele se mover em direção ao agressor, pode então imediatamente tentar empurrá-lo.</p>
 </div>
 
 
-## A2h. Escape From Death House
-When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
+## A2h. Fuga da Casa da Morte
+Quando o **monte de carne** morre, os PJs podem ouvir o som da porta da frente da casa se abrindo bem acima, e a distante tempestade além.
 
-When the players next begin to move toward the exit, read:
+Quando os PJs começarem a se mover em direção à saída, leia:
 
 <div class="description">
-<p>A guttural moan ripples through the air—and a terrifying apparition manifests before you: the spirit of Elisabeth Durst, her once-beautiful features now grotesquely distorted. Her lustrous hair is a wild, disheveled mess, her skin a deathly pallor, and her lips peeling back to reveal sharp, yellowed teeth. An amber shard glows ominously on a cord around her spectral neck, a shadowed wisp swirling within its depths.</p>
-<p>The spirit levitates high above the floor, sunken eyes blazing with malice and mouth twisted into a snarl. "You may have evaded my pet," it rasps, "but I will tear this house apart before I let you escape." It throws its head back and lets loose a blood-curdling scream that reverberates across the stone walls—and sets the very foundations of the house trembling.</p>
-<p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laughter as the house rumbles, shifts, and groans.</p>
+<p>Um gemido gutural reverbera pelo ar—e uma aparição aterradora se manifesta diante de vocês: o espírito de Elisabeth Durst, seus traços outrora belos agora grotescamente distorcidos. Seu cabelo lustroso é um emaranhado selvagem e desgrenhado, sua pele tem um tom pálido de morte, e seus lábios se retraem para revelar dentes afiados e amarelados. Um fragmento âmbar brilha agourentamente em um cordão ao redor de seu pescoço espectral, uma névoa sombria girando em suas profundezas.</p>
+<p>O espírito levita alto acima do chão, olhos fundos ardendo com malícia e boca torcida em um rosnado. "Vocês podem ter evitado meu animal de estimação," ela sussurra, "mas eu destruirei esta casa antes que eu deixe vocês escaparem." Ela joga a cabeça para trás e solta um grito ensurdecedor que reverbera pelas paredes de pedra—e faz os próprios alicerces da casa tremerem.</p>
+<p>Bem acima, o relógio de pêndulo começa a badalar, o som crescendo em uma cacofonia estrondosa. Poeira e detritos caem enquanto o chão treme sob vocês, as vigas de madeira do teto começando a estalar e rachar. O espírito de Elisabeth fixa vocês com um sorriso feroz—e então se dissipa no ar, deixando apenas ecos de sua risada maliciosa enquanto a casa ruí, desliza e geme.</p>
 </div>
 
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
+Os PJs devem fugir da câmara ritual para a [[#Entrada]] da Casa da Morte antes que toda a estrutura desabe sobre suas cabeças. No entanto, eles não precisam rolar iniciativa, e as mudanças arquitetônicas descritas em <span class="citation">O Culto é Frustrado (p. 220)</span> não estão presentes. 
 
-Instead, as the players escape the crumbling Death House, they face two additional obstacles.
+Em vez disso, enquanto os PJs escapam da desmoronante Casa da Morte, eles enfrentam dois obstáculos adicionais.
 
-***Gustav's Ghost.*** As the players move to exit the [[#Reliquary]], the ghost of Gustav Durst (use the statistics of a **poltergeist**, but without its ***invisibility*** feature) confronts them. Read:
+***O Fantasma de Gustav.*** À medida que os PJs se movem para sair do [[#Reliquary]], o fantasma de Gustav Durst (use as estatísticas de um **poltergeist**, mas sem o recurso de ***invisibilidade***) os confronta. Leia:
 
 <div class="description">
-<p>An ethereal apparition appears before you, obstructing the stairs—the ghost of a man. He is a gaunt and pale figure, with sunken, haunted eyes and trembling hands, wearing once-fine clothing now tattered with age.</p>
-<p>"Please," the spirit says, tears beading at the corners of his eyes. "You have to stay here and die. She won't accept anything else."</p>
+<p>Uma aparição etérea aparece diante de vocês, obstruindo as escadas—o fantasma de um homem. Ele é uma figura magra e pálida, com olhos fundos e assombrados e mãos trêmulas, vestindo roupas que um dia foram finas, agora esfarrapadas pelo tempo.</p>
+<p>"Por favor," diz o espírito, com lágrimas se formando nos cantos de seus olhos. "Vocês têm que ficar aqui e morrer. Ela não aceitará nada além disso."</p>
 </div>
 
-The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
+O espírito é reconhecível como Gustav Durst. Gustav implora aos PJs que desistam, insistindo que o espírito de Elisabeth é simplesmente poderoso demais—muito temível—para ser desobedecido. Um teste de Sabedoria (Intuição) com CD 10 revela que Gustav está aterrorizado por Elisabeth—e consumido por culpa, dúvida e auto-ódio.
 
-If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+Se os PJs tentarem contornar ou atacar Gustav, um enxame de detritos e estilhaços levitando surge ao seu redor. Ele implora aos PJs novamente, insistindo que não quer lutar contra eles, mas que não sabe se tem outra escolha.
 
-> [!combat]- **Balancing the Poltergeist**
-> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Equilibrando o Poltergeist**
+> Este encontro de combate é um **encontro brutal** contra um grupo de cinco PJs de 2º nível, e consumirá aproximadamente 28% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:
 > 
-> * ***Three Players.*** Reduce Gustav’s hit points to 13. Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.
-> * ***Four Players.*** Reduce Gustav’s hit points to 18. Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.
-> * ***Six Players.*** Increase Gustav’s hit points to 26. Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.
+> * ***Três PJs.*** Reduza os pontos de vida de Gustav para 13. Reduza seu ataque de ***pancada de força*** para 6 (3d4-1) de dano de força e o ataque da ação de ***impulso telecinético*** para 3 (1d6) de dano contundente.
+> * ***Quatro PJs.*** Reduza os pontos de vida de Gustav para 18. Reduza seu ataque de ***pancada de força*** para 8 (3d4+1) de ***dano de força*** e o ataque da ação de impulso telecinético para 4 (1d8) de dano contundente.
+> * ***Seis PJs.*** Aumente os pontos de vida de Gustav para 26. Aumente seu ataque de ***pancada de força*** para 12 (3d6+2) de dano de força e o ataque da ação de impulso telecinético para 6 (1d12) de dano contundente.
 
-The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
+Os PJs podem convencer Gustav a se afastar com um teste de Carisma (Intimidação) bem-sucedido de CD 20. Alternativamente, se os PJs mencionarem a história de Gustav com Elisabeth e Klara, eles podem convencê-lo a se afastar com um teste de Carisma (Persuasão) de CD 10, tendo sucesso automaticamente se demonstrarem empatia ou bondade ou se pedirem aos espíritos de Rose e Thorn que os ajudem em seu apelo.
 
-If the players successfully persuade Gustav to stand aside, he warns them that "her other servants" are lying in wait ahead to block the players' escape. "Don't fear them," he says. "Their only power is fear." He then vanishes.
+Se os PJs conseguirem persuadir Gustav a se afastar, ele os avisa que "outros servos dela" estão à espreita à frente para bloquear a fuga dos PJs. "Não os temam," ele diz. "Seu único poder é o medo." Ele então desaparece.
 
-***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the hidden trapdoor described in **32. Hidden Trapdoor**, p. 219) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
+***O Retorno do Culto*** Quando os PJs chegarem pela primeira vez às [[#Criptas da Família]] ou (se já tiverem encontrado e aberto a passagem secreta descrita em **32. Alçapão Oculto**, p. 219) perto do [[#Santuário do Senhor das Trevas]], os espíritos do culto se levantam para detê-los. Leia:
 
 <div class="description">
-<p>The chanting rises once more as thirteen dark apparitions appear around you, obstructing the way forward—as well as the way back. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids. "He is the Ancient!" they chant, over and over. "He is the Land!"</p>
+<p>O canto se eleva mais uma vez enquanto treze aparições sombrias aparecem ao redor de vocês, obstruindo o caminho à frente—assim como o caminho de volta. Cada uma delas se assemelha a uma figura vestida de negro segurando uma tocha, mas o fogo da tocha é negro e parece absorver a luz. Onde vocês esperariam ver rostos, há vazios. "Ele é o Ancião!" eles cantam, repetidamente. "Ele é a Terra!"</p>
 </div>
 
-The apparitions are harmless and intangible figments that can't be damaged, turned, or dispelled. At the end of each round, each player that remains between the apparitions must succeed on a DC 10 Dexterity saving throw or take 2 (1d4) bludgeoning damage from falling debris.
+As aparições são fragmentos intangíveis e inofensivos que não podem ser danificados, repelidos ou dissipados. No final de cada rodada, cada PJ que permanecer entre as aparições deve ter sucesso em um teste de salvaguarda de Destreza CD 10 ou sofrer 2 (1d4) de dano por contusão devido a detritos que caem.
 
   
-> [!combat]- **Balancing the Escape** 
-> This encounter is designed to be a threat for a party of five 2nd-level players. For parties of much smaller sizes, modify the encounter as follows: 
-> * ***Three Players.***  Reduce the damage per round to 1 bludgeoning.
+> [!combat]- **Equilibrando a Fuga**  
+> Este encontro é projetado para ser uma ameaça para um grupo de cinco PJs de 2º nível. Para grupos de tamanhos muito menores, modifique o encontro da seguinte forma:  
+> * ***Três PJs.***  Reduza o dano por rodada para 1 de contusão.
 
 
-# A3. Outside Death House
-When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
+# A3. Fora da Casa da Morte
+Quando os PJs saem da Casa da Morte, a tempestade acima diminuiu para uma mera garoa, e as brumas ao redor da casa desapareceram. A noite já caiu há muito tempo, e a lua minguante está alta no céu.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">Old Svalich Road (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
+Surpreendentemente, os PJs agora se encontram em uma clareira escura na floresta, no início da <span class="citation">Velha estrada Svalich (p. 33)</span>, em vez de estarem nas ruas de Daggerford. A estrada segue para o oeste. A leste, estendem-se florestas escuras e intermináveis, repletas das <span class="citation">Brumas de Ravenloft (p. 23)</span>.
 
-The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
+A casa então desmorona na terra, deixando para trás um fosso escuro e sem fundo. Se os PJs ainda o tiverem, o fragmento de âmbar de Elisabeth Durst então se desintegra em pó. O buraco desaparece na primeira vez que os PJs deixam a clareira.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
+Se eles ainda estiverem possuindo os PJs, os espíritos de [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] e [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] encerram suas possessões. As crianças comentam que a floresta se assemelha à Floresta Svalich, que uma vez cercou seu lar—Baróvia. No entanto, as crianças acrescentam que essas florestas em particular são desconhecidas para elas, e que parecem estar longe da vila original de sua família.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+Enquanto os PJs exploram os arredores, podem rapidamente avistar o topo de uma antiga e arruinada torre de pedra se destacando entre as copas das árvores. A arquitetura da torre é como descrita em <span class="citation">Will-o'-Wisp (p. 33)</span>, mas o interior não é um solo profanado, não há um baú de madeira no chão, e não há **zombies** ou **will-o'-wisps** dentro ou ao redor da torre.
 
-The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
+Os PJs podem facilmente deduzir que esta ruína parece ser um lugar seguro para passar a noite. Rose e Thorn se oferecem para servir como sentinelas enquanto os PJs descansam, vigiando a floresta e despertando os PJs caso alguma ameaça surja.
 
-The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
+A noite passa sem incidentes. Quando os PJs acordam na manhã seguinte, Rose e Thorn pedem aos PJs se podem enterrar seus restos mortais antes de prosseguir, para que possam finalmente descansar. (Os espíritos das crianças não irão mais adiante na Baróvia, em vez disso, implorando para que os PJs lhes permitam descansar.) Se os PJs enterram seus restos mortais aqui, os espíritos das crianças os agradecem antes de desaparecer.
 
-The players can find the beginning of the Old Svalich Road a short ways through the woods away from the tower. [[Act I - Into the Mists/Arc B - Welcome to Barovia]] then begins.
+Os PJs podem encontrar o início da Velha estrada Svalich a uma curta distância pela floresta, longe da torre. [[Ato I - Brumas Adentro/Arco B - Bem-vindos à Baróvia]] então começa.
 
-**_Milestone_**. Escaping Death House completes a story milestone. When the party begins their first long rest after escaping the house, award each player 400 XP. (This should allow the players to advance to 3rd level.)
-# Design Notes: Death House
-***The Arrival.*** The illusory Rose and Thorn have been intentionally removed from this version of Death House in order to ensure that the players enter the house of their own volition and trust the real Durst children upon meeting them.
+**_Marco_**. Escapar da Casa da Morte completa um marco da história. Quando o grupo começar seu primeiro descanso longo após escapar da casa, conceda a cada PJ 400 XP. (Isso deve permitir que os PJs avancem para o 3º nível.)
+# Notas de Design: Casa da Morte
+***A Chegada.*** A ilusão de Rose e Thorn foram intencionalmente removidas desta versão da Casa da Morte para garantir que os jogadores entrem na casa por sua própria vontade e confiem nas verdadeiras crianças Durst ao encontrá-las.
 
-The countdown and poem have been added to provide the players with a clear sense of direction and purpose while exploring the house, and to prevent the players from taking a long rest (and therefore disrupting the balance of subsequent combat encounters) while doing so.
+A contagem regressiva e o poema foram adicionados para fornecer aos jogadores um claro senso de direção e propósito enquanto exploram a casa, e para evitar que os PJs façam um descanso longo (e, portanto, desbalanceiem os encontros de combate subsequentes).
 
-***The First Floor.*** The feast in the dining room has been made intentionally harmless in order to encourage the players to trust the safety of Strahd's dinner invitation when they later receive it. Additional clues have been added to convey to the players the relationships within the Durst family, including Mr. Durst's affair.
+***O Primeiro Andar.*** O banquete na sala de jantar foi feito intencionalmente inofensivo para encorajar os jogadores a confiarem na segurança do convite para o jantar de Strahd quando o receberem mais tarde. Pistas adicionais foram adicionadas para transmitir aos jogadores os relacionamentos dentro da família Durst, incluindo o caso do Sr. Durst.
 
-***The Second Floor.*** Clues have been added to ease the discovery of the library's secret room and to convey the depth of Mr. Durst's affair, as well as the nursemaid's pregnancy.
+***O Segundo Andar.*** Pistas foram adicionadas para facilitar a descoberta da sala secreta da biblioteca e para transmitir a profundidade do caso do Sr. Durst, assim como a gravidez da ama.
 
-The dog Lancelot, a popular community character, has been intentionally cut from Death House to avoid providing the players with an easy sacrifice to make at the altar in the ritual chamber—a sacrifice that is no longer functional (because the cult no longer releases the players upon making a sacrifice) and which rings hollow when compared to the campaign that follows it (because Strahd's "hunger" cannot be sated.)
+O cachorro Lancelot, um personagem popular da comunidade, foi intencionalmente cortado da Casa da Morte para evitar fornecer aos PJs um sacrifício fácil a ser feito no altar na câmara ritual—um sacrifício que não é mais funcional (porque o culto não libera mais os PJs ao fazer um sacrifício) e que soa vazio quando comparado à campanha que se segue (porque a "fome" de Strahd não pode ser saciada).
 
-***The Third Floor.*** The nursemaid's specter now serves as a vital tool that allows the players to find the attic staircase without undue frustration or delay. Additional clues have been added to convey the fate of Walter, Mr. Durst, and the nursemaid.
+***O Terceiro Andar.*** O espectro da ama agora serve como uma ferramenta vital que permite aos PJs encontrarem a escada do sótão sem frustração ou demora excessiva. Pistas adicionais foram adicionadas para transmitir o destino de Walter, Sr. Durst e da ama.
 
-***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
+***O Sótão.*** Pistas foram adicionadas para transmitir o destino da ama e a fundação do culto da Sra. Durst.
 
-***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
+***A Masmorra.*** Vários dos encontros nesta área foram alterados para reduzir a probabilidade de um TPK e ensinar os jogadores a agirem com cautela e tomar decisões sábias. Na câmara ritual, o culto não está mais disposto a aceitar o sacrifício de um animal(por exemplo, Lancelot), prenunciando que Strahd não ficará satisfeito apenas com Irene. O **shambling mound** foi substituído por um **monte de carne** em duas etapas, cujas estatísticas foram calibradas para proporcionar uma luta desafiadora sem arriscar um TPK.
 
-***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
+***Fuga da Casa da Morte.*** A sequência original de "fuga da Casa da Morte" foi substituída por um par de encontros sociais que recompensam os jogadores por investigarem a história da casa, e que servem para prenunciar as caracterizações de Sergi von Zarovich, Lady Fiona Wachter e as noivas e servos de Strahd na aventura que está por vir.
 
-The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
+A adição frequente de um desafio de habilidade para escapar da casa foi removida para garantir uma transição suave e simples da morte do monte de carne até a saída dos PJs da casa, a fim de eliminar qualquer atrito com os PJs que possam ter dificuldades em aprender as mecânicas de um novo sistema de jogo no calor do momento, e para preservar a imersão dos PJs na narrativa da fuga, em vez de em sua jogabilidade.
 
-This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many. 
+Este guia intencionalmente deixou de lado uma adição popular da comunidade que coloca uma garrafa de vinho—cortesia de Strahd—na saída da casa ou nas proximidades. Strahd não é onisciente, e os esforços dos PJs para evitar ou frustrar seus espiões provarão ser um aspecto recorrente do jogo ao longo da aventura. Além disso, a Casa da Morte está longe demais da Baróvia propriamente dita para que Strahd tenha conseguido obter e entregar uma garrafa de vinho fresco em seu local. Um vilão é tão evocativo quanto suas limitações, e Strahd possui muitas. 
 
-Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the River Ivlis Crossroads, which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.
+Finalmente, é uma escolha de design intencional deste guia que os PJs não encontrem Strahd diretamente até seu encontro na Encruzilhada do Rio Ivlis, o que garante que o relacionamento deles com Strahd antes disso seja construído unicamente sobre rumores, conhecimento de segunda mão e superstição. Uma exposição direta anterior estragaria completamente esse efeito.
