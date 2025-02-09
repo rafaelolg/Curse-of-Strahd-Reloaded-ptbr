@@ -237,173 +237,173 @@ Após a partida de Maria, Ismark pede que os ajudem a defender a barricada leste
 
 Se os PJs concordarem em ajudar na defesa da cidade, Ismark fica profundamente grato. Ele pede que primeiro recuperem uma caixa de “garrafas de fogo” com sua irmã, Irene, que está supervisionando a defesa do perímetro sul da vila a partir de sua casa, <span class="citation">E4. Mansão do Burgomestre (p. 44)</span>. (Ismark, que precisa voltar para as barricadas ocidentais para se preparar para o retorno dos morto-vivos, não pode se dar ao luxo de fazer isso pessoalmente.) Se perguntado, Ismark pode explicar que uma “garrafa de fogo” é uma garrafa de vinho destilado com um pano como pavio, destinada a ser acesa e lançada contra os morto-vivos que se aproximam.
 
-Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
-## B5d. The Burgomaster’s Mansion
-This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
-### The Angry Mob
-When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
+Uma vez que os PJs conseguiram obter a caixa de garragas e tenham a oportunidade de descansar na casa, Ismark lhes diz que devem levar as garrafas às barricadas no lado leste. - o lugar pelo qual eles entraram na vila -  onde eles vão poder se alojar pela noite.
+## B5d. A mansão do Burgomestre
+Esta área é amplamente descrita em <span class="citation">Mansão do Burgomestre (p. 44)</span>. No entanto, O Burgomestre Kolyan Indirovich não foi morto e Irene ainda não foi mordida.
+### Turba enfurecida
+Quando os PJs chegarem eles encontram uma turba de dez **commoners**  se formou na frente da mansão. Adicione o seguinte a descrição dessa área.
 
 <div class="description">
-<p>A small mob of villagers have gathered outside of the manor, brandishing pitchforks, brooms, and axes. A plain, tired-looking woman stands at their front, her wavy brown hair tied back with a wrinkled white bandana.</p>
-<p>"Give her up, Kolyan!" she calls out. “Your defenses have held the Devil at bay, but they haven’t ended his scourge. It’s time to take matters into our own hands."</p>
-<p>An older man dressed in fine clothes, his thinning gray hair receding across his scalp, leans heavily on a cane in the door. Heavy, bloodstained bandages wrap around his stomach, forehead, and left knee. Beside him stands a young woman with long, red hair and a steel breastplate over a long-sleeved gray tunic, her face ashen and tense. A rapier hangs in a sheath at her side, her right hand hovering over its glinting hilt.</p>
-<p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
+<p>Uma pequena multidão de aldeões se amontoa do lado de fora da mansão, brandindo forquilhas e machados. Uma mulher simplória de aparência cansada está de pé na frente, seu cabelos castanhos encaracolado preso atrás com um lenço branco amarrotado.</p>
+<p>Um homem mais velho, trajando finas vestes, cabelos finos apoia-se pesadamente em uma bengala na porta. Pesadas bandagens manchadas de sangue enroladas em seu torço, nuca  e joelho esquerdo. Ao seu lado está uma jovem mulher com longos cabelos vermelhos e uma armadura de peito de aço sobre uma túnica cinza de mangas longas. Sua face é tensa e pálida. Uma rapier pendurada em uma bainha ao seu flanco. Sua mão direita deslizando sobre a empunhadura brilhante.</p>
+<p>Va para casa, Alenka - diz o o homem. "O e o restante também. Pois enquanto eu for o Burgomestre, eu não vou permitir esta loucura. </p>
+
+
+A mulher de cabelos castanhos é Alenka Konstantinova, uma **commoner** da Baróvia de meia-idade. O homem mais velho é o Burgomestre Kolyan Indirovich, um **veteran** com quatro níveis de exaustão. A jovem de cabelos vermelhos é Irene Kolyana, que é em grande parte como descrita em <span class="citation">Interpretando Irene (p. 45)</span>.
+
+> [!profile]+ **Perfil: Irene Kolyana**
+>
+> **Informações de Interpretação**
+> ***Ressonância.*** Irene deve inspirar  lisonjeio com seu genuíno interesse nos objetivos e interesses dos PJs, simpatia por seu senso de culpa e medo de Strahd, carinho por sua determinação em continuar avançando e gratidão por seus esforços para ajudar os PJs a terem sucesso.
+>
+> ***Emoções.*** Irene frequentemente se sente curiosa, pensativa, melancólica, culpada, teimosa, alegre, determinada, desafiadora e ansiosa.
+>
+> ***Motivações.*** Irene quer manter seus compatriotas barovianos e Ismark seguros, honrar a memória de seus pais, aprender novas histórias e, um dia, explorar terras distantes.
+>
+> ***Inspirações.*** Ao interpretar Irene, canalize Belle (*A Bela e a Fera*), Elizabeth Swann (*Piratas do Caribe*), Eowyn (*O Senhor dos Anéis*), Hermione Granger (*Harry Potter*) e Katniss Everdeen (*Jogos Vorazes*).
+>
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Irene é uma jovem nobre compassiva, curiosa, mas teimosa. Para aqueles em quem confia, Irene é uma jovem ansiosa, mas determinada, que sonha com liberdade e aventura. No fundo, Irene se pergunta se se entregar a Strahd seria a melhor maneira de proteger aqueles que ama.
+>
+> ***Moral.*** Em uma luta, Irene sempre recorrerá às palavras antes da espada. Se necessário para se defender, no entanto, ela puxará seu rapier—relutantemente, se estiver se protegendo, e orgulhosamente, se estiver protegendo outro.
+>
+> ***Relacionamentos.*** Irene é a irmã adotiva (sabendo) de Ismark Kolyanovich, a irmã (sem saber) de Izek Strazni e a segunda (sem saber) reencarnação de Tatyana Federovna.
+
+> [!profile]+ **Perfil: Burgomestre Kolyan Indirovich**
+> **Informações de Interpretação**
+> ***Ressonância.*** Kolyan deve inspirar conforto com seu calor sua confiabilidade, carinho e simpatia por sua teimosia diante de sua deficiência, e lisonjeio com seu genuíno interesse na história e habilidades dos PJs.
+>
+> ***Emoções.*** Kolyan frequentemente se sente curioso, pensativo, ansioso, teimoso, alegre e sombrio.
+>
+> ***Motivações.*** Kolyan quer manter seu povo e filhos seguros.
+>
+> ***Inspirações.*** Ao interpretar Kolyan, canalize Jean-Luc Picard (*Star Trek*), Greg Universe (*Steven Universe*) e Atticus Finch (*O Sol é Para Todos*).
+>
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Kolyan é um líder forte, de vontade firme, mas compassivo. Para sua família, Kolyan é um pai solidário e alegre, totalmente dedicado a seus filhos.
+>
+> ***Moral.*** Em uma luta, Kolyan tentaria negociar uma paz—mas manteria uma mão em sua lâmina, se necessário, para se defender ou proteger seus vizinhos.
+>
+> ***Relacionamentos.*** Kolyan é o burgomestre da vila da Baróvia, o pai biológico de Ismark Kolyanovich, o pai adotivo de Irene Kolyana, e o neto de Ismark, o Grande.
+
+> [!lore]+ **O Luto de Alenka**
+> Alenka é a irmã de Anton Konstantinovich, um homem Baróviano casado com Dezdrelda Konstaninova. Duas noites atrás, Anton e Dezdrelda desapareceram misteriosamente no meio da noite durante o cerco; seus corpos nunca foram encontrados. O desaparecimento levou Alenka a um luto profundo e à paranoia, e a deu uma necessidade desesperada de buscar um fim para o cerco a qualquer custo.
+>
+> Sem que Alenka soubesse, Anton e Dezdrelda são prisioneiros de Volenta Popofsky, uma das noivas vampíricas de Strahd, no Castelo Ravenloft. Os PJs encontrarão Anton mais tarde como um servo mascarado em [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
+
+Impulsionados pela desespero diante dos ataques de Strahd à vila, Alenka e a multidão acreditam que um sacrifício ou oferenda é necessário para apaziguar o vampiro e acalmar sua fúria. A seguinte conversa se desenrola se os PJs não intervirem:
+
+* Alenka informa Kolyan, com um olhar pétreo, que um sacrifício ao vampiro não é loucura, mas “senso comum.” “Lendas dizem que o Diabo Strahd gosta de se alimentar de mulheres de cabelos ruivos,” ela lhe diz. “Se o sangue dela pode conquistar seu favor, como podemos agir de outra forma?”
+* Kolyan responde que Alenka é uma “tola” se acredita que entregar Irene—ou qualquer outra pessoa—vai apaziguar o Diabo do Castelo Ravenloft. “Vocês estão buscando respostas em um mundo que não tem nada a oferecer,” ele brada. “E nós somos Barovianos. Não viramos as costas para os nossos.”
+* Alenka retruca que Irene não é uma verdadeira Baroviana—afinal, Kolyan a encontrou vagando pelas florestas perto do monólito de ravenloft quando era criança. (Irene e Kolyan já estão cientes disso e não demonstram surpresa com essa afirmação.) “Ela não é uma de nós,” Alenka diz de forma cortante, “e se você vai escolhê-la em vez de nós, você também não é.”
+* Dois dos companheiros de Alenka se aproximam da mansão, brandindo suas armas. Kolyan ofega, “Como você se atreve,” avança e quase desaba devido aos seus ferimentos. Irene o segura antes que ele caia e ordena à multidão que não “toque um dedo em seu pai.” 
+
+Se os PJs ainda estiverem presentes e não tiverem intervenido, Irene implora por sua ajuda enquanto a multidão de Alenka avança.
+
+Se os PJs intervirem, Alenka, Kolyan e Ireena os recebem com estranheza e surpresa, embora Alenka esteja suspeitando que eles possam ser espiões do "Diabo Strahd." (Se o nome de Ismark for mencionado, Irene e Kolyan ficam mais seguros, embora Alenka cuspa no chão e murmure em voz baixa uma maldição contra "Ismark, o Menor.")
+
+Os PJs podem dispersar a multidão fazendo uma argumentação razoável e obtendo sucesso em um teste de Carisma (Persuasão) com CD 10, realizado com vantagem se os PJs perguntarem sobre os membros da família desaparecidos de Alenka e demonstrarem simpatia por ela. Os PJs também podem dispersar a multidão brandindo suas armas ou magia e obtendo sucesso em um teste de Carisma (Intimidação) com CD 10, realizado com vantagem se mencionarem suas batalhas recentes na Casa da Morte.
+
+Se os PJs parecerem prontos para atacar a multidão sem provocação, Kolyan implora para que evitem a violência. “Eles estão confusos," ele diz com a voz rouca, “mas são barovianos, mesmo assim."
+
+Se os PJs falharem em dispersar a multidão, mas se recusarem a permitir que Irene seja levada, Alenka ordena que eles se retirem. Se eles se recusarem, ela direciona a multidão para deixá-los inconscientes antes de levar Irene.
+
+Se o combate eclodir, Ireena se junta aos PJs na defesa da mansão enquanto Kolyan implora para que os combatentes evitem matar alguém. Se dois dos Barovianos forem derrubados inconscientes, ou se um for morto, os demais fogem.
+
+> [!info]+ **Dano Não Letal**
+> A morte indiscriminada dos comuns da Baróvia alienará os habitantes da vila e os membros da família de Ismark. PJs que desejam evitar matar os Barovianos podem incapacitar seus oponentes conforme descrito em <span class="citation">Derrubando uma Criatura (p. 198)</span>. Se os PJs optarem por não fazer isso, permita que os membros inconscientes da multidão façam testes de salvaguarda de morte conforme descrito em <span class="citation">Monstros e Morte (p. 198)</span>. 
+
+Se os PJs conseguirem dispersar a multidão, Kolyan e Irene os convidam para a mansão com gratidão.
+
+> [!design]- **Nota de Design: A Multidão**
+> Esta cena foi adicionada para comunicar as origens de Irene aos PJs, prenunciar o interesse de Strahd nela, oferecer uma pergunta dramática enquanto os PJs visitam a mansão, e conquistar o afeto de Irene e Kolyan pelos PJs antes da chegada de Strahd durante o cerco mais tarde naquela noite.
+### Dentro da Mansão
+Esta área é em grande parte como descrita em <span class="citation">E4. Mansão do Burgomestre (p. 44)</span>. No entanto, remova a última frase na descrição desta área (referindo-se ao corpo de Kolyan).
+
+Se os PJs ajudaram a dispersar a multidão, Kolyan e Irene os recebem calorosamente, especialmente se mencionarem o nome de Ismark. Independentemente de os PJs mencionarem que Ismark lhes concedeu abrigo e alimentação na mansão, Kolyan os convida a ficar para o almoço em gratidão pela ajuda em lidar com Alenka.  
+#### Almoço com o Burgomestre  
+O almoço, que já está cozinhando em uma panela sobre o fogo da cozinha, é um ensopado de nabo e carne de coelho. Irene se desculpa pela refeição escassa, mas os PJs podem ver claramente que a despensa da família está quase vazia.
+
+Durante a refeição, Kolyan e Irene perguntam aos PJs sobre seus interesses e vidas fora da Baróvia. Irene, especialmente, está fascinada por contos do mundo além das brumas. 
+
+Se os PJs estão procurando comprar suprimentos adicionais, Irene oferece a eles direções para o Empório de Bildrath, mas os avisa para não mencionarem o nome de Ismark. Se os PJs perguntarem a ela por que Ismark é chamado de "o Menor", Irene e Kolyan fazem uma careta e podem compartilhar as seguintes informações: 
+
+* Quando o servo elfo do crepúsculo de Strahd—um homem de aparência cruel chamado Rahadin—entregou seu aviso há três meses, muitos barovianos estavam prontos para fugir da vila em direção a Vallaki.
+* Ismark, no entanto, fez um discurso estrondoso e inspirador, invocando a memória de Lugdana e Ismark, o Grande, para encorajá-los a ficar e lutar por suas casas. A maioria o fez.
+* Quando o cerco de Strahd começou, muitos que perderam lares ou entes queridos culparam Ismark, que sentiam ter os levado a um caminho errado com suas fantasias tolas de heroísmo e valor. Agora o chamam de "Ismark, o Menor" em zombaria de sua ancestralidade.
+* Ninguém se sente mais culpado ou envergonhado do que o próprio Ismark, que carregou o peso de cada morte ocorrida durante o cerco em seus próprios ombros.
+
+Se os PJs perguntarem sobre a rebelião de Doru, Irene pode compartilhar as seguintes informações:
+
+* Doru era um amigo deles e o filho do sarcedote da vila, Donavich. Ele era um jovem brilhante e alegre, com uma disposição solar e um zelo por tudo que fazia.
+* Há pouco mais de três meses, sem aviso, Doru anunciou uma cruzada contra o Castelo Ravenloft, que ele proclamou que libertaria a Baróvia das brumas e traria a luz do sol de volta ao vale. Mais de duas dúzias de jovens barovianos o acompanharam, assim como um erudito de terras distantes chamado Alanik Ray, que havia estado como hóspede na casa de Ismark e Irene nas semanas anteriores, enquanto estudava a história e a ecologia da Baróvia.
+* Irene não se lembra muito sobre Alanik, além de que ele era um homem curioso e um tanto intenso que se mantinha reservado, fazia longas caminhadas na Floresta Svalich e possuía um macaco de estimação. No entanto, ela se lembra que ele teve uma discussão furiosa com Doru em um determinado momento, o que a confundiu quando ele acompanhou Doru ao Castelo Ravenloft logo depois.
+
+#### O Dilema de Kolyan
+Durante o almoço, Kolyan convida os PJs a ajudá-lo a deliberar sobre um dilema que ele tem tentado resolver, observando que acharia útil ter “uma perspectiva externa” sobre o assunto. Se os PJs concordarem em fazê-lo, leia:
+
+<div class="description">
+<p>O burgomestre acena em direção a uma folha de pergaminho que repousa sobre uma mesa de escrita. Em sua superfície, vocês conseguem distinguir um desenho rudimentar da área ao redor da vila, com linhas finas representando a Velha estrada Svalich e o Rio Ivlis a sudoeste, e formas mais escuras representando a Floresta Svalich ao norte, oeste e sul.</p>
+<p>"Cada noite," ele resmunga, “dezenas de mortos-vivos cercam nossas defesas, matando alguns e ferindo muitos mais. Em vez de atacar todos de uma vez, no entanto, eles chegam em grupos, com cada onda atingindo nossas defesas separadamente, e quase aleatoriamente ao longo da noite. O que vocês acham disso?"</p>
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
-
-> [!profile]+ **Profile: Ireena Kolyana**
->
-> **Roleplaying Information**
-> ***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
->
-> ***Emotions.*** Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
->
-> ***Motivations.*** Ireena wants to keep her fellow Barovians and Ismark safe, honor her parents' memory, learn new stories, and one day explore distant lands.
->
-> ***Inspirations.*** When playing Ireena, channel Belle (*Beauty and the Beast*), Elizabeth Swann (*Pirates of the Caribbean*), Eowyn (*Lord of the Rings*), Hermione Granger (*Harry Potter*), and Katniss Everdeen (*The Hunger Games*).
->
-> **Character Information**
-> ***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
->
-> ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
->
-> ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the second (unknowing) reincarnation of Tatyana Federovna.
-
-> [!profile]+ **Profile: Burgomaster Kolyan Indirovich**
-> **Roleplaying Information**
-> ***Resonance.*** Kolyan should inspire comfort with his warmth and reassurances, endearment and sympathy for his stubbornness in the face of his disability, and flattery with his genuine interest in the players’ history and skills.
->
-> ***Emotions.*** Kolyan most often feels curious, thoughtful, eager, stubborn, cheerful, and grim.
->
-> ***Motivations.*** Kolyan wants to keep his people and children safe.
->
-> ***Inspirations.*** When playing Kolyan, channel Jean-Luc Picard (*Star Trek*), Greg Universe (*Steven Universe*), and Atticus Finch (*To Kill a Mockingbird*).
->
-> **Character Information**
-> ***Persona.*** To the world, Kolyan is a steely, strong-willed, yet compassionate leader. To his family, Kolyan is a supportive and cheerful father wholly dedicated to his children.
->
-> ***Morale.*** In a fight, Kolyan would attempt to negotiate a peace—but keep one hand on his blade if necessary to defend himself or his neighbors.
->
-> ***Relationships.*** Kolyan is the burgomaster of the village of Baroviah, the biological father of Ismark Kolyanovich, the adoptive father of Ireena Kolyana, and the grandson of Ismark the Great.
-
-> [!lore]+ **Alenka’s Grief**
-> Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
->
-> Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of Volenta Popofsky, one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
-
-Driven to desperation by Strahd’s attacks on the village, Alenka and the mob believe that a sacrifice or offering is needed to appease the vampire and soothe his rage. The following conversation unfolds if the players don’t intervene:
-
-* Alenka stonily informs Kolyan that a sacrifice to the vampire isn’t madness, but “common sense." “Legends say the Devil Strahd enjoys preying upon red-haired women," she tells him. “If her blood might win his favor, how can we do otherwise?"
-* Kolyan replies that Alenka is a “fool" if she believes surrendering Ireena—or anyone else—will appease the Devil of Castle Ravenloft. “You are grasping for answers in a world that has none to offer," he thunders. “And we are Barovians. We do not turn on our own."
-* Alenka retorts that Ireena isn’t a true Barovian—after all, Kolyan found her wandering the woods near the Pillarstone of Ravenloft as a child. (Ireena and Kolyan are already aware of this, and show no surprise at this statement.) “She’s not one of us," Alenka says sharply, “and if you’re going to choose her over us, neither are you." 
-* Two of Alenka’s compatriots step closer to the mansion, brandishing their weapons. Kolyan gasps, “How dare you," steps forward, and nearly crumples from his wounds. Ireena catches him before he falls and commands the mob not to “lay a finger on her father." 
-
-If the players are still present and haven’t yet intervened, Ireena pleads for their help as Alenka’s mob advances.
-
-If the players intervene, Alenka, Kolyan, and Ireena receive them with unfamiliarity and surprise, though Alenka is suspicious that they may be spies for “the Devil Strahd." (If Ismark’s name is mentioned, Ireena and Kolyan are reassured, though Alenka spits on the ground and quietly cursed “Ismark the Lesser" under her breath.)
-
-The players can disperse the mob by making a reasonable argument and succeeding on a DC 10 Charisma (Persuasion) check, made with advantage if the players inquire into Alenka’s missing family members and show her sympathy. The players can also disperse the mob by brandishing their weapons or magic and succeeding on a DC 10 Charisma (Intimidation) check, made with advantage if they mention their recent battles in Death House.
-
-If the players appear ready to attack the mob unprovoked, Kolyan pleads for them to avoid violence. “They’re confused," he says hoarsely, “but they’re Barovians, all the same."
-
-If the players fail to disperse the mob but refuse to allow Ireena to be taken, Alenka commands them to stand down. If they refuse, she directs the mob to knock them unconscious before taking Ireena.
-
-If combat breaks out, Ireena joins the players in defending the mansion while Kolyan pleads for the combatants to avoid killing anyone. If two of the Barovians are knocked unconscious, or if one is killed, the remainder flee.
-
-> [!info]+ **Nonlethal Damage**
-> Wanton death to the Barovian commoners will alienate the villagers and the members of Ismark’s family. Players who wish to avoid killing the Barovians can incapacitate their opponents as described in <span class="citation">Knocking a Creature Out (p. 198)</span>. If players choose not to do so, allow unconscious members of the mob to make death saving throws as described in <span class="citation">Monsters and Death (p. 198)</span>. 
-
-If the players successfully disperse the mob, Kolyan and Ireena invite them into the manor with gratitude.
-
-> [!design]- **Design Note: The Mob**
-> This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
-### Within the Mansion
-This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
-
-If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
-#### Lunch with the Burgomaster
-Lunch, which is already stewing in a pot over the kitchen hearth, is a stew of turnips and rabbit meat. Ireena apologizes for the sparse meal, but the players can clearly see that the family’s pantry is nearly bare.
-
-During the meal, Kolyan and Ireena ask the players about their interests and lives outside of Barovia. Ireena especially is fascinated by tales of the world beyond the mists. 
-
-If the players are looking to purchase additional supplies, Ireena offers them directions to Bildrath’s Mercantile, but warns them not to mention Ismark's name. If the players ask her why Ismark is called "the Lesser," Ireena and Kolyan wince, and can share the following information:
-
-* When Strahd's dusk elf servant—a cruel-looking man named Rahadin—delivered his warning three months ago, many Barovians were prepared to flee the village for Vallaki.
-* Ismark, however, delivered a thundering and inspiring speech, invoking the memory of Lugdana and Ismark the Great to encourage them to stay and fight for their homes. Most did so.
-* When Strahd's siege began, many who lost homes or loved ones blamed Ismark, who they felt had led them astray with his foolish fantasies of heroism and valor. They now call him "Ismark the Lesser" in mockery of his ancestry.
-* No one feels more guilty or ashamed than Ismark himself, who has taken the weight of every death incurred in the siege on his own shoulders.
-
-If the players ask about Doru's rebellion, Ireena can share the following information:
-
-* Doru was a friend of theirs, and the son of the village priest Father Donavich. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
-* Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology. 
-* Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Castle Ravenloft shortly thereafter.
-#### Kolyan’s Dilemma
-During lunch, Kolyan invites the players to help him deliberate on a dilemma he’s been trying to solve, noting that he would find it useful to have “an outside perspective" on the matter. If the players agree to do so, read:
+Após os PJs discutirem e responderem à pergunta de Kolyan, leia:
 
 <div class="description">
-<p>The burgomaster nods toward a sheet of parchment lying across a writing desk. On its surface, you can make out a crude drawing of the area around the village, with thin lines depicting the Old Svalich Road and the Ivlis River to the southwest, and darker shapes depicting the Svalich Wood to the north, west, and south.</p>
-<p>"Each night," he rumbles, “dozens of undead lay siege to our defenses, killing some and wounding many more. Instead of attacking all at once, however, they arrive in groups, with each wave striking our defenses separately, and almost randomly throughout the night. What do you make of that?"</p>
+<p>Kolyan acena com a cabeça. “Interessante. Mais uma coisa: Embora dezenas de mortos ataquem a vila a cada noite, nossos batedores relataram que centenas mais espreitam nas florestas ao nosso redor—talvez até  um milhar. Se eles atacassem todos de uma vez, certamente seríamos sobrepujados—e, no entanto, aparentemente pela graça do Senhor da manhã, eles não o fizeram. Por quê?</p>
 </div>
 
-After the players have discussed and answered Kolyan’s question, read:
+Se os PJs fornecerem uma resposta adequadamente impressionante ou perspicaz, Kolyan pergunta se eles pretendem viajar para os outros assentamentos além da Baróvia, se conseguirem sobreviver à noite—nomeadamente, Vallaki e Krezk a oeste. Se os PJs expressarem interesse em fazê-lo, Kolyan busca uma pena e tinta em sua mesa de escrita e se oferece para redigir uma carta de apresentação assinada. Quando concluída, a carta diz o seguinte:
 
 <div class="description">
-<p>Kolyan nods. “Interesting. One more thing: Although dozens of the dead attack the village each night, our scouts have reported that hundreds more lurk in the woods around us—perhaps as many as a thousand. If they attacked all at once, we would surely be overrun—and yet, seemingly by the grace of the Morninglord, they have not. Why?</p>
-</div>
-
-If the players provide a suitably impressive or insightful answer, Kolyan asks if they intend to travel to the other settlements beyond Barovia if they survive the night—namely, Vallaki and Krezk to the west. If the players express an interest in doing so, Kolyan fetches a quill and ink from his writing desk and offers to draft them a signed letter of introduction. When completed, the letter reads as follows:
-
-<div class="description">
-<p>To whom it may concern,</p>
-<p>I humbly ask that you provide the bearer of this letter with what aid you can. Trust in their purpose, assist in their endeavors, and offer shelter and counsel if you are able. Please extend to them every courtesy you would afford a friend of mine.</p>
-<p>With utmost respect,</p>
+<p>A quem possa interessar,</p>
+<p>Eu humildemente peço que vocês forneçam ao portador desta carta toda a ajuda que puderem. Confiem em seu propósito, assistam em seus esforços e ofereçam abrigo e conselhos, se forem capazes. Por favor, estendam a eles toda a cortesia que vocês dariam a um amigo meu.</p>
+<p>Com o máximo respeito,</p>
 <p>Kolyan Indirovich<br>
-Burgomaster of Barovia</p>
+Burgomestre da Vila da Baróvia</p>
 </div>
 
-The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
+A carta está selada com o selo de cera do burgomestre da Baróvia: uma espada longa diante de um sol nascente. Kolyan concede que não pode prometer que a carta será obedecida, observando que se passaram “anos” desde que ele viajou para qualquer um dos outros assentamentos no vale. No entanto, ele jura que ela deve, ao menos, “abrir os ouvidos” daqueles que eles podem desejar abordar, como o Barão Vargas Vallakovich e a Senhora Fiona Wachter de Vallaki, ou o Burgomestre Dmitri Krezkov de Krezk.
 
-> [!item]+ **Letter of Introduction**
-> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
-#### Rooms at the Mansion
-If the players mention Ismark's offer to provide them with rooms, Ireena shows them to the mansion’s two guest bedrooms and provides them with basic supplies. "I can't say how much sleep you'll be able to get, or when," she says apologetically, her own eyes bearing dark circles beneath them. "But if nothing else, they should provide a quiet place to rest."
+> [!item]+ **Carta de Apresentação**
+> PJs que apresentarem a carta de apresentação de Kolyan ao Barão Vargas Vallakovich, à Senhora Fiona Wachter de Vallaki, ou ao Burgomestre Dmitri Krezkov de Krezk dentro dos primeiros dez minutos de encontro com eles, ou seus servos ou membros da família, têm vantagem em qualquer teste de Carisma (Persuasão) realizado dentro desses dez minutos, desde que seja possível que o teste tenha sucesso.
+#### Quartos na Mansão
+Se os PJs mencionarem a oferta de Ismark para fornecer quartos, Irene os leva aos dois quartos de hóspedes da mansão e lhes fornece suprimentos básicos. "Não posso dizer quanto sono vocês conseguirão ter, ou quando," ela diz, pedindo desculpas, seus próprios olhos carregando olheiras escuras. "Mas, na pior das hipóteses, eles devem proporcionar um lugar tranquilo para descansar."
 
-If the players ask about her parents, Ireena freely shares the following information while asking after the players' own families:
+Se os PJs perguntarem sobre seus pais, Irene compartilha livremente as seguintes informações enquanto pergunta sobre as próprias famílias dos PJs:
 
-* Ismark and Ireena's mother was Korina Targolova. Korina died of a sickness fourteen years ago, but Kolyan has done his best since then to continue raising both children alone. (The scarf Ireena wears is her last memory of her mother.)
-* Kolyan, their father, was the one who found Ireena when she was a young girl, by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
+* Ismark e a mãe de Ireena eram Korina Targolova. Korina morreu de uma doença há quatorze anos, mas Kolyan fez o seu melhor desde então para continuar criando os dois filhos sozinho. (O cachecol que Ireena usa é sua última lembrança de sua mãe.)
+* Kolyan, o pai deles, foi quem encontrou Irene quando ela era uma jovem, à beira da Floresta Svalich, perto do Monólito de Ravenloft. Irene não se lembra de nada de seu passado antes disso, mas é grata aos seus pais por tê-la acolhido e amarem-na profundamente.
 
-As the players explore their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by Dr. Rudolph van Richten sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
+Enquanto os PJs exploram seus quartos, um deles encontra um trecho rasgado de *Guia de Van Richten para Vampiros* do Dr. Rudolph van Richten repousando em uma mesa de cabeceira ao lado da cama. Este trecho do prefácio, que Van Richten rasgou do livro de Doru no meio de uma discussão furiosa, diz o seguinte:
 
 <div class="description">
-<p>In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.</p>
-<p>Their bodies are resilient to mundane weapons, shrugging off blows that would fell most mortals and regenerating even grievous wounds in a matter of moments. They move with unnatural grace, their senses sharply attuned to the whispers of the night. But it is in their supernatural abilities that their true horror lies. They can bend the will of others to their own, ensnaring friend and foe with but a gaze and a whisper. They can shift form with the ease of thought, becoming bats, wolves, or even a sinister mist that creeps beneath doorways and through cracks. And those their fangs kill become vampire spawn—ravenous creatures with a vampire's hunger for blood.</p>
-<p>These creatures are not wholly invincible, however, possessing a tapestry of strengths woven with fatal weaknesses. Sunlight and running water can end their cursed existence, and wooden stakes through the heart will paralyze them as they sleep. They recoil from the sight of certain holy symbols, and cannot enter a residence without an invitation. They bear neither shadow nor reflection, and must return to their coffins, crypts, or graves to rest by day.</p>
-<p>It is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will—a sign that the monster within is held at bay, if only while the vampire allows.</p>
-<p>To create a new vampire, a vampire must fully drain the blood of its victim without killing it—a torturous and careful process that can often take multiple nights. For some vampires, this process is a practical means of creating fresh and powerful thralls; for others, it presents a sadistic opportunity to slowly break their victim's will. Some vampires in the latter camp may even appear as an intermittent predator in the night, haunting their target over days or weeks before finally ending their suffering.</p>
+<p>Em alguns cantos sombrios do mundo, o vampiro reina como um predador temível. Além da mera sede de sangue, essas criaturas estão amaldiçoadas com uma gama de habilidades e fraquezas que as tornam tão enigmáticas quanto aterrorizantes.</p>
+<p>Seus corpos são resilientes a armas mundanas, ignorando golpes que derrubariam a maioria dos mortais e regenerando até feridas graves em questão de momentos. Eles se movem com uma graça sobrenatural, seus sentidos aguçados são sintonizados com os sussurros da noite. Mas é em suas habilidades sobrenaturais em que reside seu verdadeiro horror. Eles podem dobrar a vontade dos outros à sua própria, aprisionando amigos e inimigos com apenas um olhar e um sussurro. Podem mudar de forma com a facilidade de um pensamento, tornando-se morcegos, lobos ou até mesmo uma névoa sinistra que se arrasta sob portas e através de fendas. E aqueles que suas presas matam se tornam crias vampíricas—criaturas vorazes com a fome de um vampiro por sangue.</p>
+<p>Essas criaturas não são totalmente invencíveis, no entanto, possuindo uma trama de forças entrelaçadas com fraquezas fatais. A luz do sol e a água corrente podem acabar com sua existência amaldiçoada, e estacas de madeira no coração os paralisarão enquanto dormem. Eles se afastam à vista de certos símbolos sagrados e não podem entrar em uma residência sem um convite. Não possuem sombra nem reflexo, e devem retornar a seus caixões, criptas ou tumbas para descansar durante o dia.</p>
+<p>Dizem que a sede de sangue dessas criaturas é um fogo inextinguível que arde dentro de seus corações de morto-vivo. Os jovens e recém-transformados são escravos desse desejo, frequentemente se perdendo em uma fúria ao mero cheiro de sangue. Mas aqueles que caminharam pela noite por séculos, assim como aqueles com foco e vontade indomáveis, podem aprender a temperar esse fogo. Aqueles que o fazem possuem a rara habilidade de ocultar sua natureza monstruosa, retraindo e expondo suas presas à vontade—um sinal de que o monstro interior está contido, se apenas enquanto o vampiro permitir.</p>
+<p>Para criar um novo vampiro, um vampiro deve drenar completamente o sangue de sua vítima sem matá-la—um processo torturante e cuidadoso que pode muitas vezes levar várias noites. Para alguns vampiros, esse processo é um meio prático de criar servos frescos e poderosos; para outros, apresenta uma oportunidade sadista de quebrar lentamente a vontade de sua vítima. Alguns vampiros deste último grupo podem até aparecer como um predador intermitente na noite, assombrando seu alvo por dias ou semanas antes de finalmente acabar com seu sofrimento.</p>
 </div>
 
-Kolyan and Ireena don't recognize the excerpt, but Ireena recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
+Kolyan e Irene não reconhecem o trecho, mas Irene se lembra que Doru possuía uma cópia de *Van Richten's Guide to Vampires*, a qual ele adorava. Nenhum deles tem certeza de como esse trecho foi parar em seu quarto de hóspedes.
 
-When the players are ready to depart, Ireena retrieves a wooden crate containing twelve *fire bottles* (see below) from a closet, with each bottle packed securely between wads of straw.
+Quando os PJs estão prontos para partir, Irene retira uma caixa de madeira contendo doze *garrafas de fogo* (veja abaixo) de um armário, com cada garrafa embalada com segurança entre fardos de palha.
 
-> [!item]+ **Fire Bottle**
-> This bottle of Purple Grapemash No. 3, which bears the stamp of the Wizard of Wines winery, has been distilled, increasing its alcohol content, and had its cork removed and replaced with a rag wick. 
+> [!item]+ **Garrafa de Fogo**
+> Esta garrafa de Purple Grapemash No. 3, que ostenta o selo da vinícola Mago dos Vinhos, foi destilada, aumentando seu teor alcoólico, e teve sua rolha removida e substituída por um pavio de pano. 
 > 
-> As an action, a creature can use a lit torch or other fire source to light the wick, then throw the bottle up to 20 feet, shattering on impact. Make a ranged attack against a creature or object, treating the bottle as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. 
+> Como uma ação, uma criatura pode usar uma tocha acesa ou outra fonte de fogo para acender o pavio, e então lançar a garrafa a até 20 pés, estilhaçando-a ao impacto. Faça um ataque à distância contra uma criatura ou objeto, tratando a garrafa como uma arma improvisada. Ao acertar, o alvo sofre 1d4 de dano por fogo no início de cada um de seus turnos. 
 > 
-> A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+> Uma criatura pode acabar com esse dano usando sua ação para fazer um teste de Destreza CD 10 para apagar as chamas.
 
-> [!abstract]+ **Visiting the Church**
-> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
-## B5e. Bildrath’s Mercantile
-<span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
+> [!abstract]+ **Visitando a Igreja**
+> PJs que insistirem em visitar <span class="citation">E5. Igreja (p. 45)</span> a encontrarão em grande parte como descrita em [[#B5i. A Igreja Baroviana]] abaixo. No entanto, Caramujo não está na igreja neste momento, e Donavich não menciona o destino de Doru sem a presença de Irene ou Ismark.
+## B5e. Mercantil de Bildrath
+<span class="citation"><em>Esta cena ocorre no Capítulo 3: Área E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Se os PJs escolherem visitá-la antes de prosseguir para [[#B5f. A Barricada Oriental]], esta área é em grande parte como descrita em <span class="citation">O Mercantil de Bildrath (p. 43)</span>. No entanto, em vez de vender itens por dez vezes o preço listado no _Manual do Jogador_, Bildrath os vende por apenas o dobro do preço, citando a recente agitação econômica. 
 
-If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
+Se algum PJs foi gentil com ele na taverna, ele, em vez disso, vende itens para esses PJs pelo preço normal listado no *Player's Handbook*—um negócio especial, apenas para eles. Se algum PJs defendeu Ismark na taverna, Bildrath os fulmina com o olhar e, em vez disso, vende itens para esses PJs a cinco vezes o preço listado no _Player’s Handbook_, afirmando com despeito que se trata de um “negócio especial" para os amigos do “grande herói" da cidade.
 
 During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
 
