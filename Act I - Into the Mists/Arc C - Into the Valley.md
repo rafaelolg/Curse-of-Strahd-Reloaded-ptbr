@@ -1,6 +1,6 @@
-*An adventure for five 3rd-level characters.*
+Uma aventura para 5 personagens de 3° nível.
 
-In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
+Neste arco, os PJs partem da vila da Baróvia em direção ao Lago Tser  e à cidade de Vallaki. Enquanto viajam pela floresta, podem encontrar um par de **scouts** barovianos em busca de uma família desaparecida, distrair ou lutar contra uma horda de **zombies**, e recuperar um depósito de armas deixado pelo Dr. Rudolph van Richten.
 
 Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
 
