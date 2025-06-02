@@ -1,49 +1,51 @@
-# Setting Expectations
- Before beginning the campaign, you should establish the following expectations with your players:
+# Definindo Expectativas
+ Antes de iniciar a campanha, vocês devem estabelecer as seguintes expectativas com os PJs:
 
-* ***Tone***. This will be a heroic fantasy adventure in a dark fantasy/gothic horror setting. Your character should be a hero, or have the potential to swiftly become a hero when faced with a life-or-death situation. Be prepared to cooperate and collaborate with the other players in order to succeed.
-* ***Theme***. While this campaign will not explore or focus upon your character's personal backstory, you should allow the campaign's characters and setting to inspire your  character to confront their own regrets, traumas, flaws, and fears.
-* ***Engagement***. This campaign takes place in a setting with a deep history, including complex relationships between several dozen non-player characters. You should expect to take notes and take a sincere interest in the lore of this world.
-* ***Tactics & Difficulty.***. This campaign has been balanced to present a challenging, but fair gameplay experience. However, to succeed, you will often need to recruit additional allies while avoiding alienating potential enemies. Consider the consequences of your actions carefully, and avoid taking actions without careful consideration.
-* ***Roleplay***. This campaign is primarily driven by the stories of its non-player characters, and their relationships to the party. Be prepared to form meaningful relationships with the characters you encounter, and allow yourself to emotionally invest in those characters' success.
-* ***Rewards***. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks, with experience points awarded for narrative milestones you achieve as you proceed through the campaign.
-* ***Narrative***. The campaign begins with a linear structure, but soon evolves into a more expansive sandbox. Be prepared to balance and prioritize multiple quests, including many with clear deadlines.
-# Triggers & Accommodations
-Our aim is to create a memorable and enjoyable gothic horror experience for everyone involved. To that end, it's essential to address any potentially uncomfortable or controversial topics before beginning your *Curse of Strahd* adventure. During Session Zero, we encourage open and honest communication with your players about their personal boundaries and any elements of the campaign that may require modification or removal.
+* ***Tom***. Esta será uma aventura de fantasia heroica em um cenário de fantasia sombria/horror gótico. Seu personagem deve ser um herói, ou ter o potencial de se tornar rapidamente um herói quando confrontado com uma situação de vida ou morte. Estejam preparados para cooperar e colaborar com os outros PJs para ter sucesso.
+* ***Tema***. Embora esta campanha não explore ou foque na história pessoal do seu personagem, vocês devem permitir que os personagens e o cenário da campanha inspirem seu personagem a confrontar seus próprios arrependimentos, traumas, falhas e medos.
+* ***Engajamento***. Esta campanha se passa em um cenário com uma história profunda, incluindo relacionamentos complexos entre várias dezenas de personagens não-jogadores. Esperem tomar notas e demonstrar um interesse sincero nas tradições deste mundo.
+* ***Táticas & Dificuldade.***. Esta campanha foi equilibrada para apresentar uma experiência de jogo desafiadora, mas justa. No entanto, para ter sucesso, vocês frequentemente precisarão recrutar aliados adicionais enquanto evitam alienar potenciais inimigos. Considerem as consequências de suas ações com cuidado e evitem agir sem uma consideração cuidadosa.
+* ***Interpretação***. Esta campanha é principalmente impulsionada pelas histórias de seus personagens não-jogadores e seus relacionamentos com o grupo. Estejam preparados para formar relacionamentos significativos com os personagens que encontrarem e permitam-se investir emocionalmente no sucesso desses personagens.
+* ***Recompensas***. Tesouros, itens mágicos e outras recompensas materiais serão muito mais escassos do que em uma campanha de fantasia comum. Em vez disso, a maioria das recompensas tomará a forma de aliados, informações e novos ganchos narrativos, com pontos de experiência concedidos por marcos narrativos que vocês alcançarem ao longo da campanha.
+* ***Narrativa***. A campanha começa com uma estrutura linear, mas logo evolui para um sandbox mais expansivo. Estejam preparados para equilibrar e priorizar múltiplas missões, incluindo muitas com prazos claros.
 
-A list of potentially uncomfortable topics you might want to discuss with your players before beginning the campaign includes:
+# Gatilhos & Acomodações
+Nosso objetivo é criar uma experiência memorável e agradável de horror gótico para todos os envolvidos. Para isso, é essencial abordar quaisquer tópicos potencialmente desconfortáveis ou controversos antes de iniciar sua aventura *Maldição de Strahd*. Durante a Sessão Zero, encorajamos uma comunicação aberta e honesta com vocês sobre seus limites pessoais e quaisquer elementos da campanha que possam exigir modificação ou remoção.
 
-* Child abuse and death (e.g., the Durst children)
-* Torture and mutilation (e.g., Kasimir's severed ears)
-* Mind control (e.g., Strahd's ***charm*** ability)
-* (Implied) incest (e.g., the Belviews)
-* Stalking and (symbolic) sexual assault (e.g., Strahd's obsession with Ireena)
-* Suicide (e.g., Tatyana's death)
-* Drug addiction (e.g., the dream pastries)
-* Body horror (e.g., the vestiges' dark gifts)
-* Racism (e.g., Barovian views of the Vistani)
-# Campaign Contract
-To ensure all players are on the same page when beginning the campaign, consider having each player review and/or sign the following "campaign contract" during Session Zero:
+Uma lista de tópicos potencialmente desconfortáveis que vocês podem querer discutir antes de iniciar a campanha inclui:
+
+* Abuso infantil e morte (ex.: as crianças Durst)  
+* Tortura e mutilação (ex.: as orelhas de Kasimir cortadas)  
+* Controle mental (ex.: a habilidade de ***charm*** de Strahd)  
+* Incesto (implícito) (ex.: os Belviews)  
+* Stalking e (simbolicamente) Abuso sexual. (ex.: a obsessão de Strahd por Ireena)  
+* Suicídio (ex.: a morte de Tatyana)  
+* Dependência química (ex.: os pastéis de sonhos)  
+* Horror corporal (ex.: os dons sombrios dos vestígios)  
+* Racismo (ex.: as visões barovianas sobre os Vistani)  
+
+# Contrato da Campanha  
+Para garantir que todos os PJs estejam alinhados ao iniciar a campanha, considere que cada um revise e/ou assine o seguinte "contrato da campanha" durante a Sessão Zero:
 
 <div class="description">
-<p>I, <strong>&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</strong>, understand and agree to the following expectations:</p> 
+<p>Eu, <strong>&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</strong>, entendo e concordo com as seguintes expectativas:</p> 
 <ul> 
-<li>I will make and play a character who is—while potentially flawed—either (a) actively heroic; or (b) a sociable, cooperative character who inevitably and actively begins growing towards heroism within the first five sessions.</li>
-<li>I will allow my character to feel true, powerless fear when faced with an overwhelming threat, and allow that fear to impact my character's actions, growth, and development.</li>
-<li>I will make every reasonable effort to build meaningful short- and long-term relationships with NPCs, and allow myself to become emotionally invested in their lives and goals.</li> 
-<li>This campaign requires alliances and cooperation with NPCs and other players, rather than paranoia or antisocial behavior.</li> 
-<li>The DM will not try to trick me, and will give me a fair chance to avoid bad situations through clear foreshadowing. However, NPCs will withhold nonessential lore and character information unless specifically requested.</li>
-<li>This campaign will largely focus on social encounters, investigations, and exploration, and combat may occur as infrequently as once every two or three sessions.</li> 
-<li>Treasure, magic items, and expensive spell components will be rare and infrequently obtained, with most rewards taking the form of relationships and alliances with friendly NPCs.</li>
-<li>This campaign will take place in a "fish-out-of-water" setting, and elements from my character's backstory will not directly appear or be referenced in the campaign.</li>
-<li>It is my sole responsibility to collaborate with the DM and other players to provide my character with an internal emotional character arc if desired.</li> 
-<li>Some powerful enemies will be impossible to defeat through combat, and that we will need to either gain levels, allies, or resources in order to do so.</li>
-<li>Creature alignments and morality will not always be determined by their species or type. Some monsters can be neutral, or even friendly, while some humanoids can be monstrously irredeemable.</li>
-<li>The DM has balanced any expected combat encounters to make a TPK unlikely unless we make poor decisions; should a TPK occur, the party may have an opportunity to "fail forward" and continue the campaign, albeit with severe consequences.</li> 
-<li>This campaign has altered the statistics for many official D&D 5e monsters, and has introduced additional mechanics or altered statistics for other enemies to create a balanced, high-tension combat experience that may differ from the <em>Monster Manual</em> and other official supplements.</li>
-<li>I will not seek out any information, artwork, videos, or other media relevant to Curse of Strahd, or any characters, locations, or lore within the campaign.</li> 
+<li>Eu farei e jogarei com um personagem que é—embora potencialmente falho—ou (a) ativamente heroico; ou (b) um personagem sociável e cooperativo que inevitavelmente e ativamente começa a crescer em direção ao heroísmo dentro das primeiras cinco sessões.</li>
+<li>Eu permitirei que meu personagem sinta um verdadeiro medo impotente quando confrontado com uma ameaça avassaladora, e deixarei que esse medo impacte as ações, o crescimento e o desenvolvimento do meu personagem.</li>
+<li>Farei todo o esforço razoável para construir relacionamentos significativos de curto e longo prazo com NPCs, e permitirei que eu mesmo me envolva emocionalmente em suas vidas e objetivos.</li> 
+<li>Esta campanha requer alianças e cooperação com NPCs e outros PJs, em vez de paranoia ou comportamento antissocial.</li> 
+<li>O DM não tentará me enganar e me dará uma chance justa de evitar situações ruins através de uma prenunciação clara. No entanto, os NPCs reterão informações de lore e de personagem não essenciais, a menos que sejam especificamente solicitadas.</li>
+<li>Esta campanha se concentrará amplamente em encontros sociais, investigações e exploração, e o combate pode ocorrer tão raramente quanto uma vez a cada duas ou três sessões.</li> 
+<li>Tesouros, itens mágicos e componentes de feitiços caros serão raros e obtidos com pouca frequência, com a maioria das recompensas assumindo a forma de relacionamentos e alianças com NPCs amigáveis.</li>
+<li>Esta campanha ocorrerá em um cenário de "peixe fora d'água", e elementos da história de fundo do meu personagem não aparecerão diretamente ou serão referenciados na campanha.</li>
+<li>É minha única responsabilidade colaborar com o DM e outros PJs para fornecer ao meu personagem um arco emocional interno, se desejado.</li> 
+<li>Alguns inimigos poderosos serão impossíveis de derrotar através do combate, e precisaremos ganhar níveis, aliados ou recursos para fazê-lo.</li>
+<li>Os alinhamentos e a moralidade das criaturas não serão sempre determinados por sua espécie ou tipo. Alguns monstros podem ser neutros ou até amigáveis, enquanto alguns humanoides podem ser monstruosamente irredimíveis.</li>
+<li>O DM equilibrará quaisquer encontros de combate esperados para tornar um TPK improvável, a menos que tomemos decisões ruins; caso um TPK ocorra, o grupo pode ter a oportunidade de "falhar para frente" e continuar a campanha, embora com consequências severas.</li> 
+<li>Esta campanha alterou as estatísticas de muitos monstros oficiais de D&D 5e e introduziu mecânicas adicionais ou alterou estatísticas para outros inimigos para criar uma experiência de combate equilibrada e de alta tensão que pode diferir do <em>Monster Manual</em> e outros suplementos oficiais.</li>
+<li>Eu não procurarei nenhuma informação, arte, vídeos ou outros meios relevantes para a Maldição de Strahd, ou quaisquer personagens, locais ou lore dentro da campanha.</li> 
 </ul>
 </div>
 
-> [!warning]+ **Breaking the Fourth Wall**
-> Sometimes, a player will act in a way that seems to break the [[#Campaign Contract]]. (For example, a frustrated, trigger-happy, or mistrustful player might plot to attack and kill an NPC that can be allied or befriended.) When this happens, don't hesitate to pause the game, remind the player of the relevant provision of the campaign contract, and ensure everyone is on the same page before resuming play.
+> [!warning]+ **Quebrando a Quarta Parede**  
+> Às vezes, um PJ age de uma forma que parece quebrar o [[#Campaign Contract]]. (Por exemplo, um jogador frustrado, impulsivo ou desconfiado pode planejar atacar e matar um NPC que poderia ser aliado ou amigo.) Quando isso acontecer, não hesite em pausar o jogo, lembrar o jogador da cláusula relevante do contrato da campanha e garantir que todos estejam alinhados antes de retomar a partida.

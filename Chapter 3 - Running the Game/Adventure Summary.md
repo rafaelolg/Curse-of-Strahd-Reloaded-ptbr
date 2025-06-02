@@ -1,124 +1,126 @@
 <ol class="flowchart">
-        <li><strong>Act I: Into the Mists (<em>2nd to 3rd level</em>).</strong> The players are lured into Death House and transported into the land of Barovia. After visiting the village of Barovia and encountering the vampire Strahd von Zarovich, the players receive a fortunetelling at the nearby Tser Pool and find lodging in the fortified town of Vallaki.</li>
-        <li><strong>Act II: The Shadowed Town (<em>4th to 5th level</em>).</strong> As they work to obtain their bearings in Vallaki, the players must recover stolen relics for St. Andral's Church, rescue a kidnapped Vistana girl, assassinate the dangerous Izek Strazni, defeat the hags of Old Bonegrinder, and restore the soul of Lady Fiona Wachter's sickly daughter.</li>
-        <li><strong>Act III: The Broken Land (<em>5th to 7th level</em>).</strong> The players travel across the western half of the Barovian valley, defeating a cabal of druids at Yester Hill, infiltrating a werewolf den at Lake Baratok, exploring the haunted mansion of Argynvostholt, and recruiting the Vistana monster hunter Ezmerelda d'Avenir. After dining with Strahd at Castle Ravenloft, the players have an opportunity to raid the castle the following night, liberating multiple captives and artifacts from the vampire's clutches before returning to purify the Abbey of St. Markovia, obtain the <em>Holy Symbol of Ravenkind</em>, and light the beacon of Argynvostholt.</li>
-        <li><strong>Act IV: Secrets of the Ancient (<em>8th to 9th level</em>).</strong> The players must endure Strahd's torments and the icy cold of Mount Ghakis, climbing Tsolenka Pass to the Amber Temple in order to recover the broken hilt of the <em>Sunsword</em> and unlock the secrets of the <em>Tome of Strahd</em>. Upon their descent, the players must defeat the witch of Berez, Baba Lysaga, and reconsecrate the sacred fanes of the Ladies Three.</li>
-        <li><strong>Act V: The Curse of Strahd (<em>10th level</em>).</strong> After quelling an embodiment of the Mists upon the shores of Lake Zarovich, the players must journey to Castle Ravenloft to end Strahd's evil—once and for all.
+        <li><strong>Ato I: Brumas Adentro (<em>2º ao 3º nível</em>).</strong> Os PJs são atraídos para a Casa da Morte e transportados para a terra da Baróvia. Após visitarem a vila da Baróvia e encontrarem o vampiro Strahd von Zarovich, os PJs recebem uma previsão no próximo Lago Tser e encontram hospedagem na cidade fortificada de Vallaki.</li>
+        <li><strong>Ato II: A Cidade Sombria (<em>4º ao 5º nível</em>).</strong> Enquanto tentam se orientar em Vallaki, os PJs devem recuperar relíquias roubadas para a Igreja de São Andral, resgatar uma garota Vistana sequestrada, assassinar o perigoso Izek Strazni, derrotar as bruxas do antigo Móiossos e restaurar a alma da filha doente de Lady Fiona Wachter.</li>
+        <li><strong>Ato III: A Terra Quebrada (<em>níveis 5 a 7</em>).</strong> Os PJs atravessam a metade ocidental do vale Baroviano, derrotando uma cabala de druidas na Colina d'Antes, infiltrando-se em uma toca de lobisomens no Lago Baratok, explorando a mansão assombrada do Silvado de Argynvost, e recrutando a caçadora de monstros Vistana Ezmerelda d'Avenir. Após um jantar com Strahd no Castelo Ravenloft, os PJs têm a oportunidade de invadir o castelo na noite seguinte, libertando múltiplos cativos e artefatos das garras do vampiro antes de retornar para purificar a Abadia de Markova, obter o <em>Símbolo Sagrado do Grande Corvo</em> e acender o farol do Silvado de Argynvost.</li>
+        <li><strong>Ato IV: Segredos do Antigo (<em>8º ao 9º nível</em>).</strong> Os PJs devem suportar os tormentos de Strahd e o frio cortante do Monte Ghakis, escalando a Passagem Tsolenka até o Templo de Âmbar para recuperar o pomo quebrado da <em>Sunsword</em> e desvendar os segredos do <em>Tome of Strahd</em>. Em sua descida, os PJs devem derrotar a bruxa de Berez, Baba Lysaga, e reconsagrar os santuários sagrados das Três Damas.</li>
+        <li><strong>Ato V: A Maldição de Strahd (<em>nível 10</em>).</strong> Após derrotar uma manifestação das Brumas às margens do Lago Zarovich, os PJs devem seguir para o Castelo Ravenloft para pôr fim ao mal de Strahd—de uma vez por todas.
     </ol>
 
-# Act I: Into the Mists
-<div class="subtitle"><em>For 2nd to 3rd-level characters.</em></div>
-In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
+# Ato I: Brumas Adentro
+<div class="subtitle"><em>Para personagens de 2º a 3º nível.</em></div>
+Neste ato, os PJs são atraídos para a assombrada Casa da Morte, que os transporta misticamente para a terra da Baróvia. À medida que os PJs se orientam, eles viajam até a vila da Baróvia, onde encontram o burgomestre Ismark Kolyanovich e sua irmã, Ireena Kolyana, e aprendem sobre o misterioso Strahd von Zarovich, um vampiro que despertou recentemente para atormentar o vale Baroviano. 
 
-The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Burgomaster Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
+Os PJs são convidados a escoltar Irene até a cidade próxima de Vallaki em busca de segurança; se os PJs concordarem, Irene também pede que os ajudem a enterrar seu falecido pai, o Burgomestre Kolyan Indirovich. Enquanto estão na igreja local, os PJs encontram Doru, uma **vampire spawn** em guerra com sua natureza sedenta de sangue, e têm a oportunidade de reconciliá-lo com seu pai, o padre Donavich.
 
-Upon receiving a warning and invitation sent in a dream from the Vistani seer Madam Eva, the players depart the village of Barovia for a Vistani encampment at nearby Tser Pool. Following a brief encounter with Strahd himself, the players receive a mystical Tarokka reading from Madam Eva, who foretells the location of three mystical artifacts—and a companion—who will help them defeat Strahd.
+Ao receber um aviso e um convite enviados em um sonho pela vidente Vistani Madame Eva, os PJs partem da vila da Baróvia em direção a um acampamento Vistani nas proximidades do Lago Tser. Após um breve encontro com o próprio Strahd, os PJs recebem uma leitura mística de Tarokka da Madame Eva, que prevê a localização de três artefatos místicos—e um companheiro—que os ajudarão a derrotar Strahd.
 
-As the players travel to Madam Eva's camp and the nearby town of Vallaki, they encounter a number of characters with ties to possible future adventures, as well as some adversarial encounters that will test their tactics, coordination, and combat skill.
+À medida que os PJs viajam para o acampamento da Madame Eva e a cidade próxima de Vallaki, eles encontram uma série de personagens com laços a possíveis aventuras futuras, assim como alguns encontros conflituosos que testarão suas táticas, coordenação e habilidades de combate.
 
-Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
+Ao chegarem em Vallaki, os PJs podem encontrar abrigo na Estalagem Água Azul e—se Irene estiver com eles—ajudá-la a buscar refúgio na Igreja de São Andral. O ato termina quando os PJs realizam seu primeiro descanso longo em Vallaki.
 
-## Act I Milestones
-| Level | Arc | Milestone                                                          | XP    |
-| :---: | --- | ------------------------------------------------------------------ | ----- |
-|   2   | A   | The players access the secret stairs in Death House                | 200   |
-|   2   | A   | The players begin their first long rest after escaping Death House | 400   |
-|   3   | B   | The players defend and depart the village of Barovia               | 400   |
-|   3   | B   | The players aid Doru in passing his test of will                   | 100   |
-|   3   | B   | The players receive the Tarokka reading                            | 500   |
-|   3   | C   | The players arrive in Vallaki                                      | 1,000 |
-|   3   | C   | The players escort Ireena to Vallaki                               | 250   |
+## Marcos do Ato I
+| Nível | Arco | Marco                                                             | XP    |
+| :---: | ---  | ----------------------------------------------------------------- | ----- |
+|   2   | A    | Os PJs acessam a escada secreta na Casa da Morte                  | 200   |
+|   2   | A    | Os PJs iniciam seu primeiro descanso longo após escaparem da Casa da Morte | 400   |
+|   3   | B    | Os PJs defendem e partem da vila da Baróvia                       | 400   |
+|   3   | B    | Os PJs auxiliam Doru a passar em seu teste de vontade             | 100   |
+|   3   | B    | Os PJs recebem a leitura Tarokka                                  | 500   |
+|   3   | C    | Os PJs chegam em Vallaki                                          | 1.000 |
+|   3   | C    | Os PJs escoltam Ireena até Vallaki                               | 250   |
 
-# Act II: The Shadowed Town
-<div class="subtitle"><em>For characters of 4th level and higher.</em></div>
-In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has fallen to tension and conflict in the wake of Strahd's awakening.
+# Ato II: A Cidade Sombria
+<div class="subtitle"><em>Para personagens de 4º nível ou superior.</em></div>
+Neste ato, os PJs são deixados para explorar a sombria cidade de Vallaki—um assentamento baroviano que sucumbiu à tensão e ao conflito após o despertar de Strahd.
 
-As the players seek to complete lingering obligations—escorting Ireena to St. Andral's Church, purchasing and delivering a toy for the Vistani child Arabelle, and uncovering the *Tome of Strahd*—they meet new allies and enemies, including Father Lucian, the priest of St. Andral's Church; Izek Strazni, Baron Vallakovich's brutal enforcer; and Lady Fiona Wachter, the Baron's Strahd-loyalist rival.
+Enquanto os PJs buscam cumprir obrigações pendentes—escoltar Ireena até a Igreja de São Andral, comprar e entregar um brinquedo para a criança Vistani Arabelle, e desvendar o *Tomo de Strahd*—eles encontram novos aliados e inimigos, incluindo o Padre Lucian, o sacerdote da Igreja de São Andral; Izek Strazni, o brutal executor do Barão Vallakovich; e Lady Fiona Wachter, a rival leal a Strahd do Barão.
 
-At St. Andral's Church, the players will be tasked with recovering the stolen bones of St. Andral in order to protect the church's holy protection. At the nearby Vistani encampment, the players will have an opportunity to prove themselves heroes by finding and rescuing Arabelle following her mysterious disappearance—and receive a mysterious prophecy if they do. And at Wachterhaus, the ancestral home of House Wachter, the players will be given a choice: slay Izek Strazni and allow Lady Wachter to seize power—or do nothing, and allow the Baron's mad reign to continue.
+Na Igreja de São Andral, os PJs terão a missão de recuperar os roubados Ossos do São Andral para proteger a sagrada proteção da igreja. No acampamento Vistani próximo, os PJs terão a oportunidade de provar seu valor como heróis ao encontrar e resgatar Arabelle após seu misterioso desaparecimento — e receber uma profecia enigmática caso o façam. E em Wachterhaus, a ancestral morada da Casa Wachter, os PJs enfrentarão uma escolha: matar Izek Strazni e permitir que Lady Wachter tome o poder — ou nada fazer, deixando o reinado insano do Barão continuar.
 
-Meanwhile, one of the players begins to experience haunting apparitions, leading them to discover the tragic fate of Stella Wachter's soul—and an opportunity to restore her broken mind. Simultaneously, a nocturnal killer haunts Vallaki's streets, secretly working to drive the disguised vampire hunter Dr. Rudolph van Richten out of hiding.
+Enquanto isso, um dos PJs começa a experimentar aparições assombrosas, levando-os a descobrir o destino trágico da alma de Stella Wachter—e uma oportunidade de restaurar sua mente despedaçada. Simultaneamente, um assassino noturno assombra as ruas de Vallaki, trabalhando secretamente para expulsar das sombras o caçador de vampiros disfarçado, Dr. Rudolph van Richten.
 
-Through it all, the players will have an opportunity to seek out clues leading to the hidden location of the *Tome of Strahd*, which—depending on the Tarokka reading they received—may be hidden in the Baron's mansion or in Wachterhaus. And as the date of the Festival of the Blazing Sun approaches, Izek Strazni and Ireena Kolyana grow closer to a fateful, yet tragic encounter.
+Ao longo de tudo isso, os PJs terão a oportunidade de buscar pistas que os conduzam ao local oculto do *Tome of Strahd*, que—dependendo da leitura do Tarokka que receberam—pode estar escondido na mansão do Barão ou em Wachterhaus. E, à medida que se aproxima a data do Festival do Sol Fulgurante, Izek Strazni e Irene Kolyana se aproximam de um encontro fatídico, porém trágico.
 
-Act II ends on the morning after the players' first full moon in Barovia, which takes place on the night of the sixth full day after they first arrive in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+O Ato II termina na manhã seguinte à primeira lua cheia dos PJs na Baróvia, que ocorre na noite do sexto dia completo após sua chegada em Vallaki. No entanto, os PJs ainda podem concluir arcos não resolvidos deste ato mesmo após o início do Ato III—desde que, é claro, esses arcos ainda sejam possíveis de serem concluídos.
 
-| Level | Arc   | Milestone                                                | XP    |
+| Nível | Arco  | Marco                                                    | XP    |
 | :---: | ----- | -------------------------------------------------------- | ----- |
-|   4   | D     | The players restore the bones of St. Andral              | 1,250 |
-|   4   | E     | The players find Arabelle and receive her prophecy       | 1,250 |
-|   4   | F / G | The players defeat Izek Strazni                          | 1,250 |
-|  4/5  | I     | The players gain safe passage through Krezk's gates      | 750   |
-|   5   | H     | The players rescue Stella's soul from the Ethereal Plane | 1,750 |
+|   4   | D     | Os PJs restauram os ossos do São Andral                  | 1.250 |
+|   4   | E     | Os PJs encontram Arabelle e recebem sua profecia         | 1.250 |
+|   4   | F / G | Os PJs derrotam Izek Strazni                              | 1.500 |
+|  4/5  | I     | Os PJs conquistam passagem segura pelos portões de Krezk| 750   |
+|   5   | H     | Os PJs resgatam a alma de Stella do Plano Etéreo         | 1.750 |
+|   5   | H     | Os PJs obtêm o *Tome of Strahd*                          |       |
 
-# Act III: The Broken Land
-<div class="subtitle"><em>For characters of 5th level and higher.</em></div>
+# Ato III: A Terra Quebrada
+<div class="subtitle"><em>Para personagens de 5º nível ou superior.</em></div>
 
-In this act, the players receive a plea from Urwin Martikov to investigate the Wizard of Wines winery—and an invitation from Strahd to dine at Castle Ravenloft.
+Neste ato, os PJs recebem um apelo de Urwin Martikov para investigar a vinícola Wizard of Wines — e um convite de Strahd para jantar no Castelo Ravenloft.
 
-If the players agree to Urwin's request in [[Arc J - The Stolen Gem]], they are joined by Muriel Vinshaw—the secret identity of the disguised **wereraven** that they rescued near Tser Pool. As the players work to free the winery from the scourge of druids and blights that have invaded it, Muriel relays an excerpt of Strahd's foretelling to Davian Martikov, an elder **wereraven** and the leader of the Keepers of the Feather.
+Se os PJs concordarem com o pedido de Urwin em [[Arco J - A Jóia Roubada]], eles serão acompanhados por Muriel Vinshaw — a identidade secreta do **licantropo-corvo** disfarçado que resgataram perto do Lago Tser. Enquanto os PJs trabalham para libertar a vinícola da praga de druidas e pragas que a invadiram, Muriel transmite um trecho da profecia de Strahd a Davian Martikov, um **licantropo-corvo** ancião e líder dos Prelado da Pena.
 
-Upon freeing the winery from the druids' clutches, Davian asks them to journey to Yester Hill to the south, where the druids are plotting a dark ritual that threatens the vineyard's destruction. Once the players have recovered the winery's stolen gemstone and returned it to Davian Martikov, they can learn the true nature of the Keepers of the Feather and gain Muriel's knowledge of Strahd's cryptic fortunetelling.
+Ao libertar a vinícola das garras dos druidas, Davian lhes pede que sigam para a Colina d'Antes ao sul, onde os druidas tramam um ritual sombrio que ameaça a destruição do vinhedo. Uma vez que os PJs recuperem a pedra preciosa roubada da vinícola e a devolvam a Davian Martikov, poderão desvendar a verdadeira natureza dos Prelados da Pena e obter o conhecimento de Muriel sobre as enigmáticas profecias de Strahd.
 
-Should the players accept Strahd's invitation to dine at Ravenloft, they will have one week to explore the valley before the occasion begins. As they do, they might recruit the monster hunter Ezmerelda d'Avenir from Krezk in [[Arc K - The Fallen Abbey]], investigate the lost *Holy Symbol of Ravenloft* in [[Arc L - The Den of Wolves]], or visit the haunted mansion of Argynvostholt in [[Arc M - The Dragon's Manor]].
+Se os PJs aceitarem o convite de Strahd para jantar em Ravenloft, terão uma semana para explorar o vale antes que a ocasião comece. Durante esse tempo, poderão recrutar a caçadora de monstros Ezmerelda d'Avenir, de Krezk, em [[Arc K - The Fallen Abbey]], investigar o perdido *Holy Symbol of Ravenloft* em [[Arc L - The Den of Wolves]], ou visitar a mansão assombrada de Argynvostholt em [[Arc M - The Dragon's Manor]].
 
-In Krezk, the players will learn that the Abbot of the Abbey of Saint Markovia has fallen into madness, and that the key to cleansing his divine spirit lies amongst the crypts of Castle Ravenloft. In the Werewolf Den, the players will receive an offer from Zuleika, a **werewolf** priestess of Mother Night: To receive the *Holy Symbol*, they must first rescue her mate from the castle dungeons. At Argynvostholt, the players receive a solemn missive from the spirit of the silver dragon Argynvost: return his stolen skull from the desecrated grounds of the castle cellar and restore it its rightful tomb. 
+Em Krezk, os PJs descobrirão que o Abade da Abadia de Santa Markova sucumbiu à loucura, e que a chave para purificar seu espírito divino está escondida entre as criptas do Castelo Ravenloft. Na Toca dos Lobisomens, os PJs receberão uma oferta de Zuleika, uma sacerdotisa **lobmisomem** da Mãe da Noite: para receber o *Símbolo Sagrado*, eles devem primeiro resgatar seu companheiro das masmorras do castelo. Em Argynvostholt, os PJs recebem uma mensagem solene do espírito do dragão prateado Argynvost: retornem seu crânio roubado dos terrenos profanados da adega do castelo e restaurem-no em seu túmulo legítimo. 
 
-On the night of [[Arc O - Dinner with the Devil]], the players are escorted by Strahd's black carriage to the castle, where they will meet Strahd's servants, brides, and consorts. After dining with Strahd and touring the castle, the players will learn that Strahd will be away from the castle the following night, providing the players free reign to infiltrate the keep. Not long thereafter, however, a bolt of lightning disables the drawbridge, forcing them to remain as Strahd's guests until morning—and survive an old and vengeful spirit in the process.
+Na noite do [[Arco O - Jantar com o Diabo]], os PJs são escoltados pela carruagem negra de Strahd até o castelo, onde encontrarão os servos, as noivas e os consortes de Strahd. Após jantar com Strahd e explorar o castelo, os PJs descobrirão que Strahd estará ausente do castelo na noite seguinte, oferecendo-lhes liberdade para infiltrar-se na fortaleza. Não muito depois, porém, um raio desativa a ponte levadiça, obrigando-os a permanecer como convidados de Strahd até o amanhecer — e a sobreviver a um espírito antigo e vingativo nesse meio tempo.
 
-Should the players survive, they are free to return the following night for [[Arc P - Ravenloft Heist]], where they must battle Strahd's brides and servants to fulfill their assorted quests. Should they escape, they can then return to purify the Abbot, defeat the werewolf alpha Kiril Stoyanovich, and light the radiant beacon of Argynvostholt.
+Se os PJs sobreviverem, estarão livres para retornar na noite seguinte para [[Arc P - Ravenloft Heist]], onde deverão enfrentar as noivas e servos de Strahd para cumprir suas diversas missões. Caso escapem, poderão então voltar para purificar o Abade, derrotar o alfa lobisomem Kiril Stoyanovich e acender o farol radiante de Argynvostholt.
 
-Act III ends when the players recruit the dusk elf Kasimir to journey to the Amber Temple. When the act ends, the **tree blight** Wintersplinter destroys the Wizard of Wines winery unless the players stopped the druids' ritual in [[Arc J - The Stolen Gem]].
+O Ato III termina quando os PJs recrutam o elfo crepuscular Kasimir para a jornada ao Templo de Âmbar. Quando o ato termina, o **tree blight** Wintersplinter destrói a vinícola do Mago dos Vinhos, a menos que os PJs tenham impedido o ritual dos druidas em [[Arco J - A Joia Roubada]].
 
-| Starting Level | Arc | Milestone                                                                                    | XP    |
-| :------------: | --- | -------------------------------------------------------------------------------------------- | ----- |
-|       5        | J   | The players reclaim the winery from the druids of Yester Hill                                | 2,000 |
-|       5        | J   | The players defeat the druids of Yester Hill                                                 | 2,500 |
-|       6        | K   | The players recruit Ezmerelda d'Avenir                                                       | 1,250 |
-|       6        | L   | The players rescue Ilya Krezkov and Zuleika Toranescu from the werewolf den                  | 1,500 |
-|       6        | M   | The players hear the dragon gargoyle's prophecy in Argynvostholt                             | 2,000 |
-|       6        | O   | The players dine with Strahd and survive Varushka's spirit in Castle Ravenloft               | 4,000 |
-|       6        | O   | The players reunite Varushka with Katarina's necklace and retrieve Varushka's hidden cache   | 500   |
-|       7        | P   | The players recover Argynvost's skull from Castle Ravenloft                                  | 1,000 |
-|       7        | P   | The players recover the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft | 1,000 |
-|       7        | P   | The players rescue Emil Toranescu from the Castle Ravenloft dungeons                         | 1,000 |
-|       7        | P   | The players rescue Gertruda from Castle Ravenloft                                            | 500   |
-|       7        | P   | The players obtain the *spear of the Huntress* from King Dostron's crypt in Castle Ravenloft | 500   |
-|       7        | P   | The players loot Strahd's treasury in Castle Ravenloft                                       | 500   |
-|       7        | Q   | The players defeat the Abbot                                                                 | 2,000 |
-|       7        | Q   | The players redeem the Abbot after defeating him                                             | 500   |
-|       7        | Q   | The players defeat Kiril Stoyanovich                                                         | 3,000 |
-|       7        | Q   | The players light Argynvost's beacon                                                         | 3,000 |
+| Nível Inicial | Arco | Marco                                                                                          | XP    |
+| :------------: | --- | ---------------------------------------------------------------------------------------------- | ----- |
+|       5        | J   | Os PJs retomam a vinícola dos druidas da Colina d'Antes                                        | 2.000 |
+|       5        | J   | Os PJs derrotam os druidas da Colina d'Antes                                                  | 2.500 |
+|       6        | K   | Os PJs recrutam Ezmerelda d'Avenir                                                            | 1.000 |
+|       6        | L   | Os PJs negociam com Zuleika Toranescu na Toca do Werewolf                                     | 1.500 |
+|       6        | L   | Os PJs libertam Ilya e Zuleika da toca                                                        | 250   |
+|       6        | M   | Os PJs ouvem a profecia da gárgula dragão em Silvado de Argynvost                             | 2.500 |
+|       6        | O   | Os PJs jantam com Strahd e sobrevivem ao espírito de Varushka no Castelo Ravenloft            | 3.500 |
+|       6        | O   | Os PJs reúnem Varushka com o colar de Katarina e recuperam o esconderijo oculto de Varushka   | 500   |
+|       7        | P   | Os PJs recuperam o crânio de Argynvost no Castelo Ravenloft                                   | 4.000 |
+|       7        | P   | Os PJs recuperam o *Ícone da Graça da Aurora* na cripta de St. Markova no Castelo Ravenloft   | 250   |
+|       7        | P   | Os PJs resgatam Emil Toranescu das masmorras do Castelo Ravenloft                             | 250   |
+|       7        | P   | Os PJs resgatam Gertruda do Castelo Ravenloft                                                 | 250   |
+|       7        | P   | Os PJs obtêm a *lança da Caçadora* na cripta do Rei Dostron no Castelo Ravenloft              | 250   |
+|       7        | P   | Os PJs saqueiam o tesouro de Strahd no Castelo Ravenloft                                      | 250   |
+|       7        | Q   | Os PJs derrotam o Abade                                                                       | 2.000 |
+|       7        | Q   | Os PJs redimem o Abade após derrotá-lo                                                        | 500   |
+|       7        | Q   | Os PJs derrotam Kiril Stoyanovich                                                             | 2.000 |
+|       7        | Q   | Os PJs acendem o farol de Argynvost                                                           | 3.000 |
 
-# Act IV: Secrets of the Ancient
-<div class="subtitle"><em>For characters of 8th level and higher.</em></div>
+# Ato IV: Segredos do Antigo
+<div class="subtitle"><em>Para personagens de 8º nível ou superior.</em></div>
 
-Throughout this act, and until the players light the *Sunsword*, Strahd—having now assumed his [[Strahd von Zarovich#The Tyrant|Tyrant persona]] following the players' heist of Castle Ravenloft—appears nightly to torment them in [[Arc R - The Tyrant's Trials]], seeking to test their ambition, cunning, power, and capacity for cruelty.
+Ao longo deste ato, e até que os PJs reiluminem a *Sunsword*, Strahd — tendo agora assumido sua [[Strahd von Zarovich#The Tyrant|persona do Tirano]] após o assalto dos PJs ao Castelo Ravenloft — aparece todas as noites para atormentá-los em [[Arc R - Trials of the Mountain]], buscando testar sua ambição, astúcia, poder e capacidade de crueldade.
 
-Meanwhile, the players journey with the dusk elf Kasimir Velikov to the Amber Temple, traveling along Tsolenka Pass as they ascend Mount Ghakis in [[Arc S - The Amber Temple]]. As they do, they can befriend the Mountain Folk of Soldav, including Elder Burebis, an ancient **storm giant** and devotee of the Ladies Three. From Burebis, the players can learn of the three Fanes of Barovia, and of the profane knowledge that Strahd took from the Amber Temple to desecrate them.
+Enquanto isso, os PJs viajam com o elfo crepuscular Kasimir Velikov rumo ao Templo de Âmbar, seguindo pela Passagem Tsolenka enquanto sobem o Monte Ghakis em [[Arc S - A Sword of Sunlight]]. Durante a jornada, podem conquistar a amizade do Povo da Montanha de Soldav, incluindo o Ancião Burebis, um antigo **storm giant** e devoto das Três Damas. De Burebis, os PJs podem aprender sobre os três Santuários da Baróvia, e sobre o conhecimento profano que Strahd arrancou do Templo de Âmbar para profaná-los.
 
-After overcoming the trials of Mount Ghakis's slopes, the **giant goat** Sangzor, multiple fiends corrupted by the Amber Temple, and the **roc** of Mount Ghakis itself, the players can finally arrive at their destination. Within the Amber Temple, the players can obtain the broken hilt of the *Sunsword*, as well as the arcane secrets that Strahd used to corrupt the Barovian Fanes—and which can, in turn, be used to restore them.
+Após superar as provações das encostas do Monte Ghakis, o **bode gigante** Sangzor, múltiplos demônios corrompidos pelo Templo de Âmbar, e o próprio **roc** do Monte Ghakis, os PJs finalmente podem chegar ao seu destino. Dentro do Templo de Âmbar, os PJs podem obter o pomo quebrado da *Sunsword*, bem como os segredos arcanos que Strahd usou para corromper os Santuários Barovianos—e que, por sua vez, podem ser usados para restaurá-los.
 
-Upon restoring the memory of the **lich** Exethanter and sharing with him the schematics found in the *Tome of Strahd*, the players can also learn Strahd's ultimate plan: to channel the power of the Fanes into the indestructible Heart of Sorrow within Castle Ravenloft, which Strahd will use to tear open the Mists and escape. The players will also learn that Strahd plans to consume the souls of all Barovia in order to power his audacious scheme, and that he cannot ever truly be killed unless severed from the Fanes' power.
+Ao restaurar a memória do **lich** Exethanter e compartilhar com ele os esquemas encontrados no *Tome of Strahd*, os PJs também podem descobrir o plano final de Strahd: canalizar o poder dos Santuários para o indestrutível Coração da Tristeza dentro do Castelo Ravenloft, que Strahd usará para rasgar as Brumas e escapar. Os PJs também aprenderão que Strahd pretende consumir as almas de toda a Baróvia para alimentar seu audacioso esquema, e que ele jamais poderá ser verdadeiramente morto a menos que seja separado do poder dos Santuários.
 
-When the players have recovered the broken hilt of the *Sunsword*, they learn that Strahd is hunting Dr. Rudolph van Richten for use in his fell ritual, and must aid him and the Vistana Arturi Radanavich to lift both men's curses in [[Arc T - The Monster Hunter]]. When dawn comes, however, the players learn that the swamp witch Baba Lysaga has kidnapped the Martikovs of Vallaki and the Wizard of Wines winery, forcing them to travel to Berez to defeat her in [[Arc U - The Witch of Berez]]. 
+Quando os PJs recuperam o pomo quebrado da *Sunsword*, descobrem que Strahd está caçando o Dr. Rudolph van Richten para usar em seu ritual nefasto, e devem ajudá-lo junto com ao Vistani Arturi Radanavich a levantar as maldições de ambos em [[Arco T - O Caçador de Monstros]]. Quando a aurora chega, entretanto, os PJs descobrem que a bruxa do pântano Baba Lysaga sequestrou os Martikovs de Vallaki e a vinícola Wizard of Wines, forçando-os a viajar até Berez para derrotá-la em [[Arco U - A Bruxa de Berez]]. 
 
-In [[Arc V - The Ladies of the Fanes]], the players must use the three enchanted gems of the Wizard of Wines winery and three ancient artifacts retrieved from the Gulthias Tree of Yester Hill to reconsecrate the three Fanes, even as Strahd musters his forces to defeat them. Act IV ends when the players reconsecrate all three Fanes.
-# Act V: The Curse of Strahd
-<div class="subtitle"><em>For characters of 9th level and higher.</em></div>
-In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc W - Forgotten Dreams]].
+Em [[Arco V - As Três Damas dos Santuários]], os PJs devem usar as três gemas encantadas da vinícola Wizard of Wines e três artefatos antigos recuperados da Árvore Gulthias em Yester Hill para reconsagrar os três Santuários, mesmo enquanto Strahd reúne suas forças para derrotá-los. O Ato IV termina quando os PJs reconsagram todos os três Santuários.  
+# Ato V: A Maldição de Strahd  
+<div class="subtitle"><em>Para personagens de 9º nível ou superior.</em></div>  
+Neste ato, logo após o último Santuário ser restaurado, a jogada-mestra de Strahd se desenrola. Ao liberar a energia armazenada contida no Coração da Tristeza, Strahd mergulha a Baróvia em uma noite eterna — e transforma o próprio vale em solo profanado. Enquanto isso, o Muro Sussurrante — ressoando com as energias do Coração da Tristeza — desloca-se para a superfície do Lago Zarovich, onde seus tentáculos mortais ameaçam extinguir toda vida em Vallaki em [[Arco W - Sonhos Esquecidos]].
 
-Even once the Whispering Wall is quelled, however, a greater danger emerges in [[Arc X - The Curse of Strahd]]. As an undead apocalypse threatens to overwhelm the Barovian people, the players must journey to Castle Ravenloft to face Strahd at the Heart of Sorrow. As the final battle unfolds, the Heart of Sorrow shows visions of Strahd's undead siege from across Barovia—and of the heroic resistance shown by the allies and friends that the players have made across their journey:
+Mesmo quando o Muro Sussurrante é silenciado, entretanto, um perigo maior surge em [[Arco X - A Maldição de Strahd]]. Enquanto um apocalipse morto-vivo ameaça engolir o povo da Baróvia, os PJs devem viajar até o Castelo Ravenloft para enfrentar Strahd no Coração da Dor. À medida que a batalha final se desenrola, o Coração da Dor revela visões do cerco morto-vivo de Strahd por toda a Baróvia — e da resistência heroica demonstrada pelos aliados e amigos que os PJs conquistaram ao longo de sua jornada:
 
-***Village of Barovia.*** If the players escorted Ireena to Vallaki, reconciled Doru with Father Donavich, befriended Dr. Rudolph van Richten in Vallaki, and inspired Ireena to reject Sergei's invitation, the village of Barovia is saved by the leadership and prowess of Ismark Kolyanovich, Doru and Donavich, Dr. Van Richten and the **ghost** Erasmus van Richten, and the spirit of Sergei von Zarovich.
+***Vila da Baróvia.*** Se os PJs escoltaram Irene até Vallaki, reconciliaram Doru com Donavich, fizeram amizade com o Dr. Rudolph van Richten em Vallaki e inspiraram Irene a rejeitar o convite de Sergei, a vila da Baróvia é salva pela liderança e destreza de Ismark Kolyanovich, Doru e Donavich, do Dr. Van Richten e do **fantasma** Erasmus van Richten, além do espírito de Sergei von Zarovich.
 
-***Town of Vallaki.*** If the players restored the soul of Stella Wachter, aided Lady Fiona Wachter in defeating Izek Strazni, located the missing Vistana Arabelle, recovered the stolen bones of St. Andral, and rescued the Blue Water Inn from Baba Lysaga, the town of Vallaki is saved by the power and foresight of Lady Fiona Wachter and her cult; the young **mage** Victor Vallakovich; the Vistani Luvash, Arrigal, and Arabelle; the dusk elves; the priest Father Lucian Petrovich; and the **wereravens** Urwin Martikov and Danika Dorakova.
+***Cidade de Vallaki.*** Se os PJs restauraram a alma de Stella Wachter, ajudaram Lady Fiona Wachter a derrotar Izek Strazni, localizaram a Vistana desaparecida Arabelle, recuperaram os roubados Ossos do São Andral e resgataram a Estalagem Água Azul das garras de Baba Lysaga, a cidade de Vallaki está salva pelo poder e pela visão de Lady Fiona Wachter e seu culto; o jovem **mago** Victor Vallakovich; os Vistani Luvash, Arrigal e Arabelle; os elfos do crepúsculo; o Padre Lucian Petrovich; e os **wereravens** Urwin Martikov e Danika Dorakova.
 
-***Village of Krezk.*** If the players rescued Ilya Krezkov from the Werewolf Den, rescued Emil Toranescu from the dungeons of Castle Ravenloft, and restored the Abbot's divine grace, the village of Krezk is saved by the might and savagery of the redeemed Abbot, the Belview **mongrelfolk**, the Krezkov **werewolves**, and Emil's new **werewolf** pack.
+***Vila de Krezk.*** Se os PJs resgataram Ilya Krezkov da Toca dos Werewolves, salvaram Emil Toranescu das masmorras do Castelo Ravenloft e restauraram a graça divina do Abade, a vila de Krezk é salva pelo poder e selvageria do Abade redimido, dos **mongrelfolk** de Belview, dos **werewolves** Krezkov e da nova matilha de **werewolf** de Emil.
 
-***Wizard of Wines.*** If the players saved the Wizard of Wines from the druids and Wintersplinter, defeated Baba Lysaga, and relit the beacon of Argynvostholt, the winery is saved by the combined efforts of the Keepers of the Feather and the spirits of the Order of the Silver Dragon.
+***Mago dos Vinhos.*** Se os PJs salvaram o Mago dos Vinhos dos druidas e de Wintersplinter, derrotaram Baba Lysaga e reacenderam o farol do Silvado de Argynvost, a vinícola é salva pelos esforços combinados do Prelado da Pena e dos espíritos da Ordem do Dragão Prateado.
 
-***Settlement of Soldav.*** If the players aided the Mountain Folk within the Amber Temple and reconsecrated the Fanes of Barovia, the settlement of Soldav is saved by the sudden arrival of the Mountain Folk warrior Helwa, the chieftain Kavan and his warband of spirits, the bestial spirits of the Huntress, and the **roc** of Mount Ghakis itself.
+***Assentamento de Soldav.*** Se os PJs ajudaram o Povo da Montanha dentro do Templo de Âmbar e realizaram a reconsagração dos Santuários de Baróvia, o assentamento de Soldav é salvo pela chegada repentina da guerreira do Povo da Montanha Helwa, do chefe Kavan e sua banda de guerra de espíritos, os espíritos bestiais da Caçadora, e do **roc** do próprio Monte Ghakis.  
 <div style="height: 1px;"></div>
 
-Should the players defeat Strahd, the Mists vanish and the sun rises over Barovia once again—a free land, at long last.
+Se os PJs derrotarem Strahd, as Brumas desaparecerão e o sol nascerá sobre a Baróvia mais uma vez—uma terra livre, enfim.
