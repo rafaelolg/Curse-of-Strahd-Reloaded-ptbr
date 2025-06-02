@@ -1,175 +1,190 @@
-In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has found itself embroiled in tension, tragedy, and intrigue in the wake of Strahd's awakening.
+[parcial]Uma aventura para 5 personagens de 3° nível.
 
-As the players seek to complete lingering obligations—escorting Ireena to St. Andral's Church in [[Arc D - St. Andral's Feast]] and delivering a toy to the Vistani child Arabelle in [[Arc E - The Missing Vistana]]—they'll meet new allies and enemies, including Victor Vallakovich, the son of Baron Vargas Vallakovich; Lady Fiona Wachter, the Baron's rival for power; Father Lucian Petrovich, the priest of St. Andral's Church; Luvash and Arrigal, the leaders of the Vallakian Vistani camp; and Dr. Rudolph van Richten, the veteran vampire hunter and lone survivor of Doru's rebellion.
+À medida que os PJs buscam cumprir obrigações pendentes—escoltando Irene até a Igreja de São Andral em [[Arc D - St. Andral's Feast]] e entregando um brinquedo à criança Vistani Arabelle em [[Arc E - The Missing Vistana]]—eles encontrarão novos aliados e inimigos, incluindo Victor Vallakovich, o filho do Barão Vargas Vallakovich; Lady Fiona Wachter, a rival do Barão pelo poder; Padre Lucian Petrovich, o sacerdote da Igreja de São Andral; Luvash e Arrigal, os líderes do acampamento Vistani de Vallaki; e o Dr. Rudolph van Richten, o veterano caçador de vampiros e único sobrevivente da rebelião de Doru.
 
-At St. Andral's Church, the players will be tasked with recovering the stolen bones of St. Andral before the night of St. Andral's Feast in order to sustain the church's hallowed defenses. At the Vallakian Vistani encampment, the players will be asked to find and rescue Arabelle following her mysterious disappearance.
+Na Igreja de São Andral, os PJs terão a missão de recuperar os ossos roubados de São Andral antes da noite da Festa de São Andral, a fim de sustentar as defesas sagradas da igreja. No acampamento Vistani de Vallaki, os PJs serão solicitados a encontrar e resgatar Arabelle após seu misterioso desaparecimento.
 
-Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, Izek Strazni prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
+Logo após a chegada dos PJs em Vallaki, Lady Wachter pode convidá-los para jantar com sua pessoa na propriedade da família, Wachterhaus, buscando recrutá-los para uma conspiração perigosa em [[Arc F - Lady Wachter's Wish]]. Enquanto isso, Izek Strazni ronda as ruas de Vallaki em busca de sua irmã há muito perdida, Ireena, em [[Arc G - The Strazni Siblings]]. E após um encontro próximo com o espírito de Erasmus van Richten, os PJs terão a missão de obter uma *heartstone* das megeras da noite do antigo Móiossos — uma missão que culmina em um combate etéreo contra o fantasma vingativo de Leo Dilisnya e na recuperação do *Tome of Strahd* em [[Arc H - The Lost Soul]].
 
-Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
-# Milestones
-The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
+O Ato II termina na manhã seguinte à primeira lua cheia dos PJs em Vallaki. No entanto, os PJs ainda podem concluir arcos não resolvidos deste ato mesmo após o início do Ato III—desde que, é claro, esses arcos ainda sejam possíveis de serem concluídos.
 
-* restore the bones of St. Andral (1,250 XP)
-* find the missing Arabelle (1,250 XP)
-* defeat Izek Strazni (1,500 XP)
-* obtain the *Tome of Strahd* (750 XP)
-* restore the soul of Stella Wachter (1,750 XP)
-* gain entry to the gates of Krezk (750 XP)
+# Marcos de Progresso  
+Os PJs começam este ato no 4º nível e o encerram no 5º nível, com cada um deles ganhando uma quantidade igual de XP por marco ao realizarem com sucesso qualquer uma das seguintes ações:
 
-> [!info]+ **Vallakian Merchants**
-> While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.
-> 
-> In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
-> 
-> When purchasing items from the players, Vallakian merchants will pay the item's full value for magic items and treasure, but half of the item's value for all other goods (e.g., weapons or armor). Merchants also have limited funds. A store cannot provide more than 50 gold pieces for a single item, but may provide store credit for its remaining value.
-# Timeline
-Once the players arrive in Vallaki and Act II begins, the timeline of events unfolds as follows.
-## Neyavr 2
-Before the players arrive, the ringmaster Rictavio reserves a room at the Blue Water Inn. 
+* restaurar os ossos de São Andral (1.250 XP)  
+* encontrar a desaparecida Arabelle (1.250 XP)  
+* derrotar Izek Strazni (1.500 XP)  
+* obter o *Tomo de Strahd* (750 XP)  
+* restaurar a alma de Stella Wachter (1.750 XP)  
+* conseguir entrada nos portões de Krezk (750 XP)
 
-**The players arrive in Vallaki at dusk.**
+> [!info]+ **Mercadores de Vallaki**  
+> Enquanto estiverem em Vallaki, PJs podem adquirir mercadorias no armazém do Arasek conforme descrito em <span class="citation">N5. Arasek Stockyard (p. 115)</span>, porém pelo preço comum indicado no *Player's Handbook*.  
+>  
+> Além disso, ao explorarem as lojas da cidade, PJs encontrarão diisponíveis a maioria dos itens que tenham preço de até 25 po, incluindo armas e armaduras. Também é possível comprar materiais para grimórios e componentes de magia com valor de até 50 po cada.  
+>  
+> Ao venderem itens para os mercadores de Vallaki, eles pagarão o valor integral por itens mágicos e tesouros, mas apenas metade do valor por todos os outros bens (por exemplo, armas ou armaduras). Os mercadores também dispõem de fundos limitados. Uma loja não pode pagar mais que 50 peças de ouro por um único item, mas pode conceder crédito para o valor restante.  
+# Linha do Tempo  
+Assim que vocês chegarem em Vallaki e o Ato II começar, a sequência dos eventos se desenrola da seguinte forma.  
+## Neyavr 2  
+Antes da chegada de vocês, o mestre de cerimônias Rictavio reserva um quarto na Estalagem Água Azul. 
 
-That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.
-## Neyavr 3
-At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
+**Os PJs chegam a Vallaki ao anoitecer.**
 
-Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc G - The Strazni Siblings]] if Izek has not already seen Ireena.
+Naquela noite, o zelador da igreja, Milivoj, rouba os ossos de São Andral e os entrega ao fabricante de caixões local, Henrik van der Voort.  
+## Neyavr 3  
+Ao amanhecer, o Padre Lucian Petrovich descobre os ossos desaparecidos. Os PJs que levarem Irene à Igreja de São Andral após este momento iniciam [[Arc D - St. Andral's Feast]].
 
-> [!abstract]+ **Ireena's Diplomacy**
+Izek Strazni e dois **guardas** afixam cartazes na Praça da Cidade de Vallaki anunciando o Festival do Sol Fulgurante. Os PJs que levarem Irene até a Praça da Cidade neste momento iniciam [[Arco G - Os Irmãos Strazni]] caso Izek ainda não tenha visto Irene.
+
+> [!abstract]+ **A Diplomacia de Ireena**
 >
-> The day after she speaks with the refugees for the first time, Ireena attempts to meet with the Baron, using her noble birth as a means of obtaining his attention. Though she expects to meet with him alone, she welcomes the players' support and assistance if offered.
+> No dia seguinte ao seu primeiro contato com os refugiados, Ireena tenta se reunir com o Barão, usando sua nobre ascendência como meio de obter sua atenção. Embora espere encontrá-lo a sós, ela acolhe o apoio e a assistência dos PJs caso sejam oferecidos.
 >
-> If Ireena has already encountered or heard of the Baron’s temperament, she is under no illusions as to the difficulty of winning his favor. However, she is determined to do her best to at least try to help her people—and, as a noble, she is no stranger to the realities of negotiation, compromise, and manipulation.
+> Se Ireena já tiver encontrado ou ouvido falar do temperamento do Barão, não se ilude quanto à dificuldade de conquistar seu favor. Contudo, está determinada a fazer o seu melhor para ao menos tentar ajudar seu povo — e, como nobre, não lhe são estranhas as realidades da negociação, de  fazer concessões e da manipulação.
 >
-> During Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. 
+> Durante a reunião de Ireena com o Barão — estejam os PJs presentes ou não — o Barão rejeita sumariamente qualquer sugestão de que os refugiados possam entrar na cidade. No entanto, está disposto a permitir que Ireena entre e saia da cidade para o acampamento dos refugiados sem que precise pagar o pedágio nos portões.
 > 
-> If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in <span class="citation">Roleplaying the Vallakovich Family (p. 105)</span>. He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
+> Se os PJs estiverem presentes nessa reunião e fizerem amizade ou antagonizarem o Barão, ele responde conforme descrito em <span class="citation">Roleplaying the Vallakovich Family (p. 105)</span>. Ele também se gaba para os PJs sobre o próximo Festival do Sol Fulgurante, no qual planeja fazer oferendas queimadas ao Senhor da Manhã em um enorme sol de vime — carnes curadas, incenso, joias e assim por diante. "Os céus verão nossa alegria e riqueza e olharão favoravelmente para nós," ele cacareja. "Por meio de nosso bom espírito, avançaremos cada vez mais para nossa liberdade desta treva nefasta."
 
-That night, if the players defied Baron Vallakovich or aided Willemina Rikalova on their first morning in Vallaki, the players receive an invitation left by Ernst Larnak inviting them to dine with Lady Fiona Wachter at Wachterhaus. Players who accept Lady Wachter's invitation at this point begin [[Arc F - Lady Wachter's Wish]].
+Naquela noite, se os PJs desafiarem o Barão Vallakovich ou ajudarem Willemina Rikalova na primeira manhã em Vallaki, eles recebem um convite deixado por Ernst Larnak, convidando-os para jantar com Lady Fiona Wachter no Wachterhaus. Os PJs que aceitarem o convite de Lady Wachter neste momento começam [[Arco F - O Desejo de Lady Wachter]].
 ## Neyavr 4
-Arabelle's nameday takes place at the Vistani encampment. (If the players haven't yet rescued her in [[Arc E - The Missing Vistana]], she is missing, and no celebration occurs.)
+O dia do nome de Arabelle acontece no acampamento Vistani. (Se os PJs ainda não a resgataram em [[Arco E - A Vistana Desaparecida]], ela está desaparecida, e nenhuma celebração ocorre.)
 
-If Izek Strazni saw Ireena outside of the Blue Water Inn on the players' first morning in Vallaki, he visits the Inn while the players are away—preferably at dusk, during Lady Wachter's dinner—and ransacks it in a search for Ireena. [[Arc G - The Strazni Siblings]] then begins.
-## Neyavr 5
-If the players accepted Lady Wachter's mission to kill Izek Strazni, Ernst Larnak meets them at the Blue Water Inn with a poisoned bottle of wine and a burlap sack for Izek's head.
+Se Izek Strazni viu Irene do lado de fora da Estalagem Água Azul na primeira manhã dos PJs em Vallaki, ele visita a Estalagem enquanto os PJs estão ausentes—preferencialmente ao anoitecer, durante o jantar de Lady Wachter—e a saqueia em busca de Irene. [[Arco G - Os Irmãos Strazni]] então começa.  
+## Neyavr 5  
+Se os PJs aceitaram a missão de Lady Wachter para matar Izek Strazni, Ernst Larnak os encontra na Estalagem Água Azul com uma garrafa de vinho envenenado e um saco de estopa para a cabeça de Izek.
 
-That night, if the players completed [[Arc E - The Missing Vistana]] and have not yet begun [[Arc H - The Lost Soul]], the spirit of Erasmus van Richten appears to the players as a **poltergeist** and invites them to meet with Victor Vallakovich.
+Naquela noite, se os PJs completaram [[Arc E - The Missing Vistana]] e ainda não começaram [[Arc H - The Lost Soul]], o espírito de Erasmus van Richten aparece para os PJs como um **poltergeist** e os convida a encontrar Victor Vallakovich.
 ## Neyavr 6
-While the players are away, if the players haven't defeated Izek Strazni in [[Arc F - Lady Wachter's Wish]], Izek kidnaps Ireena and takes her to the Burgomaster's mansion as described in [[Arc G - The Strazni Siblings]].
+Enquanto os PJs estiverem ausentes, se eles não derrotaram Izek Strazni em [[Arc F - Lady Wachter's Wish]], Izek sequestra Irene e a leva para a mansão do Burgomestre, conforme descrito em [[Arc G - The Strazni Siblings]].
 ## Neyavr 7
-If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.
+Se os PJs não restauraram os ossos de São Andral à Igreja de São Andral, as proteções da igreja falham ao amanhecer.
 
-If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> as described in <span class="citation">Festival of the Blazing Sun (p. 123)</span>. If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
+Se o Barão Vallakovich ainda estiver no poder, Vallaki observa o Festival do Sol Fulgurante em <span class="citation">N8. Praça da Cidade (p. 119)</span> conforme descrito em <span class="citation">Festival do Sol Fulgurante (p. 123)</span>. Se Izek raptou Irene em [[Arc G - The Strazni Siblings]] e os PJs não a resgataram, ela queima viva no sol de palha ao meio-dia.
 
-At sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast. 
+Ao cair do crepúsculo, os paroquianos da Igreja de São Andral assistem a um serviço em observância ao feriado da Festa de São Andral. 
 
-If the protective wards of St. Andral's Church have not been restored, Strahd's vampiric bride Volenta Popofsky attacks the church during the service, killing dozens of Vallakians and Baroness Lydia Petrovna. 
-## Neyavr 8
-If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
+Se as proteções da Igreja de São Andral não foram restauradas, a noiva vampírica de Strahd, Volenta Popofsky, ataca a igreja durante o serviço, matando dezenas de vallakianos e a Baronesa Lydia Petrovna.  
+## Neyavr 8  
+Se os PJs falharam em impedir o ataque de Volenta ou de alguma forma defender a Igreja de São Andral em [[Arc D - St. Andral's Feast]], uma multidão enfurecida se forma do lado de fora da mansão do Barão Vallakovich. O caçador Szoldar Szoldarovich também encontra Milivoj, o zelador da igreja, pendurado em uma árvore fora de Vallaki — morto por aparente suicídio — e devolve seu corpo à família. 
 
-Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in <span class="citation">Q9. Servants' Quarters (p. 133)</span> in Argynvostholt.
+Pouco depois do pôr do sol, se os PJs falharam em impedir o ataque de Volenta ou de alguma forma defender a Igreja de São Andral em [[Arc D - St. Andral's Feast]], a multidão enfurecida assalta a mansão, capturando o Barão e o linchando na praça da cidade. Victor Vallakovich escapa, buscando refúgio em uma das casas abandonadas junto às muralhas ocidentais de Vallaki. Se ainda estiver vivo, Izek Strazni também foge, abrigando-se em <span class="citation">Q9. Quartos dos Servos (p. 133)</span> no Silvado de Argynvost.
 
-At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
-## Neyavr 9
-If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving Victor Vallakovich hears the call of an *amber shard* buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.
-## Quest Timeline
-The quests of Act II become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable. The players arrive in Vallaki on Neyavr 2. See [[#Timeline]] above for more information about arc beginnings, events, and endings.)
+Ao anoitecer, a **lua cheia** surge sobre Vallaki. (Devido à estranha cosmologia da Baróvia, a próxima lua cheia ocorrerá apenas duas semanas depois.)  
+## Neyavr 9  
+Se os PJs ainda não restauraram a alma de Stella Wachter ao seu corpo, seu espírito desaparece para o Plano Etéreo ao amanhecer, sendo reencarnado em um recém-nascido na vila de Krezk. Se ele ainda estiver vivo, um Victor Vallakovich enlutado ouve o chamado de um *fragmento de âmbar* enterrado no cemitério da Igreja de São Andral. Ao desenterrá-lo, ele parte para o Templo de Âmbar em busca de um meio de trazer Stella de volta à vida.  
+## Linha do Tempo da Missão  
+As missões do Ato II tornam-se disponíveis e são resolvidas conforme indicado na tabela abaixo. (🟢 indica um dia em que a missão permanece disponível, 🔶 indica um dia em que ocorre um evento significativo, 🟥 indica o prazo final da missão, e ❌ indica um dia em que a missão não está disponível. Os PJs chegam a Vallaki no Neyavr 2. Veja [[#Timeline]] acima para mais informações sobre os inícios, eventos e encerramentos dos arcos.)
 
-| Arc \ Day of Neyavr    | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| Arco \ Dia de Neyavr    | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | :--------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | C: Into the Valley     | 🟥  | —   | —   | —   | —   | —   | —   | —   |
 | D: St. Andral's Feast  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟥  | ❌   | ❌   |
 | E: The Missing Vistana | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
 | F: Lady Wachter's Wish | —   | 🔶  | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| G The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
+| G: The Strazni Siblings | —   | —   | 🔶  | 🟢  | 🔶  | 🟥  | ❌   | ❌   |
 | H: The Lost Soul       | —   | —   | —   | 🔶  | 🟢  | 🟢  | 🟥  | ❌   |
 | I: The Walls of Krezk  | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🔶  | 🟢  |
 
-The most common path through Act II is as follows:
+O caminho mais comum através do Ato II é o seguinte:
 
-* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the Blue Water Inn.
-* **Neyavr 3.** The players complete [[Arc D - St. Andral's Feast]] and receive an invitation from Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶).
-* **Neyavr 4.** The players complete [[Arc E - The Missing Vistana]] and dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶). Izek Strazni attacks the Blue Water Inn in [[Arc G - The Strazni Siblings]] (🔶).
-* **Neyavr 5.** The players assassinate Izek Strazni in [[Arc F - Lady Wachter's Wish]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Arc H - The Lost Soul]] (🔶).
-* **Neyavr 6.** The players speak with Victor Vallakovich and the Barovian refugees in [[Arc H - The Lost Soul]] and attend Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]].
-* **Neyavr 7.** The players defeat the hags of Old Bonegrinder in [[Arc H - The Lost Soul]], then travel to Krezk in [[Arc I - The Walls of Krezk]] before returning to Vallaki.
-* **Neyavr 8.** The players travel to Berez then return to Krezk in [[Arc I - The Walls of Krezk]], then return to Vallaki and defeat the spirit of Leo Dilisnya in [[Arc H - The Lost Soul]] on the night of the full moon.
+* **Neyavr 2.** Os PJs chegam a Vallaki e reservam quartos na Estalagem Água Azul.
+* **Neyavr 3.** Os PJs completam [[Arco D - O Banquete de São Andral]] e recebem um convite de Lady Fiona Wachter em [[Arco F - O Desejo de Lady Wachter]] (🔶).
+* **Neyavr 4.** Os PJs completam [[Arco E - A Vistana Desaparecida]] e jantam com Lady Fiona Wachter em [[Arco F - O Desejo de Lady Wachter]] (🔶). Izek Strazni ataca a Estalagem Água Azul em [[Arco G - Os Irmãos Strazni]] (🔶).
+* **Neyavr 5.** Os PJs assassinam Izek Strazni em [[Arco F - O Desejo de Lady Wachter]]. À noite, os PJs são visitados pelo fantasma de Erasmus van Richten em [[Arco H - A Alma Perdida]] (🔶).
+* **Neyavr 6.** Os PJs conversam com Victor Vallakovich e os refugiados barovianos em [[Arco H - A Alma Perdida]] e assistem à inauguração de Lady Wachter em [[Arco F - O Desejo de Lady Wachter]].
+* **Neyavr 7.** Os PJs derrotam as megeras da noite do antigo Móiossos em [[Arco H - A Alma Perdida]], depois viajam para Krezk em [[Arco I - As Muralhas de Krezk]] antes de retornarem a Vallaki.
+* **Neyavr 8.** Os PJs viajam para Berez e depois retornam a Krezk em [[Arco I - As Muralhas de Krezk]], então retornam a Vallaki e derrotam o espírito de Leo Dilisnya em [[Arco H - A Alma Perdida]] na noite da lua cheia.
 
-Alternately, particularly swift players might take the following path through Act II instead:
+Alternativamente, jogadores particularmente ágeis podem seguir o seguinte caminho pelo Ato II:
 
-* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the Blue Water Inn.
-* **Neyavr 3.** The players complete [[Arc D - St. Andral's Feast]] and [[Arc E - The Missing Vistana]] and receive an invitation from Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶).
-* **Neyavr 4.** The players travel to Krezk and Berez in [[Arc I - The Walls of Krezk]], then return to Vallaki to dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]. Izek Strazni attacks the Blue Water Inn in [[Arc G - The Strazni Siblings]] (🔶).
-* **Neyavr 5.** The players assassinate Izek Strazni in [[Arc F - Lady Wachter's Wish]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Arc H - The Lost Soul]] (🔶).
-* **Neyavr 6.** The players speak with Victor Vallakovich and the Barovian refugees in [[Arc H - The Lost Soul]] and attend Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]]. The players, Victor, and Lady Wachter defeat the hags of Old Bonegrinder in [[Arc H - The Lost Soul]].
-* **Neyavr 7.** The players return to Krezk in [[Arc I - The Walls of Krezk]], then visit Argynvostholt in [[Arc M - The Dragon's Manor]] (Act III) before returning to Vallaki.
-* **Neyavr 8.** The players take a day of downtime in Vallaki before defeating the spirit of Leo Dilisnya in [[Arc H - The Lost Soul]] on the night of the full moon.
-## Diverging Paths
-The town of Vallaki can be a tangled web of assorted paths in the original module. While this guide aims to present it in a more streamlined and predictable manner, DMs may still find the number of possible events, characters, and outcomes to feel overwhelming. To help you digest this act, two of many potential paths have been provided below to guide you in understanding how your players' choices might drive the narrative forward.
-## The Zealous Crusaders
-In this potential narrative, the players are passionate, quick-moving characters with a penchant for action over thought.
-### Neyavr 2
-After reserving rooms at the Blue Water Inn on their first night in Vallaki, the players befriend Karl and Nikolai Wachter and learn of the Wachter family's hatred of the Vallakoviches. 
-### Neyavr 3
-Upon encountering Izek Strazni and Baron Vargas Vallakovich for the first time, the players leap to Willemina Rikalova's defense, nearly inciting an all-out brawl until Father Lucian Petrovich steps in to calm the tension. Their decision to act draws the attention of Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]
+* **Neyavr 2.** Os PJs chegam a Vallaki e reservam quartos na Estalagem Água Azul.
+* **Neyavr 3.** Os PJs completam [[Arco D - O Banquete de São Andral]] e [[Arco E - A Vistana Desaparecida]] e recebem um convite de Lady Fiona Wachter em [[Arco F - O Desejo de Lady Wachter]] (🔶).
+* **Neyavr 4.** Os PJs viajam para Krezk e Berez em [[Arco I - As Muralhas de Krezk]], depois retornam a Vallaki para jantar com Lady Fiona Wachter em [[Arco F - O Desejo de Lady Wachter]]. Izek Strazni ataca a Estalagem Água Azul em [[Arco G - Os Irmãos Strazni]] (🔶).
+* **Neyavr 5.** Os PJs assassinam Izek Strazni em [[Arco F - O Desejo de Lady Wachter]]. À noite, os PJs são visitados pelo fantasma de Erasmus van Richten em [[Arco H - A Alma Perdida]] (🔶).
+* **Neyavr 6.** Os PJs conversam com Victor Vallakovich e os refugiados barovianos em [[Arco H - A Alma Perdida]] e assistem à inauguração de Lady Wachter em [[Arco F - O Desejo de Lady Wachter]]. Os PJs, Victor e Lady Wachter derrotam as megeras da noite do antigo Móiossos em [[Arco H - A Alma Perdida]].
+* **Neyavr 7.** Os PJs retornam a Krezk em [[Arco I - As Muralhas de Krezk]], depois visitam o Silvado de Argynvost em [[Arco M - A Mansão do Dragão]] (Ato III) antes de voltar a Vallaki.
+* **Neyavr 8.** Os PJs tiram um dia de descanso em Vallaki antes de derrotar o espírito de Leo Dilisnya em [[Arco H - A Alma Perdida]] na noite da lua cheia.
 
-The players and Ireena accompany Father Petrovich to St. Andral's Church, where they receive the hook for [[Arc D - St. Andral's Feast]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
+## Caminhos Divergentes  
+A cidade de Vallaki pode ser uma teia emaranhada de caminhos variados no módulo original. Embora este guia busque apresentá-la de forma mais linear e previsível, os DMs ainda podem sentir que o número de eventos, personagens e desfechos possíveis é avassalador. Para ajudar a digerir este ato, dois dos muitos caminhos potenciais foram fornecidos abaixo para guiar na compreensão de como as escolhas dos PJs podem impulsionar a narrativa.
 
-Later that same afternoon, the players visit Blinsky Toys to purchase a toy for Arabelle, followed by the Vistani encampment. There, they learn of [[Arc E - The Missing Vistana]], and accept the signet ring from Kasimir Velikov.
+## Os Cruzados Zelosos  
+Nesta narrativa potencial, os PJs são personagens apaixonados, ágeis e com tendência a agir antes de pensar.
 
-That night, the players break into the Baron's Mansion, hoping to investigate the ring's history—only to be caught by Victor Vallakovich, who leads them to his workroom and informs them of Khazan's tower at Lake Baratok. A chance sighting of Stella Wachter's silhouette in Victor's *spirit mirror* sparks a conversation, and the players begin [[Arc H - The Lost Soul]].
+### Neyavr 2  
+Após reservarem quartos na Estalagem Água Azul na primeira noite em Vallaki, os PJs fazem amizade com Karl e Nikolai Wachter e descobrem o ódio da família Wachter pelos Vallakoviches.
+
+### Neyavr 3  
+Ao encontrarem Izek Strazni e o Barão Vargas Vallakovich pela primeira vez, os PJs saltam em defesa de Willemina Rikalova, quase provocando uma briga generalizada até que o Padre Lucian Petrovich intervém para acalmar a tensão. A decisão deles de agir atrai a atenção de Lady Fiona Wachter em [[Arco F - O Desejo de Lady Wachter]].
+
+Os PJs e Irene acompanham o Padre Petrovich até a Igreja de São Andral, onde recebem o gancho para [[Arco D - Festa de São Andral]]. Após investigar e interrogar Milivoj, os PJs recrutam o Padre Petrovich e viajam até a loja do fabricante de caixões, onde enfrentam Volenta Popofsky em combate e recuperam os ossos roubados.
+
+Mais tarde naquela mesma tarde, os PJs visitam a Blinsky Toys para comprar um brinquedo para Arabelle, seguido pelo acampamento Vistani. Lá, eles descobrem sobre [[Arco E - A Vistana Desaparecida]] e aceitam o anel de sinete de Kasimir Velikov.
+
+Naquela noite, os PJs invadem a Mansão do Barão, na esperança de investigar a história do anel—apenas para serem capturados por Victor Vallakovich, que os conduz até seu laboratório e os informa sobre a torre de Khazan no Lago Baratok. Um vislumbre casual da silhueta de Stella Wachter no *espelho espiritual* de Victor desencadeia uma conversa, e os PJs iniciam [[Arco H - A Alma Perdida]].
 ### Neyavr 4
-The players receive a dinner invitation from Lady Fiona Wachter at the Blue Water Inn, thereby beginning [[Arc F - Lady Wachter's Wish]]. While waiting for Szoldar and Yevgeni to return, the players visit the Barovian refugee camp outside of Vallaki's walls, meeting the refugee Franz and learning of Morgantha's true **night hag** nature in [[Arc H - The Lost Soul]].
+Os PJs recebem um convite para jantar de Lady Fiona Wachter na Estalagem Água Azul, dando início a [[Arco F - O Desejo de Lady Wachter]]. Enquanto aguardam o retorno de Szoldar e Yevgeni, os PJs visitam o acampamento de refugiados barovianos fora dos muros de Vallaki, conhecendo o refugiado Franz e descobrindo a verdadeira natureza de **night hag** de Morgantha em [[Arco H - A Alma Perdida]].
 
-After contriving an excuse to speak with Victor again, the players travel north to Szoldar and Yevgeni's dressing shack to obtain directions to Lake Baratok in [[Arc E - The Missing Vistana]]. The players venture forth on their own, and quickly discover Rictavio's true identity. The players return to Vallaki by evening, confronting Dr. Rudolph van Richten and Arrigal in Arasek Stockyard, where they hear Arabelle's prophecy.
+Após arquitetarem uma desculpa para falar novamente com Victor, os PJs viajam para o norte, até Szoldar e a cabana de troca de Yevgeni, para obter direções ao Lago Baratok em [[Arco E - A Vistana Desaparecida]]. Os PJs seguem adiante por conta própria e rapidamente descobrem a verdadeira identidade de Rictavio. Ao anoitecer, os PJs retornam a Vallaki, confrontando o Dr. Rudolph van Richten e Arrigal no Armazém Arasek, onde ouvem a profecia de Arabelle.
 
-That night, the players dine with Lady Wachter at Wachterhaus, continuing Arc G - Lady Wachter's Wish. Though receptive to her hostility to the Baron, they're suspicious of her loyalty to Strahd, and decline her assassination mission. 
+Naquela noite, os PJs jantam com Lady Wachter no Wachterhaus, dando continuidade ao Arco G - O Desejo de Lady Wachter. Embora receptivos à sua hostilidade contra o Barão, eles permanecem desconfiados quanto à lealdade dela a Strahd, e recusam sua missão de assassinato. 
 
-Upon returning to the Blue Water Inn, however, the players find it ransacked by Izek himself—thereby beginning [[Arc G - The Strazni Siblings]]. Enraged, the players return to Wachterhaus and accept Lady Wachter's offer of aid in killing Izek once and for all. Ireena, upon learning of Izek's attack, demands the right to assist them.
-### Neyavr 5
-The players continue [[Arc F - Lady Wachter's Wish]] when they meet Ernst Larnak in the taproom of the Blue Water Inn, where they receive the poisoned wine for Izek. The players sneak into the Baron's Mansion and persuade Tereska, the Baron's cook, to include the poisoned wine as a "gift" to Izek. The players stalk Izek for the rest of the day, eventually killing him on the shores of Lake Zarovich and delivering his severed head to Lady Wachter. That night, Lady Wachter intimidates Baron Vallakovich into surrendering power.
-### Neyavr 6
-The players learn of the **night hag** binding ritual from Victor in [[Arc H - The Lost Soul]]. Following Lady Wachter's speech in the town square at the end of Arc G - Lady Wachter's Wish, the players convince her to lower the protective circle around Wachterhaus, allowing Stella Wachter's spirit to manifest there and recruiting Lady Wachter as an ally.
+Ao retornarem à Estalagem Água Azul, no entanto, os PJs a encontram saqueada pelo próprio Izek — dando início ao [[Arco G - Os Irmãos Strazni]]. Enfurecidos, os PJs retornam a Wachterhaus e aceitam a oferta de ajuda de Lady Wachter para matar Izek de uma vez por todas. Ireena, ao saber do ataque de Izek, exige o direito de auxiliá-los.  
+### Neyavr 5  
+Os PJs continuam [[Arco F - O Desejo de Lady Wachter]] quando encontram Ernst Larnak na taberna da Estalagem Água Azul, onde recebem o vinho envenenado para Izek. Os PJs se infiltram na Mansão do Barão e persuadem Tereska, a cozinheira do Barão, a incluir o vinho envenenado como um "presente" para Izek. Os PJs perseguem Izek pelo resto do dia, eventualmente matando-o às margens do Lago Zarovich e entregando sua cabeça decepada a Lady Wachter. Naquela noite, Lady Wachter intimida o Barão Vallakovich a entregar o poder.  
+### Neyavr 6  
+Os PJs aprendem o ritual de vínculo da **night hag** com Victor em [[Arco H - A Alma Perdida]]. Após o discurso de Lady Wachter na praça da cidade ao final do Arco G - O Desejo de Lady Wachter, os PJs a convencem a abaixar o círculo protetor ao redor de Wachterhaus, permitindo que o espírito de Stella Wachter se manifeste ali e recrutando Lady Wachter como aliada.
 
-Together with Lady Wachter and her **cult fanatics**, the players set off for Old Bonegrinder. There, they steal the **night hag** coven's contract, allowing Lady Wachter to bind the hags to the Material Plane. The players vanquish the hags and take their heartstones for use in Victor's *etherealness* ritual.
-### Neyavr 7
-With the full moon—and, in [[Arc H - The Lost Soul]], Victor's *etherealness* ritual—just over twenty-four hours away, the players take a daytrip to the village of Krezk in [[Arc I - The Walls of Krezk]], hoping to pick wolfsbane that Dr. Rudolph van Richten can use to quell the curse of lycanthropy for one among them. 
+Junto com Lady Wachter e seus **fanáticos da laia**, os PJs partem para o antigo Móiossos. Lá, eles roubam o contrato da laia das **megeras da noite**, permitindo que Lady Wachter prenda as hags ao Plano Material. Os PJs vencem as hags e tomam suas heartstones para usar no ritual de *etherealness* de Victor.  
+### Neyavr 7  
+Com a lua cheia — e, em [[Arc H - The Lost Soul]], o ritual de *etherealness* de Victor — a pouco mais de vinte e quatro horas, os PJs fazem uma viagem de um dia até a vila de Krezk em [[Arc I - The Walls of Krezk]], na esperança de colher wolfsbane que o Dr. Rudolph van Richten possa usar para conter a maldição da licantropia em um deles. 
 
-After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. The players then return to Krezk to pick wolfsbane. Given the proximity of the Abbey of Saint Markovia, the players also ascend to the Abbey's gates, where they meet the Abbot and are informed to return in two days to meet with Ezmerelda d'Avenir, their foretold ally in ***Arc M: Strahd's Enemy***.
-### Neyavr 8
-The players return to Vallaki and spend a day of downtime exploring the town and acquiring gear. That night, the players join Victor and Lady Wachter to travel to the Ethereal Plane in [[Arc H - The Lost Soul]], where they do battle with the spirit of Leo Dilisnya while Victor restores Stella's soul to her body.
-## The Cautious Explorers
-In this potential narrative, the players are cautious, soft-spoken characters with a preference for passivity over boldness.
-### Neyavr 2
-After reserving rooms at the Blue Water Inn on their first night in Vallaki, the players watch the half-elf Rictavio carefully, viewing him with suspicion.
-### Neyavr 3
-Upon encountering Izek Strazni and Baron Vargas Vallakovich for the first time, the players remain quiet along the sidelines, unwilling to risk their necks for a stranger. 
+Após receberem a missão do Barão Krezkov, os PJs viajam para o sul, até as ruínas de Berez, onde a bruxa Baba Lysaga observa Ilya Krezkov em troca do presente do Barão Krezkov. Em seguida, os PJs retornam a Krezk para colher acônito. Dada a proximidade da Abadia de Saint Markovia, os PJs também sobem até os portões da Abadia, onde encontram o Abade e são informados para retornar em dois dias para se encontrarem com Ezmerelda d'Avenir, sua aliada profetizada em ***Arco M: Inimigo de Strahd***.
 
-The players bring Ireena to St. Andral's Church, where Father Petrovich delivers them the hook for [[Arc D - St. Andral's Feast]]. Agreeing that the night of the feast is far in the future, the players, leave Ireena at the church and depart for Blinsky Toys, followed by the Vistani encampment outside of Vallaki, where they begin [[Arc E - The Missing Vistana]].
+### Neyavr 8  
+Os PJs retornam a Vallaki e passam um dia de descanso explorando a cidade e adquirindo equipamentos. Naquela noite, os PJs se juntam a Victor e Lady Wachter para viajar ao Plano Etéreo em [[Arco H - A Alma Perdida]], onde enfrentam o espírito de Leo Dilisnya enquanto Victor restaura a alma de Stella em seu corpo.
 
-After accepting the signet ring from Kasimir Velikov, the players visit the Baron's mansion to research its origins. There, Baron Vallakovich agrees to allow them access to his library in exchange for their investigation into a series of paranormal events that have lately plagued the mansion. 
+## Os Exploradores Cautelosos  
+Nesta narrativa potencial, os PJs são personagens cautelosos e reservados, com preferência pela passividade em vez da ousadia.
 
-As the players investigate the attic, they meet Victor Vallakovich and the spirit of Stella Wachter, beginning ***Arc I: The Lost Soul.*** The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing Arabelle and retrieving St. Andral's bones.
+### Neyavr 2  
+Após reservarem quartos na Estalagem Água Azul na primeira noite em Vallaki, os PJs observam o meio-elfo Rictavio com cuidado, encarando-o com suspeita.
 
-Late that afternoon, the players travel to Szoldar and Yevgeni's dressing shack, where they recruit Szoldar as a guide to Lake Baratok in [[Arc E - The Missing Vistana]]. When they return to the Blue Water Inn, they find that Izek Strazni has ransacked it in search for Ireena.
+### Neyavr 3  
+Ao encontrarem Izek Strazni e o Barão Vargas Vallakovich pela primeira vez, os PJs permanecem em silêncio à margem, relutantes em arriscar suas vidas por um estranho. 
+
+Os PJs levam Irene para a Igreja de São Andral, onde o Padre Petrovich lhes entrega a missão para [[Arco D - A Festa de São Andral]]. Concordando que a noite da festa ainda está distante, os PJs deixam Irene na igreja e partem para a Brinquedos Blinsky, seguindo depois para o acampamento Vistani nos arredores de Vallaki, onde começam [[Arco E - A Vistana Desaparecida]].
+
+Após aceitarem o anel de sinete de Kasimir Velikov, os PJs visitam a mansão do Barão para pesquisar suas origens. Lá, o Barão Vallakovich concorda em permitir-lhes acesso à sua biblioteca em troca da investigação de uma série de eventos paranormais que têm atormentado a mansão recentemente. 
+
+Enquanto os PJs investigam o sótão, encontram Victor Vallakovich e o espírito de Stella Wachter, iniciando o ***Arco I: A Alma Perdida.*** Os PJs decidem negociar com a laia das **megeras da noite**, em vez de enfrentá-las, e concordam em partir rumo ao Antigo Móiossos após resgatar Arabelle e recuperar os ossos de São Andral.
+
+No final daquela tarde, os PJs viajam até o abrigo de roupas de Szoldar e Yevgeni, onde recrutam Szoldar como guia para o Lago Baratok em [[Arco E - A Vistana Desaparecida]]. Quando retornam à Estalagem Água Azul, encontram Izek Strazni que a saqueou em busca de Irene.
+
 ### Neyavr 4
-The players and Szoldar travel west to Lake Baratok, where they uncover Rictavio's true identity. They return to Vallaki and confront Dr. Rudolph van Richten and Arrigal in Arasek Stockyard, where they hear Arabelle's prophecy.
 
-That afternoon, the players return to St. Andral's Church in [[Arc D - St. Andral's Feast]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
+Os PJs e Szoldar viajam para o oeste, rumo ao Lago Baratok, onde desvendam a verdadeira identidade de Rictavio. Retornam a Vallaki e confrontam o Dr. Rudolph van Richten e Arrigal no Armazém Arasek, onde ouvem a profecia de Arabelle.
+
+Naquela tarde, os PJs retornam à Igreja de São Andral em [[Arc D - St. Andral's Feast]]. Após investigar e interrogar Milivoj, os PJs recrutam o Padre Petrovich e viajam até a loja do fabricante de caixões, onde enfrentam Volenta Popofsky e recuperam os ossos roubados.
+
 ### Neyavr 5
-The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Arc H - The Lost Soul]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with cackle fever.
 
-That night, the players escape from Old Bonegrinder and return to Vallaki, where they learn that the Abbot of the Abbey of Saint Markovia in Krezk can cure their cackle fever.
-### Neyavr 6
-The players set off for the village of Krezk in [[Arc I - The Walls of Krezk]]. After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. 
+Os PJs viajam sozinhos até o antigo Móiossos, onde tentam negociar com a **night hag** Morgantha o empréstimo de sua heartstone em [[Arc H - The Lost Soul]]. Contudo, como os PJs se recusam a pagar o preço exigido, Morgantha os dispensa sem acordo. Os PJs tentam tomar a heartstone à força, mas são facilmente derrotados pela laia, que os tranca no sótão e os infecta com a febre do riso.
 
-The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
-### Neyavr 7
-The players return to Vallaki and find that Ireena has been kidnapped by Izek Strazni in [[Arc G - The Strazni Siblings]]. The players gain entry to the Baron's mansion with Victor's help and do battle with Izek in the corridors of the manor. 
+Naquela noite, os PJs escapam do Antigo Móiossos e retornam a Vallaki, onde descobrem que o Abade da Abadia de Saint Markovia em Krezk pode curar a febre do riso deles.  
+### Neyavr 6  
+Os PJs partem para a vila de Krezk em [[Arc I - The Walls of Krezk]]. Após receberem a missão do Barão Krezkov, os PJs viajam para o sul, até as ruínas de Berez, onde a bruxa Baba Lysaga observa Ilya Krezkov em troca do presente do Barão Krezkov. 
 
-With Ireena freed, the players and Victor discuss the prospect of defeating the **night hag** coven through a binding ritual in [[Arc H - The Lost Soul]]. The players visit Wachterhaus and convince Lady Wachter to lower the protective circle around Wachterhaus, allowing Stella Wachter's spirit to manifest there and recruiting Lady Wachter as an ally.
+Os PJs então retornam a Krezk e sobem até a Abadia de Saint Markovia, onde encontram o Abade. O Abade cura a febre do riso deles em troca da promessa de empreender ***Arco N: Algo Emprestado.*** Os PJs são informados de que sua aliada prevista em ***Arco M: Inimiga de Strahd***, Ezmerelda d'Avenir, retornará à Abadia em dois dias.  
+### Neyavr 7  
+Os PJs retornam a Vallaki e descobrem que Ireena foi sequestrada por Izek Strazni em [[Arco G - Os Irmãos Strazni]]. Os PJs conseguem entrar na mansão do Barão com a ajuda de Victor e enfrentam Izek nos corredores da mansão. 
+
+Com Ireena libertada, os PJs e Victor discutem a perspectiva de derrotar a laia das **night hags** por meio de um ritual de vínculo em [[Arc H - The Lost Soul]]. Os PJs visitam Wachterhaus e convencem Lady Wachter a abaixar o círculo protetor ao redor de Wachterhaus, permitindo que o espírito de Stella Wachter se manifeste ali e recrutando Lady Wachter como aliada.
+
 ### Neyavr 8
-Together with Lady Wachter and her **cult fanatics**, the players set off for Old Bonegrinder. There, they steal the night hag coven's contract, allowing Lady Wachter to bind the hags to the Material Plane. The players vanquish the hags and take their heartstones for use in Victor's *etherealness* ritual.
 
-That night, the players join Victor and Lady Wachter to travel to the Ethereal Plane, where they do battle with the spirit of Leo Dilisnya while Victor restores Stella's soul to her body.
+Junto com Lady Wachter e seus **fanáticos do culto**, os PJs partem para o antigo Móiossos. Lá, eles roubam o contrato da laia das night hags, permitindo que Lady Wachter prenda as hags ao Plano Material. Os PJs vencem as hags e tomam suas heartstones para usar no ritual de *etherealness* de Victor.
+
+Naquela noite, os PJs se juntam a Victor e Lady Wachter para viajar ao Plano Etéreo, onde enfrentam o espírito de Leo Dilisnya enquanto Victor restaura a alma de Stella em seu corpo.
