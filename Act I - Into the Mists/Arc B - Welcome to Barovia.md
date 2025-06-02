@@ -1,12 +1,10 @@
 Uma aventura para 5 personagens de 3° nível.
 
+Neste arco, os PJs viajam para a sombria vila da Baróvia, que foi devastada pela morte e pelo desespero após a ressurreição de Strahd. Quando os PJs chegam às barricadas, eles encontram Ismark, o filho mais velho do burgomestre da vila, que recentemente foi ferido.
 
+Na taverna Sangue da Vinha, os PJs descobrem que a vila tem sido atacada pela horda de morto-vivos de Strahd todas as noites nos últimos seis dias — e que a horda deve retornar ao anoitecer. Em troca de comida, abrigo e informações, Ismark pede aos PJs que empunhem armas ao lado dos barovianos e se preparem para defender as fortificações da vila contra a investida dos mortos.
 
-Neste arco, os PJs viajam para a sombria vila de Baróvia, que foi devastada pela morte e pelo desespero após a ressurreição de Strahd. Quando um licantropo-corvo disfarçado os guia até a taverna Sangue da Vinha, eles encontram Ismark, o filho mais velho do burgomestre da vila, recentemente ferido.
-
-Lá, os PJs aprendem que a vila tem sido atacada pela horda de mortos-vivos de Strahd todas as noites, nos últimos seis dias—e que a horda deve retornar ao crepúsculo. Em troca de comida, abrigo e informações, Ismark pede aos PJs que peguem em armas ao lado dos barovianos e se preparem para defender as fortificações da aldeia contra o ataque dos mortos.
-
-Após defenderem com sucesso as barricadas, os PJs descobrem que Strahd invadiu pessoalmente a mansão do burgomestre, matando o pai de Ismark e mordendo sua irmã, Irene. Com o burgomestre da vila morto, Strahd retira formalmente a horda da vila, permitindo que Ismark, Irene e os PJs comecem a juntar os pedaços.
+Após defenderem com sucesso as barricadas, os PJs descobrem que Strahd invadiu pessoalmente a mansão do burgomestre, matando o pai de Ismark e mordendo a sua irmã, Irene. Com o burgomestre da vila morto, Strahd retira formalmente a horda da vila, permitindo que Ismark, Irene e os PJs comecem a juntar os pedaços.
 
 Na manhã seguinte, Ismark pede aos PJs que ajudem a levar os restos de seu pai para a igreja local para o sepultamento, escoltem Irene até Vallaki e perguntem à vidente Vistani Madame Eva como Strahd pode ser derrotado. Ao entregar o caixão do Burgomestre à igreja na manhã seguinte, os PJs podem encontrar Doru, o filho do Donavich, que Strahd transformou em uma cria vampírica como punição por sua rebelião. Os PJs então enfrentam uma escolha: Eles destruirão Doru, como pede o Padre Donavich—ou o pouparão?
 
@@ -45,8 +43,8 @@ A mão de Dalvan segurando a bússola está estendida na direção de uma árvor
 >
 > Madame Eva lamenta o destino de Dalvan—mas como a avatar do Buscador, ela está obrigada a ler o futuro quando solicitada, e sabe que nenhum esforço para escapar pode desfazer um futuro que ela já previu.
 
->[!info]+ **Bússola de Dalvan**
->Como todas as bússolas na Baróvia, a bússola de Dalvan se comporta de maneira estranha ao se aproximar da proximidade da borda do vale Baroviano—como perto da Colina d'Antes em [[Arco J - A gema Roubada]] ou em direção ao pico do Monte Ghakis em [[Arc T - O Templo de Âmbar]]. Como não existe um verdadeiro "norte magnético" além das Brumas que cercam a Baróvia, a agulha de uma bússola que se aproxima da borda do vale começa a tremer e eventualmente gira de forma descontrolada quanto mais perto fica. (Esse comportamento estranho termina quando a bússola é removida da borda do vale.)
+>[!info]+ **Bússola de Dalvan**  
+>Como todas as bússolas na Baróvia, a bússola de Dalvan se comporta de maneira estranha ao se aproximar da proximidade da borda do vale Baroviano — como na Colina d'Antes em [[Arc J - The Stolen Gem]] ou em direção ao pico do Monte Ghakis em [[Arc S - A Sword of Sunlight]]. Como não existe um verdadeiro "norte magnético" além das Brumas que cercam a Baróvia, a agulha de uma bússola que se aproxima da borda do vale começa a tremer e, eventualmente, gira descontroladamente quanto mais perto chega. (Esse comportamento estranho cessa quando a bússola é retirada da borda do vale.)
 
 Se os PJs seguirem o caminho na direção da seta, logo chegarão a uma segunda árvore, que possui mais treze marcas de contagem e uma seta que aponta mais adiante ao longo do caminho. A beira do caminho aqui exibe o corpo de um **cavalo**, que está em um estado de decomposição semelhante ao de Dalvan.
 
@@ -54,14 +52,14 @@ Se os PJs continuarem a seguir o caminho na direção das setas, eles chegarão 
 
 A névoa é parte das Brumas que cercam e aprisionam a Baróvia. Se os PJs trouxeram a bússola de Dalvan com eles, a agulha agora está girando descontroladamente em círculos.
 
-Se os PJs seguirem o caminho através da névoa, eles emergirão após 2d4 minutos em uma parte desconhecida da Floresta Svalich. Cada vez que os PJs emergirem da parede de névoa ao redor da Baróvia, eles devem fazer um teste salvaguarda de Constituição com CD 5 ou sofrer 1 nível de exaustão, pois a névoa drena sua energia e esgota sua força vital. (A CD aumenta em 5 cada vez que os PJs atravessam a névoa novamente.)
+Se os PJs seguirem a trilha através da névoa, eles emergirão após 2d4 minutos em uma parte desconhecida da Floresta Svalich. Cada vez que os PJs saem do muro de névoa ao redor da Baróvia, devem realizar um teste de salvaguarda de Constituição com CD 5 ou sofrer 1 nível de exaustão, pois a névoa drena sua energia e suga sua força vital. (A CD aumenta em 5 a cada vez que os PJs atravessam a névoa novamente, e reseta após um descanso longo.)
 
 Ao emergir da névoa, os PJs podem ver uma quarta árvore, que possui mais treze marcas de contagem e uma seta que aponta mais adiante na direção da trilha. Além disso, a quarta árvore parece ter algo esculpido e um objeto saliente de seu tronco. Se os PJs a inspecionarem, leia:
 
 <div class="description">
-<p>Alguém cravou uma velha adaga no tronco desta árvore antiga e retorcida. Ao lado, repousa uma escultura rudimentar de uma figura montada em um cavalo, logo acima de duas inscrições em palavras ásperas: </p>
+<p>Alguém cravou uma velha adaga no tronco desta árvore antiga e retorcida. Ao lado, há uma escultura rudimentar de uma figura montada em um cavalo, logo acima de duas frases esculpidas de forma áspera: </p>
 <p>"O CAVALEIRO GALOPA."</p>
-<p>"A VIDENTE FALOU VERDADE."</p>
+<p>"A VIDENTE FALOU A VERDADE."</p>
 </div>
 
 Se os PJs seguirem o caminho na direção da seta, descobrirão que ele cruza a Estrada Svalich antes de retornar ao local do corpo de Dalvan. 
@@ -93,14 +91,14 @@ A jornada daqui até os arredores da vila da Baróvia tem três quilômetros e l
 Esta cena se desenrola em grande parte como descrito em <span class="citation">Aproximando-se da Vila (p. 41)</span>. No entanto, modifique a descrição da seguinte forma:
 
 <div class="description">
-<p>À medida que a manhã avança, os céus nublados se iluminam em um cinza opaco e sombrio, os arredores da vila tornam-se mais claros. Uma larga trincheira de terra circunda o assentamento, com cinco pés de largura e igualmente profundidade, com centenas de estacas de madeira afiadas cravadas como dentes irregulares na terra dentro. À frente, ao lado de uma alta pilha de madeira carbonizada, a estrada continua sobre uma ponte de madeira improvisada, o solo lamacento além dando lugar a paralelepípedos escorregadios e molhados.</p>
-<p>Barricadas de madeira estão dispostas de forma desordenada ao longo das ruas. As estruturas ao redor apresentam marcas de queimaduras e cortes, e vários edifícios mostram telhados ou paredes parcialmente desabadas, permitindo que a fria e rastejante névoa entre silenciosamente.</p>
-<p>As altas formas das habitações da vila se erguem acima do restante, emergindo da densa névoa que se agarra à terra. Figuras armadas com bestas patrulham os antigos telhados acima, enquanto uma meia dúzia de moradores com aparência assombrada faz reparos em uma barricada de dez metros bloqueando a rua principal. Um homem alto e de ombros largos, com cabelo loiro na altura dos ombros e um queixo bem definido, lidera o trabalho, vestindo uma antiga espada longa presa ao quadril e uma armadura de talas sobre um casaco com gola. Um corvo com asas de pontas azuis empoleira-se no topo de um dos telhados próximos, observando os acontecimentos abaixo com evidente interesse.</p>
+<p>À medida que a manhã avança, os céus nublados se iluminam em um cinza opaco e sombrio, os arredores da vila tornam-se mais claros. Uma ampla trincheira de terra circunda o assentamento, com um metro e meio de largura e profundidade, com centenas de estacas de madeira afiadas cravadas como dentes irregulares na terra dentro dela. À frente, ao lado de uma alta pilha de madeira carbonizada, a estrada continua por uma ponte de madeira improvisada, o solo lamacento além dando lugar a paralelepípedos escorregadios e molhados.</p>
+<p>Barricadas de madeira estão dispostas de maneira desordenada ao longo das ruas. As estruturas ao redor apresentam marcas de queimaduras e cortes, e vários edifícios mostram telhados ou paredes parcialmente desabadas, permitindo que a fria e rastejante névoa entre silenciosamente.</p>
+<p>As altas formas das habitações da vila se erguem acima, emergindo da densa névoa que se agarra à terra. Figuras armadas com bestas patrulham os antigos telhados acima, enquanto uma meia dúzia de moradores com aparência assombrada faz reparos em uma barricada de nove metros bloqueando a rua principal. Um homem alto e de ombros largos, com cabelo loiro na altura dos ombros e um queixo bem definido, lidera o trabalho, vestindo uma antiga espada longa presa ao quadril e um conjunto de armadura de placas sobre um casaco com gola. Um corvo com asas de ponta azul empoleira-se no topo de um dos telhados próximos, observando os acontecimentos abaixo com evidente interesse.</p>
 </div>
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-O homem é Ismark Kolyanovich, que é amplamente descrito em <span class="citation">E2. Taverna Sangue da Vinha (p. 43)</span>. O corvo é Muriel, um **licantropo-corvo** disfarçado e membro dos  [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Dois **scouts** armados com bestas leves (+4 para acertar, alcance 80/320 pés, um alvo, *Acerto:* 6 (1d8 + 2) de dano perfurante) chamados Kereza e Korga vigiam os telhados nas proximidades, enquanto seis **commoners** da Baróvia fazem reparos na barricada.
+O homem é Ismark Kolyanovich, que é amplamente descrito em <span class="citation">E2. Taverna Sangue da Vinha (p. 43)</span>. O corvo é Muriel, um **licantropo-corvo** disfarçado e membro dos  [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Dois **batedores** armados com bestas leves (+4 para acertar, alcance 80/320 pés, um alvo, *Acerto:* 6 (1d8 + 2) de dano perfurante) chamados Kereza e Korga vigiam os telhados nas proximidades, enquanto seis **commoners** da Baróvia fazem reparos na barricada.
 
 > [!profile]+ **Perfil: Ismark Kolyanovich**
 >
@@ -128,9 +126,9 @@ O homem é Ismark Kolyanovich, que é amplamente descrito em <span class="citati
 
 Kereza continua suspeitando dos PJs, acreditando que sejam vampiros, zumbis ou ghouls disfarçados. Independentemente da resposta dos PJs, Ismark intervém, repreendendo gentilmente Kereza por sua paranoia e tranquilizando os outros barovianos com bom humor de que os PJs estão claramente vivos, “assim como nós.” 
 
-Ismark então convida gentilmente os PJs a atravessar a barricada e os recebe. Ele confessa, no entanto, que tem medo de que tenham chegado em um momento ruim, compartilhando que a vila tem estado sob cerco de uma horda de morto-vivos nas últimas noites. 
+Ismark então convida gentilmente os PJs a atravessar a barricada por uma seção removível e os recebe. Ele confessa, no entanto, que tem medo de que tenham chegado em um momento ruim, compartilhando que a vila tem estado sob cerco de uma horda de morto-vivos nas últimas noites. 
 
-Após confirmar que a barricada está quase reparada, Ismark convida os PJs a se juntarem a ele na taverna Sangue da Vinha, no centro da cidade, onde ele tem negócios a tratar e onde podem conversar mais e compartilhar bebidas. (“Temos pelo menos três horas antes que a penumbra caia," ele diz, apertando os olhos ao olhar para o céu cinza acima. “Deve nos dar tempo suficiente antes que os mortos retornem.")
+Após confirmar que a barricada está quase consertada, Ismark convida os PJs a se juntarem a ele na taverna Sangue da Vinha, no centro da cidade, onde podem conversar mais e compartilhar bebidas. (“Temos pelo menos três horas antes que a penumbra caia," ele diz, apertando os olhos para o céu cinzento acima. “Deve nos dar tempo suficiente antes que os mortos retornem.")
 
 Se os PJs concordarem, Muriel os segue até a praça da cidade, pairando no ar acima e observando com grande interesse.
 
@@ -138,9 +136,9 @@ Se os PJs concordarem, Muriel os segue até a praça da cidade, pairando no ar a
 > Ismark não sabe que o corvo de asas azuis é um licantropo-corvo, e não sabe se alguém lhe deu um nome. No entanto, ele acredita que a presença do corvo é um bom presságio e pode compartilhar a superstição sobre corvos descrita em <span class="citation">Crenças e Superstições (p. 28)</span>. (Essa superstição é compartilhada por todos os barovianos, não apenas pelos Vistani.)
 
 > [!design]+ **Nota de Design: Entrando na Vila**
-> Esta cena foi escrita para transmitir imediatamente a desconfiança dos aldeões, estabelecer Ismark como um aliado simpático e introduzir o **licantropo-corvo** Muriel Vinshaw e os corvos da Baróvia, antecipando assim os Guardiões da Pluma. 
+> Esta cena foi escrita para transmitir imediatamente a desconfiança dos aldeões, estabelecer Ismark como um aliado simpático e introduzir a **licantropo-corvo** Muriel Vinshaw e os corvos da Baróvia, antecipando assim os Guardiões da Pena.
 >
-> Muriel reaparecerá mais tarde em [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fugindo de um **greater strix** após espionar a reunião de Strahd com Madame Eva, e acompanhará os PJs até a cidade de Vallaki durante o restante do Arco C. Muriel também aparecerá em sua forma e persona humana em [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]]  para acompanhar os PJs em sua jornada até a vinícola Mago dos Vinhos, e revelará sua verdadeira natureza licantropo em [[Act I - Into the Mists/Arc C - Into the Valley#Ludmilla’s Provocations|Yester Hill]].
+> Muriel reaparecerá mais tarde em  [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fugindo de um **greater strix** após escutar a reunião de Strahd com Madame Eva, e acompanhará os PJs até a cidade de Vallaki durante o restante do Arco C. Muriel também aparecerá em sua forma e persona humanas em [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] para acompanhar os PJs em sua jornada até a vinícola do Mago dos Vinhos, e revelará sua verdadeira natureza licantropo em [[Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
 ## B5b. A Praça da Cidade
 Enquanto os PJs e Ismark passam pelas ruas da vila, leia:
 
@@ -165,12 +163,12 @@ Após entrar na taverna, Ismark paga a Arik para trazer bebidas. Enquanto os PJs
 
 Ismark pode compartilhar as seguintes informações:
 
-* Os PJs entraram na terra da Baróvia, um reino cercado por brumas mortais e governado por Strahd von Zarovich, um poderoso vampiro que dormia entocado no Castelo Ravenloft até recentemente.
-* Estrangeiros são ocasionalmente levados para a Baróvia pelas brumas. (Ismark não tem conhecimento da Casa da Morte, mas lembra vagamente de contos sobre maneiras não ortodoxas pelas quais viajantes chegaram ao vale.) Não há como escapar da Baróvia uma vez que um estrangeiro a tenha adentrado.
+* Os PJs entraram na terra da Baróvia, um reino cercado por brumas mortais e governado por Strahd von Zarovich, um poderoso vampiro que dormia no Castelo Ravenloft até recentemente.
+* Estrangeiros são ocasionalmente levados para a Baróvia pelas brumas. (Ismark não tem conhecimento da Casa da Morte, mas lembra vagamente de contos sobre maneiras não ortodoxas pelas quais viajantes chegaram ao vale.) Não há como escapar da Baróvia uma vez que um estrangeiro tenha entrado nela.
 * Há pouco mais de três meses, um homem chamado Doru, filho do sacerdote da vila, levantou uma rebelião contra o castelo, esperando libertar o vale de sua prisão nas brumas. Sua revolta falhou, despertando Strahd de seu sono e levando o vampiro a prometer vingança sobre a vila abaixo.
 * Várias dezenas de barovianos fugiram para a cidade de Vallaki, quase um dia de viagem a oeste. O restante ficou na vila, determinado a defender seus lares e aqueles que não puderam fazer a jornada.
-* Seis noites atrás, as forças morto-vivas de Strahd começaram a atacar a cidade. A cada noite, os barovianos repeliam múltiplas ondas dos mortos—e a cada noite, a horda se aproxima cada vez mais de romper as defesas da vila.
-* Muitos barovianos temem que a vila esteja condenada. No entanto, os morto-vivos infestaram as florestas ao norte, oeste e sul, bloqueando a Velha estrada Svalich logo após o Rio Ivlis. Com as Brumas bloqueando a passagem para o leste, a vila foi efetivamente isolada do mundo, deixada para sobreviver por conta própria—ou perecer.
+* Seis noites atrás, as forças morto-vivas de Strahd começaram a atacar a cidade. Cada noite, os barovianos repeliam múltiplas ondas dos mortos—e cada noite, a horda se aproxima cada vez mais de romper as defesas da vila.
+* Muitos barovianos temem que a vila esteja condenada. Os morto-vivos infestaram as florestas ao norte, oeste e sul, bloqueando a Velha estrada Svalich logo após o Rio Ivlis. Com as Brumas bloqueando a passagem para o leste, a vila foi efetivamente isolada do mundo, deixada para sobreviver sozinha—ou perecer.
 
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] também pode compartilhar a história recente da vila, bem como a maior parte das informações em <span class="citation">Interpretando Ismark (p. 43)</span> e <span class="citation">Tradições Barovianas (p. 26)</span>. No entanto, Ismark não menciona um "mago louco" e não sugere que os Vistani servem Strahd. (Note que o pai de Ismark, o Burgomestre Kolyan Indirovich, ainda está vivo—embora ferido—na mansão do burgomestre, e a irmã de Ismark, Irene Kolyana, ainda não foi mordida por Strahd.)
 ### A Fúria de Bildrath
@@ -198,11 +196,11 @@ Quando ele recupera a compostura, Bildrath avisa os PJs de que a vila está cond
 Enquanto as conversas dos PJs com [[Non-Player Characters#Ismark Kolyanovich|Ismark]] e Bildrath chegam ao fim, leia:
 
 <div class="description">
-<p>A porta da taverna se abre mais uma vez, e uma mulher entra, vestida com uma capa esfarrapada e desgastada. Seu cabelo, preso em dois laços que caem ao redor de seu pescoço, está desgrenhado e emaranhado, e seus olhos grandes percorrem o ambiente com uma energia medrosa.</p>
-<p>Seu olhar se fixa em Ismark, e ela avança trêmula. À medida que seus traços se revelam à luz, vocês veem que seu rosto é pálido, seus olhos manchados, com lágrimas secas manchando a pele de suas bochechas. Sua voz é um sussurro áspero e assombroso enquanto ela diz: "Mestre Kolyanovich—peço desculpas por interrompê-lo e a seus convidados. Mas não vejo Gertruda desde a noite passada, e Nori não está no estábulo. Acho que Gertruda foi ao castelo—sozinha."</p>
+<p>A porta da taverna se abre mais uma vez, e uma mulher adentra, vestida com um manto esfarrapado e gasto. Seus cabelos, presos em dois laços que caem ao redor do pescoço, estão desgrenhados e emaranhados, e seus olhos arregalados percorrem a sala com uma energia temerosa.</p>
+<p>Seu olhar pousa sobre Ismark, e ela avança trêmula. À medida que suas feições se revelam à luz, vocês percebem que seu rosto está pálido, seus olhos inchados, com lágrimas secas manchando a pele das bochechas. Sua voz é um sussurro áspero e assombroso quando ela diz: "Mestre Kolyanovich—peço desculpas por interromper você e seus convidados. Mas não vejo Gertruda desde a noite passada, e Nori não está no estábulo. Acho que Gertruda foi para Vallaki—sozinha."</p>
 </div>
 
-A taverna imediatamente cai em silêncio, e os olhos de Ismark se contraem de preocupação. Ele oferece suas condolências a Maria e promete que organizará um grupo de busca para procurá-la. "Se ela não chegou ao castelo, nós a encontraremos—e a traremos de volta para casa em segurança."
+A taverna cai imediatamente em silêncio, e os olhos de Ismark se estreitam em preocupação. Ele oferece suas condolências a Mary e promete que organizará um grupo de busca para procurá-la. "Se ela não chegou a Vallaki, nós a encontraremos—e a traremos de volta em segurança."
 
 > [!abstract]+ **A Patrulha de Busca**
 > Se os PJs oferecerem ajuda à patrulha de busca para localizar Gertruda, Ismark agradece pela generosidade, mas assegura que os caçadores e armadilheiros que ele planeja organizar conhecem as estradas e florestas locais muito melhor do que vocês, e devem ser capazes de contornar as bordas da horda de morto-vivos sem arriscar muitos problemas. "Quanto mais pessoas os acompanharem, no entanto," ele diz com um tom de desculpas, "mais provável é que a horda perceba seus movimentos e ataque."
@@ -222,18 +220,20 @@ A menos que os PJs intervenham, a seguinte sequência se desenrola:
 
 Se os PJs perguntarem, Mary pode compartilhar as seguintes informações:
 
-* Gertruda é sua filha de vinte e um anos. Desde que Doru, seu noivo, marchou para o Castelo Ravenloft e não retornou, Gertruda se tornou obcecada pelo castelo, acreditando que, se conseguisse viajar até o Castelo Ravenloft e falar com o Diabo, poderia convencê-lo a libertar Doru de qualquer prisão em que ele tenha sido lançado.
-* Mary repetidamente proibiu Gertruda de viajar para o castelo. Com o advento do cerco, no entanto, Gertruda se tornou teimosamente convencida de que uma solução diplomática é a única maneira de acabar com o sofrimento da vila.
-* Na noite passada, Maria e Gertruda tiveram uma discussão tumultuada que terminou com ambas em péssimos termos. Esta manhã, Mary acordou e descobriu que seu velho cavalo, Nori, estava desaparecido de seu estábulo—e Gertruda não estava em lugar algum. (Maria acredita que Gertruda levou Nori em uma tentativa de escapar da horda de zumbis.)
+* Gertruda é sua filha de vinte e um anos. Desde que Doru, seu noivo, marchou para o Castelo Ravenloft e não retornou, Gertruda ficou obcecada pela vila de Vallaki, acreditando que, se pudesse apenas viajar até Vallaki e falar com o Burgomestre, conseguiria convencê-lo a enviar ajuda.
+* Mary proibiu repetidamente Gertruda de se afastar da vila. Com o advento do cerco, porém, Gertruda tornou-se teimosamente convencida de que a ajuda de Vallaki é a única forma de acabar com o sofrimento da vila.
+* Na noite passada, Mary e Gertruda tiveram uma discussão tumultuada que terminou com ambas em maus termos. Esta manhã, Mary acordou para encontrar seu velho cavalo, Nori, desaparecido de sua baia — e Gertruda em lugar algum. (Mary acredita que Gertruda levou Nori numa tentativa de fugir da horda de zombies.)
 
 Poucos momentos depois que Bildrath saiu, se os PJs ainda não o fizeram, Ismark se vira para confortar Maria. "Eu prometo a você," ele diz, sua voz falhando, "que farei *tudo* que puder para garantir que Gertruda volte para casa em segurança."
 
 Uma vez acalmada, Maria enxuga os olhos, agradece a Ismark (e aos PJs, se eles a confortaram) e deixa a taverna.
 
 > [!lore]+ **Onde está Gertruda?**
-> Gertruda, desesperada com o estado da vila e determinada a mostrar a mesma coragem que Doru, deixou a Baróvia em direção ao Castelo Ravenloft na manhã da chegada dos PJs, buscando implorar pela misericórdia de Strahd. Quando chegou ao castelo, uma Gertruda trêmula exigiu que Strahd cumprisse suas obrigações como senhor feudal da Baróvia, garantindo a segurança e os reparos que a vila tanto precisava. Impressionado com sua audácia, Strahd a convidou para o Castelo Ravenloft para discutir o assunto mais a fundo—e ela permaneceu lá desde então.
-### O Pedido de Ismark
-Após a partida de Maria, Ismark pede que os ajudem a defender a barricada leste da vila naquela noite. “Goste ou não, estamos todos juntos nessa," ele diz sombriamente. “Quanto mais mãos, melhor. Não sei se posso prometer moedas, mas posso prometer que isso ajudará todos nós a sobreviver à noite—vocês inclusos." Em troca da ajuda dos PJs, Ismark se alegra em oferecer-lhes abrigo e alimentação na casa de sua família. (A taverna Sangue da Vinha não tem quartos para alugar.) 
+> Gertruda, desesperada com o estado da vila e determinada a mostrar a mesma coragem que Doru, deixou a Baróvia rumo a Vallaki na manhã da chegada dos PJs, buscando obter ajuda do Burgomestre. Contudo, Gertruda nunca chegou a Vallaki. Enquanto atravessava a Floresta Svalich, a carruagem negra de Strahd cruzou seu caminho — e o próprio Diabo desceu dela. Aterrorizada, mas relutante em demonstrar medo, Gertruda educadamente exigiu que Strahd permitisse que suprimentos fossem entregues à Baróvia para que os aldeões pudessem reconstruir.
+> Strahd pareceu divertido com a coragem de Gertruda e a convidou para o Castelo Ravenloft para “discutir reparações mais detalhadamente.” Percebendo que era um convite que não poderia recusar, Gertruda concordou relutantemente em acompanhá-lo.
+> Desde então, Gertruda permanece como uma “hóspede de honra” no castelo, embora tenha ficado claro que Strahd não tem intenção de permitir que ela deixe seus aposentos — muito menos a fortaleza em si.
+### Pedido de Ismark
+Após a partida de Mary, Ismark pede que eles ajudem a defender a barricada leste da vila naquela noite. “Quer gostem ou não, estamos todos juntos nisso,” diz ele com um tom sombrio. “Quanto mais mãos, melhor. Não sei se posso prometer ouro, mas posso garantir que isso ajudará todos nós a sobreviver à noite — vocês incluídos.” Em troca da ajuda dos PJs, Ismark se dispõe a oferecer hospedagem e alimentação na casa de sua família. (A taverna Sangue da Vinha não possui quartos para alugar.) 
 
 Se os PJs concordarem em ajudar na defesa da cidade, Ismark fica profundamente grato. Ele pede que primeiro recuperem uma caixa de “garrafas de fogo” com sua irmã, Irene, que está supervisionando a defesa do perímetro sul da vila a partir de sua casa, <span class="citation">E4. Mansão do Burgomestre (p. 44)</span>. (Ismark, que precisa voltar para as barricadas ocidentais para se preparar para o retorno dos morto-vivos, não pode se dar ao luxo de fazer isso pessoalmente.) Se perguntado, Ismark pode explicar que uma “garrafa de fogo” é uma garrafa de vinho destilado com um pano como pavio, destinada a ser acesa e lançada contra os morto-vivos que se aproximam.
 
@@ -244,10 +244,11 @@ Esta área é amplamente descrita em <span class="citation">Mansão do Burgomest
 Quando os PJs chegarem eles encontram uma turba de dez **commoners**  se formou na frente da mansão. Adicione o seguinte a descrição dessa área.
 
 <div class="description">
-<p>Uma pequena multidão de aldeões se amontoa do lado de fora da mansão, brandindo forquilhas e machados. Uma mulher simplória de aparência cansada está de pé na frente, seu cabelos castanhos encaracolado preso atrás com um lenço branco amarrotado.</p>
-<p>Um homem mais velho, trajando finas vestes, cabelos finos apoia-se pesadamente em uma bengala na porta. Pesadas bandagens manchadas de sangue enroladas em seu torço, nuca  e joelho esquerdo. Ao seu lado está uma jovem mulher com longos cabelos vermelhos e uma armadura de peito de aço sobre uma túnica cinza de mangas longas. Sua face é tensa e pálida. Uma rapier pendurada em uma bainha ao seu flanco. Sua mão direita deslizando sobre a empunhadura brilhante.</p>
-<p>Va para casa, Alenka - diz o o homem. "O e o restante também. Pois enquanto eu for o Burgomestre, eu não vou permitir esta loucura. </p>
-
+<p>Uma pequena multidão de moradores da vila se reuniu do lado de fora da mansão, brandindo forcados, vassouras e machados. Uma mulher simples, com aparência cansada, está à frente deles, seus cabelos castanhos ondulados presos para trás por um lenço branco amassado.</p>
+<p>“Entreguem-na, Kolyan!” ela grita. “Suas defesas mantiveram o Diabo à distância, mas não acabaram com sua praga. É hora de tomarmos as rédeas em nossas próprias mãos.”</p>
+<p>Um homem mais velho, vestido com roupas finas, seu cabelo grisalho ralo recuando pelo couro cabeludo, apoia-se pesadamente em uma bengala na porta. Bandagens pesadas e manchadas de sangue envolvem seu estômago, testa e joelho esquerdo. Ao seu lado está uma jovem de longos cabelos ruivos e uma couraça de aço sobre uma túnica cinza de mangas compridas, seu rosto pálido e tenso. Uma espada longa pendurada em uma bainha ao seu lado, sua mão direita pairando sobre o brilho do punho.</p>
+<p>“Volte para casa, Alenka,” o homem brada. “E o resto de vocês também. Enquanto eu for burgomestre, não permitirei essa loucura.”</p>
+</div>
 
 A mulher de cabelos castanhos é Alenka Konstantinova, uma **commoner** da Baróvia de meia-idade. O homem mais velho é o Burgomestre Kolyan Indirovich, um **veteran** com quatro níveis de exaustão. A jovem de cabelos vermelhos é Irene Kolyana, que é em grande parte como descrita em <span class="citation">Interpretando Irene (p. 45)</span>.
 
@@ -271,16 +272,16 @@ A mulher de cabelos castanhos é Alenka Konstantinova, uma **commoner** da Baró
 
 > [!profile]+ **Perfil: Burgomestre Kolyan Indirovich**
 > **Informações de Interpretação**
-> ***Ressonância.*** Kolyan deve inspirar conforto com seu calor sua confiabilidade, carinho e simpatia por sua teimosia diante de sua deficiência, e lisonjeio com seu genuíno interesse na história e habilidades dos PJs.
+> ***Ressonância.*** Kolyan deve inspirar conforto com seu calor e reassurances, carinho e simpatia por sua teimosia diante de sua deficiência, e adulação com seu genuíno interesse na história e habilidades dos PJs.
 >
 > ***Emoções.*** Kolyan frequentemente se sente curioso, pensativo, ansioso, teimoso, alegre e sombrio.
 >
-> ***Motivações.*** Kolyan quer manter seu povo e filhos seguros.
+> ***Motivações.*** Kolyan quer manter seu povo e crianças a salvo.
 >
 > ***Inspirações.*** Ao interpretar Kolyan, canalize Jean-Luc Picard (*Star Trek*), Greg Universe (*Steven Universe*) e Atticus Finch (*O Sol é Para Todos*).
 >
 > **Informações do Personagem**
-> ***Persona.*** Para o mundo, Kolyan é um líder forte, de vontade firme, mas compassivo. Para sua família, Kolyan é um pai solidário e alegre, totalmente dedicado a seus filhos.
+> ***Persona.*** Para o mundo, Kolyan é um líder de vontade forte e aço, mas compassivo. Para sua família, Kolyan é um pai solidário e alegre, totalmente dedicado a seus filhos.
 >
 > ***Moral.*** Em uma luta, Kolyan tentaria negociar uma paz—mas manteria uma mão em sua lâmina, se necessário, para se defender ou proteger seus vizinhos.
 >
@@ -311,7 +312,7 @@ Se os PJs falharem em dispersar a multidão, mas se recusarem a permitir que Ire
 Se o combate eclodir, Ireena se junta aos PJs na defesa da mansão enquanto Kolyan implora para que os combatentes evitem matar alguém. Se dois dos Barovianos forem derrubados inconscientes, ou se um for morto, os demais fogem.
 
 > [!info]+ **Dano Não Letal**
-> A morte indiscriminada dos comuns da Baróvia alienará os habitantes da vila e os membros da família de Ismark. PJs que desejam evitar matar os Barovianos podem incapacitar seus oponentes conforme descrito em <span class="citation">Derrubando uma Criatura (p. 198)</span>. Se os PJs optarem por não fazer isso, permita que os membros inconscientes da multidão façam testes de salvaguarda de morte conforme descrito em <span class="citation">Monstros e Morte (p. 198)</span>. 
+> A morte indiscriminada dos comuns da Baróvia alienará os habitantes da vila e os membros da família de Ismark. PJs que desejam evitar matar os Barovianos podem incapacitar seus oponentes conforme descrito em <span class="citation">Nocauteando uma Criatura (*Manual do Jogador*, p. 198)</span>. Se os PJs optarem por não fazer isso, permita que os membros inconscientes da multidão façam testes de salvaguarda de morte conforme descrito em <span class="citation">Monstros e Morte (*Manual do Jogador*, p. 198)</span>. 
 
 Se os PJs conseguirem dispersar a multidão, Kolyan e Irene os convidam para a mansão com gratidão.
 
@@ -398,195 +399,205 @@ Quando os PJs estão prontos para partir, Irene retira uma caixa de madeira cont
 
 > [!abstract]+ **Visitando a Igreja**
 > PJs que insistirem em visitar <span class="citation">E5. Igreja (p. 45)</span> a encontrarão em grande parte como descrita em [[#B5i. A Igreja Baroviana]] abaixo. No entanto, Caramujo não está na igreja neste momento, e Donavich não menciona o destino de Doru sem a presença de Irene ou Ismark.
-## B5e. Mercantil de Bildrath
+## B5e. Empório de Bildrath
 <span class="citation"><em>Esta cena ocorre no Capítulo 3: Área E1.</em></span>
 
 Se os PJs escolherem visitá-la antes de prosseguir para [[#B5f. A Barricada Oriental]], esta área é em grande parte como descrita em <span class="citation">O Mercantil de Bildrath (p. 43)</span>. No entanto, em vez de vender itens por dez vezes o preço listado no _Manual do Jogador_, Bildrath os vende por apenas o dobro do preço, citando a recente agitação econômica. 
 
 Se algum PJs foi gentil com ele na taverna, ele, em vez disso, vende itens para esses PJs pelo preço normal listado no *Player's Handbook*—um negócio especial, apenas para eles. Se algum PJs defendeu Ismark na taverna, Bildrath os fulmina com o olhar e, em vez disso, vende itens para esses PJs a cinco vezes o preço listado no _Player’s Handbook_, afirmando com despeito que se trata de um “negócio especial" para os amigos do “grande herói" da cidade.
 
-During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
+Durante a conversa dos PJs com Bildrath, Parriwimple entra na sala carregando uma caixa de mercadorias que Bildrath pediu para ele buscar. Ele está animadamente curioso sobre a presença dos PJs, mas Bildrath o ordena a voltar para seu quarto a fim de evitar "perturbar os clientes."
 
-If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
-## B5f. The Eastern Barricade
-### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Se Bildrath comandar Caramujo para que remova os PJs da loja, Caramujo tentará agarrá-los e puxá-los para fora pela porta, preferindo evitar a violência sempre que possível.  
+## B5f. A Barricada Oriental  
+### Preparando a Barricada  
+Pouco depois de retornar à barricada na entrada oriental da vila, os PJs são recebidos por Bildrath e Caramujo, que são em grande parte como descrito em <span class="citation">E1. O Empório de Bildrath (p. 43)</span>. No entanto, Bildrath também carrega uma besta leve (+2 para acertar, alcance 80/320 pés, um alvo. *Acerto:* 4 (1d8 + 0) de dano perfurante).
 
-When the players first encounter Parriwimple, read:
-
-<div class="description">
-<p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
-</div>
-
-Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parriwimple is glad to meet new friends.
-
-> [!profile]+ **Profile: Parriwimple**
->
-> **Roleplaying Information**
-> ***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
->
-> ***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
->
-> ***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
->
-> ***Inspirations.*** When playing Parriwimple, channel Lenny Small (*Of Mice and Men*) and Forrest Gump (*Forrest Gump*).
->
-> **Character Information**
-> ***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
->
-> ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
->
-> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
-
-Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
-
-If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
-
-> [!info]+ **The Barricade**
-> The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
->
-> Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
-### The Siege
-Dusk falls soon after the players complete their preparations. Read:
+Quando os PJs encontrarem Caramujo pela primeira vez, leia:
 
 <div class="description">
-<p>As the last shades of light fade from the sky, an eerie silence descends upon the village. A chill wind whispers through the streets, carrying with it the faint scent of decay as the leaves of the Svalich Woods rustle in the distance.</p>
-<p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
+<p>Uma figura imponente está ao lado de Bildrath—um jovem, alto e robusto. Seu cabelo castanho desgrenhado cai desordenadamente sobre seu rosto, e seus dentes tortos brilham na luz cinza. Embora os músculos se contorçam sob sua túnica, há uma leveza e imaturidade em sua postura que desmente sua força e tamanho. Ele mexe na barra de sua túnica enquanto seus olhos se fixam nele.</p>
 </div>
 
-If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
+Bildrath cumprimenta os PJs calorosamente ou friamente, dependendo de sua interação na taverna Sangue da Vinha e (se os estiveram lá) no empório de Bildrath. Independentemente da disposição de Bildrath, Caramujo está feliz em conhecer novos amigos.
 
-> [!info]+ **A Moonless Night**
-> At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick cloud cover obscures the moonlight, preventing defenders without darkvision from seeing any approaching creatures in the darkness.
-
-> [!abstract]+ **Holding the Line**
-> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
-
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
+> [!profile]+ **Perfil: Caramujo**
 >
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, or if the damage taken is 15 or more.
+> **Informações de Interpretação**
+> ***Ressonância.*** Caramujo deve inspirar simpatia pela perda de seus pais, carinho por seus maneirismos infantis e perseverança otimista, e adulação por sua fascinação pelas armas e roupas exóticas dos PJs.
+>
+> ***Emoções.*** Caramujo frequentemente sente curiosidade, esperança, admiração, melancolia e confusão.
+>
+> ***Motivações.*** Caramujo quer ajudar seus amigos e vizinhos, cuidar de seu tio Bildrath, e honrar a memória de seus falecidos pais.
+>
+> ***Inspirações.*** Ao interpretar Caramujo, canalize Lenny Small (*As Vinhas da Ira*) e Forrest Gump (*Forrest Gump*).
+>
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Caramujo é um jovem alegre e de mente simples. Para aqueles em quem confia, Caramujo é um órfão reflexivo, perspicaz, mas em luto, desesperado para superar a morte de seus pais provando ser útil aos outros.
+>
+> ***Moral.*** Em uma luta, Caramujo levantaria as mãos e imploraria por paz. Se ignorado, no entanto, ele usaria rapidamente sua força para restringir qualquer combatente—com fúria justa se defendendo de seu tio Bildrath.
+>
+> ***Relacionamentos.*** Caramujo é um órfão e sobrinho do proprietário da loja de conveniência Bildrath Cantemir.
+
+Bildrath fica satisfeito ao ver a entrega dos PJs de *garrafas de fogo*. Ele pode informar aos PJs que eles foram designados para defender a barricada oriental de quaisquer pequenos grupos de morto-vivos que possam vagar pelas bordas da vila, em vez de atacar pelo norte, sul ou oeste.
+
+Se algum dos PJs o tratou com bondade na taverna Sangue da Vinha ou no Comércio de Bildrath, Bildrath instrui Caramujo a apresentar-lhes uma caixa contendo dois sacos de esferas de metal, dois sacos de estrepes, dez estacas de ferro e três frascos de óleo de sua loja, para serem usados na preparação da barricada para o cerco. (Veja <span class="citation">Equipamentos de Aventura (Manual do Jogador, p. 148)</span> para mais informações sobre esses itens.) Bildrath também direciona os PJs a um par de escadas de três metros pregadas em uma das casas próximas, que podem permitir que qualquer combatente à distância suba ao telhado da casa. Finalmente, Bildrath instrui Caramujo a obedecer às instruções desses PJs como se fossem suas.
+
+> [!info]+ **A Barricada**
+> A barricada que os PJs foram designados a defender é uma construção de nove metros de comprimento e dois metros de altura, feita de troncos de árvore, móveis empilhados e tábuas de madeira pregadas. Cada seção de um metro e meio da barricada possui CA 15, 10 pontos de vida e imunidade a dano perfurante, psíquico e de veneno.
+>
+> Plataformas de madeira espalhadas pelo lado ocidental da barricada permitem que os defensores espreitem por cima da borda e ataquem os inimigos que se aproximam. Enquanto estão atrás da barricada, os defensores têm cobertura total, ou três quartos de cobertura enquanto estão em uma plataforma.
+
+![[Eastern-Barricades.jpg]]
+<span class="credit">"A Barricada Oriental" por DM Andy Maps. Versões em alta resolução disponíveis <a href="https://ko-fi.com/s/ef507db2df">aqui!</a></span>
+### O Cerco
+O crepúsculo cai logo após os PJs completarem seus preparativos. Leia:
+
+<div class="description">
+<p>À medida que os últimos vestígios de luz desaparecem do céu, um silêncio inquietante desce sobre a vila. Um vento gelado sussurra pelas ruas, trazendo consigo o leve aroma de decomposição enquanto as folhas da <strong>Floresta Svalich</strong> farfalham à distância.</p>
+<p>Um uivo de arrepiar os cabelos atravessa a noite, seguido por um segundo—e então um terceiro. A cacofonia de gritos e gemidos inumanos cresce em intensidade, ecoando pela bacia de todas as direções enquanto a floresta distante parece ganhar vida.</p>
+</div>
+
+Se ele estiver presente, o rosto de Bildrath se torna sombrio, e ele aperta sua besta com força. “Começa,” ele murmura, enquanto o barulho se desvanece mais uma vez na fria noite. Caramujo acena com a cabeça em determinação, segurando sua lança mais perto do peito.
+
+> [!info]+ **Uma Noite Sem Lua**
+> À noite, tochas montadas a cada três metros ao longo da barricada iluminam a área circundante até uma distância de doze metros. Na noite do cerco, uma densa camada de nuvens obscurece a luz da lua, impedindo que os defensores sem visão no escuro vejam quaisquer criaturas se aproximando na escuridão.
+
+> [!abstract]+ **Mantendo a Linha**
+> Se os zumbis conseguirem romper a barricada, Caramujo tenta segurar o ponto de estrangulamento com sua lança, embora esteja grato por qualquer ajuda que os PJs possam oferecer.
+
+> [!info]+ **Fortaleza Morto-Viva**
+> Revise cada recurso de ***Resistência de morto-vivo*** dos **zumbis** e **propagadores da praga zumbi** para ler da seguinte forma:
+>
+> * ***Resistência de morto-vivo (1/dia).*** Se o dano reduzir o zumbi a 0 pontos de vida, o zumbi cai para 1 ponto de vida em vez disso. O zumbi não pode usar essa habilidade se o dano for radiante ou de um golpe crítico, ou se o dano recebido for 15 ou mais.
 
   
-> [!combat]- **Balancing the Siege** 
-> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 5 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
-> * **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
-> * **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+> [!combat]- **Equilibrando o Cerco**  
+> Devido à mecânica de ondas, este encontro de combate é uma série de dois encontros de combate **leves** consecutivos e um terceiro encontro de combate **sangrento** contra um grupo de cinco PJs de 3º nível, um aliado CR 0 (Bildrath) e um aliado CR 5 (Caramujo), o primeiro dos quais consumirá aproximadamente 15% de seus pontos de vida máximos totais, o segundo consumirá aproximadamente 17% de seus pontos de vida máximos totais, e o terceiro consumirá aproximadamente 34% de seus pontos de vida máximos (totalizando 66% de seus pontos de vida máximos). Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
+> * **Três PJs**. Reduza o número de zumbis na primeira onda para 5. Remova os zumbis na segunda onda. Substitua o wight na terceira onda por um ghoul.  
+> * **Quatro PJs**. Reduza o número de zumbis na primeira onda para cinco. Reduza o número de zumbis na segunda onda para um. Substitua o wight na terceira onda por três zumbis.  
+> * **Seis PJs**. Aumente o número de zumbis na primeira onda para sete. Aumente o número de zumbis na segunda onda para três. Adicione um zumbi à terceira onda.
 
-***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
-
-<div class="description">
-<p>Six figures shamble toward the barricade, the whites of their eyes glinting in the torchlight. Their low, guttural moans echo through the night, their rotting arms outstretched toward you.</p>
-</div>
-
-In combat, the zombies focus their attacks on the barricade, attempting to batter it down with their **slam** attacks. Once the zombies have broken a hole in the barricade, they attempt to flood through it, attacking any defenders who stand in their way.
-
-***The Second Wave.*** At the beginning of the third round of combat after the first wave arrives, two additional **zombies** emerge from the darkness, joined by two **ghouls**. Read:
+***A Primeira Onda.*** Não muito depois que a escuridão cai, seis **zumbis** emergem das sombras e se aproximam da barricada. Leia:
 
 <div class="description">
-<p>Two more zombies shamble from the gloom, flanked by a pair of gaunt, feral, humanoid creatures with razor-sharp claws and hungry, glowing eyes. These ghouls move with a predatory grace, their lipless mouths revealing rows of pointed teeth as they release shrieking howls that echo through the night.</p>
+<p>Seis figuras se arrastam em direção à barricada, o branco de seus olhos brilhando à luz das tochas. Seus gemidos baixos e guturais ecoam pela noite, seus braços em decomposição estendidos em sua direção.</p>
 </div>
 
-The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
+Em combate, os zumbis concentram seus ataques na barricada, tentando derrubá-la com suas **pancadas**. Uma vez que os zumbis tenham aberto um buraco na barricada, eles tentam invadi-la, atacando qualquer defensor que se coloque em seu caminho.
 
-***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
+***A Segunda Onda.*** No início da terceira rodada de combate, após a chegada da primeira onda, dois **zumbis** emergem da escuridão, acompanhados por dois **ghouls**. Leiam:
 
 <div class="description">
-<p>A lone undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air.</p>
+<p>Mais dois zumbis se arrastam da penumbra, flanqueados por um par de criaturas humanoides magras e ferozes, com garras afiadas como lâminas e olhos brilhantes e famintos. Esses ghouls se movem com uma graça predatória, suas bocas sem lábios revelando fileiras de dentes pontudos enquanto soltam gritos estridentes que ecoam pela noite.</p>
 </div>
 
-> [!info]+ **The Plague Spreader**
-> Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature. 
+Os zumbis novamente tentam derrubar a barricada, enquanto os ghouls tentam escalá-la usando suas garras.
+
+***A Terceira Onda.*** No início da sétima rodada de combate, após a chegada da primeira onda, um **wight** e um **zombie plague spreader** <span class="citation">(<em>Guia de Van Richten para Ravenloft</em>, p. 255)</span> se aproximam da barricada. Leia:
+
+<div class="description">
+<p>Um único morto-vivo avança lentamente da escuridão, seus olhos brancos encarando de forma opaca além da luz trêmula da tocha. Sua carne, embora em decomposição, é de um branco liso e doentio, sua pele marcada por veias elevadas e carmesim. Uma leve nuvem de bruma avermelhada escorre continuamente de sua boca e desce sobre a terra manchada de sangue antes de se dissipar no ar.</p>
+</div>
+
+> [!info]+ **O Propagador da Praga**
+> Aumente os pontos de vida do **propagador da praga** para 130, diminua o dano necrótico causado pela sua ***pancada*** para 5 (1d8) e diminua o dano causado pela sua ***miasma virulenta*** para 7 (2d6) de dano por veneno por criatura.
 >
-> In addition, revise its ***virulent miasma*** action such that a Humanoid reduced to 0 hit points doesn’t automatically die, and instead only rises as a zombie if it dies before stabilizing or regaining hit points. The DC for stabilizing a creature reduced to 0 hit points in this way increases to 20.
+> Além disso, revise a ação de ***miasma virulenta*** de forma que um Humanoide reduzido a 0 pontos de vida não morra automaticamente, e em vez disso, apenas se levante como um zumbi se morrer antes de estabilizar ou recuperar pontos de vida. A CD para estabilizar uma criatura reduzida a 0 pontos de vida dessa forma aumenta para 20.
 
-The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
+O espalhador de pragas se aproxima dos PJs o mais próximo possível, então libera sua ***miasma virulenta***, tentando atingir o maior número de criaturas possível. (Se possível, procure garantir que a miasma atinja Bildrath, para que os PJs compreendam a natureza de seu ataque. Nem Bildrath nem Parriwimple já viram ou ouviram falar de um espalhador de pragas zumbi antes, e ambos são ignorantes sobre o vírus que ele carrega.) Depois que o espalhador de pragas usa sua miasma, a bruma vermelha para de jorrar de sua boca.
 
-Meanwhile, the wight attacks from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. If the players engage the plague spreader in melee combat or reduce it to 90 hit points or fewer, the wight draws its ***longsword*** and engages the players directly.
-## B5g. The Western Barricade
-### The Raven’s Guidance
-Shortly after the players dispatch the final wave, the **wereraven** Muriel appears to them in **raven** form. Read:
-
-<div class="description">
-<p>A small, dark silhouette plunges from the skies above, resolving into the form of a familiar raven, its blue-tipped wings flashing in the torchlight. Its eyes are wide and panicked, and an urgent, desperate shriek sounds repeatedly from its wide-open beak.</p>
-</div>
-
-Although she can’t speak in raven form, Muriel attempts to nonverbally alert the players that the western barricade has fallen, pulling their hair and clothes toward the town square. If the players don’t immediately follow, read:
+Enquanto isso, o wight ataca da escuridão além da luz das tochas, fazendo ataques com ***arco longo*** a 60 pés de distância. Se os PJs se envolverem com o espalhador de pragas em combate corpo a corpo ou o reduzirem a 90 pontos de vida ou menos, o wight saca sua ***espada longa*** e enfrenta os PJs diretamente.  
+## B5g. A Barreira Ocidental  
+### A Orientação do Corvo  
+Pouco depois que os PJs eliminam a onda final, o **licantropo-corvo** Muriel aparece para eles em forma de **corvo**. Leia:
 
 <div class="description">
-<p>You hear terrified shouts in the distance, and the sound of crunching wood.<p>
+<p>Uma pequena silhueta escura mergulha dos céus acima, resolvendo-se na forma de um corvo familiar, suas asas com pontas azuis brilhando à luz das tochas. Seus olhos estão arregalados e em pânico, e um grito urgente e desesperado ecoa repetidamente de seu bico escancarado.</p>
 </div>
 
-### Ismark’s Last Stand
-If the players follow her, Muriel guides them west toward the town square, then leads them through a series of alleyways behind and around the Blood of the Vine tavern, finally emerging on the north side of the street just west of the town square. When the players arrive, read:
+Embora ela não possa falar na forma de corvo, Muriel tenta alertar os PJs de forma não verbal que a barricada ocidental caiu, puxando seus cabelos e roupas em direção à praça da cidade. Se os PJs não seguirem imediatamente, leia:
 
 <div class="description">
-<p>Dozens of bodies litter the street, bloody and unmoving. The air is thick with the pungent scent of rot and death, and the howling wind sings with the sound of terrified screams.</p>
-<p>The barricade protecting the town square has been shattered, its splintered remains surrounded by a mound of corpses nearly six feet high. In the square, children scream as the elderly and infirm watch with muted horror.</p>
-<p>The torches to the west have been extinguished, the town’s western defenders fled—or killed. Only one figure remains standing: Ismark, his clothes torn and bloody, bearing a longsword in his left hand and a shortsword in his right. Twenty feet away from him stands a pale-skinned zombie, its flesh a smooth, sickly white that bulges with crimson veins. Its eyes stare dully toward the tents in the town square beyond, and, as a cloud of reddish mist spills gently from its gaping mouth, it takes a shambling step forward.</p>
+<p>Vocês ouvem gritos aterrorizados à distância, e o som de madeira se quebrando.<p>
 </div>
 
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
+### A Última Resistência de Ismark
+Se os PJs a seguirem, Muriel os guia para o oeste em direção à praça da cidade, depois os conduz por uma série de becos atrás e ao redor da taverna Sangue da Vinha, finalmente emergindo no lado norte da rua, logo a oeste da praça. Quando os PJs chegarem, leia:
 
-The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***viral miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
+<div class="description">
+<p>Dezenas de corpos cobrem a rua, ensanguentados e imóveis. O ar está denso com o fétido cheiro de decomposição e morte, e o vento uivante canta com o som de gritos aterrorizados.</p>
+<p>A barricada que protegia a praça da cidade foi destruída, seus restos estilhaçados cercados por um monte de carne quase seis pés de altura. Na praça, crianças gritam enquanto os idosos e enfermos observam com horror contido.</p>
+<p>As tochas a oeste foram apagadas, os defensores do lado oeste da cidade fugiram—ou foram mortos. Apenas uma figura permanece de pé: Ismark, suas roupas rasgadas e ensanguentadas, empunhando uma espada longa na mão esquerda e uma espada curta na mão direita. Seis metros à sua frente, um zumbi de pele pálida se ergue, sua carne de um branco liso e doentio que se destaca com veias carmesim. Seus olhos encaram de forma opaca em direção às tendas na praça da cidade além, e, enquanto uma nuvem de Brumas avermelhadas escorre suavemente de sua boca aberta, ele dá um passo trôpego à frente.</p>
+</div>
+
+![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
+
+<span class="credit">"Praça da Vila da Baróvia" por DM Andy Maps. Versões em alta resolução disponíveis <a href="https://ko-fi.com/s/05afd01fa8/">aqui!</a></span>
+
+
+Ismark, que foi reduzido a 40 pontos de vida, acolhe qualquer ajuda que os PJs possam fornecer contra o disseminador da praga. Se reduzido a 30 pontos de vida ou menos, Ismark obstrui o disseminador da praga diretamente enquanto realiza a ação Esquivar em cada um de seus turnos, na esperança de atrasá-lo enquanto proporciona aos PJs tempo suficiente para derrotá-lo.
+
+O plague spreader, que começa a 36 metros do centro da praça da cidade e possui as mesmas modificações do plague spreader em [[#The Siege]], não usará seu ***virulent miasma*** até que alcance o centro da praça da cidade ou seja reduzido a 30 pontos de vida ou menos. A cada rodada, ele tenta se mover em linha reta em sua velocidade máxima em direção à praça da cidade. Se não conseguir, usa seu ***multiattack*** para atacar quaisquer criaturas ao seu alcance. (O plague spreader não tenta se mover ao redor de criaturas que o obstruem, mesmo que isso pudesse permitir que ele alcançasse seu destino.)
   
-> [!combat]- **Balancing the Town Square** 
-> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. 
-> * **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. 
-> * **Six Players**. Add one zombie fighting alongside the plague spreader.
+> [!combat]- **Equilibrando a Praça da Cidade**  
+> Este encontro de combate é um encontro de combate **leve** contra um grupo de cinco PJs de 3º nível e um aliado de CR 3 (Ismark Kolyanovich), e consumirá aproximadamente 16% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
+> * **Três PJs**. Diminua os pontos de vida do propagador de praga zumbi para 93, remova o dano necrótico de seus ataques de Pancada, e diminua o dano de sua miasma virulenta para 2d4.  
+> * **Quatro PJs**. Diminua os pontos de vida do propagador de praga zumbi para 112 e diminua o dano necrótico de seus ataques desarmados para 1d6.  
+> * **Seis PJs**. Adicione um zumbi lutando ao lado do propagador de praga.
 
-> [!info]+ **Dying NPCs**
+> [!info]+ **NPCs Moribundos**
 >
-> As noted in Monsters and Death (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Ismark Kolyanovich and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197</span>).
-### Rahadin’s Proclamation
-Shortly after the players defeat the plague spreader, a lone horseman flanked by twelve **zombies** approaches the town square from the west. Read:
+> Como mencionado em Monstros e Morte (<span class="citation">Manual do Jogador, p. 198</span>), personagens não jogáveis aliados—como Ismark Kolyanovich e qualquer outro NPC lutando ao lado dos PJs—devem desmaiar ao serem reduzidos a 0 pontos de vida. Quando isso acontece, eles seguem as mesmas regras para testes de salvaguarda de morte que os personagens jogadores, descritas mais adiante em Testes de Salvaguarda de Morte (<span class="citation">Manual do Jogador, p. 197</span>).
+### Proclamação de Rahadin
+Pouco depois de os PJs derrotarem o propagador da praga, um cavaleiro solitário flanqueado por doze **zumbis** se aproxima da praça da cidade vindo do oeste. Leia:
 
 <div class="description">
-<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it trail a dozen shambling undead, flanking the horseman with six to a side.</p>
-<p>The flickering torchlight paints the man’s features in shades of burning orange and red, revealing a tall, lithe figure of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
-<p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
+<p>Vocês ouvem o som de cascos se afundando na lama. Das sombras na estrada ocidental emerge um homem encapuzado montando um cavalo cinza com olhos opacos e sombrios. Atrás dele, uma dúzia de mortos-vivos cambaleantes o acompanha, flanqueando o cavaleiro com seis de cada lado.</p>
+<p>A luz trêmula da tocha pinta as feições do homem em tons de laranja e vermelho ardente, revelando uma figura alta e esguia de pele escura, com longos cabelos negros que caem além de seu pescoço. Uma capa leve está drapeada sobre seus ombros, com a borda forrada de pelagem branca espessa, e luvas de couro preto macio cobrem suas mãos. Uma túnica azul profunda, adornada com bronze, é visível sob uma camada de armadura de couro resistente, mas flexível, e um sabre curvo pende de uma bainha em seu cinto, com um par de cimitarras presas em suas costas acima dela.</p>
+<p>Suas orelhas afunilam-se abruptamente para cima em pontas élficas, e seus olhos castanho-escuros possuem uma consciência silenciosa e um olhar casual, quase predatório, enquanto se movem lentamente por seus arredores. Uma longa e maligna cicatriz corta sua testa, logo acima de onde linhas começaram a marcar seu rosto com a idade, e seus lábios estão puxados para trás em uma fina e perpétua carranca.</p>
 </div>
 
-This is Rahadin, riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
+Este é Rahadin, montado em seu *phantom steed*. Ao parar na borda da praça da cidade, ele puxa um pergaminho de sua capa e o desenrola. Se não for interrompido, ele começa a ler a partir dele, sua voz ressonante ecoando pela praça:
 
 <div class="description">
-<p>"Five score and seven days past, this people rose in unlawful rebellion against Strahd von Zarovich, Count of Barovia, Master of Castle Ravenloft, and Protector of the Balinok Mountains. For this treasonous act, this settlement has been met with righteous punishment, so that its inhabitants might learn the weight of their defiance.</p>
-<p>"Witnessed by the eyes of the dead and damned, this price has been extracted in blood, common and noble alike. Let it be known that on this day, the mercy of Strahd von Zarovich extends once more unto those who return to their fief and field—while those who continue in their folly shall be swept away as chaff before the wind."</p>
+<p>"Cento e sete dias se atrás, este povo levantou rebelião ilegal contra Strahd von Zarovich, Conde da Baróvia, Mestre do Castelo Ravenloft e Protetor das Montanhas Balinok. Por este ato de traição, este assentamento foi submetido a um castigo justo, para que seus habitantes possam aprender o peso de sua rebelião.</p>
+<p>"Testemunhado pelos olhos dos mortos e dos condenados, este preço foi extraído em sangue, comum e nobre. Que se saiba que neste dia, a misericórdia de Strahd von Zarovich se estende mais uma vez àqueles que retornam a seu feudo e campo—enquanto aqueles que persistirem em sua tolice serão varridos como a palha diante do vento."</p>
 </div>
 
-If not prevented, Rahadin searches the crowd, his gaze finally settling on Ismark. Leaving the undead behind, he approaches Ismark on horseback. 
+Se não for impedido, Rahadin vasculha a multidão, seu olhar finalmente se fixando em Ismark. Deixando os mortos-vivos para trás, ele se aproxima de Ismark a cavalo. 
 
-As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read: 
+À medida que Rahadin se aproxima dos PJs (ou vice-versa), os PJs podem ouvir os sons de seu ***coro mortal.*** Leia: 
 
 <div class="description">
-<p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
-<p>Your ears fill with a cacophony of a thousand voices, pleading, suffering, dying: a psychic onslaught that crashes against your mind from every direction, leaving little room for thought. The man, however, remains unflinching—seemingly undisturbed by the symphony of screams that surrounds him.</p>
+<p>Tudo começa com um rugido abafado — um formigamento à beira da sua consciência, como o som do oceano lavando a costa. Entretanto, à medida que o homem se aproxima, o som abafado torna-se cada vez mais insistente, ampliando-se e se intensificando, até que se transforma, de um som aparentemente inócuo, quase como o de ondas, em uma torrente de gritos.</p>
+<p>Seus ouvidos se enchem com uma cacofonia de mil vozes — implorando, sofrendo, morrendo: uma investida psíquica que colide com sua mente de todas as direções, deixando pouco espaço para o pensamento. No entanto, o homem permanece impassível — aparentemente indiferente à sinfonia de gritos que o cerca.</p>
 </div>
 
-The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
+Os PJs podem notar que quaisquer outros barovianos a até três metros de Rahadin parecem estar igualmente perturbados. (Qualquer baroviano além do raio de três metros não consegue ouvir os gritos.) Quando Rahadin fala, os gritos diminuem um pouco—o suficiente para que ele e os outros sejam ouvidos—mas ganham um acento notável de medo.
 
-Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
+Ao se aproximar de Ismark, Rahadin o inspeciona brevemente e então declara friamente: “Por favor, aceite minhas congratulações pela sua nova posição—e minhas condolências pela sua perda." A menos que seja impedido, ele então vira seu cavalo e parte da vila, mais uma vez seguido pelos doze **zombies**.
 
-Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
+A proclamação inicial de Rahadin deixa Ismark rígido e de rosto inexpressivo, mas sua saudação subsequente deixa Ismark em choque e paralisado.
+Logo após a partida de Rahadin, Ismark parece assimilar o peso das palavras dele, solta um brado ensurdecedor e sem palavras, e corre para a mansão do burgomestre.
+(Caso Caramujo esteja presente, ele exorta os jogadores a seguirem Ismark.))
 
-> [!abstract]+ **The Players Challenge Rahadin**
-> Rahadin takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is Rahadin, chamberlain of Castle Ravenloft, and a humble servant of Strahd von Zarovich.
->
-> If grappled, restrained, or attacked, Rahadin first commands them to “cease their foolishness," noting that “in the spirit of the night’s mercy, and in light of their foreign nature," he is not unwilling to overlook their disobedience on this single occasion. If the interfering player continues their interference, Rahadin swiftly and efficiently dispatches them. 
->
-> Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following <span class="citation">Lingering Injuries (<em>Dungeon Master’s Guide</em>, p. 272)</span>: **Lose an Arm or Hand**, **Lose a Foot or Leg**, or **Internal Injury**. This injury lasts until the player has completed two long rests.
+[!abstract]+ Os Jogadores Desafiam Rahadin
+Rahadin demonstra pouco interesse pelos jogadores. Se desafiado, ele afirma apenas que o cerco foi “a vontade de Strahd” e informa os jogadores de que “não cabe a eles questionar as ações de seus superiores”. Se perguntam sua identidade, ele apenas diz que é Rahadin, capelão do Castelo Ravenloft e humilde servo de Strahd von Zarovich.
+
+Se for agarrado, contido ou atacado, Rahadin primeiro ordena que “cessem essa tolice”, observando que “no espírito da misericórdia desta noite e levando em conta sua natureza estrangeira”, ele está disposto a relevar sua desobediência apenas desta vez. Se o jogador que interferiu continua a atrapalhar, Rahadin o abate de forma rápida e eficiente.
+
+Quando um jogador que interferiu é nocauteado, Rahadin usa o punho de seu sabre para golpear o pulso, joelho ou costelas do jogador, fazendo com que, temporariamente, esse jogador sofra um dos seguintes efeitos de <span class="citation">Ferimentos Duradouros (<em>Dungeon Master’s Guide</em>, p. 272)</span>: Perder um Braço ou Mão, Perder um Pé ou Perna ou Ferimento Interno. Esse ferimento dura até que o jogador complete dois descansos longos
 
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Capelão do Castelo</h2>
+<em>Humanoide médio (elfo), maligno legal</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe de Armadura</strong> 18 (couro batido)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Pontos de Vida</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocidade</strong> 10 m.
 <hr>
 <table class="ability-table">
   <thead>
@@ -611,47 +622,46 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
+<strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
+<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 23<br>
+<strong>Idiomas</strong> Comum, Élfico<br>
+<strong>Desafio</strong> 14<br>
+<strong>Proficiência</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
+<p><strong><em>Ascendência Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser enfeitiçado, e magia não pode colocá-lo para dormir.</p>
+<p><strong><em>Magia Inata.</em></strong> A habilidade para conjuração inata de Rahadin é Inteligência. Ele pode conjurar inatamente os seguintes feitiços, sem necessidade de componentes:<br>
+- 3/dia: phantom steed<br>
+- 1/dia: nondetection</p>
+<p><strong><em>Máscara da Natureza.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente encoberto por folhagens, chuva forte, neve caindo, névoa e outros fenômenos naturais.</p>
+<p><strong><em>Instinto Assassino.</em></strong> Quando Rahadin cai a 0 pontos de vida, ele guarda sua sabre e desembainha suas cimitarra gêmeas, <em>Thorn</em> e <em>Chain</em>. Suas estatísticas são instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. Dano excedente não é transferido para sua nova forma, e ele não mantém quaisquer condições que possuía em sua forma anterior.</p>
+<h3>Ações</h3>
+<p><strong><em>Multiataque.</em></strong> Rahadin realiza dois ataques.</p>
+<p><strong><em>Sabre.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Dano:</em> 11 (1d8 + 6) de dano cortante, e Rahadin pode empurrar o alvo em até 1,5 metro para longe. Em vez de empurrar o alvo, Rahadin pode forçá-lo a ter sucesso em um teste de salvaguarda de Força CD 15 ou ser derrubado.</p>
+<p><strong><em>Dardo Envenenado.</em></strong> <em>Ataque à Distância com Arma:</em> +11 para atingir, alcance 6/18 m, um alvo. <em>Dano:</em> 14 (1d4 + 6 mais 2d4) de dano perfurante e venenoso, e o alvo deve ter sucesso em um teste de salvaguarda de Constituição CD 15 ou ficar envenenado até o início do próximo turno de Rahadin.</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Golpe do Vento.</em></strong> Rahadin se move até sua velocidade em linha reta em direção a um espaço desocupado que possa ver, incluindo através de espaços inimigos, sem provocar ataques de oportunidade. Cada criatura a até 1,5 metro de um espaço pelo qual ele passar deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em uma falha, ou metade do dano em um sucesso.</p>
+<p><strong><em>Lâminas Giratórias.</em></strong> Cada criatura a até 3 metros de Rahadin deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em uma falha, ou metade do dano em um sucesso.</p>
+<h3>Reações</h3>
+<p>Rahadin pode realizar até três reações por rodada, mas não mais que uma por turno. Se Rahadin perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Golpe Punitivo.</em></strong> Quando Rahadin é atingido por um ataque corpo a corpo ou à distância, ele pode usar sua reação para se mover até sua velocidade em direção ao atacante e realizar um ataque com seu sabre. Este movimento não provoca ataques de oportunidade.</p>
+<p><strong><em>Desarmar.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin enquanto empunha uma arma, ele pode usar sua reação para forçar esse inimigo a fazer um teste de salvaguarda de Força CD 19, com vantagem se o inimigo estiver segurando a arma com as duas mãos. Em uma falha, o inimigo solta o item, que é arremessado a 3 metros de distância.</p>
+<p><strong><em>Passo Nebuloso (1/rodada).</em></strong> Quando um inimigo erra um ataque contra Rahadin ou lhe causa dano, ele pode usar sua reação para conjurar <em>misty step</em>. Ele pode então imediatamente realizar a ação Esconder-se. Rahadin não precisa ver seu destino ao conjurar <em>misty step</em> desta forma.</p>
+<p><strong><em>Grito Psíquico (1/dia).</em></strong> Quando Rahadin é reduzido a 0 pontos de vida, ele pode usar sua reação para fazer seu coro mortal soltar um grito terrível. Cada criatura a até 18 metros de Rahadin deve fazer um teste de salvaguarda de Sabedoria CD 17, sofrendo 11 (2d10) de dano psíquico em uma falha, ou metade do dano em um sucesso. Se uma criatura falhar no teste por 5 ou mais, ela também fica atordoada até o início do próximo turno de Rahadin.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Matador de Parentes</h2>
+<em>Humanoide médio (elfo), maligno legal</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe de Armadura</strong> 18 (couro batido)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Pontos de Vida</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocidade</strong> 10 m.
 <hr>
 <table class="ability-table">
   <thead>
@@ -676,429 +686,427 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5<br>
+<strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
+<strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
+<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 23<br>
+<strong>Idiomas</strong> Comum, Élfico<br>
+<strong>Desafio</strong> 15<br>
+<strong>Proficiência</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
+<p><strong><em>Ascendência Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser enfeitiçado, e magia não pode colocá-lo para dormir.</p>
+<p><strong><em>Máscara da Natureza.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente obscurecido por folhagens, chuva forte, neve caindo, névoa e outros fenômenos naturais.</p>
+<h3>Ações</h3>
+<p><strong><em>Multiataque.</em></strong> Rahadin realiza três ataques com suas cimitarra <strong><em>Thorn</em></strong> e/ou <strong><em>Chain</em></strong>. Ele pode substituir um ataque por sua habilidade <strong><em>haunt</em></strong>.</p>
+<p><strong><em>Thorn.</em></strong> <em>Ataque Corpo a Corpo:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou sangrar pelo próximo 1 minuto. (Um alvo sangrando deve ter sucesso em um teste de salvaguarda de Constituição CD 19 no início de cada um de seus turnos ou sofrer 1d6 de dano cortante adicional. Em caso de sucesso ou ao receber cura mágica, o alvo para de sangrar.)</p>
+<p><strong><em>Chain.</em></strong> <em>Ataque Corpo a Corpo:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou ter sua velocidade reduzida a 0 até o final do seu próximo turno. Se o alvo falhar por 5 ou mais, ele também cai prone.</p>
+<p><strong><em>Haunt.</em></strong> Rahadin força uma criatura que ele possa ver a até 9 metros a ter sucesso em um teste de salvaguarda de Sabedoria CD 17 ou sofrer 7 (2d6) de dano psíquico e ficar amedrontada e surda pelos gritos das almas até o início do próximo turno dele.</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Coro Mortal.</em></strong> Cada criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> deve ter sucesso em um teste de salvaguarda de Sabedoria CD 17, sofrendo 9 (2d8) de dano psíquico em uma falha ou metade desse dano em um sucesso. Se uma criatura falhar o teste por 5 ou mais, ela também fica amedrontada até o início do próximo turno de Rahadin.</p>
+<p><strong><em>Passo Veloz.</em></strong> Rahadin realiza a ação Correr ou Desengajar.</p>
+<h3>Reações</h3>
+<p>Rahadin pode realizar até três reações por rodada, embora não mais que uma por turno. Se Rahadin perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Parry.</em></strong> Rahadin adiciona +5 à sua Classe de Armadura contra um ataque corpo a corpo ou à distância que o atingiria ou ao resultado de um teste de salvaguarda de Destreza falho, ou não sofre dano de <em>magic missile</em> neste turno. Se ele fizer um ataque corpo a corpo errar dessa forma, pode usar imediatamente uma reação adicional, se disponível, para usar seu Riposte contra o atacante.</p>
+<p><strong><em>Riposte.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin, ele pode usar sua reação para se mover até sua velocidade para um espaço desocupado a até 1,5 m daquele inimigo sem provocar ataques de oportunidade. Ele pode então fazer imediatamente um ataque com <strong><em>Thorn</em></strong> ou <strong><em>Chain</em></strong> contra esse inimigo com vantagem.</p>
 </div>
 
-## B5h. Return to the Mansion
-### Strahd’s Aftermath
-If the players follow Ismark to the burgomaster’s mansion, they find its grounds abandoned and the front door ajar. Upon arriving, Ismark rushes inside, shouting for his father and Ireena.
+## B5h. Retorno à Mansão
+### Consequências de Strahd
+Se os PJs seguirem Ismark até a mansão do burgomestre, encontrarão a àrea abandonada e a porta da frente entreaberta. Ao chegar, Ismark corre para dentro, gritando por seu pai e por Irene.
 
-Ismark and the players can find Kolyan and Ireena in the first-floor parlor. Read:
+Ismark e os PJs podem encontrar Kolyan e Irene na sala do primeiro andar. Leia:
+
+<div class="description"> <p>Uma poça vermelha circunda o corpo imóvel do burgomestre, cujos olhos vítreos fitam o teto sem enxergar, enquanto o sangue escorre de um longo e preciso talho em seu peito. Não muito longe, Irene está caída sobre o tapete, sob uma janela tapada cujas cortinas puídas balançam preguiçosamente na brisa fria.</p> </div>
+
+Ao chegar, Ismark solta um grito estrangulado de angústia e imediatamente se ajoelha para embalar a cabeça de seu pai em suas mãos.
+
+Kolyan está obviamente morto. Um PJ que inspeciona Irene e verifica sua respiração ou pulso descobre que ela está viva, mas pálida e fraca, com duas feridas puncturadas ensanguentadas perfurando a carne de seu pescoço.
+
+Pouco depois de os PJs chegarem, Irene desperta, gritando em desespero ao ver o corpo de seu pai. Se perguntada, ela pode compartilhar as seguintes informações, embora admita prontamente que sua memória está turva:
+
+* Conforme o cerco avançava, ela retornou à mansão para buscar uma aljava nova de virotes de besta. Ao voltar para a porta, ouviu o pai convidando alguém a entrar em sua casa. (“A voz do meu pai soava estranha”, ela sussurra, abraçando o próprio corpo. “Ele estava calmo — calmo demais — como se alguém estivesse falando por ele.”)
+* Embora não se lembre de quem era o visitante, ela se recorda de uma silhueta alta e esquálida; de uma voz profunda e ressonante; e de um par de olhos vermelhos, ardentes e hipnóticos.
+* A voz — de um homem — falou com ela, e então sua memória ficou em branco. Ela se lembra de sentir uma dor súbita e aguda no pescoço, seguida pelo som de seu pai gritando. Ao perder a consciência, recorda-se de ouvir a voz murmurar: “Voltaremos a nos encontrar.”
+
+Irene está horrorizada com a morte de seu pai e a perspectiva de que sua casa foi visitada pelo Diabo, Strahd von Zarovich. Ela está perplexa quanto ao motivo pelo qual Strahd poderia matar seu pai, mas poupá-la, e está profundamente perturbada pela possibilidade de que, de alguma forma, ela seja responsável pelo destino de Kolyan.
+
+Uma vez que os PJs tenham confortado suficientemente os irmãos, Ismark, exausto, pede aos PJs que permaneçam na mansão com Irene enquanto ele retorna à praça da cidade para garantir que os Barovianos feridos sejam cuidados. “Veremos o enterro de nosso pai amanhã," ele acrescenta, em voz baixa. "E se puderem—tentem dormir um pouco. Vocês mais do que merecem."
+
+### A Discussão
+Ismark retorna à mansão pouco antes da meia-noite. Logo depois, qualquer PJ que permaneça acordado, ou que tenha uma Sabedoria (Percepção) passiva de 15 ou mais, ouve uma discussão abafada vindo da cozinha abaixo. 
+
+Os PJs podem escutar esta conversa com um teste bem-sucedido de DC 13 em Destreza (Furtividade) ou um teste bem-sucedido de DC 15 em Sabedoria (Percepção). Leia:
 
 <div class="description">
-<p>A red pool surrounds the burgomaster’s unmoving form, his glassy eyes staring unseeing toward the ceiling as blood drips from a long, elegant slash across his chest. Not far away, Ireena lies crumpled across the carpet beneath a boarded-up window, its ragged curtains drifting lazily in the cold wind.</p>
+<p>Os murmúrios vindos do cômodo ao lado são, em grande parte, indistintos, abafados pelos gemidos baixos das velhas vigas da casa. Entretanto, à medida que você força os ouvidos, as palavras dos irmãos começam, pouco a pouco, a se tornar mais claras.</p>
+<p>A voz de Irene, carregada de indignação, rompe o silêncio. “Você não tem esse direito, Ismark. Não pode simplesmente decidir me mandar embora, como se eu fosse algum tipo de inconveniente! Sou filha do Pai tanto quanto você, e nosso povo precisa de mim para reconstruir. Você também precisa de mim!”</p>
+<p>A resposta de Ismark é ponderada, mas há nela um tom inconfundível de preocupação. “O Diabo está com os olhares voltados a você — e mesmo que nós não acreditemos na lenda sobre mulheres de cabelos ruivos, outros podem acreditar. Baróvia já não é segura para você.”</p>
+<p>Um bufar de desafio ecoa do outro lado da fina divisória de madeira. “Não sou covarde, Ismark, e não vou abandonar nossos amigos e vizinhos em sua hora de necessidade.”</p>
+<p>Há uma pausa. Então, Ismark diz, em voz baixa: “Gertruda deixou a vila esta manhã. Sozinha.”</p>
+<p>Você ouve um suspiro trêmulo de Ireena. “<em>Por quê?</em>”</p>
+<p>“A mãe dela acha que foi até o castelo — provavelmente para buscar clemência para o vilarejo diante do Diabo,” murmura Ismark.</p>
+<p>Segue-se um longo e sofrido silêncio. Então—</p>
+<p>Ismark parece hesitar, as palavras saindo de forma um pouco atrapalhada. “Não estou pedindo que os abandone. Mas há outros que precisam da sua ajuda. Pense nos nossos vizinhos que fugiram para Vallaki. Eles precisam de orientação, de representação — e talvez de alguém que um dia os traga de volta para casa.”</p>
+<p>Há uma nova pausa prolongada. Quando Ireena finalmente fala, sua voz sai baixa — quase inaudível. “Ainda não gosto disso.”</p>
+<p>A resposta de Ismark é calma. “É a sua escolha. Não posso tirar isso de você. Mas depois de perder o Pai, eu não... eu não suporto a ideia de perder você também.”</p>
+<p>O silêncio que se segue é palpável, carregado de emoções não ditas. Finalmente, a voz de Ireena o rompe, frágil e quase em sussurros. “Eu irei. Só por você. E apenas se enterrarmos o Pai antes — juntos.”</p>
 </div>
 
-Upon arriving, Ismark lets out a strangled cry of anguish, and immediately descends to cradle his father’s head in his hands.
+Ismark e Ireena sobem as escadas alguns momentos depois. Um PJ com um valor passivo de Sabedoria (Intuição) de 10 ou mais percebe que ambos têm os olhos manchados e vermelhos, como se tivessem chorado.
 
-Kolyan is obviously dead. A player who inspects Ireena and checks her breath or pulse finds that she is alive, but pale and weak, with two bloody puncture wounds piercing the flesh of her neck.
+Se confrontado, Ismark pode relutantemente compartilhar as seguintes informações:
 
-Shortly after the players arrive, Ireena stirs awake, shrieking in despair when she sees her father’s corpse. If asked, she can share the following information, though she readily admits that her memory is hazy:
+* Ele não acredita mais que a Baróvia, cercada por vizinhos suspeitos e à sombra da fortaleza do Diabo, seja segura para Irene.
+* Em vez disso, Ismark pretende que Irene viaje para Vallaki, uma cidade fortificada a oeste. Dizem que a Igreja de São Andral em Vallaki é um terreno sagrado, protegendo seus congregantes de vampiros e outros mortos-vivos.
 
-* As the siege progressed, she returned to the manor to retrieve a fresh quiver of crossbow bolts. As she returned to the door, she heard her father inviting someone to enter their home. (“Father’s voice sounded strange," she whispers, holding her arms to her chest. “He was calm—too calm—like someone else was speaking for him.")
-* Though she doesn’t remember who the visitor was, she remembers a tall, gaunt silhouette; a deep, resonant voice; and a set of burning, hypnotic red eyes.
-* The voice—a man’s—spoke to her, and her memory went blank. She remembers feeling a sudden, sharp pain on her neck, followed by the sound of her father shouting. As she fell into unconsciousness, she recalls hearing the voice murmur, “We shall meet again."
+Quando os jogadores retornam ao quarto, podem ver dois **swarms of bats**—os espiões de Strahd—reunidos nas beiradas de uma casa próxima, observando silenciosamente das sombras.
 
-Ireena is horrified by her father’s death and the prospect that their home was visited by the Devil, Strahd von Zarovich. She is bewildered as to why Strahd might kill her father but spare her, and is deeply disturbed by the prospect that she is somehow responsible for Kolyan’s fate.
+### Manhã na Mansão
+O descanso dos PJs na mansão transcorre sem incidentes. Quando despertam na manhã seguinte, pouco antes do amanhecer, encontram o corpo do burgomestre repousando em um caixão na sala de estar, conforme descrito em <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark e Ireena estão na sala de jantar, tomando chá em silêncio.
 
-Once the players have sufficiently comforted the siblings, Ismark exhaustedly asks the players to remain at the mansion with Ireena while he returns to the town square to ensure that any wounded Barovians are cared for. “We will see to our father’s burial tomorrow," he adds, quietly. "And if you can—try to get some sleep. You've more than earned it."
-### The Argument
-Ismark returns to the manor shortly before midnight. Shortly thereafter, any players who remain awake, or who have a passive Wisdom (Perception) of 15 or greater, overhear a muffled argument from the kitchen below. 
+Quando os personagens descem ao andar principal, Ireena os cumprimenta e insiste em preparar para eles tigelas de mingau de leite de cabra e xícaras de chá de camomila no café da manhã. Enquanto Ireena se ocupa na cozinha, Ismark, de modo solene e pedindo desculpas, faz três pedidos aos jogadores:
 
-The players can eavesdrop on this conversation with a successful DC 13 Dexterity (Stealth) check or a successful DC 15 Wisdom (Perception) check. Read:
+***Escoltar Ireena***. Ismark primeiro comenta em voz baixa que Ireena parece ter se tornado um alvo tanto para o Diabo quanto para os próprios aldeões, e que ele não acredita mais que a vila — localizada diretamente sob a sombra do Castelo Ravenloft — seja segura para ela.. 
+
+Ismark compartilha as informações sobre seu desejo de levá-la a Vallaki, conforme descrito em <span class="citation">Interpretando Ismark (p. 43)</span>, e ressalta que a Igreja de St. Andral, em Vallaki, supostamente é solo consagrado, protegendo os fiéis de vampiros e outros mortos-vivos. Embora ele não possa deixar Baróvia por conta de suas obrigações como sucessor de seu pai, Ismark pede aos jogadores que, em seu lugar, escoltem Irene até a Igreja de St. Andral. 
+
+> [!warning]+ **Esclarecendo Expectativas**  
+>  
+> *Curse of Strahd: Reloaded* é uma campanha sobre heróis. Também é uma campanha sobre formar alianças e sobre os laços e a força que surgem dessas alianças.  
+>  
+> Sendo assim, embora Ireena não seja um NPC essencial para a campanha, um grupo que recusar o pedido de Ismark provavelmente tem expectativas desalinhadas em relação ao tipo de campanha que você pretende conduzir. Se os jogadores se recusarem a escoltar Ireena até Vallaki, pause o jogo e converse com eles para esclarecer e confirmar expectativas. Se os jogadores ainda se mostrarem relutantes em levá-la, faça perguntas e discuta o assunto antes de retomar o jogo.
+
+***Buscando Madame Eva.*** O ataque de Strahd à vila só reforçou a convicção de Ismark de que os barovianos precisam encontrar uma forma de escapar da tirania do vampiro. “Não podemos continuar vivendo assim”, ele diz com a voz rouca, enquanto seus nós dos dedos ficam brancos sobre a caneca. “Ouvi dizer como as coisas eram terríveis cem anos atrás, antes de ele adormecer. Vampiros à espreita em cada sombra. Pais e filhos desaparecendo durante a noite. Ratos, lobos e morcegos relatando cada movimento nosso ao castelo. Mesmo que o Diabo entre em dormência novamente em cinquenta ou sessenta anos, quem seríamos nós se condenássemos nossos filhos e netos ao mesmo destino?”
+
+Embora ele peça que sejam discretos ao fazer isso, para evitar atrair a ira de Strahd de volta sobre a vila, Ismark pede aos PJs que busquem a sabedoria de Madame Eva, uma vidente e sábia Vistani que habita o Lago Tser. "Se alguém souber como o Diabo pode ser destruído e nosso povo libertado," ele murmura, "é ela."
+
+Se os jogadores concordarem, o jogador com o maior valor de Sabedoria (Percepção) passiva percebe um rato — um dos espiões de Strahd — observando-os com um interesse intenso, malicioso e inteligente por debaixo de um móvel próximo. Ao ser notado, o rato dispara imediatamente em direção à cozinha, numa tentativa clara de escapar.
+
+Os PJs têm uma rodada para matar o rato enquanto ele corre em direção a um grande buraco na parede da cozinha. Se falharem, Irene o atravessa com sua espada rapieira antes que ele consiga escapar, reconhecendo-o como um dos espiões de Strahd.
+
+***Entregando o Caixão.*** Após pedir seus dois primeiros favores, Ismark pede aos PJs que o ajudem a levar o caixão de Kolyan até a igreja. Se o fizerem, os dois irmãos acompanharão os PJs até a igreja.
+## B5i. A Igreja da Baróvia
+<span class="citation"><em>Esta cena acontece no Capítulo 3: Área E5.</em></span>
+
+Quando os PJs chegam à igreja com o corpo do burgomestre, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] está perturbado com os danos causados em suas paredes e telhado. Enquanto ele bate na porta da frente e chama por Donavich, se Caramujo ainda estiver vivo, leia o seguinte:
 
 <div class="description">
-<p>The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.</p>
-<p>Ireena's voice, sharp with indignation, pierces the silence. "You have no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
-<p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
-<p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
-<p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village this morning. Alone."</p>
-<p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
-<p>"Her mother thinks she went to the castle—probably to seek clemency for the village from the Devil," Ismark murmurs.</p>
-<p>There's a long, suffering silence. Then—</p>
-<p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
-<p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
-<p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
-<p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
+<p>À medida que a batida de Ismark ecoa pelo ar gelado, uma voz ressoa da rua sombria: "Ele não vai sair."</p>
+<p>Uma silhueta imponente avança da neblina—Caramujo.</p>
 </div>
 
-Ismark and Ireena ascend the stairs a few moments later. A player with a passive Wisdom (Insight) score of 10 or more notices that both have blotchy, red eyes, as if from crying.
-
-If confronted, Ismark can reluctantly share the following information:
-
-* He no longer believes that Barovia, surrounded by suspicious neighbors and in the shadow of the Devil’s keep, is safe for Ireena.
-* Instead, Ismark intends for Ireena to travel to Vallaki, a fortified town to the west. St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead.
-
-When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
-### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
-
-When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
-
-***Escorting Ireena.*** Ismark first quietly notes that Ireena appears to have become a target for both the Devil and her fellow villagers, and that he no longer believes the village, which lies directly beneath the shadow of Castle Ravenloft, to be safe for her. 
-
-Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation">Roleplaying Ismark (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
-
-> [!warning]+ **Clarifying Expectations**
-> 
-> *Curse of Strahd: Reloaded* is a campaign about heroes. It's also a campaign about making allies, and the bonds and strength that grow from those alliances.
-> 
-> As such, while Ireena is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Ireena to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Ireena with them, ask questions and discuss the issue further before resuming the game.
-
-***Seeking Madam Eva.*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
-
-Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
-
-If the players agree to do so, the player with the highest passive Wisdom (Perception) score notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
-
-The players have one round to kill the rat as it scurries toward a large hole in the kitchen wall. If they fail to do so, Ireena skewers it with her rapier before it can do so, recognizing it as one of Strahd's spies.
-
-***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players to the church.
-## B5i. The Barovian Church
-<span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
-
-When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+Se Bildrath morreu no cerco, adicione:
 
 <div class="description">
-<p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—Parriwimple.</p>
+<p>As roupas do Caramujo ainda estão desarrumadas e manchadas de sangue, e suas bochechas estão manchadas e vermelhas.</p>
 </div>
 
-If Bildrath died in the siege, add:
+Caramujo, que está fazendo uma caminhada ("Isso me ajuda a pensar," ele murmura, se perguntado), pode compartilhar as seguintes informações se questionado:
+
+* O Padre Donavich costumava ser um homem gentil e acolhedor, sempre pronto a compartilhar uma palavra de sabedoria ou oferecer uma torta quente de maçã-silvestre aos visitantes.  
+* Desde que o cerco começou, entretanto, Donavich se trancou na igreja e, na maioria das vezes, passou a recusar a entrada de visitantes. Quando Caramujo o viu pela última vez, há dois dias, Donavich parecia não ter dormido ou se banhado havia quase uma semana.  
+* O Padre Donavich não usa seu símbolo sagrado (um sol radiante de bronze) desde a rebelião, o que Caramujo acha estranho. (Caramujo sempre adorou ver como a luz se refletia nele e adorava ouvir Doru, filho de Donavich, contar histórias de como o sol já brilhou em Baróvia.)  
+* Caramujo sente falta de Doru, que partiu há três meses para liderar a rebelião contra Strahd ao lado do estranho Alanik. (Ele também sente falta do macaco de estimação de Alanik, com quem adorava brincar.) Apesar de seu tio ter dito que Doru morreu no Castelo Ravenloft, Caramujo ainda tem esperanças de que ele tenha sobrevivido de alguma forma.
+
+Caramujo não acompanhará os PJs dentro da igreja, mas lhes deseja boa sorte e os convida a visitá-lo no empório de Bildrath antes de partir.  
+### Dentro da Igreja  
+Esta área é em grande parte como descrita em <span class="citation">Igreja (p. 45)</span>. No entanto, modifique o texto descritivo para <span class="citation">E5a. Corredor (p. 45)</span> para remover o grito de Doru: 
 
 <div class="description">
-<p>Parriwimple's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
+<p>As portas se abrem para revelar um corredor de três metros de largura e seis metros de comprimento que leva a uma capela iluminada. O corredor está às escuras e exala um cheiro de mofo. Quatro portas, duas de cada lado do corredor, levam a câmaras adjacentes.</p>
+<p>Vocês podem ver que a capela está coberta de detritos, e ouvem uma voz suave de dentro recitando uma oração.</p>
 </div>
 
-Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
-
-* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
-* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
-* Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
-
-Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
-### Inside the Church
-This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
+Doru não clama por seu pai quando os PJs entram na capela. Em vez disso, quando os PJs se aproximam da capela pela primeira vez, as orações de Donavich cessam. Adicione a seguinte linha à descrição da capela no lugar do clamor de Doru:
 
 <div class="description">
-<p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
-<p>You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer.</p>
+<p>O som de uma oração murmurada cessa, e uma voz rouca e cansada ecoa pela câmara vinda da figura ajoelhada atrás do altar. “Não posso oferecer a bênção que vocês buscam. Vão, e deixem este lugar amaldiçoado em paz.”</p>
 </div>
 
-Doru does not cry out to his father when the players enter the chapel. Instead, when the players first approach the chapel, Donavich’s prayers halt. Add the following line to the chapel’s description in place of Doru’s cry:
+> [!lore]+ **Uma História Recente da Igreja**
+>
+> Donavich não apoiava a marcha de Doru sobre o Castelo Ravenloft. Homem brando e de fala mansa, Donavich temia que Doru encontrasse apenas sua ruína além dos muros da fortaleza. Para proteger seu filho, porém, e como um símbolo de seu amor, Donavich entregou a Doru seu símbolo sagrado, junto com sua bênção.
+>
+> O símbolo sagrado de Donavich, entretanto, pouco fez para proteger seu filho. Quando Strahd iniciou seu cerco à vila da Baróvia há seis noites, suas forças undead não vieram sozinhas: Strahd também enviou Doru, agora uma recém-criada **vampire spawn**, para aterrorizar a igreja e atormentar seu pai. Donavich mal conseguiu atrair e aprisionar Doru na cripta subterrânea, onde ele permanece preso até hoje.
+>
+> Desde o retorno de Doru, Padre Donavich tem sido incapaz de lançar qualquer magia e não sente mais a presença do Senhor da Manhã quando ora. Quando Strahd enviou Doru de volta à Baróvia, permitiu que ele continuasse usando o símbolo sagrado do pai como uma cruel zombaria. Por isso, Donavich acredita erroneamente que a natureza undead de Doru corrompeu seu símbolo — e, portanto, sua ligação com o Senhor da Manhã — impedindo-o de alcançar a graça divina do Senhor da Manhã.
+>
+> Na verdade, porém, é a própria perda de fé de Father Donavich que o impede — uma crise que o cega para uma verdade ainda mais dura. Donavich acredita que seu filho, Doru, está morto, e que a **vampire spawn** aprisionada na cripta é uma besta profana e abjeta que veste a pele de Doru. Ele está enganado: embora seu corpo seja agora undead, a alma de Doru está muito viva.
+>
+> Embora não possa ignorar as ordens diretas de Strahd, e apesar da sede de sangue pesar fortemente em seus pensamentos e ações, Doru continua a lutar amargamente contra sua própria natureza vampírica. Embora nem sempre tenha sucesso, foi essa resistência que permitiu que seu pai o aprisionasse na cripta. Quando a esperança surge dentro dele, Doru clama ao pai para libertá-lo, suplicando por salvação e perdão. Donavich, contudo, até agora recusou-se a responder.
+>
+> Doru continua a usar o símbolo sagrado de seu pai, tanto para se assegurar de que um dia se reconciliarão quanto para fortalecer sua vontade quando os impulsos vampíricos se tornam fortes demais. Sua capacidade de resistir ao chamado do sangue tem crescido lentamente desde seu aprisionamento — mas também sua exaustão, agravada pela lenta fome. Agora, a sanidade de Doru está à beira do abismo, e um simples empurrão pode significar salvação — ou condenação.
+
+> [!profile]+ **Perfil: Padre Donavich**  
+>  
+> **Informações de Interpretação**  
+> **Ressonância.** Donavich deve inspirar simpatia por sua tristeza e medos, pena por sua separação do Senhor da Manhã, empatia por sua bondade e hospitalidade, e desconforto por sua condenação zelosa da natureza morta-viva de Doru.  
+>  
+> **Emoções.** No estado atual, Donavich sente, com mais frequência, pesar, culpa, exaustão, compaixão e obsessão. Se ele se reconciliar com Doru, passaria a sentir principalmente esperança, alívio, gratidão, confusão, medo e vergonha.  
+>  
+> **Motivações.** O Padre Donavich quer libertar seu filho das garras de Strahd — a qualquer custo.  
+>  
+> **Inspirações.** Ao interpretar o Padre Donavich, pense em Eddard Stark (*Game of Thrones*), Walter White (*Breaking Bad*) e Denethor (*O Senhor dos Anéis*).  
+>  
+> **Informações de Personagem**  
+> **Personalidade.** Para o mundo, o Padre Donavich é um pai enlutado, mas zeloso. Para aqueles em quem confia, ele é um homem destruído, à deriva no mundo, perdido e confuso, sem orientação ou propósito.  
+>  
+> **Moral.** Em uma luta, normalmente o Padre Donavich lutaria para defender seu povo e sua igreja. Em seu estado atual, porém, ele se renderia imediatamente, consumido demais pela culpa para sequer defender a própria vida.  
+>  
+> **Relacionamentos.** O Padre Donavich é pai de Doru e padre da igreja de Baróvia.  
+
+Se ele souber que Ismark e Irene estão com os PJs, Donavich age de forma mais calorosa em relação a eles e se desculpa pelo estado de degradação da capela. 
+
+À medida que a conversa se desenrola, os seguintes diálogos podem ocorrer:
+
+* Se Ismark, Irene ou um PJ perguntar sobre o sepultamento do falecido burgomestre, Donavich informa que ficaria feliz em supervisionar o enterro, mas que não pode realizar os rituais sagrados que santificariam os restos de Kolyan. (Donavich está triste ao ouvir sobre a morte de Kolyan e expressa suas condolências por seu falecimento.)
+* Se Ismark, Irene ou um PJ notar os danos causados à igreja, Donavich informa que foram causados por uma **vampire spawn** que atacou durante o cerco—o corpo morto-vivo de seu filho, Doru. (Tanto Ismark quanto Irene ficam chocados e horrorizados ao saber do destino de Doru, acreditando que ele havia morrido no Castelo Ravenloft.)
+* Se Ismark, Irene ou um PJ informá-lo que Gertruda (a noiva de Doru) está desaparecida, Donavich lamenta por ela e murmura uma oração silenciosa para que o Senhor da Manhã guarde e proteja sua alma.
+
+Se os PJs perguntarem mais, Donavich pode compartilhar as seguintes informações:
+
+* Quando Doru partiu para o Castelo Ravenloft, o Padre Donavich lhe deu seu símbolo sagrado do Senhor da Manhã—um sol em bronze em um cordão de couro—para mantê-lo seguro diante da escuridão. No entanto, quando Doru não retornou, Donavich temeu o pior.
+* Seis dias atrás, enquanto o cerco começava, Doru voltou à igreja à meia-noite, agora transformado em uma **vampire spawn**. Donavich conseguiu atrair Doru para o subsolo e prendê-lo lá.
+* Desde que Doru retornou, Donavich não tem conseguido lançar feitiços ou sentir a presença do Senhor da Manhã. Ele acredita que isso se deve ao fato de Doru ainda ter seu símbolo sagrado, e que a influência vil de Strahd corrompeu a conexão de Donavich com os deuses.
+* Donavich acredita que seu filho está morto, e que a criatura que veste sua pele é uma zombaria que deve ser destruída.
+
+Donavich sabe que não pode derrotar Doru e não suporta ver o rosto de seu filho novamente. Se os PJs estiverem dispostos, no entanto, Donavich pede que desçam ao subsolo, destruam o corpo de Doru e recuperem seu símbolo sagrado. Em troca, Donavich se oferece para completar os rituais de sepultamento adequados e para contar aos PJs sobre um lugar onde podem encontrar segurança do Diabo Strahd.
+
+Se os PJs concordarem, Donavich produz a chave do cadeado em <span class="citation">E5d. Porta Secreta (p. 45)</span> e permite que entrem. (Ismark permanece no andar de cima com Irene, relutante em expô-la a um vampiro—até mesmo Doru—mas promete aos PJs que se juntará a eles caso Doru se prove perigoso demais para que consigam lidar. Um teste de Sabedoria (Intuição) com CD 12 revela que ele também parece estar horrorizado demais com o destino de Doru para enfrentá-lo diretamente.)
+### Descida ao Subsolo
+O subsolo é em grande parte como descrito em <span class="citation">E5g. Subsolo (p. 47)</span>. No entanto, modifique a última frase da descrição da seguinte forma: 
 
 <div class="description">
-<p>The sound of mumbled prayer stops, and a hoarse, tired voice rings through the chamber from the figure kneeling behind the altar. “I cannot offer the blessing you seek. Go, and leave this accursed place in peace."</p>
+<p>A luz das velas da capela acima escapa pelas fendas, mas não há sinal de qualquer criatura na penumbra.</p>
 </div>
 
-> [!lore]+ **A Recent History of the Church**
->
-> Father Donavich was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
->
-> Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia two weeks ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
->
-> Since Doru returned, Father Donavich has been unable to cast any spells and no longer feels the Morninglord’s presence when he prays. When Strahd sent Doru back to Barovia, he allowed Doru to continue wearing his father’s holy symbol as a cruel joke. As a result, Donavich wrongly believes that Doru’s undead nature has corrupted his symbol—and, therefore, his relationship with the Morninglord—and so prevented him from reaching the Morninglord’s divine grace.
->
-> In fact, however, it is Father Donavich’s own loss of faith that hinders him—a crisis that blinds him to an even starker truth. Donavich believes that his son, Doru, is dead, and that the **vampire spawn** trapped in the undercroft is a foul and profane beast that wears Doru’s skin. He is mistaken: though his body is now undead, Doru’s soul is very much alive.
->
-> Though he cannot ignore Strahd’s direct commands, and though his thirst for blood weighs heavily on his thoughts and actions, Doru continues to fight bitterly against his own vampiric nature. Though he doesn’t always succeed, it was this resistance that allowed his father to entrap him in the undercroft at all. When hope rises in him, Doru calls out to his father to release him, pleading for salvation and forgiveness. Donavich, however, has so far refused to respond.
->
-> Doru continues to wear his father’s holy symbol, both to reassure himself that they will one day reconcile and to steel his will when the vampire’s urges rise too strongly within. His ability to resist the call of blood has slowly grown since his imprisonment—but so too has his exhaustion, exacerbated by slow starvation. Now, Doru’s sanity balances on a knife’s edge, and a simple push could mean salvation—or damnation.
+Doru, uma **cria vampírica**, usou seu recurso de ***escalada de aranha*** para se agarrar ao teto ao ouvir a aproximação dos PJs. Um PJ com um valor passivo de Sabedoria (Percepção) de 16 ou mais o avista automaticamente no canto escuro e elevado do outro lado da sala. Caso contrário, leia o seguinte após um turno ter se passado.
 
-> [!profile]+ **Profile: Father Donavich**
->
-> **Roleplaying Information**
-> ***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
->
-> ***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
->
-> ***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
->
-> ***Inspirations.*** When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Denethor (The Lord of the Rings).
->
-> **Character Information**
-> ***Persona.*** To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
->
-> ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
->
-> ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+<div class="description"> <p>Uma voz jovem, tensa e cansada, ecoa da escuridão acima. “Vocês vieram me matar, não vieram?”</p> </div>>
 
-If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
+Doru prefere falar com os PJs a partir da segurança da escuridão, mas não se recusará se os PJs o ordenarem a se revelar. Se ele o fizer, leia o seguinte:
 
-As the conversation unfolds, the following exchanges might occur:
-
-* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
-* If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
-
-If the players inquire further, Donavich can share the following information:
-
-* When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
-* Six days ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
-* Ever since Doru returned, Donavich hasn’t been able to cast spells or feel the Morninglord’s presence. He believes that this is because Doru still has his holy symbol, and that Strahd’s foul influence has corrupted Donavich’s connection to the gods.
-* Donavich believes that his son is dead, and that the creature that wears his skin is a mockery that must be destroyed.
-
-Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
-
-If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
-### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
-
-<div class="description">
-<p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
-</div>
-
-Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
-
-<div class="description">
-<p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
-</div>
-
-Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
-
-<div class="description">
-<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.</p>
-<p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
-<p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
-</div>
-<br>
+<div class="description"> <p>Das vigas na escuridão acima, uma figura se desenrola como uma mariposa saindo de seu casulo, movimentando-se como uma aranha enquanto desce lentamente ao chão. Ao se aproximar da fraca iluminação, a sombra se revela na forma de um jovem, cujos traços juvenis lembram notavelmente os do Padre Donavich.</p> <p>Sua pele é fantasmagoricamente pálida, com sujeira e fuligem manchando o rosto. As roupas estão rasgadas e gastas, e o cabelo, um emaranhado desgrenhado. Os olhos, vermelhos e injetados, percorrem rapidamente cada rosto. Uma tira de couro pende em seu pescoço, sustentando um sol de bronze manchado de sangue, apoiado em seu peito. Ele engole em seco, umedece os lábios—e dois caninos pontiagudos surgem.</p> <p>“Se quiserem me matar, não vou impedir,” diz ele, a voz oscilando. “Mas tenho apenas um pedido antes disso.”</p> </div>
 
 ![[Doru.jpg]]
-<span class="credit">"Doru" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Doru" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 
-> [!profile]+ **Profile: Doru**
+> [!profile]+ **Perfil: Doru**  
+>  
+> **Informações de Interpretação**  
+> **Ressonância.** Doru deve inspirar simpatia por sua luta contra a própria natureza vampírica, um leve desconforto por seus ocasionais maneirismos desumanos e afeição por sua dedicação clara ao pai e a Gertruda.  
+>  
+> **Emoções.** Doru frequentemente sente pesar, culpa, vergonha, desespero, resignação e esperança.  
+>  
+> **Motivações.** Doru quer se reconciliar com o pai e garantir a segurança de Gertruda.  
+>  
+> **Inspirações.** Ao interpretar Doru, pense em Theon Grejoy (*Game of Thrones*), Zuko (*Avatar: A Lenda de Aang*), Jesse Pinkman (*Breaking Bad*) e Steve Harrington (*Stranger Things*).  
+>  
+> **Informações de Personagem**  
+> **Personalidade.** Para o mundo, Doru é um vampiro progenie monstruoso, sedento de sangue. Para aqueles em quem ele confia, Doru é um homem destruído e culpado, que faz de tudo para evitar ferir quem ama.  
+>  
+> **Moral.** Em um combate, Doru buscaria fugir para evitar machucar alguém — mas, se seu pai ou Gertruda corressem perigo, ele lutaria ferozmente para protegê-los.  
+>  
+> **Relacionamentos.** Doru é filho do Padre Donavich, ex-amigo de Escher e noivo de Gertruda.
+
+> [!info]+ **Doru Lembrará Disso**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and Gertruda.
+> Quando a conversa dos PJs com Doru começar, coloque secretamente um dado de seis lados na mesa, com a face superior mostrando um. Cada vez que os PJs antagonizarem ou desencorajarem Doru, aumente o número no dado em um. Cada vez que os PJs forem encorajadores ou gentis, diminua o número no dado em um. (O número não pode ficar abaixo de zero ou acima de seis.)
 >
-> ***Emotions.*** Doru most often feels grief, guilt, shame, desperation, resignation, and hope.
+> Se os PJs concordarem em realizar o experimento de Doru, role um segundo dado de seis lados quando o experimento começar. Se o resultado do segundo dado for igual ou maior que o número do primeiro, Doru resiste à sua adição vampírica e o teste termina com sucesso. Se o resultado do segundo dado for menor que o número do primeiro, no entanto, Doru sucumbe à sua sede de sangue e ataca a fonte do sangue.
 >
-> ***Motivations.*** Doru wants to reconcile with his father and ensure Gertruda's safety.
->
-> ***Inspirations.*** When playing Doru, channel Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad), and Steve Harrington (Stranger Things).
->
-> **Character Information**
-> ***Persona.*** To the world, Doru is a monstrous, bloodthirsty vampire spawn. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
->
-> ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
->
-> ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
+> Por exemplo, se os PJs antagonizarem Doru duas vezes e não oferecerem nenhuma gentileza ou encorajamento, o primeiro dado deve mostrar um três. Se o segundo dado rolar um ou dois, Doru ataca.
 
-> [!info]+ **Doru Will Remember That**
->
-> When the players’ conversation with Doru begins, secretly place a six-sided die on the table, with its top face showing a one. Each time the players antagonize or discourage Doru, increase the number on the die by one. Each time the players are encouraging or kind, decrease the number on the die by one. (The number can’t go below zero or above six.)
->
-> If the players agree to perform Doru’s experiment, roll a second six-sided die when the experiment begins. If the result on the second die is equal to or greater than the number on the first, Doru resists his vampiric addiction and the test ends successfully. If the result on the second die is less than the number on the first, however, Doru succumbs to his bloodlust and attacks the source of the blood.
->
-> For example, if the players antagonize Doru twice and offer no kindness or encouragement, the first die should show a three. If the second die rolls a one or a two, Doru attacks.
+O pedido de Doru é simples: para provar a si mesmo que pode controlar seus impulsos vampíricos, ele quer que os PJs o exponham ao cheiro de sangue fresco. Se ele conseguir se abster de atacar por um minuto inteiro, ele quer que os PJs digam ao Padre Donavich que seu filho ainda está vivo. Se não conseguir, ele quer que os PJs o matem. Em qualquer um dos casos, ele não impedirá os PJs de pegarem o símbolo sagrado uma vez que o experimento esteja completo.
 
-Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
+> [!abstract] **Os PJs Atacam**
+> Doru não luta para se defender se for atacado. Em vez disso, ele se encolhe em uma bola no canto da sala e implora para que os PJs lhe deem uma chance—apenas uma chance—para provar seu valor. Se os PJs recusarem, Doru geme por seu pai para salvá-lo enquanto morre, embora seus apelos fiquem sem resposta e sem atenção.
 
-> [!abstract] **The Players Attack**
-> Doru doesn't fight to defend himself if attacked. Instead, he curls into a ball at the end of the room and pleads for the players to give him a chance—just one chance—to prove himself. If the players decline, Doru whimpers for his father to save him as he dies, though his pleas go unheard and unheeded.
+Doru também pode compartilhar as seguintes informações com os PJs, se perguntado:
 
-Doru can also share the following information with the players if asked:
+* Quando criança, Doru ficou fascinado pelas histórias do sol e da luz e esperança que ele outrora trouxe ao vale. À medida que cresceu, aprendeu esgrima com Ismark e estudou o livro *Guia de Van Richten para Vampires* para aprender como destruir os mortos-vivos. Sonhava em um dia destruir o Diabo do Castelo Ravenloft e trazer liberdade ao seu povo.
+* Há dezesseis semanas, um estudioso estrangeiro que se autodenominava Alanik Ray chegou à Baróvia e alugou um quarto na mansão do burgomestre. Quando um enorme dire wolf morto-vivo atacou um grupo de crianças que haviam se afastado demais da vila, porém, somente Doru viu "Alanik" afastá-lo com habilidade experiente — e quando o lobo derrubou o chapéu da cabeça de "Alanik", sua aparência mudou magicamente, revelando-o como o lendário caçador de vampiros Dr. Rudolph van Richten.
+* Doru o confrontou e insistiu que Van Richten liderasse a vila em revolta contra o Castelo Ravenloft. Embora Van Richten estivesse relutante a princípio, ele acabou concordando — sob a condição de que Doru lhe permitisse manter seu disfarce. Dois dias depois, Doru, auxiliado por um homem chamado Escher — o bardo da vila e o amigo mais antigo de Doru — havia reunido mais de duas dezenas de combatentes para marchar contra a fortaleza.
+* Com a ajuda de Van Richten, a multidão derrubou quaisquer guardas mortos-vivos que tentassem impedir seu avanço. Contudo, quando finalmente abriram a cripta de Strahd, Escher não foi encontrado — e o caixão de Strahd estava vazio. (Se questionado, Doru nega veementemente que Escher os tenha traído.)
+* Pouco depois, Strahd emergiu das sombras e atacou a multidão com força implacável. A maioria dos companheiros de Doru foi morta. O próprio Doru foi transformado em um vampire spawn, e depois soube que Escher também havia sido. Doru não sabe o que aconteceu com Van Richten, mas foi forçado a confessar a identidade do velho quando Strahd o interrogou mais tarde.
+* Doru passou quase três meses no Castelo Ravenloft, durante os quais Strahd o obrigou repetidamente a beber o sangue de seus antigos companheiros. Seis noites atrás, Strahd ordenou que Doru retornasse à igreja e ao seu pai.
+* Doru não pode desobedecer às ordens diretas de Strahd, e sente sua presença o tempo todo. Sua sede vampírica é uma distração constante, e é difícil controlar seus impulsos e instintos predatórios. Quando retornou à igreja, quase se sentiu grato por seu pai tê-lo trancado no subsolo, onde não poderia causar mal.
+* Doru não sabe se sua alma ou corpo podem ser salvos, mas guardou o símbolo sagrado de seu pai para lembrar-se de sua fé e família, e para fortalecer sua vontade contra os vícios de sua nova forma. Se não fosse por isso, suspeita que teria perdido o controle dias ou até semanas atrás. (Doru não sabe por que Strahd permitiu que ele o mantivesse, mas suspeita que Strahd via isso como uma forma de diversão irônica.)
 
-* As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Castle Ravenloft and bringing freedom to his people.
-* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
-* Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
-* With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
-* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
-* Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Two weeks ago, Strahd commanded Doru to return to the church and his father. 
-* Doru can’t disobey Strahd’s direct orders, and can feel his presence at all times. His vampiric bloodthirst is a constant distraction, and it’s difficult to control his predatory urges and instincts. When he first returned to the church, he was almost grateful that his father had locked him in the undercroft, where he couldn’t do any harm.
-* Doru doesn’t know if his soul or body can be saved, but he’s kept his father’s holy symbol to remind him of his faith and family, and to steel his will against the addictions of his new form. If not for that, he suspects that he would have lost control days or even weeks ago. (Doru doesn’t know why Strahd allowed him to keep it, but suspects that Strahd viewed it as a form of ironic amusement.)
+Se os PJs perguntarem sobre sua discussão com "Alanik", Doru admite, envergonhado, que forçou Van Richten a acompanhá-lo e seus rebeldes até o castelo, ameaçando marchar sobre o Castelo Ravenloft com ou sem a ajuda de Van Richten. (Um Van Richten enfurecido rasgou o prefácio da cópia de Doru do *Guia de Van Richten para Vampiros*—que Doru comprou de uma caravana Vistani dez anos antes—para deixar um ponto claro. "Ele me avisou que fé e livros não significavam nada diante do verdadeiro mal," murmura Doru. "Eu deveria ter ouvido." Doru não tem certeza do que aconteceu com o resto do livro.)
 
-If the players ask about his argument with "Alanik," Doru admits, shamefacedly, that he forced Van Richten to accompany his rebels to the castle, threatening to march on Castle Ravenloft with or without Van Richten's help. (An enraged Van Richten ripped out the preface of Doru's copy of *Van Richten's Guide to Vampires*—which Doru bought from a Vistani caravan ten years prior—in order to make a point. "He warned me that faith and books meant nothing in the face of true evil," Doru murmurs. "I should have listened." Doru isn't sure what happened to the rest of the book.)
+À medida que a conversa avança, Doru pode perguntar aos PJs:
 
-As the conversation continues, Doru might ask the players:
+* se Escher foi visto na vila, e
+* se a noiva de Doru, Gertruda, sobreviveu ao cerco.
 
-* whether Escher has been seen in the village, and
-* whether Doru’s betrothed, Gertruda, survived the siege.
+Se informado de que Gertruda deixou a vila sozinha em direção a Vallaki—provavelmente em um esforço mal orientado para salvar o próprio Doru—Doru fica visivelmente angustiado, mas espera em voz alta que ela tenha feito a jornada em segurança. Ele pede aos PJs que fiquem atentos a ela e ajudem a trazê-la de volta para casa, caso a encontrem. Doru sente que mereceu seu destino, mas acredita que Gertruda, uma mulher boa e compassiva, merece muito mais.
 
-If told that Gertruda has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
-### Doru's Trial
-If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
+### O Julgamento de Doru
+Se os PJs concordarem em cumprir o pedido de Doru expondo-o a sangue fresco, ele pede que permaneçam em silêncio enquanto ele resiste—e que o derrubem se ele sucumbir. Quando o julgamento começar, leia o seguinte:
 
 <div class="description">
-<p>Doru’s muscles tense and he squeezes his eyes shut. A few moments later, his nostrils flare, and a thin line of saliva begins to run down his lips. He whimpers, his clawed fingers flexing and twitching.</p>
-<p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only light can remain."</p>
-<p>Doru's voice shakes, his emaciated body trembling. One fist is clenched at his side, the other squeezing the bloodstained sunburst that lies across his neck.</p>
-<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. ***Gertruda***—"</p>
+  <p>Os músculos de Doru se retesam, e ele aperta os olhos com força. Poucos instantes depois, suas narinas se dilatam, e um fio fino de saliva começa a escorrer pelos lábios. Ele solta um gemido, com os dedos curvados e trêmulos como garras.</p>
+  <p>"Quando as sombras chegarem," ele sussurra, “não vou ceder. A escuridão é a destruidora, e a tentação é sua arma. Eu enfrentarei a noite e seus horrores e esperarei o horizonte. Pois, na luz do amor do Senhor da Manhã, apenas a luz pode permanecer."</p>
+  <p>A voz de Doru treme, seu corpo esquelético convulsionando. Uma das mãos está cerrada ao lado do corpo, enquanto a outra aperta o sol irrompido manchado de sangue, pendurado em seu pescoço.</p>
+  <p>"Na luz do amor do Senhor da Manhã," ele repete, ofegando. "Na luz do amor do Senhor da Manhã. Gertruda. Gertruda. <b><em>Gertruda</em></b> —"</p>
 </div>
+>
 
-If Doru succumbs to the bloodlust (see **Doru Will Remember That** above), he pauses, then attacks. Roll initiative.
+Se Doru sucumbir à sede de sangue (veja **Doru Lembrará Disso** acima), ele hesita, então ataca. Role a iniciativa.
 
-Otherwise, if Doru successfully resists the bloodlust, read:
+Caso contrário, se Doru resistir com sucesso à sede de sangue, leia:
 
 <div class="description">
-<p>After what seems like an eternity, Doru's body finally relaxes. His tense muscles seem to uncoil, his breath grows steadier, and the look of strain fades from his face. His eyes remain closed a moment longer, then flutter open—and the fangs in his mouth slowly retract, leaving only an ordinary pair of canines behind.</p>
-<p>"I have not yielded," he whispers hoarsely. "Not yet."</p>
+<p>Após o que parece uma eternidade, o corpo de Doru finalmente relaxa. Seus músculos tensos parecem se desenrolar, sua respiração se torna mais constante, e a expressão de esforço desaparece de seu rosto. Seus olhos permanecem fechados por um momento a mais, então se abrem lentamente—e as presas em sua boca se retraem, deixando apenas um par comum de caninos para trás.</p>
+<p>"Eu não me rendi," ele sussurra roucamente. "Ainda não."</p>
 </div>
 
-Doru thanks the players and relinquishes the holy symbol without protest. If the players mention it, he is surprised to hear that his fangs have retracted, but recognizes the significance with humility and disbelief. (Doru has, after all, read *Van Richten's Guide to Vampires* many times.)
+Doru agradece aos PJs e entrega o símbolo sagrado sem protestar. Se os PJs mencionarem, ele fica surpreso ao ouvir que suas presas se retraíram, mas reconhece a importância com humildade e descrença. (Doru, afinal, leu *O Guia de Van Richten para Vampiros* muitas vezes.)
 
-Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel down the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
+Doru avisa os PJs de que Strahd provavelmente tomará um interesse ativo em recém-chegados à sua terra, e que, portanto, devem ser cautelosos. Como um sinal de sua gratidão, ele fornece aos PJs a localização de um esconderijo de armas que Van Richten manteve para casos de emergência. Para alcançá-lo, os PJs devem cruzar a Ponte do Rio Ivlis e seguir pela Velha estrada Svalich três centenas de passos ao sul, adentrando a floresta, até chegarem a um antigo carvalho. Eles encontrarão o esconderijo aninhado em uma cavidade sob as raízes da árvore.
 
-If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
+Se os jogadores demonstrarem interesse em aprender mais sobre vampiros, Doru pode compartilhar as informações contidas em **Nascido da Morte** e **Acorrentado ao Túmulo** no texto de **Vampiro** (<span class="citation">Monster Manual, p. 297</span>), além dos detalhes gerais das habilidades de **metamorfo** (*shapechanger*), **regeneração** (*regeneration*) e **fraquezas de vampiro** (*vampire weaknesses*) do bloco de estatísticas de **vampiro**. Doru ressalta, porém, que o Diabo não se assemelha a nenhum outro vampiro. “Ele detém poderes que vão além de qualquer compreensão de um vampiro comum. Ele é... insondável.” Ele estremece, apertando os olhos em uma lembrança dolorosa. (Doru não pode fornecer detalhes específicos sobre as capacidades de Strahd, apenas que ele pareceu massacrar os amigos de Doru “em apenas alguns instantes.”)
 
-Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
-### The Burial
-If the players return to Father Donavich with his holy symbol in hand, he accepts it with gratitude.
+Antes que os PJs partam, Doru pede mais uma vez que digam ao Padre Donavich que seu filho ainda está vivo. Se perguntado se deseja acompanhá-los até o andar de cima, ele recusa. "Eu pequei com minha arrogância, e esta é minha penitência," ele diz suavemente. "Deixarei esta prisão apenas quando meu pai permitir."
 
-If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
+### O Sepultamento
+Se os PJs retornarem ao Padre Donavich com seu símbolo sagrado em mãos, ele o aceita com gratidão.
+
+Se os PJs disserem ao Donavich que mataram Doru para obter o símbolo, leia:
 
 <div class="description">
-<p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
-<p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do." </p>
-<p>He swallows and his face tenses, his expression growing as hard as stone. "It had to be done. For his sake—and ours."</p>
+<p>Os olhos de Donavich se enchem de lágrimas enquanto ele aperta o símbolo nas mãos, segurando-o com tanta força que seus nós dos dedos começam a ficar brancos. Um soluço contido escapa dele quando seus joelhos cedem, e ele embala o sol radiante como se fosse um bebê.</p>
+<p>“Meu filho—meu querido, precioso filho,” murmura, a voz quase inaudível. “Que o Senhor da Manhã me perdoe pelo que fiz—e pelo que não pude fazer.”</p>
+<p>Ele engole em seco e seu rosto se contrai, a expressão se tornando rígida como pedra. “Foi necessário. Pelo bem dele—e pelo nosso.”</p>
 </div>
 
-Otherwise, if the players spared Doru and relay his final message, read:
+Caso contrário, se os PJs pouparem Doru e transmitirem sua mensagem final, leia:
 
 <div class="description">
-<p>Donavich stumbles back as if he's been struck, his face pale and his eyes wide with shock. For a moment, he simply stands there, silent—and then the silence is broken by a pained noise, a cross between a gasp and a sob, as he clutches the symbol to his chest. </p>
-<p>His eyes glisten as he runs a trembling hand through his hair, a myriad of emotions playing across his face in quick succession: disbelief, rage, grief, shame, and—finally—hope. He sags against a nearby pew, his body shaking with exertion. </p>
-<p>"My boy," he chokes out. "He's—he's still my boy?" </p>
+<p>Donavich cambaleia para trás como se tivesse sido atingido, o rosto pálido e os olhos arregalados de choque. Por um instante, ele apenas fica parado ali, em silêncio—então esse silêncio é rompido por um som doloroso, algo entre um arquejo e um soluço, enquanto ele aperta o símbolo contra o peito.</p>
+<p>Seus olhos brilham com lágrimas quando ele passa a mão trêmula pelos cabelos, uma miríade de emoções transitando rapidamente por sua expressão: descrença, raiva, pesar, vergonha e—por fim—esperança. Ele se deixa cair contra um banco próximo, o corpo tremendo de exaustão.</p>
+<p>“Meu filho,” ele balbucia. “Ele—ele ainda é meu filho?”</p>
 </div>
 
-Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
+Uma vez que recebeu seu símbolo sagrado, Donavich concorda com prazer em conduzir o sepultamento de Kolyan.
 
-The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
+O cemitério é como descrito em <span class="citation">E6. Cemitério (p. 48)</span>. À noite, é vigiado por dois **enxames de morcegos**—espiões de Strahd—que se penduram nas beiradas da igreja e nos mausoléus próximos, observando os PJs.
 
-Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
+Ao entrar no cemitério, Donavich retira quatro pás de um galpão ao lado da igreja e as compartilha com os PJs. Quando a cova está completamente cavada e a aurora começa a despontar, Donavich oferece orações ao Senhor da Manhã, pedindo pela libertação de Kolyan na seguinte refrão:
 
 <div class="description" style="text-align: center;">
-<p>O Morninglord</p>
-<p>Lord of blessed light and patron of new beginnings</p>
-<p>We commend into thy mercy and thy radiance Master Kolyan Indirovich</p>
-<p>Now departed hence from us and gone evermore into your glory.</p>
-<p>We beseech thee to grant unto him thy mercy and everlasting peace</p>
-<p>As thou deliver'st him from this everlasting darkness into infinite light</p>
-<p>From pestilence into growth</p>
-<p>From shadow into day</p>
-<p>And from death into new life.</p>
-<p>Grant him entrance into Your land of light and joy</p>
-<p>In the fellowship of thy saints</p>
-<p>And the brilliance of thy presence</p>
-<p>By Your will and grace.</p>
+<p>Ó Senhor da Manhã<br>
+Senhor da luz abençoada e patrono de novos começos</p>
+<p>À tua misericórdia e à tua radiante presença confiamos o Mestre Kolyan Indirovich<br>
+Que agora parte de nosso convívio rumo à tua glória eterna.</p>
+<p>Suplicamos que lhe concedas tua misericórdia e a paz que não tem fim<br>
+Enquanto o libertas desta escuridão perpétua para a luz infinita<br>
+Da peste para o florescimento<br>
+Da sombra para o dia<br>
+E da morte para uma nova vida.</p>
+<p>Permite que ele ingresse em tua terra de luz e alegria<br>
+Na comunhão de teus santos<br>
+E no brilho de tua presença<br>
+Pela tua vontade e pela tua graça.</p>
 </div>
 
-At the conclusion of Donavich’s prayer, Ismark and Ireena offer the following words in memory of their father:
+Ao final da oração de Donavich, Ismark e Irene oferecem as seguintes palavras em memória de seu pai:
 
 <div class="description">
-<p>Ismark wipes his eyes. "Kolyan Indirovich bore all the qualities of a great burgomaster: he was kind, compassionate, and just. But above all else, he was our father—the man who taught us to choose courage over fear, hope over despair, and laughter over sorrow. Even though he has left us, his lessons and memory never will. May he find rest in the Morninglord's embrace, and may his legacy be never forgotten."</p>
-<p>Ireena stares at the grave for a few moments, her fingers twisting anxiously into knots. Finally, she says, quietly, "When you found me, I was a stranger—a child, lost in the woods. You and Mother took me in, cared for me, and loved me as your own. When I asked you why, you only ever said: Because I needed it." She falters, choking on the words, then says: "I can never hope to repay what you gave me. But, just as you did, I will never stop trying to help those who need it."</p>
+<p>Ismark enxuga os olhos. “Kolyan Indirovich possuía todas as qualidades de um grande burgomestre: era bondoso, compassivo e justo. Mas, acima de tudo, ele era nosso pai — o homem que nos ensinou a escolher a coragem em vez do medo, a esperança em vez do desespero, e o riso em vez da tristeza. Embora ele tenha nos deixado, suas lições e sua memória jamais o farão. Que ele encontre descanso no abraço do Senhor da Manhã, e que seu legado jamais seja esquecido.”</p>
+
+<p>Ireena fica olhando para a sepultura por alguns instantes, os dedos se contorcendo ansiosamente. Finalmente, ela diz, em voz baixa: “Quando vocês me encontraram, eu era uma estranha — uma criança perdida na floresta. Você e Mamãe me acolheram, cuidaram de mim e me amaram como se eu fosse de vocês. Quando perguntei por quê, você sempre dizia apenas: ‘Porque você precisava.’” Ela hesita, engasgada com as palavras, então completa: “Eu jamais poderei retribuir o que vocês me deram. Mas, assim como vocês fizeram, nunca deixarei de tentar ajudar aqueles que precisam.”</p>
 </div>
 
-Any players who wish to may offer words, prayers, or tributes of their own. 
+Qualquer PJ que desejar pode oferecer palavras, orações ou tributos próprios. 
 
-If he has recovered his holy symbol, Donavich first casts *gentle repose* to sanctify Kolyan’s remains. Donavich then directs the players to lower the coffin into the ground. 
+Se ele recuperou seu símbolo sagrado, Donavich primeiro lança *gentle repose* para santificar os restos de Kolyan. Donavich então orienta os PJs a abaixar o caixão no chão. 
 
-With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Castle Ravenloft.
+Com o sepultamento concluído, os morcegos de Strahd levantam voo, desaparecendo na neblina que envolve a base do Castelo Ravenloft.
 
-Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
+Donavich considera a presença dos morcegos um mau presságio. Em um momento surpreendentemente lúcido, ele alerta os PJs e Ismark sobre uma superstição baroviana de que jovens mulheres com cabelo vermelho frequentemente descobrem que a má sorte caminha ao seu lado, e pergunta se Irene planeja permanecer na Baróvia agora que o Diabo despertou. Se for informado de que Irene e os PJs pretendem partir, Donavich sugere a Abadia de St. Markova em Krezk como um destino eventual. Ele observa que já foi um bastião do bem e pode ainda oferecer alguma proteção.
 
-> [!lore] **Who Knows of the Abbey?**
-> All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
-### Return to the Mansion
-When the players return to the burgomaster’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
+> [!lore] **Quem Sabe da Abadia?**  
+> Todos em Baróvia sabem que a Abadia de São Markova fica na vila de Krezk. A maioria das pessoas de fora de Krezk não tem certeza se ela ainda está em funcionamento, embora haja boatos de que Strahd a tenha destruído há muito tempo, deixando apenas fantasmas para assombrar seus corredores. Alguns moradores de Vallaki, incluindo o Padre Lucian Petrovich da Igreja de São Andral, sabem que a Abadia foi reaberta há mais de cem anos, mas ninguém fora de Krezk sabe que o abade atual é o mesmo homem que a reabriu mais de um século atrás.
 
-As Ismark packs the rations, he can share the following information:
+### Retorno à Mansão
+Quando os personagens retornam à mansão do burgomestre após o enterro, Ismark coloca em sacolas de tecido rações suficientes para três dias de viagem. Enquanto ele faz isso, Ireena diz aos personagens que estará pronta para partir ao meio-dia. Até lá, os jogadores podem explorar a vila, fazer compras na Loja de Mercadorias de Bildrath ou passar o tempo de outra forma.
 
-* The journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
-* Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given Madam Eva's reputation.)
-## B5j. Lugdana's Knoll
-Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.)
+Enquanto Ismark empacota as rações, ele pode compartilhar as seguintes informações:
 
-Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for Gertruda—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
+* A viagem até Vallaki leva mais de um dia se os jogadores tiverem a intenção de visitar Tser Pool primeiro, e tanto Ireena quanto os personagens provavelmente precisarão passar uma noite na estrada. Ele recomenda que eles façam isso em Tser Pool.  
+* Tser Pool fica a menos de duas horas de viagem de Baróvia. (Embora alguns Vistani sejam tidos como aliados de Strahd, Tser Pool é conhecido como um local seguro para viajantes passarem a noite, especialmente por conta da reputação de Madam Eva.)  
 
-Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there. 
+## B5j. Colina de Lugdana  
+Cerca de uma hora antes do meio-dia, [[Non-Player Characters#Ireena Kolyana|Ireena]] sai silenciosamente da mansão e segue para a Colina de Lugdana, uma elevação pequena e tranquila ao norte de Baróvia. (A colina recebe o nome da paladina Lugdana que, segundo a lenda, conheceu o Burgomestre Ismark Antonovich, o Grande, pela primeira vez naquele local.)
 
-If the players visit the knoll, read:
+Pouco antes do meio-dia, se os PJs não estiverem prestando atenção nela, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—que atualmente está entrevistando um par de **batedores** barovianos sobre sua busca malsucedida por Gertruda—nota a ausência de Irene com leve preocupação e pede aos PJs que a encontrem e a tragam de volta para casa. 
+
+Porque Strahd e seus servos só visitaram à noite, Ismark não está notavelmente alarmado com a ausência de Irene, mas ainda assim deseja que ela seja trazida para casa o mais rápido possível. Ismark aconselha que os PJs verifiquem primeiro a Colina de Lugdana—um dos lugares favoritos de Irene na vila—e fornece direções breves para chegar lá. 
+
+Se os PJs visitarem a colina, leia:
 
 <div class="description">
-<p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
+<p>À medida que vocês avançam pela imensidão de altas gramíneas ao norte da vila, um suave outeiro se eleva à frente, delimitado, em seu lado mais distante, pelas garras sombrias da Floresta de Svalich. Plantas com flores brancas e felpudas, exalando um aroma doce e terroso, parecem dançar entre a relva no topo da colina, enquanto suas folhas farfalham ao sabor de um vento sussurrante.</p>
+<p>Uma árvore solitária ergue-se no cume, seus galhos retorcidos alcançando o céu como braços estendidos. Sob sua sombra, uma figura feminina permanece ajoelhada, o olhar fixo no chão.</p>
 </div>
 
-The figure is Ireena, who has donned her chestplate and rapier and now wears a red scarf around her neck. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
+A figura é Ireena, que vestiu sua armadura de peito e o rapier e agora usa um lenço vermelho ao redor do pescoço. À medida que os PJs se aproximam, podem ver que ela está usando uma colher de pedreiro para cavar um buraco na terra entre as raízes da árvore. Ireena, fixada em seu trabalho, não nota os PJs até que eles a chamem ou entrem de outra forma em seu campo de visão.
 
-Ireena greets the players with warmth, though with some embarrassment for having driven them to come search for her. She shares freely that she is digging for a small wooden chest that she and her mother, Korina Targolova, buried here before her mother's death fourteen years ago—a coffer whose contents she hopes to take as a keepsake when she departs for Vallaki, given that she doesn't know when, if ever, she'll be able to return home.
+Irene cumprimenta os PJs com calor, embora com um certo constrangimento por tê-los levado a vir à sua procura. Ela compartilha livremente que está cavando em busca de um pequeno baú de madeira que ela e sua mãe, Korina Targolova, enterraram aqui antes da morte de sua mãe, há quatorze anos—um cofre cujo conteúdo ela espera levar como lembrança quando partir para Vallaki, já que não sabe quando, se é que algum dia, poderá retornar para casa.
 
-If allowed to finish unearthing the chest, Ireena opens it, revealing its contents. The chest contains a silver bracelet set with gemstones, a pressed aster flower, a wooden charm in the shape of the yarrow flower on a leather cord, and a handkerchief with floral patterns.
+Se permitido terminar de desenterrar o baú, Ireena o abre, revelando seu conteúdo. O baú contém uma pulseira de prata adornada com pedras preciosas, uma flor de aster prensada, um amuleto de madeira em forma de flor de mil-folhas preso a um cordão de couro, e um lenço com padrões florais.
 
-The flower (which Ireena found and her mother pressed), charm (which Ireena's mother wore as an apprentice to the town's healer), and handkerchief (which Ireena's mother helped her to sew) are all mementos of Ireena's childhood with her mother. The bracelet is an item that Ireena was found carrying when Kolyan found her in the Svalich Wood, which Korina kept as a memento of their "miracle child" after she learned that she could bear no more children.
+A flor (que Irene encontrou e sua mãe prensou), o amuleto (que a mãe de Irene usava como aprendiz do curandeiro da cidade) e o lenço (que a mãe de Irene a ajudou a costurar) são todos recordações da infância de Irene com sua mãe. A pulseira é um item que Irene foi encontrada carregando quando Kolyan a encontrou na Floresta Svalich, que Korina guardou como uma lembrança de sua "criança milagrosa" após descobrir que não poderia ter mais filhos.
 
-The bracelet holds no sentimental value for Ireena, and she doesn't remember why she was carrying it when Kolyan first found her, or where she obtained it. She offers it to the players as a gift for their agreement to escort her to Vallaki, as compensation for their trouble.
+A pulseira não tem valor sentimental para Irene, e ela não se lembra por que a estava carregando quando Kolyan a encontrou pela primeira vez, ou de onde a obteve. Ela a oferece aos PJs como um presente pela concordância em acompanhá-la até Vallaki, como compensação pelo incômodo.
 
-The silver bracelet, which is tarnished and clearly hundreds of years old, is worth 100 gp and bears an intricate pattern of the moon and stars along the exterior, with a moonstone gem embedded at the center of the moon and five lapis-lazuli serving as the stars. On the inside of the bracelet, in tiny, elegant script, the following message is engraved in Common: "Tatyana: May you find your path, and may you find light even in the darkest places—Mother & Father."
+O bracelete de prata, que está manchado e claramente tem centenas de anos, vale 100 gp e apresenta um padrão intricado da lua e das estrelas ao longo do exterior, com uma gema de pedra da lua embutida no centro da lua e cinco lápis-lazúli servindo como as estrelas. No interior do bracelete, em uma caligrafia pequena e elegante, a seguinte mensagem está gravada em Comum: "Tatyana: Que você encontre seu caminho, e que você encontre luz mesmo nos lugares mais sombrios—Mãe & Pai."
 
-Ireena doesn't know who Tatyana is. (Unbeknownst to Ireena, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Castle Ravenloft overlook.)
+Irene não sabe quem é Tatyana. (Desconhecido para Irene, a pulseira foi um presente dos pais de Tatyana Federovna em seu décimo oitavo aniversário. Ela foi perdida na Floresta Svalich quando Tatyana saltou para sua morte do mirante do Castelo Ravenloft.)
 
-After sharing the items in the chest, Ireena removes her scarf, revealing the bite marks on her neck. As she traces her fingers along them, she grimaces. "I don't know why he hasn't killed me or turned me," she says, gritting her teeth as her hands curl into fists. "I don't know if this is some kind of sick game he's playing, or if he just likes to see people suffer."
+Após compartilhar os itens do baú, Ireena remove seu lenço, revelando as marcas de mordida em seu pescoço. Enquanto traça os dedos ao longo delas, ela faz uma careta. "Não sei por que ele não me matou ou me transformou," diz ela, cerrando os dentes enquanto suas mãos se fecham em punhos. "Não sei se isso é algum tipo de jogo doentio que ele está jogando, ou se ele simplesmente gosta de ver as pessoas sofrerem."
 
-The anger leaves her as she adds, her voice tightening, "They say women with red hair bring bad luck. I'm sorry—I never wanted to bring any to you." (She is grateful for any reassurances the players might offer.)
+A raiva a abandona enquanto ela acrescenta, sua voz se apertando, "Dizem que mulheres com cabelo vermelho trazem má sorte. Sinto muito—nunca quis trazer nenhuma para vocês." (Ela é grata por qualquer desagravo que os PJs possam oferecer.)
 
-Ireena gladly returns to the mansion with the players, or returns on her own shortly after noon if the players failed to find her. She then retrieves a packed traveling bag from her room.
+Irene retorna alegremente à mansão com os PJs, ou volta sozinha logo após o meio-dia se os PJs não conseguirem encontrá-la. Ela então pega uma bolsa de viagem já pronta em seu quarto.
 
-When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
+Quando os PJs estão prontos para partir, Irene se despede de Ismark com um adeus sincero e segue pela estrada.
 
-**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
+**_Marco_**. Defender a vila e enterrar o Burgomestre completa um marco da história. Se os PJs partirem da Baróvia com Irene os acompanhando, conceda a cada PJ 400 XP. Se Doru tiver passado com sucesso em seu teste de vontade, conceda a cada PJ 100 XP adicionais.
 
-> [!info]+ **Ireena Joins the Party**
->
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.** She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
->
-> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Dexterity saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
->
-> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
->
-> By default, Ireena chooses the following sidekick options as she gains levels:
->
-> - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
-> - **4th Level.** Ireena’s Dexterity score increases by 2 to 14.
-> - **8th Level.** Ireena’s Dexterity score increases by 2 to 16.
-> - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
->
-> None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
-## B5k. Mad Mary’s Townhouse
-<span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
+> [!info]+ **Ireena se Une ao Grupo**  
+>  
+> Ireena tem as estatísticas de uma **companheira especialista (Tasha's Cauldron of Everything, p. 142)**, usando o bloco de estatísticas base de um **nobre**. Ela também possui o talento <span class="citation">Curandeiro (<em>Player's Handbook</em>, p. 167)</span> e começa com dois *kits de curandeiro*.  
+>  
+> O nível inicial de Ireena é o mesmo que a média de nível do grupo no momento em que ela se junta a eles pela primeira vez. Ela começa com proficiências adicionais em História, Investigação, Medicina, Percepção e Furtividade, além de proficiência em testes de resistência de Destreza. Quando ingressa no grupo pela primeira vez no 3º nível, ela tem 25 (5d8) pontos de vida.  
+>  
+> Ireena também sobe de nível sempre que o grupo sobe, independente de ela ter ou não os acompanhado, encerrando a aventura no 10º nível. (Consulte <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> para mais informações sobre como conduzir e evoluir companheiros.)  
+>  
+> Por padrão, Ireena escolhe as seguintes opções de companheira à medida que avança de nível:  
+> - **3º Nível.** Ireena recebe especialização (expertise) nas perícias Intuição (Insight) e Medicina.  
+> - **4º Nível.** O valor de Destreza de Ireena aumenta em 2, chegando a 14.  
+> - **8º Nível.** O valor de Destreza de Ireena aumenta em 2, chegando a 16.  
+> - **10º Nível.** O valor de Destreza de Ireena aumenta em 2, chegando a 18.  
+>  
+> Nenhum dos servos ou monstros de Strahd — independentemente de sua inteligência, e menos ainda o próprio Strahd — jamais ataca Ireena.  
 
-There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
+## B5k. Casa de Mad Mary  
+<span class="citation"><em>Esta cena ocorre no Capítulo 3: Área E3.</em></span>
 
-Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
+Não deve haver razão para os PJs visitarem <span class="citation">a Casa de Mad Mary (p. 44)</span> nesta revisão. No entanto, se o fizerem, as seguintes mudanças foram feitas:
 
-The first floor of this old, dirty dwelling comprises a one-room divided living space. To the north lies a small kitchen, its countertops dirty and covered with dust. There is a broken glass on the floor and a rotted meal for two set on a table covered with a dirty blue tablecloth. (Mary poured herself a glass of wine to steady her nerves after realizing Gertruda's disappearance, and dropped it on the floor in anguish.)
+Mad Mary não escondeu Gertruda nesta casa durante toda a sua vida. Em vez disso, Gertruda viveu uma vida bastante ordinária—embora uma vida com uma mãe viúva bastante opressora. (Ireena e Gertruda inicialmente se uniram como meninas pequenas pela perda de seus pais—mãe de Ireena e pai de Gertruda.) Quando estava vivo, o pai de Gertruda era um comerciante que criou Gertruda com histórias de grandes senhores e senhoras, usando os escassos recursos da família para comprar ocasionalmente livros de caravanas Vistani sobre diplomacia e história militar.
 
-A small sitting area to the south contains a fireplace, two comfortable armchairs, and a dirty rug. Stairs lead up from here to the second floor.
+O primeiro andar desta velha e suja habitação é composto por um espaço de estar dividido em um único cômodo. Ao norte, encontra-se uma pequena cozinha, com suas bancadas sujas e cobertas de poeira. Há um copo quebrado no chão e uma refeição podre para dois servida em uma mesa coberta com uma toalha de mesa azul suja. (Mary se serviu de um copo de vinho para acalmar os nervos após perceber o desaparecimento de Gertruda, e o deixou cair no chão em angústia.)
 
-The second floor corridor contains three wooden doors. One leads to a bathroom with an unemptied chamber pot and a bowl of dirty bathwater. Another leads to Mary’s bedroom, which holds a writing desk and a bed. (If found here, Mary is sitting on the bed, quietly sobbing.) 
+Uma pequena área de estar ao sul contém uma lareira, duas poltronas confortáveis e um tapete sujo. Escadas levam para cima, até o segundo andar.
 
-The third door, which is slightly ajar, leads to Gertruda’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing Gertruda tea when she found her daughter missing, and dropped it in horror.)
+O corredor do segundo andar contém três portas de madeira. Uma leva a um banheiro com um penico não esvaziado e uma bacia de água suja de banho. Outra leva ao quarto de Mary, que possui uma escrivaninha e uma cama. (Se encontrada aqui, Mary está sentada na cama, soluçando silenciosamente.) 
+
+A terceira porta, que está ligeiramente entreaberta, leva ao quarto de Gertruda; uma bandeja segurando um bule de chá quebrado e uma xícara se despedaçou no chão diante dela. (Mary estava trazendo chá para Gertruda quando encontrou sua filha desaparecida e a deixou cair em horror.)
 
 O quarto de Gertruda abriga um vestido tecido de maneira desleixada à mão e uma prateleira com uma dúzia de livros com sinais de muita leitura, com as páginas amassadas, além de uma escova de cabelo, um tapete e uma janela aberta.

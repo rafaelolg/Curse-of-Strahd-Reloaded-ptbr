@@ -23,23 +23,24 @@ Os PJs começam este ato no 2º nível e devem terminá-lo no 4º nível, ganhan
 * [[Ato I - Brumas Adentro/Arco C - No Vale]]: Os PJs recebem a leitura de Tarokka em  primeiro de Neyavr, chegam a Vallaki em  2 de Neyavr  e encontram o Barão Vallakovich na manhã de 3 de Neyavr.
 
 > [!info]+ **O Calendário Baroviano**  
-> O ano baroviano atual é 735 B.C. (Calendário Baroviano). O calendário baroviano possui doze meses de 28 dias, que são nomeados da seguinte forma: [^1]
+> O ano baroviano atual é 735 B.C. (Calendário Baroviano). O calendário baroviano possui doze meses de 28 dias, que são nomeados da seguinte forma: <sup>1</sup>
 > 
-> | Mês   | Nome Baroviano | Nome Gregoriano |
-> | :---: | :------------ | :------------- |
-> |   1   | Yinvar        | Janeiro        |
-> |   2   | Fivral        | Fevereiro      |
-> |   3   | Mart          | Março          |
-> |   4   | Apryl         | Abril          |
-> |   5   | Mai           | Maio           |
-> |   6   | Eyune         | Junho          |
-> |   7   | Eyule         | Julho          |
-> |   8   | Avgust        | Agosto         |
-> |   9   | Sintyavr      | Setembro       |
-> |  10   | Octyavr       | Outubro        |
-> |  11   | Neyavr        | Novembro       |
-> |  12   | Dekavr        | Dezembro       |
+> 
+| Mês | Nome Baroviano | Nome Gregoriano |
+| :---: | :------------ | :------------- |
+|   1   | Yinvar        | Janeiro        |
+|   2   | Fivral        | Fevereiro      |
+|   3   | Mart          | Março          |
+|   4   | Apryl         | Abril          |
+|   5   | Mai           | Maio           |
+|   6   | Eyune         | Junho          |
+|   7   | Eyule         | Julho          |
+|   8   | Avgust        | Agosto         |
+|   9   | Sintyavr      | Setembro       |
+|  10   | Octyavr       | Outubro        |
+|  11   | Neyavr        | Novembro       |
+|  12   | Dekavr        | Dezembro       |
 
 
 
-[^1] Calendário Baroviano, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (última visita em 29 de mar. de 2024).
+<sup>1</sup> Calendário Baroviano, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (última visita em 29 de mar. de 2024).
