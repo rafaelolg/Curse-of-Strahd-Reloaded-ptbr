@@ -683,8 +683,13 @@ Quando um jogador que interferiu é nocauteado, Rahadin usa o punho de seu sabre
       <td>16 (+3)</td>
       <td>18 (+4)</td>
     </tr>
-  </tbody>
-</table>
+  <hr>
+<strong>Testes de Resistência</strong> Des +11, Sab +8<br>
+<strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
+<strong>Sentidos</strong> visão no escuro 18 m (60 ft.), Percepção passiva 23<br>
+<strong>Idiomas</strong> Comum, Élfico<br>
+<strong>Nível de Desafio (ND)</strong> 15<br>
+<strong>Bônus de Proficiência</strong> +5<br>
 <hr>
 <strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
 <strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
@@ -1106,6 +1111,8 @@ O primeiro andar desta velha e suja habitação é composto por um espaço de es
 Uma pequena área de estar ao sul contém uma lareira, duas poltronas confortáveis e um tapete sujo. Escadas levam para cima, até o segundo andar.
 
 O corredor do segundo andar contém três portas de madeira. Uma leva a um banheiro com um penico não esvaziado e uma bacia de água suja de banho. Outra leva ao quarto de Mary, que possui uma escrivaninha e uma cama. (Se encontrada aqui, Mary está sentada na cama, soluçando silenciosamente.) 
+
+A terceira porta, que está ligeiramente entreaberta, leva ao quarto de Gertruda; uma bandeja segurando um bule de chá quebrado e uma xícara se despedaçou no chão diante dela. (Mary estava trazendo chá para Gertruda quando encontrou sua filha desaparecida e a deixou cair em horror.)
 
 A terceira porta, que está ligeiramente entreaberta, leva ao quarto de Gertruda; uma bandeja segurando um bule de chá quebrado e uma xícara se despedaçou no chão diante dela. (Mary estava trazendo chá para Gertruda quando encontrou sua filha desaparecida e a deixou cair em horror.)
 
