@@ -8,7 +8,7 @@
 
 # Ato I: Brumas Adentro
 <div class="subtitle"><em>Para personagens de 2º a 3º nível.</em></div>
-Neste ato, os PJs são atraídos para a assombrada Casa da Morte, que os transporta misticamente para a terra da Baróvia. À medida que os PJs se orientam, eles viajam até a vila da Baróvia, onde encontram o burgomestre Ismark Kolyanovich e sua irmã, Ireena Kolyana, e aprendem sobre o misterioso Strahd von Zarovich, um vampiro que despertou recentemente para atormentar o vale Baroviano. 
+Neste ato, os PJs são atraídos para a assombrada Casa da Morte, que os transporta misticamente para a terra da Baróvia. À medida que os PJs se orientam, eles viajam até a vila da Baróvia, onde encontram o burgomestre Ismark Kolyanovich e sua irmã, Irene Kolyana, e aprendem sobre o misterioso Strahd von Zarovich, um vampiro que despertou recentemente para atormentar o vale Baroviano. 
 
 Os PJs são convidados a escoltar Irene até a cidade próxima de Vallaki em busca de segurança; se os PJs concordarem, Irene também pede que os ajudem a enterrar seu falecido pai, o Burgomestre Kolyan Indirovich. Enquanto estão na igreja local, os PJs encontram Doru, uma **vampire spawn** em guerra com sua natureza sedenta de sangue, e têm a oportunidade de reconciliá-lo com seu pai, o padre Donavich.
 
@@ -27,13 +27,13 @@ Ao chegarem em Vallaki, os PJs podem encontrar abrigo na Estalagem Água Azul e�
 |   3   | B    | Os PJs auxiliam Doru a passar em seu teste de vontade             | 100   |
 |   3   | B    | Os PJs recebem a leitura Tarokka                                  | 500   |
 |   3   | C    | Os PJs chegam em Vallaki                                          | 1.000 |
-|   3   | C    | Os PJs escoltam Ireena até Vallaki                               | 250   |
+|   3   | C    | Os PJs escoltam Irene até Vallaki                               | 250   |
 
 # Ato II: A Cidade Sombria
 <div class="subtitle"><em>Para personagens de 4º nível ou superior.</em></div>
 Neste ato, os PJs são deixados para explorar a sombria cidade de Vallaki—um assentamento baroviano que sucumbiu à tensão e ao conflito após o despertar de Strahd.
 
-Enquanto os PJs buscam cumprir obrigações pendentes—escoltar Ireena até a Igreja de São Andral, comprar e entregar um brinquedo para a criança Vistani Arabelle, e desvendar o *Tomo de Strahd*—eles encontram novos aliados e inimigos, incluindo o Padre Lucian, o sacerdote da Igreja de São Andral; Izek Strazni, o brutal executor do Barão Vallakovich; e Lady Fiona Wachter, a rival leal a Strahd do Barão.
+Enquanto os PJs buscam cumprir obrigações pendentes—escoltar Irene até a Igreja de São Andral, comprar e entregar um brinquedo para a criança Vistani Arabelle, e desvendar o *Tomo de Strahd*—eles encontram novos aliados e inimigos, incluindo o Padre Lucian, o sacerdote da Igreja de São Andral; Izek Strazni, o brutal executor do Barão Vallakovich; e Lady Fiona Wachter, a rival leal a Strahd do Barão.
 
 Na Igreja de São Andral, os PJs terão a missão de recuperar os roubados Ossos do São Andral para proteger a sagrada proteção da igreja. No acampamento Vistani próximo, os PJs terão a oportunidade de provar seu valor como heróis ao encontrar e resgatar Arabelle após seu misterioso desaparecimento — e receber uma profecia enigmática caso o façam. E em Wachterhaus, a ancestral morada da Casa Wachter, os PJs enfrentarão uma escolha: matar Izek Strazni e permitir que Lady Wachter tome o poder — ou nada fazer, deixando o reinado insano do Barão continuar.
 

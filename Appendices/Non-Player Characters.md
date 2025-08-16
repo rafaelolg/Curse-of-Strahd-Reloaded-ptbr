@@ -40,7 +40,7 @@
 
 ***Emoções.*** Ismark frequentemente sente-se preocupado, culpado, amigável, melancólico, desafiador, esperançoso, desesperado e grato.
 
-***Motivações.*** Ismark deseja proteger sua vila e Ireena, preservar viva a memória de seu pai e, um dia, igualar o legado de seus ancestrais.
+***Motivações.*** Ismark deseja proteger sua vila e Irene, preservar viva a memória de seu pai e, um dia, igualar o legado de seus ancestrais.
 
 ***Inspirações.*** Ao interpretar Ismark, canalizem Jon Snow (*Game of Thrones*), Faramir (*Senhor dos Anéis*) e Trevor Belmont (*Castlevania*).
 
@@ -49,23 +49,23 @@
 
 ***Moral.*** Em uma luta, Ismark inicialmente tentaria mediar o conflito entre as partes, mas não hesitaria em sacar sua espada — e até lutar até a morte — se acreditasse estar defendendo algo ou alguém que valesse a pena proteger.
 
-***Relacionamentos.*** Ismark é o irmão adotivo de Ireena Kolyana, e o bisneto de Ismark, o Grande.  
-### Ireena Kolyana  
+***Relacionamentos.*** Ismark é o irmão adotivo de Irene Kolyana, e o bisneto de Ismark, o Grande.  
+### Irene Kolyana  
 **Informações de Interpretação**  
-***Ressonância.*** Ireena deve inspirar lisonja com seu interesse genuíno pelos objetivos e interesses dos PJs, simpatia por seu sentimento de culpa e medo de Strahd, afeto por sua determinação em seguir adiante, e gratidão por seus esforços em ajudar os PJs a triunfar.
+***Ressonância.*** Irene deve inspirar lisonja com seu interesse genuíno pelos objetivos e interesses dos PJs, simpatia por seu sentimento de culpa e medo de Strahd, afeto por sua determinação em seguir adiante, e gratidão por seus esforços em ajudar os PJs a triunfar.
 
-***Emoções.*** Ireena frequentemente sente-se curiosa, pensativa, melancólica, culpada, teimosa, alegre, determinada, desafiadora e ansiosa.
+***Emoções.*** Irene frequentemente sente-se curiosa, pensativa, melancólica, culpada, teimosa, alegre, determinada, desafiadora e ansiosa.
 
-***Motivações.*** Ireena deseja proteger seus conterrâneos barovianos e Ismark, honrar a memória de seus pais, aprender novas histórias e, um dia, explorar terras distantes.
+***Motivações.*** Irene deseja proteger seus conterrâneos barovianos e Ismark, honrar a memória de seus pais, aprender novas histórias e, um dia, explorar terras distantes.
 
-***Inspirações.*** Ao interpretar Ireena, canalize Belle (A Bela e a Fera), Elizabeth Swann (Piratas do Caribe), Éowyn (O Senhor dos Anéis), Hermione Granger (Harry Potter) e Katniss Everdeen (Jogos Vorazes).
+***Inspirações.*** Ao interpretar Irene, canalize Belle (A Bela e a Fera), Elizabeth Swann (Piratas do Caribe), Éowyn (O Senhor dos Anéis), Hermione Granger (Harry Potter) e Katniss Everdeen (Jogos Vorazes).
 
 **Informações do Personagem**  
-***Persona.*** Para o mundo, Ireena é uma jovem nobre compassiva, curiosa, porém teimosa. Para aqueles em quem confia, Ireena é uma jovem ansiosa, porém determinada, que sonha com liberdade e aventura. No fundo, Ireena se pergunta se entregar-se a Strahd seria a melhor forma de proteger aqueles que ama.
+***Persona.*** Para o mundo, Irene é uma jovem nobre compassiva, curiosa, porém teimosa. Para aqueles em quem confia, Irene é uma jovem ansiosa, porém determinada, que sonha com liberdade e aventura. No fundo, Irene se pergunta se entregar-se a Strahd seria a melhor forma de proteger aqueles que ama.
 
-***Moral.*** Em uma luta, Ireena sempre recorrerá às palavras antes da espada. Se for necessário se defender, porém, ela desembainhará sua espada fina—relutantemente, se for para se proteger, e com orgulho, se for para proteger outra pessoa.
+***Moral.*** Em uma luta, Irene sempre recorrerá às palavras antes da espada. Se for necessário se defender, porém, ela desembainhará sua espada fina—relutantemente, se for para se proteger, e com orgulho, se for para proteger outra pessoa.
 
-***Relacionamentos.*** Ireena é a irmã adotiva (consciente) de Ismark Kolyanovich, a irmã (inconsciente) de Izek Strazni e a reencarnação (inconsciente) de Tatyana Federovna.  
+***Relacionamentos.*** Irene é a irmã adotiva (consciente) de Ismark Kolyanovich, a irmã (inconsciente) de Izek Strazni e a reencarnação (inconsciente) de Tatyana Federovna.  
 ### Parriwimple  
 **Informações de Interpretação**  
 ***Ressonância.*** Parriwimple deve inspirar simpatia pela perda de seus pais, afeto por seus maneirismos infantis e perseverança otimista, e admiração por sua fascinação pelas armas e roupas exóticas dos PJs.
@@ -434,7 +434,7 @@
                 <td>16 (+3)</td>
                 <td>18 (+4)</td>
                 <td>10 (+0)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
             </tr>
         </tbody>
     </table>
@@ -495,7 +495,7 @@
       <td>16 (+3)</td>
       <td>18 (+4)</td>
       <td>10 (+0)</td>
-      <td>12 (+1)</td>
+      <td>12 (+1)</td>s
     </tr>
   </tbody>
 </table>
@@ -556,7 +556,7 @@
       <td>16 (+3)</td>
       <td>18 (+4)</td>
       <td>10 (+0)</td>
-      <td>12 (+1)</td>
+      <td>12 (+1)</td>s
     </tr>
   </tbody>
 </table>
@@ -931,7 +931,7 @@
 
 ***Moral.*** Se atacada, ou se Doru fosse ameaçado, Gertruda imediatamente agarraria a arma mais próxima e tentaria defender a si mesma e seus entes queridos.
 
-***Relacionamentos.*** Gertruda é filha de Mad Mary, prometida de Doru e amiga de infância de Ireena Kolyana.
+***Relacionamentos.*** Gertruda é filha de Mad Mary, prometida de Doru e amiga de infância de Irene Kolyana.
 
 # Antigo Móiossos 
 
@@ -948,20 +948,20 @@
  **Informações do Personagem**
  ***Persona.*** Para o mundo, Morgantha é uma senhora idosa alegre, com um gosto por fofocas e reclamações. Apenas Morgantha e suas filhas sabem que ela é secretamente a matrona de coração negro de um coven de megera da noite.
 
- ***Moral.*** Em um combate, Morgantha tentaria negociar a paz, e então usaria sua habilidade de ***etherealness*** para escapar para o Plano Etéreo caso isso pareça inútil.
+ ***Moral.*** Em um combate, Morgantha tentaria negociar a paz, e então usaria sua habilidade de ***forma etérea*** para escapar para o Plano Etéreo caso isso pareça inútil.
 
  ***Relações.*** Morgantha é a mãe das **megeras da noite** Bella e Offalia, e a fornecedora de pastéis de sonhos para o refugiado baroviano [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
  
 <div class="statblock">
 <h2>Laia dos Móiossos</h2>
 <em>Trio de três demônios médios, malignos neutros</em>
-<hr>
+<hr/>
 <strong>Classe de Armadura</strong> 17 (armadura natural)
 <br>
 <strong>Pontos de Vida</strong> 210 (28d8 + 84)
 <br>
 <strong>Velocidade</strong> 9 m
-<hr>
+<hr/>
 <table class="ability-table">
   <thead>
     <tr>
@@ -1343,7 +1343,7 @@
 
 ### Izek Strazni
 **Informações de Interpretação**
-***Ressonância.*** Izek deve inspirar repulsa por sua crueldade e indiferença à vida humana, além de causar desconforto com seu interesse perturbador por Ireena Kolyana.
+***Ressonância.*** Izek deve inspirar repulsa por sua crueldade e indiferença à vida humana, além de causar desconforto com seu interesse perturbador por Irene Kolyana.
 
 ***Emoções.*** Izek frequentemente se sente irritado, enfurecido, impaciente, sádico, obcecado ou entediado.
 
@@ -1356,7 +1356,7 @@
 
 ***Moral.*** Em uma luta, Izek empunharia com prazer sua machadinha prateada e lutaria até a morte.
 
-***Relacionamentos.*** Izek é o "filho" adotivo do Barão Vargas Vallakovich, o capitão da guarda da cidade de Vallaki, um cliente frequente do fabricante de brinquedos Gadof Blinsky e (sem que nenhum deles saiba) o irmão biológico de Ireena Kolyana.
+***Relacionamentos.*** Izek é o "filho" adotivo do Barão Vargas Vallakovich, o capitão da guarda da cidade de Vallaki, um cliente frequente do fabricante de brinquedos Gadof Blinsky e (sem que nenhum deles saiba) o irmão biológico de Irene Kolyana.
 
 <div class="statblock">
 <h2>Izek Strazni, 1ª Forma</h2>
@@ -1506,7 +1506,7 @@ O grimório de Victor contém os feitiços _sending_ e _fear_, e não contém _r
 
 ***Moral.*** Em uma luta, Blinsky imploraria por paz, tropeçando em suas próprias palavras e balbuciando por misericórdia enquanto buscava uma oportunidade para fugir.
 
-***Relacionamentos.*** Blinsky é dono de Piccolo, um macaco de estimação que lhe foi dado por Rictavio, o mestre de cerimônias itinerante. Blinsky também confecciona bonecas que se assemelham a Ireena Kolyana para Izek Strazni, e recebe um modesto estipêndio para criar decorações para os festivais semanais do Barão Vallakovich.
+***Relacionamentos.*** Blinsky é dono de Piccolo, um macaco de estimação que lhe foi dado por Rictavio, o mestre de cerimônias itinerante. Blinsky também confecciona bonecas que se assemelham a Irene Kolyana para Izek Strazni, e recebe um modesto estipêndio para criar decorações para os festivais semanais do Barão Vallakovich.
 
 ## Acampamento Vistani
 ### Luvash
@@ -1919,7 +1919,7 @@ When roleplaying the Martikov family, keep the following information in mind:
       <td>18 (+4)</td>
       <td>18 (+4)</td>
       <td>18 (+4)</td>
-      <td>12 (+1)</td>
+      <td>12 (+1)</td>s
       <td>16 (+3)</td>
       <td>16 (+3)</td>
     </tr>
@@ -2042,7 +2042,7 @@ When roleplaying the Martikov family, keep the following information in mind:
       <td>15 (+2)</td>
       <td>13 (+1)</td>
       <td>10 (0)</td>
-      <td>12 (+1)</td>
+      <td>12 (+1)</td>s
       <td>10 (0)</td>
     </tr>
   </tbody>
