@@ -82,11 +82,11 @@ Após receber o pedido de Madame Eva em [[Act I - Into the Mists/Arc C - Into th
 >
 > ***Moral.*** Em uma luta, Blinsky imploraria por paz, tropeçando em suas próprias palavras e balbuciando por misericórdia enquanto procura uma oportunidade para fugir.
 >
-> ***Relacionamentos.*** Blinsky possui Piccolo, um macaco de estimação que lhe foi dado por "Alanik Ray", um estudioso itinerante (e um dos disfarces de Rudolph van Richten) logo após a rebelião de Doru. Blinsky também confecciona bonecas que se assemelham a Ireena Kolyana para Izek Strazni, e recebe um modesto estipêndio para criar decorações para os festivais semanais do Barão Vallakovich. Além disso, Blinsky é o criador da perna protética de Ezmerelda d'Avenir.
+> ***Relacionamentos.*** Blinsky possui Piccolo, um macaco de estimação que lhe foi dado por "Alanik Ray", um estudioso itinerante (e um dos disfarces de Rudolph van Richten) logo após a rebelião de Doru. Blinsky também confecciona bonecas que se assemelham a Irene Kolyana para Izek Strazni, e recebe um modesto estipêndio para criar decorações para os festivais semanais do Barão Vallakovich. Além disso, Blinsky é o criador da perna protética de Ezmerelda d'Avenir.
 
 Blinsky Toys é descrita em <span class="citation">N7. Blinsky Toys (p. 118)</span>. Enquanto os personagens exploram a loja, Blinsky alegremente lhes conta sobre sua inspiração para fabricar brinquedos: o lendário fabricante de brinquedos Fritz von Weerg, e sua maior invenção, perdida nas eras: um homem mecânico que dizem estar em algum lugar no Castelo Ravenloft.
 
-Se os jogadores perguntarem a Blinsky sobre a boneca que se assemelha a Ireena Kolyana (veja <span class="citation">Creepy Dolls, p. 118</span>), ele insiste ansiosamente que ela não está à venda e pede que escolham outro brinquedo. Se os jogadores exigirem uma explicação para a semelhança assustadora, podem persuadir o temeroso Blinsky a compartilhar o que sabe com um teste bem-sucedido de Carisma (Persuasão ou Intimidação) CD 10, ou simplesmente pegando a boneca para si. Blinsky está claramente apavorado com a ira de Izek e fará qualquer coisa para garantir que a boneca seja entregue a tempo.
+Se os jogadores perguntarem a Blinsky sobre a boneca que se assemelha a Irene Kolyana (veja <span class="citation">Creepy Dolls, p. 118</span>), ele insiste ansiosamente que ela não está à venda e pede que escolham outro brinquedo. Se os jogadores exigirem uma explicação para a semelhança assustadora, podem persuadir o temeroso Blinsky a compartilhar o que sabe com um teste bem-sucedido de Carisma (Persuasão ou Intimidação) CD 10, ou simplesmente pegando a boneca para si. Blinsky está claramente apavorado com a ira de Izek e fará qualquer coisa para garantir que a boneca seja entregue a tempo.
 
 Se os PJs perguntarem a Blinsky sobre Piccolo, ele pode informá-los que recebeu o macaco há pouco mais de três meses, de um estudioso itinerante chamado Alanik Ray.
 
@@ -296,7 +296,7 @@ Os NPCs na mansão se comportam da seguinte forma:
 
 Se os PJs conseguirem acesso à <span class="citation">Biblioteca N3l. (p. 107)</span>, eles podem tentar vasculhar as estantes em busca de informações sobre o anel de sinete de platina. Após uma hora inteira de busca, os PJs podem confirmar que nenhum livro contém qualquer informação sobre o anel. 
 
-No decorrer da busca dos PJs, um deles identifica um nome familiar em um tomo genealógico que arquiva nascimentos e mortes das famílias de Vallaki: Ireena Strazni, a irmã mais nova de Izek Strazni e filha de Grygori e Fatima Strazni. Segundo os registros, entretanto, Ireena Strazni faleceu há mais de dezoito anos, aos quatro anos de idade, com Grygori e Fatima morrendo pouco tempo depois. As mortes de Grygori e Fatima estão marcadas como *Suicídio por enforcamento*, enquanto a causa da morte de Ireena está registrada como *Desconhecida (presumivelmente devorada por lobos).*
+No decorrer da busca dos PJs, um deles identifica um nome familiar em um tomo genealógico que arquiva nascimentos e mortes das famílias de Vallaki: Irene Strazni, a irmã mais nova de Izek Strazni e filha de Grygori e Fatima Strazni. Segundo os registros, entretanto, Irene Strazni faleceu há mais de dezoito anos, aos quatro anos de idade, com Grygori e Fatima morrendo pouco tempo depois. As mortes de Grygori e Fatima estão marcadas como *Suicídio por enforcamento*, enquanto a causa da morte de Irene está registrada como *Desconhecida (presumivelmente devorada por lobos).*
 
 Pouco depois dos PJs descobrirem esses registros, porém, eles são interrompidos pela chegada de Vitor Vallakovich, que veio à biblioteca em busca de um livro específico: *Entidades Etéreas: Habitantes do Reino Invisível*, escrito pelo arquimago Mordenkainen.  
 
@@ -335,21 +335,21 @@ Se Vitor concordar em ajudar os PJs compartilhando informações sobre seu grim�
 >
 > - _**Etherborn: Nativos do Éter Profundo**_, contendo informações sobre criaturas que dizem habitar exclusivamente o Éter Profundo, como os míticos mistfiends, ethershades e shimmerlings.
 > - _**Phantomfolk: Viajantes do Éter da Fronteira**_, contendo informações sobre criaturas incorpóreas que habitam o Éter da Fronteira e frequentemente cruzam para o Plano Material, como **ghosts** (_Monster Manual_, p. 147) e **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitantes do Etéreo**_, contendo informações sobre criaturas físicas que podem atravessar para o Plano Etéreo, como **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235) e **phase spiders** (_Monster Manual_, p. 334). (Veja **Matrons of Malevolence** abaixo para o capítulo sobre as night hags.)
+> - _**Veil-Walkers: Visitantes do Etéreo**_, contendo informações sobre criaturas físicas que podem atravessar para o Plano Etéreo, como **megeras da noite** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235) e **aranha planars** (_Monster Manual_, p. 334). (Veja **Matrons of Malevolence** abaixo para o capítulo sobre as megeras da noite.)
 >
-> A subseção que discute as **phase spiders** inclui uma breve nota lateral sobre a imunidade que a maioria dos mortos-vivos incorpóreos possui contra danos elementares, naturais e de armas não mágicas enquanto estão no Plano Material, bem como os meios naturais que as phase spiders desenvolveram para contrariar essas imunidades por meio do uso de suas presas e veneno. Observa que um conjurador pode causar dano a um espírito incorpóreo normalmente usando uma presa de phase spider como componente material adicional para lançar seus feitiços, enquanto um combatente marcial pode causar dano a um espírito incorpóreo ao cobrir uma arma ou até três munições com veneno de phase spider ou água benta.
+> A subseção que discute as **aranha planars** inclui uma breve nota lateral sobre a imunidade que a maioria dos mortos-vivos incorpóreos possui contra danos elementares, naturais e de armas não mágicas enquanto estão no Plano Material, bem como os meios naturais que as aranha planars desenvolveram para contrariar essas imunidades por meio do uso de suas presas e veneno. Observa que um conjurador pode causar dano a um espírito incorpóreo normalmente usando uma presa de aranha planar como componente material adicional para lançar seus feitiços, enquanto um combatente marcial pode causar dano a um espírito incorpóreo ao cobrir uma arma ou até três munições com veneno de aranha planar ou água benta.
 >
-> A subseção que discute as **night hags** inclui uma breve nota lateral sobre um ritual que usa a ***heartstone*** de uma night hag e as energias de uma linha ley para replicar os efeitos do feitiço *Etherealness* para até dez indivíduos por uma hora na noite de lua cheia.
+> A subseção que discute as **megeras da noite** inclui uma breve nota lateral sobre um ritual que usa a ***heartstone*** de uma night hag e as energias de uma linha ley para replicar os efeitos do feitiço *forma etérea* para até dez indivíduos por uma hora na noite de lua cheia.
 >
-> O capítulo sobre as **night hags** é intitulado "Night Hags: Matrons of Malevolence." Ele diz o seguinte:
+> O capítulo sobre as **megeras da noite** é intitulado "megeras da noite: Matrons of Malevolence." Ele diz o seguinte:
 > 
 > <hr>
 >
-> Astutas e subversivas, as night hags são o epítome da maldade. Elas representam tudo o que há de cruel e perverso no mundo e nada desejam mais do que ver os virtuosos se tornarem vilões: o amor transformado em obsessão, a bondade em ódio, a devoção em desdém e a generosidade em egoísmo.
+> Astutas e subversivas, as megeras da noite são o epítome da maldade. Elas representam tudo o que há de cruel e perverso no mundo e nada desejam mais do que ver os virtuosos se tornarem vilões: o amor transformado em obsessão, a bondade em ódio, a devoção em desdém e a generosidade em egoísmo.
 >
-> Um dia, as night hags foram criaturas do Feywild, um reino de encantamento e beleza. Contudo, sua torpeza as exilou para o sombrio reino de Hades há muito tempo, onde degeneraram em demônios. A mancha nefasta de Hades corrompeu sua natureza outrora feérica, e as night hags há muito espalham sua malevolência pelos Planos Inferiores.
+> Um dia, as megeras da noite foram criaturas do Feywild, um reino de encantamento e beleza. Contudo, sua torpeza as exilou para o sombrio reino de Hades há muito tempo, onde degeneraram em demônios. A mancha nefasta de Hades corrompeu sua natureza outrora feérica, e as megeras da noite há muito espalham sua malevolência pelos Planos Inferiores.
 >
-> Embora as night hags se assemelhem a bruxas enrugadas, não há nada mortal nelas. Seus rostos ressequidos são emoldurados por longos cabelos desgrenhados e chifres de carneiro curvados; horríveis verrugas e pintas cobrem sua pele pálida e manchada de azul; e seus dedos longos e finos terminam em garras capazes de rasgar a carne com um toque.
+> Embora as megeras da noite se assemelhem a bruxas enrugadas, não há nada mortal nelas. Seus rostos ressequidos são emoldurados por longos cabelos desgrenhados e chifres de carneiro curvados; horríveis verrugas e pintas cobrem sua pele pálida e manchada de azul; e seus dedos longos e finos terminam em garras capazes de rasgar a carne com um toque.
 >
 > Todas as hags possuem poderes mágicos, incluindo a habilidade de alterar suas formas ou amaldiçoar seus inimigos. Uma hag também possui certa resistência tanto à magia quanto às armas mortais, embora o toque da prata a fira como a qualquer outra.
 >
@@ -359,7 +359,7 @@ Se Vitor concordar em ajudar os PJs compartilhando informações sobre seu grim�
 >
 > Noite após noite, ela continua suas visitas até que a vítima finalmente expire em seu sono — momento em que aprisiona sua alma corrompida em sua bolsa de almas como um troféu sombrio de seu sucesso. Quanto mais negras as manchas na alma, maior a recompensa da night hag.
 >
-> Como todas as hags, as night hags se reproduzem ao raptar e devorar bebês humanos. Uma semana depois, a hag dá à luz uma filha que parece humana até seu décimo terceiro aniversário — quando a criança se transforma na imagem exata de sua mãe hag.
+> Como todas as hags, as megeras da noite se reproduzem ao raptar e devorar bebês humanos. Uma semana depois, a hag dá à luz uma filha que parece humana até seu décimo terceiro aniversário — quando a criança se transforma na imagem exata de sua mãe hag.
 >
 > Algumas hags criam as filhas que geram, formando laias que amplificam seu poder. Os membros de uma laia ganham uma série de habilidades sobrenaturais, incluindo o poder de controlar os elementos e — uma vez por dia — dissipar magia estrangeira nas proximidades de suas tocas. Como é comum em toda magia de hag, porém, tal poder tem um preço — pois uma ferida sofrida por uma única hag na laia é sentida por todas.
 >

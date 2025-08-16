@@ -3,18 +3,18 @@ _Uma aventura para cinco personagens de 4º nível._
 > [!info]+ **O Novo Arco D**
 > O antigo Arco D, [[Arc D - The Tome of Strahd]], foi descontinuado e fundido com [[Arc H - The Lost Soul]]. Este arco, anteriormente Arco E, foi renomeado para acomodar sua remoção.
 
-Neste arco, os PJs escoltam Ireena Kolyana até a Igreja de São Andral em Vallaki, cumprindo seus votos ao irmão dela, Ismark. Contudo, o Padre Lucian, o sacerdote da igreja, informa-lhes que os ossos de São Andral — a fonte da magia protetora da igreja — foram recentemente roubados, colocando em risco suas proteções e os fiéis.
+Neste arco, os PJs escoltam Irene Kolyana até a Igreja de São Andral em Vallaki, cumprindo seus votos ao irmão dela, Ismark. Contudo, o Padre Lucian, o sacerdote da igreja, informa-lhes que os ossos de São Andral — a fonte da magia protetora da igreja — foram recentemente roubados, colocando em risco suas proteções e os fiéis.
 
 Os PJs têm até a noite do quinto dia após sua chegada em Vallaki para identificar o ladrão (o zelador da igreja, Milivoj), rastrear os ossos até seu esconderijo (a loja do fabricante de caixões de Vallaki) e devolvê-los ao seu lugar legítimo na igreja. A missão os levará a um confronto direto com Volenta Popofsky, a noiva vampírica mais sádica de Strahd, e seus servos vampíricos.
 
 Os PJs conseguirão frustrar o plano de Volenta e restaurar a proteção da igreja? Ou a igreja será consumida pela escuridão e pelo sangue, sua luz piscante apagada nas sombras?
 
 > [!abstract]+ **Um Começo Prematuro**  
-> Se os jogadores levarem Ireena à Igreja de St. Andral na primeira noite em Vallaki (isto é, o "dia zero" em Vallaki), eles chegam para encontrar o Padre Lucian terminando um serviço para sua congregação. Após tranquilizar Wilemina Rikalova (veja [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] para mais informações sobre Wilemina), o Padre Lucian recebe os jogadores e Ireena na igreja e oferece sua ajuda.  
+> Se os jogadores levarem Irene à Igreja de St. Andral na primeira noite em Vallaki (isto é, o "dia zero" em Vallaki), eles chegam para encontrar o Padre Lucian terminando um serviço para sua congregação. Após tranquilizar Wilemina Rikalova (veja [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] para mais informações sobre Wilemina), o Padre Lucian recebe os jogadores e Irene na igreja e oferece sua ajuda.  
 >  
-> Se informado de que Ireena espera encontrar refúgio na igreja, o Padre Lucian se alegra em oferecer-lhe um colchão para dormir na capela. Depois que Ireena se oferece para compensá-lo por sua bondade, o Padre Lucian considera seu pedido e a convida a ajudar com as tarefas e a educação de Yeska durante sua estadia — um pedido que Ireena aceita graciosamente.  
+> Se informado de que Irene espera encontrar refúgio na igreja, o Padre Lucian se alegra em oferecer-lhe um colchão para dormir na capela. Depois que Irene se oferece para compensá-lo por sua bondade, o Padre Lucian considera seu pedido e a convida a ajudar com as tarefas e a educação de Yeska durante sua estadia — um pedido que Irene aceita graciosamente.  
 >  
-> Na manhã seguinte, depois que os ossos de St. Andral são roubados conforme descrito abaixo, Ireena visita os jogadores na Estalagem Água Azul antes da conversa deles com Urwin Martikov descrita em [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] e pede que visitem a igreja para falar com o Padre Lucian sobre um "incidente". (O Padre Lucian pediu que ela não falasse do incidente fora da igreja, por medo de causar pânico.) O restante deste arco então prossegue normalmente.  
+> Na manhã seguinte, depois que os ossos de St. Andral são roubados conforme descrito abaixo, Irene visita os jogadores na Estalagem Água Azul antes da conversa deles com Urwin Martikov descrita em [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] e pede que visitem a igreja para falar com o Padre Lucian sobre um "incidente". (O Padre Lucian pediu que ela não falasse do incidente fora da igreja, por medo de causar pânico.) O restante deste arco então prossegue normalmente.  
 # D1. Igreja de St. Andral  
 <span class="citation"><em>Esta cena ocorre no Capítulo 5: Área N1.</em></span>
 
@@ -113,7 +113,7 @@ Após os PJs trocarem cumprimentos, Milivoj desmonta sua escada de mão e a devo
 
 Milivoj está ansioso para impedir qualquer investigação adicional na igreja e espera persuadir o Padre Lucian a afastar os PJs. No entanto, ele não quer parecer suspeito e abandona o assunto se os PJs ou o Padre Lucian resistirem. "Não se pode ter cuidado demais," ele murmura. "Fique seguro, Padre." Em seguida, ele se retira.
 
-Assim que Milivoj partir, se o Padre Lucian for informado de que Ireena está buscando refúgio na igreja para se proteger de Strahd ou de outras criaturas, ele primeiro certifica-se de que nenhum outro congregante esteja presente — espantando Yeska, caso esteja por ali—e faz os PJs jurarem segredo.
+Assim que Milivoj partir, se o Padre Lucian for informado de que Irene está buscando refúgio na igreja para se proteger de Strahd ou de outras criaturas, ele primeiro certifica-se de que nenhum outro congregante esteja presente — espantando Yeska, caso esteja por ali—e faz os PJs jurarem segredo.
 
 Se os PJs concordarem em não espalhar suas palavras além da igreja, o Padre Lucian informa-lhes com pesar que, embora fosse seu profundo desejo oferecer a Irene um abrigo permanente, os eventos recentes deixaram as proteções da igreja em um estado precário. Ele também pode compartilhar as seguintes informações adicionais, caso os PJs o solicitem:
 
@@ -402,7 +402,7 @@ Volenta usa as duas vampire spawn como escudo, posicionando-as entre ela e os PJ
 <p><strong><em>Pedra Trovejante (1/dia).</em></strong> Volenta arremessa um fragmento cristalino em uma criatura, objeto ou superfície a até 9 metros. O fragmento se estilhaça ao impactar com uma explosão de energia concussiva. Cada criatura a até 3 metros do ponto de impacto deve suceder em um teste de salvaguarda de Constituição CD 14 ou ser derrubada e empurrada 3 metros para longe daquele ponto. Uma criatura que falhar no teste também fica surda até o início do próximo turno de Volenta.</p>
 <p><strong><em>Bomba de Fogo do Alquimista (1/dia).</em></strong> Volenta arremessa um frasco de fogo alquímico concentrado em um ponto a até 9 metros. O frasco se estilhaça ao impactar e detona em um raio de 3 metros. Qualquer criatura naquela área deve suceder em um teste de salvaguarda de Destreza CD 14 ou sofrer 2d6 de dano por fogo e ser incendiada. Uma criatura incendiada dessa forma sofre 1d4 de dano por fogo no início de cada um de seus turnos, podendo fazer um teste adicional de Destreza CD 14 no final de cada turno para apagar as chamas.</p>
 <h3>Reações</h3>
-<p><strong><em>Vareta de Fumaça (1/dia).</em></strong> Quando Volenta é reduzida a 0 pontos de vida, se não estiver agarrada, imobilizada ou incapacitada, ela pode estalar uma vareta de madeira queimada e negra, liberando uma nuvem de fumaça espessa e opaca que cria uma área fortemente obscurecida em um raio de 6 metros. Ela pode então se mover até sua velocidade sem provocar ataques de oportunidade. Um vento moderado (pelo menos 16 km/h) dispersa a fumaça em 4 rodadas; um vento forte (32 km/h ou mais) dispersa em 1 rodada.
+<p><strong><em>Vareta de Fumaça (1/dia).</em></strong> Quando Volenta é reduzida a 0 pontos de vida, se não estiver agarrada, imobilizada ou incapacitada, ela pode estalar uma vareta de madeira queimada e negra, liberando uma nuvem de fumaça espessa e opaca que cria uma área fortemente obscurecida em um raio de 6 metros. Ela pode então se mover até sua velocidade sem provocar ataques de oportunidade. Um vento moderado (pelo menos 16 km/h) dispersa a fumaça em 4 rodadas; um vento forte (32 km/h ou mais) dispersa em 1 rodada.</p>
 </div>
 <br>
 <div class="statblock">
@@ -459,7 +459,7 @@ Volenta usa as duas vampire spawn como escudo, posicionando-as entre ela e os PJ
 <h3>Reações</h3>
 <p><strong><em>Cuspir Sangue.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, Volenta cospe um jato de sangue nos olhos da criatura atacante, forçando-a a fazer um teste de salvaguarda de Destreza CD 15. Em caso de falha, a criatura fica cega até o final do seu próximo turno.</p>
 <p><strong><em>Agressão.</em></strong> Em resposta a sofrer dano de um ataque ou magia, Volenta se move até sua velocidade em direção a uma criatura hostil que possa ver, sem provocar ataques de oportunidade.</p>
-<p><strong><em>Fuga.</em></strong> Em resposta a escapar de um agarramento, Volenta usa sua característica <strong><em>salto</em></strong>.
+<p><strong><em>Fuga.</em></strong> Em resposta a escapar de um agarramento, Volenta usa sua característica <strong><em>salto</em></strong>.</p>
 </div>
 
 ### 1. Volenta
@@ -490,11 +490,11 @@ Se algum dos PJs for reduzido a 0 pontos de vida, Father Lucian usa sua ação p
 >
 > Como Volenta e suas **vampire spawn** preferem atacar os PJs em vez do Padre Lucian, é improvável que o Padre Lucian seja reduzido a 0 pontos de vida nesta batalha.
 >
-> Contudo, como indicado em **Monstros e Morte** (<span class="citation">Player's Handbook, p. 198</span>), personagens não-jogadores aliados — como o Padre Lucian, Ireena Kolyana e qualquer outro NPC lutando ao lado dos PJs — devem cair inconscientes ao serem reduzidos a 0 pontos de vida. Quando isso ocorre, eles seguem as mesmas regras para testes de salvaguarda contra a morte que os personagens jogadores, descritas mais detalhadamente em **Testes de Salvaguarda contra a Morte** (<span class="citation">Player's Handbook, p. 197</span>).
+> Contudo, como indicado em **Monstros e Morte** (<span class="citation">Player's Handbook, p. 198</span>), personagens não-jogadores aliados — como o Padre Lucian, Irene Kolyana e qualquer outro NPC lutando ao lado dos PJs — devem cair inconscientes ao serem reduzidos a 0 pontos de vida. Quando isso ocorre, eles seguem as mesmas regras para testes de salvaguarda contra a morte que os personagens jogadores, descritas mais detalhadamente em **Testes de Salvaguarda contra a Morte** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. As Vampire Spawn
 As duas **vampire spawn** lutam usando suas ***garras*** para agarrar os inimigos, que então arrastam para se banquetear em privado — preferencialmente jogando a presa agarrada pela janela até o telhado da loja. Ambas as spawn lutam até a morte.
 # D5. Recuperando os Ossos
-Se os PJs e o Padre Lucian conseguirem devolver os ossos roubados para a Igreja de St. Andral antes do amanhecer de Neyavr 7, o Padre Lucian agradece aos PJs e convida Ireena a permanecer sob sua proteção pelo tempo que desejar. Ireena então dorme na Igreja de St. Andral todas as noites até que o grupo deixe Vallaki em [[Arc J - The Stolen Gem]]. 
+Se os PJs e o Padre Lucian conseguirem devolver os ossos roubados para a Igreja de St. Andral antes do amanhecer de Neyavr 7, o Padre Lucian agradece aos PJs e convida Irene a permanecer sob sua proteção pelo tempo que desejar. Irene então dorme na Igreja de St. Andral todas as noites até que o grupo deixe Vallaki em [[Arc J - The Stolen Gem]]. 
 
 **_Marco_**. Restaurar os ossos do São Andral completa um marco da história. Se a igreja for re-consagrada com sucesso, conceda a cada jogador 1.250 PX.  
 # D6. A Visita de Rahadin  
@@ -702,7 +702,7 @@ Uma vez que Rahadin esteja satisfeito de que a justiça foi feita, ele convoca s
 # Notas de Design: O Banquete de São Andral
 ***Igreja de São Andral.*** A exigência do módulo original de que um dos PJs fosse um clérigo ou paladino para receber esta missão foi removida para torná-la mais acessível. 
 
-Embora não exista na aventura original, o dia sagrado da Festa de São Andral foi adicionado para fornecer um prazo claro para os esforços dos PJs em recuperar os ossos, e para garantir um lugar seguro para que a Ireena permaneça enquanto o arco se desenrola.
+Embora não exista na aventura original, o dia sagrado da Festa de São Andral foi adicionado para fornecer um prazo claro para os esforços dos PJs em recuperar os ossos, e para garantir um lugar seguro para que a Irene permaneça enquanto o arco se desenrola.
 
 A data do roubo dos ossos foi antecipada para a noite da chegada dos PJs em Vallaki, garantindo que a cena do crime esteja suficientemente preservada para que eles possam realizar um trabalho investigativo substancial. Uma série de pistas foi adicionada para apontar claramente o dedo para Milivoj.
 

@@ -1,268 +1,290 @@
-_An adventure for five 4th- or 5th-level characters._
+_Uma aventura para cinco personagens de 4º ou 5º nível._
 
-In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
+Neste arco, os PJs tentam entrar na vila de Krezk antes de derrotar os druidas que ocupam a vinícola do Mago dos Vinhos, seja para obter uma cura para a febre do riso do Abade, colher acônito nas margens da fonte abençoada, ou para buscar seu aliado destinado contra Strahd. 
 
-However, the village of Krezk is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their burgomaster, Baron Dmitri Krezkov.
+No entanto, a vila de Krezk é desconfiada de forasteiros e não permitirá que os PJs entrem a menos que primeiro realizem uma tarefa para seu burgomestre, o Barão Dmitri Krezkov.
 
-The players must travel to the ruins of Berez between Krezk and Vallaki, and there persuade the witch Baba Lysaga to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack. However, Baba Lysaga is a mad and fickle witch, and her methods of magic are twisted and dark. Can the players convince her to fulfill Baron Krezkov’s request, and so win them entry to the village of Krezk?
-# I1. The Road to Krezk
-The journey from the town of Vallaki to the **Village of Krezk** is six-and-one-quarter miles long and takes two hours. 
+Os PJs devem viajar até as ruínas de Berez, situadas entre Krezk e Vallaki, e lá persuadir a bruxa Baba Lysaga a pressagiar a localização do filho do Barão Krezkov, Ilya, que desapareceu de Krezk após um recente ataque de lobisomens. Contudo, Baba Lysaga é uma bruxa louca e volúvel, e seus métodos mágicos são tortuosos e sombrios. Será que os PJs conseguirão convencê-la a cumprir o pedido do Barão Krezkov, garantindo assim a entrada deles na vila de Krezk?
 
-As the players cross the bridge over the Luna River, read the following:
+# I1. A Estrada para Krezk  
+A jornada da cidade de Vallaki até a **vila de Krezk** tem cerca de 10 quilômetros e dura duas horas. 
 
-<div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
-</div>
-
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
-
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+Enquanto os PJs atravessam a ponte sobre o Rio Luna, leia o seguinte:
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>O caminho se estreita, ladeado por árvores densas e imponentes. À frente, vocês avistam uma velha ponte de madeira, suas tábuas gastas pelo tempo estendendo-se sobre o rio impetuoso abaixo. Ao se aproximarem, podem ver o rio escuro tumulando sobre as pedras lisas do leito, margeado de ambos os lados por arbustos retorcidos e árvores retorcidas.</p>
+<p>Ao pisarem na ponte, as botas ecoam contra a madeira antiga e úmida. Ao norte, o rio serpenteia rio acima contornando a linha das árvores antes de desaparecer em uma curva. Ao sul, o rio se enrola como uma fita entre suas margens, para então desaparecer gradualmente nas Brumas.</p>
 </div>
 
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Os Cruzamentos do Rio Luna são descritos conforme em <span class="citation">P. Luna River Crossroads (p. 40)</span>. Contudo, não verifique por um encontro aleatório quando os PJs chegarem a esta área.
+
+À medida que os PJs passam por ali, o caminho para o Silvado de Argynvost é em grande parte como descrito em <span class="citation">Aproximando-se da Mansão (p. 130)</span>. Leia:
 
 <div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
+<p>Um caminho de terra se ramifica da Velha estrada Svalich aqui, serpenteando para o sul, subindo por um penhasco rochoso da montanha. A terra do caminho é compactada e dura, sua cor é um cinza-pardo pálido que lembra cinzas frias. As árvores de ambos os lados permanecem silenciosas e estoicas, suas folhas de um verde desbotado. À medida que o caminho sobe, ele é gradualmente engolido pelas sombras profundas da encosta florestada da montanha, desaparecendo na penumbra da Floresta Svalich além.</p>
 </div>
 
-The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+Pouco antes dos PJs alcançarem a Encruzilhada do Rio Corvo, eles se deparam com o caminho que leva ao Lago Baratok e ao <span class="citation">Capítulo 11: A Torre de Van Richten (p. 167)</span>, não muito distante da trilha que conduz à <span class="citation">Capítulo 9: Passagem Tsolenka (p. 157)</span>. Leia:
 
 <div class="description">
-<p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
+<p>Uma antiga trilha de caça se desvia da Velha estrada Svalich neste ponto, serpenteando para o norte entre árvores retorcidas e ancestrais antes de desaparecer sob a vegetação rasteira. Cem metros adiante, um caminho alpino se separa da estrada principal e segue para o sul, em direção às montanhas, elevando-se gradualmente até sumir atrás de um escarpado íngreme coberto por árvores sombrias.</p>
 </div>
 
-The figure is recognizably similar to the **revenant** standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
+A Encruzilhada do Rio Raven permanece em grande parte conforme descrita em <span class="citation">R. Raven River Crossroads (p. 40)</span>. No entanto, não realize a verificação de encontro aleatório quando os PJs alcançarem esta área. Além disso, adicione o seguinte texto ao final da descrição da área:
 
-If the players tell the revenant that they are traveling to Krezk, it warns them that the burgomaster of Krezk, Baron Dmitri Krezkov, has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
+<div class="description">
+<p>Uma figura vestida com uma armadura enferrujada permanece solitária sobre a ponte, segurando com mãos pálidas uma espada longa reluzente.</p>
+</div>
 
-If the players tell the revenant that they are traveling to the Abbey of Saint Markovia to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
+A figura é inconfundivelmente semelhante ao **retornado** que vigia as Cataratas de Tser. Caso vocês se aproximem, ele saúda os PJs e pergunta qual é o destino deles.
 
-* Years before Strahd von Zarovich arrived in the valley, Saint Markovia, a cleric of the Morninglord, built the Abbey atop a spur of Mount Baratok as a sanctuary for those fleeing from war and devastation.
-* When the Mists surrounded the valley, Saint Markovia condemned Strahd as a tyrant, and raised a small army to march upon Castle Ravenloft. Her revolt was put down, however, and Markovia lost her life in single combat with Strahd.
-* With Markovia’s death, the monks and nuns of the Abbey withdrew in despair. Before long, paranoia and madness infiltrated their ranks, until none remained alive. Rumors of cannibalism abounded for decades afterward, and most folk shunned the Abbey altogether.
-* Just over a century ago, the Abbot arrived in the valley and reopened the Abbey. The revenant isn’t sure of the Abbot’s true nature or intentions, but is confident that he is far older—and far more powerful—than any of the knights of the Order of the Silver Dragon.
+Se os PJs disserem ao retornado que estão viajando para Krezk, ele os adverte de que o burgomestre de Krezk, Barão Dmitri Krezkov, tornou-se desconfiado do mundo exterior, e que poucas coisas passaram pelos portões de Krezk nas últimas semanas. No entanto, o retornado observa que a linhagem dos Krezkov sempre foi honrada, e que talvez vocês consigam encontrar uma maneira de persuadir o Barão Krezkov a lhes conceder hospitalidade.
 
-If asked, the revenant can also provide directions to the mansion of Argynvostholt: The players must travel east toward the Luna River Crossroads, taking the ash-gray trail that splits south from the Old Svalich Road shortly before arriving.
+Se os PJs disserem ao retornado que estão viajando até a Abadia de Santa Markova em busca de uma cura para sua doença, ele resmunga: “Vocês viajam para um lugar sombrio, amigos. Mas ali habita uma criatura de grande antiguidade e poder, que pode ajudá-los—desde que não seja ofendida.” O retornado está disposto a compartilhar as seguintes informações, caso seja questionado:
 
-As the players depart, the revenant warns them that the werewolf pack of Mount Baratok has expanded its territory—and its ferocity—as of late, and advises them to be cautious as they travel the roads.
+* Anos antes de Strahd von Zarovich chegar ao vale, Santa Markova, uma clériga do Senhor da Manhã, ergueu a Abadia no topo de um esporão do Monte Baratok como um santuário para aqueles que fugiam da guerra e da devastação.
+* Quando as Brumas envolveram o vale, Santa Markova condenou Strahd como um tirano e reuniu um pequeno exército para marchar até o Castelo Ravenloft. Contudo, sua revolta foi esmagada, e Markova perdeu a vida em combate singular contra Strahd.
+* Com a morte de Markova, os monges e freiras da Abadia se recolheram em desespero. Não demorou para que a paranoia e a loucura se infiltrassem entre eles, até que nenhum restasse com vida. Rumores de canibalismo circularam por décadas, e a maioria das pessoas passou a evitar a Abadia por completo.
+* Pouco mais de um século atrás, o Abade chegou ao vale e reabriu a Abadia. O retornado não tem certeza da verdadeira natureza ou intenções do Abade, mas está convicto de que ele é muito mais antigo—e muito mais poderoso—do que qualquer um dos cavaleiros da Ordem do Dragão de Prata.
 
-The road to Krezk is as described in <span class="citation">S1. Road Junction (p. 143)</span>.
-# I2. The Gates of Krezk
-<span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
+Se solicitado, o retornado também pode fornecer direções para a mansão do Silvado de Argynvost: os PJs devem viajar para leste em direção ao entroncamento do Rio Luna, seguindo a trilha cinzenta de cinzas que se ramifica ao sul da Velha estrada Svalich pouco antes de chegarem ao destino.
 
-The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
+Quando os PJs partem, o retornado os adverte de que a alcateia de werewolves do Monte Baratok expandiu seu território — e sua ferocidade — recentemente, aconselhando-os a serem cautelosos enquanto percorrem as estradas.
 
-> [!profile]+ **Profile: Baron Dmitri Krezkov**
-> **Roleplaying Information.**
-> ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+A estrada para Krezk é como descrita em <span class="citation">S1. Encruzilhada da Estrada (p. 143)</span>.
+
+# I2. Os Portões de Krezk
+<span class="citation"><em>Esta cena ocorre no Capítulo 8: Área S2.</em></span>
+
+Os portões de Krezk são em grande parte como descritos em <span class="citation">S2. Guarita (p. 145)</span>. Se os PJs já derrotaram os druidas que ocupavam o Mago dos Vinhos em [[Arco J - A Joia Roubada]], o Barão Krezkov os reconhece pelas descrições compartilhadas por Adrian e Elvir Martikov e os recebe de bom grado em Krezk. Prossiga para [[#I6. A Vila de Krezk]] abaixo.
+
+> [!profile]+ **Perfil: Barão Dmitri Krezkov**
+> **Informações de Interpretação.**
+> ***Ressonância.*** Dmitri deve inspirar conforto com sua confiança silenciosa e liderança, despertar simpatia por sua ansiedade e luto após o desaparecimento de seu filho, e provocar leve irritação por sua teimosia e desconfiança habitual em relação a forasteiros.
 > 
-> ***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+> ***Emoções.*** Dmitri sente-se, na maior parte do tempo, preocupado, melancólico, soturno, determinado, cauteloso, obstinado ou cortês.
 > 
-> ***Motivations.*** Dmitri wants to protect his village and keep his family together.
+> ***Motivações.*** Dmitri deseja proteger sua vila e manter sua família unida.
 > 
-> ***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
+> ***Inspirações.*** Ao interpretar Dmitri, canalize Eddard Stark (*Game of Thrones*), Rei Théoden (*O Senhor dos Anéis*) e Stoick, o Imenso (*Como Treinar o Seu Dragão*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Dmitri é um líder severo, porém acolhedor. Para aqueles em quem confia, Dmitri é um pai, marido e amigo caloroso e afetuoso. Apenas Dmitri conhece a extensão de sua dor, ansiedade e culpa em relação à maldição de sua família e ao destino de seus filhos e esposa.
 > 
-> ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+> ***Moral.*** Em combate, Dmitri agiria apenas para proteger a si mesmo ou a quem ama, começando por advertir seu oponente a recuar, lutando então com ferocidade até que o adversário se rendesse ou fosse derrotado.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Relacionamentos.*** Dmitri, um **werewolf** em segredo, é marido da Baronesa Anna Krezkova, irmão da clériga **werewolf** da Noite Mãe Zuleika Toranescu, pai de Kala e Ilya Krezkov, e burgomestre da vila de Krezk.
 
-Otherwise, rather than asking the players to secure a wagonload of wine from the Wizard of Wines, Baron Krezkov asks the players to journey to the hut of the witch Baba Lysaga in the ruins of Berez to the southeast. There, he tells them, they must beseech Baba Lysaga to perform a *scrying* spell to discern the location and condition of a particular person. 
+Caso contrário, em vez de pedir aos PJs que garantam uma carroça cheia de vinho do Mago dos Vinhos, o Barão Krezkov solicita que vocês viagem até a cabana da bruxa Baba Lysaga, nas ruínas de Berez, ao sudeste. Lá, ele lhes diz, vocês devem suplicar para que Baba Lysaga realize um feitiço de *clarividência* para descobrir a localização e o estado de uma determinada pessoa. 
 
-If the players accept Baron Krezkov’s task, he provides them with a few strands of dark hair for Baba Lysaga to use in her scrying, as well as a large gold bracelet inset with intricate carvings of wolves and ravens (worth 300 gp) as a gift to purchase her favor. 
+Se os PJs aceitarem a tarefa do Barão Krezkov, ele lhes entrega alguns fios de cabelo escuro para que Baba Lysaga utilize em sua adivinhação, além de um grande bracelete de ouro adornado com entalhes intrincados de lobos e corvos (no valor de 300 po), destinado a ser oferecido como presente para conquistar o favor dela. 
 
-If asked, Baron Krezkov confesses that the missing person is his son, Ilya Krezkov, who disappeared several days ago. A successful DC 15 Wisdom (Insight) check reveals that he is not telling the entire truth, though he is unwilling to share more.
-# I3. The Road to Berez
-The journey from the village of Krezk to the **Ruins of Berez** is eight-and-three-quarter miles long and takes three hours. To get to Berez, the players must first retrace their steps to the Luna River Crossroads, then head south.
-## I3a. The Needle Blight Horde
-Soon after the players depart the Raven River Crossroads, they cross paths with a horde of ten **needle blights** migrating toward the Wizard of Wines winery. Read:
+Se questionado, o Barão Krezkov confessa que a pessoa desaparecida é seu filho, Ilya Krezkov, que sumiu há alguns dias. Um teste bem-sucedido de Sabedoria (Intuição) CD 15 revela que ele não está contando toda a verdade, embora não esteja disposto a compartilhar mais informações.
+
+# I3. O Caminho para Berez
+
+A jornada da vila de Krezk até as **Ruínas de Berez** tem cerca de quatorze quilômetros e leva três horas. Para chegar a Berez, os PJs devem primeiro refazer seus passos até o Cruzamento do Rio Luna e, então, seguir para o sul.
+
+## I3a. A Horda de Needle Blights
+
+Logo após os PJs deixarem o Cruzamento do Rio do Corvo, eles cruzam o caminho de uma horda de dez **needle blights** migrando em direção à vinícola do Mago dos Vinhos. Leia:
 
 <div class="description">
-<p>The fresh corpse of an enormous wolf, easily the size of an elk, lies splayed across the center of the road. Its sides and face have been pierced with hundreds of needle-like thorns, and a pool of blood has gathered beneath its well-muscled neck.</p>
-<p>Suddenly, a flurry of black feathers erupts from the trees to the north, as a flock of ravens takes to the skies not a hundred yards from the edge of the road, their panicked cries echoing in the chill air. From the thicket beneath them, you hear the rhythmic and unmistakable sound of numerous, inhuman footsteps, and can make out the outline of a horde of shambling, thorned, shadows in the dim light. The figures, which appear to be approaching a bend in the road a short ways ahead of your position, don’t seem to have noticed you yet—but their silhouettes grow closer with each passing second.</p>
+<p>O cadáver fresco de um lobo colossal, facilmente do tamanho de um alce, jaz escancarado no centro da estrada. Seus flancos e rosto foram perfurados por centenas de espinhos finos como agulhas, e uma poça de sangue se formou sob seu pescoço musculoso.</p>
+<p>De repente, uma revoada de penas negras explode das árvores ao norte, quando um bando de corvos alça voo a menos de cem metros da beira da estrada, seus gritos desesperados ecoando no ar gélido. Do matagal sob eles, vocês ouvem o som rítmico e inconfundível de inúmeros passos inumanos, e conseguem distinguir o contorno de uma horda de sombras cambaleantes e espinhentas na luz tênue. As figuras, que parecem se aproximar de uma curva na estrada poucos metros adiante de sua posição, ainda não perceberam vocês — mas suas silhuetas se aproximam a cada segundo que passa.</p>
 </div>
 
-The players can do battle with the blights, or they can hide in the thickets to avoid the horde’s attention with a successful DC 10 group Dexterity (Stealth) check, as described in **Group Checks** (*Player’s Handbook*, p. 175).
+Os PJs podem enfrentar as blights em combate, ou podem se esconder entre os matagais para evitar a atenção da horda, caso obtenham sucesso em um teste de grupo de Destreza (Furtividade) com CD 10, conforme descrito em **Testes de Grupo** (*Livro do Jogador*, p. 175).
 
-> [!combat]- **Balancing the Needle Blights**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Equilibrando os Needle Blights**
+> Este encontro é um combate **leve** contra um grupo de cinco PJs de 5º nível, e consumirá aproximadamente 18% do total máximo de pontos de vida deles. Para grupos com menos ou mais integrantes, ajuste o encontro da seguinte forma:
 > 
-> * ***Three Players.*** Reduce the number of needle blights to six.
-> * ***Four Players.*** Reduce the number of needle blights to eight.
-> * ***Six Players.*** Increase the number of needle blights to twelve.
-## I3b. The Luna River Path
-As the players depart the Luna River Crossroads, read:
+> * ***Três PJs.*** Reduza o número de needle blights para seis.
+> * ***Quatro PJs.*** Reduza o número de needle blights para oito.
+> * ***Seis PJs.*** Aumente o número de needle blights para doze.
+
+## I3b. A Trilha do Rio Luna
+Quando os PJs partirem do Entroncamento do Rio Luna, leia:
 
 <div class="description">
-<p>Leaving the crossroads behind, you set a southern course alongside the Luna River, whose waters reflect only the gray of the sky above as it winds its way through the valley.</p>
-<p>Though the trees of the Svalich Wood close in oppressively on either side to start, it’s not long before the forest’s edge pulls away from the river and road, revealing a tributary that spills into the river from the mountains. The Luna River here encircles a small, forlorn isle dotted with tall evergreen trees, which stand like silent sentinels as the river flows around them.</p>
-<p>Not far from the road, upon a small peninsula that juts out into the river, stands a mossy stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p>
+<p>Deixando o cruzamento para trás, vocês seguem rumo ao sul, margeando o Rio Luna, cujas águas refletem apenas o cinza do céu acima enquanto serpenteiam pelo vale.</p>
+<p>Embora as árvores da Floresta Svalich se fechem de maneira opressiva em ambos os lados no início, não demora para que a orla da mata se afaste do rio e da estrada, revelando um afluente que deságua no rio vindo das montanhas. O Rio Luna, neste trecho, circunda uma pequena ilha desolada, salpicada de altos pinheiros que se erguem como sentinelas silenciosas enquanto o rio flui ao redor delas.</p>
+<p>Não muito distante da estrada, sobre uma pequena península que avança pelo rio, ergue-se uma laje de pedra coberta de musgo, com pouco menos de dois metros de altura. Ela repousa sobre um antigo círculo de pedra rachado e parece ostentar algum tipo de entalhe.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.) Otherwise, read:
+Se os PJs decidirem investigar a laje, descobrem que ela ostenta uma gravura de uma aranha sobre uma estrela de três pontas entalhada, com os sulcos tomados por líquen e musgo. (A laje é um antigo monumento à Tecelã, e a estrela de três pontas é o símbolo das Três Damas.) Caso contrário, leia:
 
 <div class="description">
-<p>Ahead, twin spurs of Mount Ghakis rise on either side of the road, enclosing it in a valley choked with fog. The mists hang thick in the air here, muffling every sound and glimmer of light as the road grows muddy and wet.</p>
-<p>Soon, as the fog swallows up the road behind you, it pulls back like a curtain to reveal a tall gnarled tree, ancient in years and thrusting up through the mist like a hunched-over obelisk. Rusted metal cages hang from its dead limbs, and strands of old spiderwebs cling to its trunk like gossamer veils.</p>
-<p>An enormous bird crafted of burlap, wood, and animal skins sits atop the thickest branch, its gourd-shaped head peering at you with coal-black eyes. With a low, grating shriek, it spreads its wings and takes to the air, the mists swirling about its creaking wings as it heads to the south.</p>
+<p>Adiante, dois esporões gêmeos do Monte Ghakis erguem-se de cada lado da estrada, encerrando-a em um vale sufocado pelas brumas. As Brumas pairam densas no ar, abafando todo som e qualquer lampejo de luz, enquanto a estrada se torna lamacenta e encharcada.</p>
+<p>Logo, à medida que a névoa engole a estrada atrás de vocês, ela se retrai como uma cortina, revelando uma árvore alta e retorcida, de idade ancestral, erguendo-se através da névoa como um obelisco encurvado. Gaiolas de metal enferrujado pendem de seus galhos mortos, e fios de antigas teias de aranha aderem ao tronco como véus de seda espectral.</p>
+<p>Um pássaro colossal, feito de estopa, madeira e peles de animais, repousa sobre o galho mais espesso, sua cabeça em forma de cabaça fitando vocês com olhos negros como carvão. Com um grito baixo e áspero, ele abre as asas e alça voo, as brumas rodopiando ao redor de suas asas rangentes enquanto segue em direção ao sul.</p>
 </div>
 
-The bird is a **greater strix**, and is leaving to alert Baba Lysaga that outsiders are approaching the swamp. If attacked, it attempts to gain elevation until it escapes the players’ range. As a sentry and scout, it has no desire to do battle.
-# I4. The Ruins of Berez
-## I4a. Approaching the Ruins
-The players’ approach of Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise the descriptive text as follows:
+A ave é uma **greater strix**, e está partindo para alertar Baba Lysaga de que forasteiros se aproximam do pântano. Se for atacada, tenta ganhar altitude até escapar do alcance dos PJs. Como sentinela e batedor, não tem desejo algum de entrar em combate.
+
+# I4. As Ruínas de Berez
+
+## I4a. Aproximando-se das Ruínas
+
+A aproximação dos PJs a Berez ocorre em grande parte conforme descrito em <span class="citation">Aproximando-se das Ruínas (p. 161)</span>. No entanto, revise o texto descritivo da seguinte forma: 
 
 <div class="description">
-<p>The dirt and grass soon turn to marsh as the ground dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all, though the fog is much thinner on the far side of the river, where a dark ring of standing stones stands amidst a copse of gnarled trees covered in thick, bluish webs.</p>
-<p>Before you, the trail splits to form two soggy paths that ring a central, swampy green. One path runs alongside the swollen river, while the other curls inland.</p>
-<p>Scattered throughout the marsh alongside the paths are old peasant cottages, their walls covered with black mildew and their roofs mostly caved in. These decrepit dwellings seem to hunker down in the mire, as though they have long since given up on escaping the thick mud. Everywhere you look, black clouds of flies dart about, hungry for blood.</p>
-<p>Two old scarecrows lashed to wooden posts flank the trail here, their burlap faces seeming to leer into the mists behind you.</p>
+<p>A terra e a relva logo cedem lugar ao pântano, à medida que o solo se dissolve em uma terra esponjosa, marcada por moitas de juncos altos e poças de água estagnada. Um manto espesso de névoa cobre tudo, embora a névoa seja muito mais tênue do outro lado do rio, onde um círculo sombrio de pedras erguidas se destaca em meio a um bosque de árvores retorcidas, cobertas por grossas teias azuladas.</p>
+<p>Diante de vocês, a trilha se divide, formando dois caminhos encharcados que contornam um brejo central e esverdeado. Um dos caminhos segue ao lado do rio inchado, enquanto o outro serpenteia para o interior.</p>
+<p>Espalhadas pelo pântano, ao longo das trilhas, encontram-se antigas cabanas camponesas, com paredes cobertas de bolor negro e telhados em sua maioria desabados. Essas moradias decrépitas parecem se encolher no lodo, como se há muito tivessem desistido de escapar da lama espessa. Por toda parte, nuvens negras de moscas zumbem, famintas por sangue.</p>
+<p>Dois velhos espantalhos amarrados a postes de madeira ladeiam a trilha aqui, seus rostos de estopa parecendo zombar das brumas atrás de vocês.</p>
 </div>
 
-The two **scarecrows** are as described in <span class="citation">Marsh Scarecrows (p. 162)</span>. If the **greater strix** successfully alerted Baba Lysaga to the players’ approach, add:
+Os dois **scarecrows** são como descritos em <span class="citation">Espantalhos do Pântano (p. 162)</span>. Se a **greater strix** conseguiu alertar Baba Lysaga sobre a aproximação dos PJs, adicione:
 
 <div class="description">
-<p>A light flashes amid the fog beyond the scarecrows, a woman’s silhouette emerging from the swirling mist.</p>
+<p>Um clarão irrompe entre a névoa além dos espantalhos, a silhueta de uma mulher surgindo das Brumas que se agitam.</p>
 </div>
 
-The silhouette belongs to Wensencia, a shrill, mocking, and sharp-tongued **Barovian witch** from Vallaki who has been studying under Baba Lysaga for the past three months. (Wensencia, like Baba Lysaga’s six other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic.) 
+A silhueta pertence a Wensencia, uma **bruxa baroviana** de Vallaki, de voz estridente, zombeteira e língua afiada, que vem estudando sob a tutela de Baba Lysaga nos últimos três meses. (Wensencia, assim como as outras seis aprendizes atuais de Baba Lysaga, enxergou o renascimento de Strahd como a vinda de um messias sombrio e procurou a bruxa do pântano seguindo o conselho da noiva vampírica de Strahd, Ludmilla Vilisevic.) 
 
-Wensencia curtly informs the players that “Mother Lysaga” has summoned them to her cottage, and that they must follow her if they wish to reach it safely. She asks no questions and answers none, except to tell the players that none come to Berez except to seek “Mother Lysaga’s” favor, and that Baba Lysaga alone will determine whether they may earn it.
+Wensencia informa os PJs de maneira ríspida que “Mãe Lysaga” os convocou à sua cabana, e que devem segui-la se desejam chegar lá em segurança. Ela não faz perguntas, tampouco responde a nenhuma, exceto para dizer aos PJs que ninguém vem a Berez senão para buscar o favor de “Mãe Lysaga”, e que apenas Baba Lysaga decidirá se eles são dignos de conquistá-lo.
 
-> [!abstract]+ **The Megaliths**
+> [!abstract]+ **Os Megálitos**
 >
-> The megaliths beyond the Luna River demarcate the boundaries of the Swamp Fane: the shrine to the Weaver of the Ladies Three.
+> Os megálitos além do Rio Luna demarcam os limites do Santuário do Pântano: o altar dedicado à Tecelã das Três Damas.
 >
-> (The Swamp Fane is named as such because, before the multiple invasions of the valley, this area was originally a swamp. It was King Dostron who dammed up the tributary to the Luna River from Mount Ghakis to the northeast, thereby creating arable land that his troops could farm—and Strahd who destroyed that dam using the powers of the Fanes as Berez's punishment following Marina's death.)
+> (O Santuário do Pântano recebe esse nome porque, antes das múltiplas invasões do vale, essa região era originalmente um pântano. Foi o Rei Dostron quem represou o afluente do Rio Luna vindo do Monte Ghakis, ao nordeste, criando assim terras aráveis para que suas tropas pudessem cultivar — e foi Strahd quem destruiu essa represa, utilizando os poderes dos Santuários como punição a Berez após a morte de Marina.)
 >
-> As the players approach the megaliths, read:
+> Quando os PJs se aproximarem dos megálitos, leia:
 >
-><hr>
+>---
 >
-> A circle of stout, smooth megaliths stands amidst thick mud at the center of a copse of gnarled trees not far from the river's edge. The trees and standing stones are choked with a thick shroud of bluish-white webs, whose thick cords seem to shimmer with an ethereal quality.
+> Um círculo de megálitos robustos e lisos ergue-se em meio à lama espessa, no centro de um bosque de árvores retorcidas não muito distante da margem do rio. As árvores e as pedras em pé estão sufocadas por um manto espesso de teias azuladas e esbranquiçadas, cujos fios grossos parecem cintilar com uma qualidade etérea.
+>
+>---
+>
+> A área dentro das pedras está obscurecida pela cobertura proporcionada pelas teias, descritas em **Teias** (<span class="citation">Dungeon Master's Guide, p. 105</span>). Se os PJs alcançarem o centro do círculo, encontrarão uma pedra de ônix negro, lisa, com cerca de um metro e meio de diâmetro, meio enterrada no centro do círculo. A pedra não possui marcas ou símbolos visíveis em sua superfície, sendo imune a qualquer dano ou tentativa de movê-la.
+>
+> Um minuto após os PJs adentrarem o manto de teias, sua presença atrai a atenção de uma **phase spider**, que utiliza seu **ethereal jaunt** para piscar brevemente dentro (e depois fora) do Plano Material. No turno seguinte, a primeira phase spider repete o processo, agora acompanhada por mais cinco **phase spiders**, antes de todas retornarem ao Plano Etéreo. Se os PJs permanecerem dentro das teias, todas as aranhas atacam no turno seguinte.
+
+
+> [!abstract]+ **Ruínas de Berez**
+> Caso os PJs tentem explorar as demais estruturas de Berez, essas ruínas permanecem em grande parte como descritas em <span class="citation">U1. Chalés Abandonados (p. 162)</span>, <span class="citation">U2. Mansão Ulrich (p. 162)</span>, <span class="citation">U4. Cemitério da Igreja (p. 164)</span> e <span class="citation">U5. Monumento de Marina (p. 164)</span>. Contudo, o fantasma de Lazlo Ulrich não se manifesta na mansão Ulrich, e o curral de cabras de Baba Lysaga está conforme descrito em [[#I4c. O Feitiço de Adivinhação]] abaixo.
+
+## I4b. Cabana de Baba Lysaga
+<span class="citation"><em>Esta cena ocorre no Capítulo 10: Área U3.</em></span>
+
+A Cabana de Baba Lysaga está conforme descrito em <span class="citation">U3. Cabana de Baba Lysaga (p. 163)</span>. Contudo, o som de uma suave canção de ninar pode ser ouvido emanando do batente aberto da porta da cabana, abafado pelos grasnidos dos corvos. Além disso, caso a **greater strix** tenha alertado Baba Lysaga sobre a chegada dos PJs, ela estará empoleirada no topo da cabana, observando os PJs em silêncio enquanto eles se aproximam.
+
+Ao chegarem à base do toco sobre o qual a cabana está empoleirada, caso Wensencia esteja presente, ela anuncia a presença dos PJs antes de se virar para partir. (Observe que, como a cabana foi construída sobre um toco colossal, os PJs precisam escalar as raízes do toco para alcançar a entrada e a porta da frente da cabana.)
+
+Se os PJs entrarem na cabana, encontram Baba Lysaga cantarolando uma canção de ninar sobre o berço e a criança ilusória. Caso contrário, a canção de ninar termina um minuto após a chegada dos PJs; se Baba Lysaga foi alertada sobre a chegada dos PJs pela **greater strix**, ela então emerge para recebê-los.
+
+Baba Lysaga está disposta, ainda que com certa hesitação, a conceder uma audiência aos PJs, desde que eles ainda não tenham enfrentado os druidas que ocupam a vinícola Mago dos Vinhos em [[Arc J - The Stolen Gem]]. (Se os PJs já o fizeram, Baba Lysaga os ataca assim que os vê.) No entanto, caso os PJs ofendam Baba Lysaga—por exemplo, ao afirmar que o bebê no berço é ilusório e insistirem em discutir sobre isso, ou ao demonstrarem desprezo por Strahd e se recusarem a pedir desculpas ao “bebê”—ela ordena que deixem sua cabana, atacando-os caso se recusem a obedecer.
+
+> [!abstract]+ **A Ira de Lysaga**
+> Se conseguir deixá-los inconscientes, Baba Lysaga transforma magicamente os PJs em **cabras** e os tranca em seu curral (descrito abaixo), onde eles despertam 1d4 + 1 horas depois. Lá, os PJs encontram-se com um **batedor** baroviano chamado Darzin Voltanescu, que também foi transformado em cabra, assim como eles.
 > 
-> <hr>
+> Darzin alerta os PJs de que Lysaga pretende mantê-los como sacrifícios para utilizar em suas poções de longevidade. Contudo, ele pode compartilhar que uma bruxa baroviana, ao zombar dele, deixou escapar que Lysaga guarda doses de uma poção chamada *tintura nula* em uma prateleira de seu armário de vime, a qual, se ingerida, encerra todos os feitiços e efeitos mágicos que estejam afetando quem a bebe. PJs que conseguirem escapar do curral e se esgueirar até a cabana de Baba Lysaga podem encontrar seis *tinturas nulas* em seu armário de vime.
+
+Para conquistar o direito de falar com ela, Baba Lysaga decreta que um dos PJs deve primeiro arrancar uma pena de um dos corvos nas gaiolas suspensas e depositá-la no berço de “Strahd” como oferenda. (Baba Lysaga observa que dizem que os corvos são servos da profecia, e que o destino de uma criança real deve ser exaltado acima de todos os outros. A pena, se arrancada, atravessa o berço ilusório e cai no chão da cabana, mas a insana Baba Lysaga não lhe dá atenção.)
+
+Assim que os PJs fizerem a oferenda solicitada, Baba Lysaga se mostra satisfeita em negociar com eles. Ela está disposta a aceitar a pulseira de ouro do Barão Krezkov como pagamento por uma única magia de *clarividência*. Caso os PJs solicitem, ela também aceita um item de valor semelhante para conjurar *clarividência* uma segunda vez, sobre um alvo à escolha dos PJs. 
+
+Ao aceitar o pagamento do Barão Krezkov, Baba Lysaga ordena que os PJs se dirijam ao curral de cabras ao lado de <span class="citation">U2. Mansão Ulrich (p. 162)</span> e tragam uma única **cabra** viva. (Baba Lysaga necessita do sangue da cabra viva para criar um meio através do qual realizará seu ritual de *clarividência*.) Embora não haja um portão na cerca do curral, ela informa aos PJs que é possível criar um magicamente ao pronunciar a senha: “Morte a Ravenovia.”
+
+Se questionada sobre as strix, Lysaga explica com um deleite sombrio que são artefatos de sua própria criação — excelentes para matar ou capturar corvos, criaturas que ela abomina profundamente.
+
+Se questionada sobre Lady Fiona Wachter, o humor de Lysaga despenca, e ela adverte os PJs de forma sombria para jamais pronunciarem o nome “daquela garota insensata” em sua presença novamente.
+
+
+> [!abstract]+ **A Cura de Baba Lysaga**
 >
-> The area within the stones is obscured by the cover provided by the webs, which are described in **Webs** (<span class="citation">Dungeon Master's Guide, p. 105</span>). If the players reach the center of the circle, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
->
-> One minute after the players enter the shroud of webs, their presence draws the attention of one **phase spider**, which uses its **ethereal jaunt** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round.
+> Se os PJs pedirem a Baba Lysaga que cure sua doença, ela descarta o pedido com uma gargalhada estridente, afirmando que seu preço seria alto demais para que eles pudessem pagar, e que eles não apreciariam seu remédio. Ela se recusa a discutir o assunto, insinuando apenas que “carne deve pagar pela santidade da carne”.
 
-> [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U2. Ulrich Mansion (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[#I4c. The Scrying Spell]] below.
-## I4b. Baba Lysaga’s Hut
-<span class="citation"><em>This scene takes place in Chapter 10: Area U3.</em></span>
+## I4c. O Feitiço de Adivinhação
+O curral de cabras é, em grande parte, como descrito em <span class="citation">U2. Mansão Ulrich (p. 162)</span>. No entanto, ao pronunciar a senha “Morte a Ravenovia” estando a até 3 metros do curral, cria-se um portal na cerca de madeira por um minuto. Os PJs podem capturar uma cabra nocauteando-a, imobilizando-a ou conduzindo-a com uma corda, ou ainda agarrando-a e puxando-a diretamente até a cabana. Se estiver consciente, a cabra capturada se debate e bale tristemente enquanto é levada em direção à cabana.
 
-Baba Lysaga’s Hut is as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, the sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. Additionally, if the **greater strix** warned Baba Lysaga of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
-
-Upon arriving at the base of the stump on which the hut is perched, if Wensencia is present, she announces the players’ presence before turning to depart. (Note that, because the hut is built atop an enormous stump, the players must climb the roots of the stump to reach the hut’s entrance and front door.)
-
-If the players enter the hut, they find Baba Lysaga humming a lullaby above the illusory child and crib. Otherwise, the lullaby ends one minute after the players arrive; if Baba Lysaga was alerted to the players’ arrival by the **greater strix**, she then emerges to greet them.
-
-Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
-
-> [!abstract]+ **Lysaga's Wrath**
-> If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awakens 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
-> 
-> Darzin warns the players that Lysaga intends to keep them as sacrifices for use in her longevity potions. He can share, however, that a Barovian witch taunting him let slip that Lysaga keeps doses of a potion called a *null tincture* on a shelf in her wicker cabinet, which, if imbibed, ends all spells and magical effects currently affecting its drinker. Players who successfully escape the goat pen and sneak into Baba Lysaga's hut can find six *null tinctures* in her wicker cabinet.
-
-To earn the right to speak with her, Baba Lysaga ordains that one of the players must first pluck a feather from one of the ravens in the hanging cages and lay it in “Strahd’s” crib as an offering. (Baba Lysaga notes that ravens are said to be the servants of prophecy, and that the fate of a royal child should be exalted above all others. The feather, if plucked, falls through the illusory crib to the floor of the hut, but the mad Baba Lysaga pays it no mind.)
-
-Once the players have made the requested offering, Baba Lysaga is glad to do business with them. She is willing to accept Baron Krezkov’s gold bracelet as the payment for a single *scrying* spell. Should the players request it, she is also willing to accept an item of similar value to cast *scrying* a second time on a target of the players’ choice. 
-
-Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to travel to the goat pen beside <span class="citation">U2. Ulrich Mansion (p. 162)</span> and fetch a single live **goat**. (Baba Lysaga needs the blood of the live goat to create a medium through which to perform her *scrying* ritual.) Though there is no gate in the fence of the goat pen, she informs the players that they can magically create one by speaking the passphrase: “Death to Ravenovia.”
-
-If asked about the strix, Lysaga gleefully explains that they are an artifact of her own creation—excellent for killing or capturing ravens, which she loathes.
-
-If asked about Lady Fiona Wachter, Lysaga’s mood plummets, and she darkly warns the players never to speak “that foolish girl’s” name again in her presence.
-
-> [!abstract]+ **Baba Lysaga’s Cure**
->
-> If the players ask Baba Lysaga to cure their disease, she dismisses their request with a cackle, claiming that her price would be far too high for them to afford, and that they would not enjoy her remedy. She refuses to discuss the matter further, hinting only that “flesh must pay for the sanctity of flesh.”
-## I4c. The Scrying Spell
-The goat pen is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, speaking the passphrase “Death to Ravenovia” while within 10 feet of the goat pen creates a gate in the wooden fence for one minute. The players can capture a goat by knocking one unconscious, by restraining or leading it with a rope, or by grappling it and pulling it directly to the hut. If conscious, a captured goat struggles and bleats pathetically while being led toward the hut.
-
-If the players successfully retrieve a goat for Baba Lysaga, she retrieves a rusted, blood-stained dagger from her wicker cabinet and directs the players to orient the goat such that its neck is above the bathtub. Read:
+Se os PJs conseguirem trazer uma cabra para Baba Lysaga, ela retira uma adaga enferrujada e manchada de sangue de seu armário de vime e ordena que vocês posicionem a cabra de modo que seu pescoço fique acima da banheira. Leia:
 
 <div class="description">
-<p>With a swift and seemingly practiced ease, Baba Lysaga slits the goat’s throat. A sudden gush of blood spills into the tub, filling it with a deep, visceral red. The goat’s body tenses, then relaxes, its death mercifully quick as the hut fills with the metallic tang of fresh blood.</p>
+<p>Com uma rapidez inquietante e uma destreza que revela prática antiga, Baba Lysaga corta a garganta do bode. Um jorro repentino de sangue escorre para dentro da tina, tingindo-a de um vermelho profundo e visceral. O corpo do animal se enrijece por um instante, depois relaxa, sua morte sendo misericordiosamente breve enquanto a cabana se enche do odor metálico do sangue recém-derramado.</p>
 </div>
 
-Baba Lysaga then commands the players to dispose of the goat’s body in the grass outside of the hut. She warns them that they must not speak a word while she is within the grasp of the spell, lest they disturb her focus. She then begins to cast the *scrying* spell. Read:
+Baba Lysaga então ordena que os PJs se desfaçam do corpo da cabra na relva do lado de fora da cabana. Ela os adverte de que não devem pronunciar uma única palavra enquanto ela estiver sob o domínio do feitiço, sob pena de perturbarem sua concentração. Em seguida, ela começa a conjurar o feitiço de *clarividência*. Leia:
 
 <div class="description">
-<p>WIth the dripping dagger clutched in one shriveled hand, Baba Lysaga begins to trace strange, arcane symbols across the surface of the goat’s blood with the other, her fingers leaving trails of eerie, shimmering magic.</p>
-<p>The light in the room dims as the shadows grow darker, the air stilled by an eerie silence broken only by the witch’s murmuring incantations.</p>
-<p>Magic seeps from her fingertips, flowing like water into the tub of blood. Gradually, the crimson pool begins to ripple and churn, shimmering with silvery light—and then abruptly stills, now as smooth and reflective as a mirror. Baba Lysaga leans forward to peer into the pool, her eyes flickering with a gleam of interest and cruelty.</p>
-<p>“I see a boy,” she hisses, “adolescent, shaggy-haired, and claw-scarred.” Her voice is a mixture of intrigue and mockery, and she licks her lips in obvious amusement. “They have collared him with silver, and chained him to a post. There he sits, huddled and pathetic. His eyes, oh, they are hidden, buried in his knees as he snivels and sobs.”</p>
-<p>She frowns, as if concentrating, and her voice drops to a rasping whisper. “The post is in a cavern—a dismal chamber lit by flickering torchlight. There is a woman chained beside him, sharp-eyed and with long, shaggy hair. I smell the gift of Mother Night on her. Nearby, I see a statue of a woman, wolf-headed—an idol to Mother Night, adorned in garlands and surrounded by a bounty of treasure. Rotting corpses kneel before her, bent to her majesty.”</p>
-<p>Lysaga’s fingers twitch—and the blood returns to its previous state, rippling faintly as the magic dissipates.</p>
+<p>Com a adaga gotejante apertada em uma das mãos mirradas, Baba Lysaga começa a traçar símbolos arcanos e estranhos sobre a superfície do sangue de cabra com a outra, seus dedos deixando rastros de uma magia espectral e cintilante.</p>
+<p>A luz no aposento se enfraquece enquanto as sombras se adensam, o ar tomado por um silêncio sinistro, quebrado apenas pelas murmurações das invocações da bruxa.</p>
+<p>A magia escorre de suas pontas dos dedos, fluindo como água para dentro da tina de sangue. Gradualmente, o poço carmesim começa a ondular e agitar-se, cintilando com uma luz prateada—até que, de repente, se aquieta, tornando-se liso e reflexivo como um espelho. Baba Lysaga se inclina para espiar dentro do poço, seus olhos faiscando com um brilho de interesse e crueldade.</p>
+<p>“Vejo um garoto,” ela sibila, “adolescente, cabelos desgrenhados, marcado por garras.” Sua voz é uma mistura de fascínio e escárnio, e ela lambe os lábios com óbvia diversão. “Colocaram-lhe um colar de prata, acorrentaram-no a um poste. Ali está ele, encolhido e patético. Seus olhos, ah, estão ocultos, enterrados nos joelhos enquanto ele soluça e chora.”</p>
+<p>Ela franze o cenho, como se se concentrasse, e sua voz se reduz a um sussurro áspero. “O poste está em uma caverna—uma câmara lúgubre iluminada por tochas trêmulas. Há uma mulher acorrentada ao lado dele, olhar afiado e cabelos longos e desgrenhados. Sinto nela o dom da Noite Mãe. Próximo dali, vejo uma estátua de uma mulher, com cabeça de lobo—um ídolo à Noite Mãe, adornado com guirlandas e cercado por um tesouro farto. Cadáveres apodrecidos ajoelham-se diante dela, curvados à sua majestade.”</p>
+<p>Os dedos de Lysaga se contraem—e o sangue retorna ao seu estado anterior, ondulando levemente enquanto a magia se dissipa.</p>
 </div>
 
-If asked, Baba Lysaga can inform the players that the she-wolf was a **werewolf**, and that Mother Night is—in addition to her divine portfolio of trickery, death, and the occult—the patron deity of lycanthropes.
+Se questionada, Baba Lysaga pode informar aos PJs que a loba era uma **licantropa**, e que a Noite Mãe é—além de seu domínio divino sobre a trapaça, a morte e o ocultismo—a deusa padroeira dos licantropos.
 
-Baba Lysaga cannot tell the players, however, *where* the cavern is actually located, noting scornfully that the *scrying* spell observes only a creature’s immediate surroundings. To rescue the boy she saw, the players will need to find the cave on their own.
-# I5. Return to Krezk
-The players' return to Krezk is eight and three-quarter miles long and takes three hours. Alternatively, if the players lack the time to return to Krezk, the journey to Vallaki is four and one-half miles long and takes an hour and a half.
+Baba Lysaga, porém, não pode revelar aos PJs *onde* a caverna está localizada de fato, observando com desdém que a magia de *clarividência* permite enxergar apenas os arredores imediatos de uma criatura. Para resgatar o garoto que ela viu, os PJs precisarão encontrar a caverna por conta própria.
 
-> [!info]+ **Forced March**
-> Remember that players who travel more than eight hours in one day risk exhaustion, as described in <span class="citation">Travel Pace (Player's Handbook, p. 181)</span>.
+# I5. Retorno a Krezk
 
-Regardless of their destination, the players experience the <span class="citation">Lost Battlefield (p. 166)</span> event as they pass the point where the Luna River splits.
-# I6. The Village of Krezk
-If the players return successfully to Krezk with information obtained from Baba Lysaga’s *scrying* spell and share it with Baron Krezkov, he gratefully grants them entry into the village.
+O retorno dos PJs a Krezk tem cerca de 14 quilômetros e leva três horas. Alternativamente, caso os PJs não tenham tempo para voltar a Krezk, a viagem até Vallaki tem aproximadamente 7 quilômetros e leva uma hora e meia.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, with the following changes:
+> [!info]+ **Marcha Forçada**
+> Lembre-se de que os PJs que viajarem por mais de oito horas em um único dia correm o risco de exaustão, conforme descrito em <span class="citation">Ritmo de Viagem (Livro do Jogador, p. 181)</span>.
 
-* The Krezkovs have had only two children, rather than four.
-* Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
-* Kala, his younger daughter, is eight years old and alive.
+Independentemente do destino, os PJs vivenciam o evento <span class="citation">Campo de Batalha Perdido (p. 166)</span> ao passarem pelo ponto onde o Rio Luna se divide.
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's fate at the mention of the Abbot.
+# I6. A Vila de Krezk
 
-***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
-## I6a. The Blessed Pool
-This area is largely as described in <span class="citation">S4. Pool and Shrine (p. 146)</span>. However, add the following to the end of this area's description:
+Se os PJs retornarem com sucesso à Krezk com as informações obtidas através da magia *clarividência* de Baba Lysaga e as compartilharem com o Barão Krezkov, ele, tomado de gratidão, concede-lhes entrada na vila.
+
+A vila de Krezk é descrita em <span class="citation">S3. Vila de Krezk (p. 145)</span>. Assim que os PJs atravessam os muros da vila, o Barão Krezkov se mostra disposto a compartilhar qualquer ou todas as informações apresentadas em <span class="citation">Tradições de Krezk (p. 146)</span>, com as seguintes alterações:
+
+* Os Krezkov tiveram apenas dois filhos, em vez de quatro.
+* Ilya, seu filho mais velho, tem treze anos e desapareceu há alguns dias. (Embora o Barão Krezkov não mencione, Ilya sumiu na noite de lua cheia em 22 de Octyavr, exatamente quatorze dias antes da lua cheia mais recente, em 8 de Neyavr.)
+* Kala, sua filha mais nova, tem oito anos e está viva.
+
+Se os PJs mencionarem seu interesse pela Abadia de Santa Markova, o Barão Krezkov os adverte sobre a história sórdida da Abadia, assim como sobre os estranhos rumores que cercam o Abade. Contudo, ele se mostra disposto a fornecer direções aos PJs, caso solicitem. O Barão Krezkov ainda não menciona o problema de sua família com o Abade, detalhado posteriormente em [[Arco K - A Abadia Caída]], mas um PJ que obtiver sucesso em um teste de Sabedoria (Intuição) CD 12 percebe que uma sombra atravessa o rosto do Barão ao ouvir o nome do Abade.
+
+***Marco importante.*** Obter a ajuda de Baba Lysaga representa um marco na narrativa. Quando os PJs conseguirem, pela primeira vez, passagem segura pelos portões da vila de Krezk, conceda a cada PJ 750 XP.
+
+## I6a. A Piscina Abençoada
+
+Esta área é, em grande parte, como descrita em <span class="citation">S4. Piscina e Santuário (p. 146)</span>. No entanto, adicione o seguinte ao final da descrição desta área:
 
 <div class="description">
-<p>Small purple flowers dot the shores around the pool, their stalks swaying gently above the snow-covered grasses below.</p>
-<p>A handsome young man in a brown monk's robe kneels before one of the flowers, cupping its petals delicately in his hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck, and he gazes thoughtfully at the flower between his fingers.</p>
+<p>Pequenas flores roxas pontilham as margens ao redor do lago, seus caules balançando suavemente acima das gramíneas cobertas de neve.</p>
+<p>Um jovem de feições belas, trajando um hábito marrom de monge, ajoelha-se diante de uma das flores, envolvendo delicadamente suas pétalas com a mão. Um símbolo sagrado de madeira pintada, representando o sol, pende de uma corrente em seu pescoço, e ele contempla a flor entre os dedos com um olhar pensativo.</p>
 </div>
 
-The flowers are *wolfsbane*. The young man is the Abbot of the Abbey of St. Markovia, who is largely as described in <span class="citation">S13. Main Hall (p. 150)</span> and <span class="citation">The Abbot (p. 151)</span>.
+As flores são *acônito* (wolfsbane). O jovem é o Abade da Abadia de Santa Markova, que é descrito em detalhes em <span class="citation">S13. Salão Principal (p. 150)</span> e <span class="citation">O Abade (p. 151)</span>.
 
 
 ![[The Abbot.png]]
-<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"O Abade" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Should the players approach or address him, the Abbot, without looking up from the flower, says: "A ward against evil, and yet a deadly poison. Is it not strange that a mere flower can hold such duality within it?"
+Se os PJs se aproximarem ou dirigirem a palavra a ele, o Abade, sem desviar o olhar da flor, diz: "Uma proteção contra o mal, e ainda assim um veneno mortal. Não é estranho que uma simples flor possa abrigar tamanha dualidade em si?"
 
-> [!profile]+ **Profile: The Abbot**
-> **Roleplaying Information**
-> ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
+> [!profile]+ **Perfil: O Abade**
+> **Informações de Interpretação**
+> ***Ressonância.*** O Abade deve inspirar desconforto com seu estoicismo e observações rotineiras sobre os “mortais”, repulsa por sua total falta de respeito pela vida ou valores humanos, ira diante de sua suprema e inabalável autoconfiança, e uma estranha gratidão por sua cordialidade (um tanto inquietante) e disposição em curar os PJs da licantropia sem exigir pagamento.
 > 
-> ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
+> ***Emoções.*** O Abade sente-se, na maior parte do tempo, curioso, intrigado, frio, impassível ou (raramente) tomado por fúria.
 > 
-> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+> ***Motivações.*** O Abade deseja romper a “maldição” que assola a Baróvia e preservar a “santidade” da Abadia de Santa Markova.
 > 
-> ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
+> ***Inspirações.*** Ao interpretar o Abade, canalize Vision (*Marvel*), Data (*Star Trek*) e Dr. Manhattan (*Watchmen*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, o Abade é um homem santo sereno, porém inumanamente desprovido de paixão, e um “cientista”. Apenas o Abade conhece sua verdadeira identidade: Ithuriel, um anjo do Senhor da Manhã enviado para honrar a memória de Santa Markova.
 > 
-> ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
+> ***Moral.*** Em combate, o Abade revelaria sua forma divina e ordenaria que seus inimigos largassem as armas e se rendessem. Caso recusassem, ele os atacaria sem piedade, buscando esmagar qualquer resistência até que se rendessem ou fugissem.
 > 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+> ***Relações.*** O Abade, um anjo do Senhor da Manhã outrora chamado Ithuriel, é o mestre da Abadia de Santa Markova, incluindo os **mongrelfolk** (povo-mestiço) Otto, Zygfrek e Clovin Belview. Ele também é o criador da **flesh golem** (golem de carne) Vasilka e o responsável por ressuscitar Kala Krezkova.
 
-After the players have had an opportunity to discuss and debate his question, if any are infected with the curse of werewolf lycanthropy, the Abbot's nose wrinkles. He then turns to any infected players, his brows furrowing. "Forgive me, my friend," he says, "but you bear the stench of the wolf. It is an unpleasant thing and befouls the air of this sacred place. May I remove it from you?" If the player assents, the Abbot uses his _healing touch_ to cure their lycanthropy. 
+Após os PJs terem a oportunidade de discutir e debater a pergunta dele, caso algum deles esteja infectado pela maldição da licantropia lobisomem (werewolf), o nariz do Abade se contrai em repulsa. Ele então se volta para qualquer PJ infectado, franzindo as sobrancelhas. "Perdoe-me, meu amigo," diz ele, "mas você carrega o fedor do lobo. É algo desagradável e macula o ar deste lugar sagrado. Permite que eu o remova de você?" Se o PJ consentir, o Abade utiliza seu _toque curativo_ para curar a licantropia deles. 
 
-If the players ask his identity, the Abbot introduces himself as the Abbot of the Abbey of St. Markovia and invites them to visit the Abbey should they wish to learn its history. (Should they wish to do so immediately, he is glad to accompany them.) 
+Se os PJs perguntarem sua identidade, o Abade se apresenta como o Abade da Abadia de Santa Markova e os convida a visitar a Abadia, caso desejem conhecer sua história. (Se desejarem fazê-lo imediatamente, ele se mostra satisfeito em acompanhá-los.) 
 
-If asked the source of his power, the Abbot laughs softly, stating only: "Beneath the Morninglord's light, all things are possible."
-## I6b. The Abbey of St. Markovia
-If the players have journeyed to Krezk to seek a cure for cackle fever or their foretold ally, they must ascend the switchback road to the Abbey of St. Markovia, where the Abbot is happy to cure any disease with his ***healing touch*** without payment. See [[Arc K - The Fallen Abbey]] for more information about visiting the Abbey.
+Se questionado sobre a fonte de seu poder, o Abade ri suavemente, afirmando apenas: "Sob a luz do Senhor da Manhã, tudo é possível."
+
+## I6b. O Mosteiro de Santa Markova
+
+Se os PJs viajaram até Krezk em busca de uma cura para a febre das gargalhadas (cackle fever) ou de seu aliado profetizado, deverão subir a sinuosa estrada até o Mosteiro de Santa Markova, onde o Abade se dispõe a curar qualquer doença com seu ***toque curativo***, sem exigir pagamento. Consulte [[Arco K - O Mosteiro Caído]] para mais informações sobre a visita ao Mosteiro.

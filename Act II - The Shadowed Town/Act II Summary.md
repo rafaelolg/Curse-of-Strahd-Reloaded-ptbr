@@ -4,7 +4,7 @@
 
 Na Igreja de São Andral, os PJs terão a missão de recuperar os ossos roubados de São Andral antes da noite da Festa de São Andral, a fim de sustentar as defesas sagradas da igreja. No acampamento Vistani de Vallaki, os PJs serão solicitados a encontrar e resgatar Arabelle após seu misterioso desaparecimento.
 
-Logo após a chegada dos PJs em Vallaki, Lady Wachter pode convidá-los para jantar com sua pessoa na propriedade da família, Wachterhaus, buscando recrutá-los para uma conspiração perigosa em [[Arc F - Lady Wachter's Wish]]. Enquanto isso, Izek Strazni ronda as ruas de Vallaki em busca de sua irmã há muito perdida, Ireena, em [[Arc G - The Strazni Siblings]]. E após um encontro próximo com o espírito de Erasmus van Richten, os PJs terão a missão de obter uma *heartstone* das megeras da noite do antigo Móiossos — uma missão que culmina em um combate etéreo contra o fantasma vingativo de Leo Dilisnya e na recuperação do *Tome of Strahd* em [[Arc H - The Lost Soul]].
+Logo após a chegada dos PJs em Vallaki, Lady Wachter pode convidá-los para jantar com sua pessoa na propriedade da família, Wachterhaus, buscando recrutá-los para uma conspiração perigosa em [[Arc F - Lady Wachter's Wish]]. Enquanto isso, Izek Strazni ronda as ruas de Vallaki em busca de sua irmã há muito perdida, Irene, em [[Arc G - The Strazni Siblings]]. E após um encontro próximo com o espírito de Erasmus van Richten, os PJs terão a missão de obter uma *heartstone* das megeras da noite do antigo Móiossos — uma missão que culmina em um combate etéreo contra o fantasma vingativo de Leo Dilisnya e na recuperação do *Tome of Strahd* em [[Arc H - The Lost Soul]].
 
 O Ato II termina na manhã seguinte à primeira lua cheia dos PJs em Vallaki. No entanto, os PJs ainda podem concluir arcos não resolvidos deste ato mesmo após o início do Ato III—desde que, é claro, esses arcos ainda sejam possíveis de serem concluídos.
 
@@ -37,13 +37,13 @@ Ao amanhecer, o Padre Lucian Petrovich descobre os ossos desaparecidos. Os PJs q
 
 Izek Strazni e dois **guardas** afixam cartazes na Praça da Cidade de Vallaki anunciando o Festival do Sol Fulgurante. Os PJs que levarem Irene até a Praça da Cidade neste momento iniciam [[Arco G - Os Irmãos Strazni]] caso Izek ainda não tenha visto Irene.
 
-> [!abstract]+ **A Diplomacia de Ireena**
+> [!abstract]+ **A Diplomacia de Irene**
 >
-> No dia seguinte ao seu primeiro contato com os refugiados, Ireena tenta se reunir com o Barão, usando sua nobre ascendência como meio de obter sua atenção. Embora espere encontrá-lo a sós, ela acolhe o apoio e a assistência dos PJs caso sejam oferecidos.
+> No dia seguinte ao seu primeiro contato com os refugiados, Irene tenta se reunir com o Barão, usando sua nobre ascendência como meio de obter sua atenção. Embora espere encontrá-lo a sós, ela acolhe o apoio e a assistência dos PJs caso sejam oferecidos.
 >
-> Se Ireena já tiver encontrado ou ouvido falar do temperamento do Barão, não se ilude quanto à dificuldade de conquistar seu favor. Contudo, está determinada a fazer o seu melhor para ao menos tentar ajudar seu povo — e, como nobre, não lhe são estranhas as realidades da negociação, de  fazer concessões e da manipulação.
+> Se Irene já tiver encontrado ou ouvido falar do temperamento do Barão, não se ilude quanto à dificuldade de conquistar seu favor. Contudo, está determinada a fazer o seu melhor para ao menos tentar ajudar seu povo — e, como nobre, não lhe são estranhas as realidades da negociação, de  fazer concessões e da manipulação.
 >
-> Durante a reunião de Ireena com o Barão — estejam os PJs presentes ou não — o Barão rejeita sumariamente qualquer sugestão de que os refugiados possam entrar na cidade. No entanto, está disposto a permitir que Ireena entre e saia da cidade para o acampamento dos refugiados sem que precise pagar o pedágio nos portões.
+> Durante a reunião de Irene com o Barão — estejam os PJs presentes ou não — o Barão rejeita sumariamente qualquer sugestão de que os refugiados possam entrar na cidade. No entanto, está disposto a permitir que Irene entre e saia da cidade para o acampamento dos refugiados sem que precise pagar o pedágio nos portões.
 > 
 > Se os PJs estiverem presentes nessa reunião e fizerem amizade ou antagonizarem o Barão, ele responde conforme descrito em <span class="citation">Roleplaying the Vallakovich Family (p. 105)</span>. Ele também se gaba para os PJs sobre o próximo Festival do Sol Fulgurante, no qual planeja fazer oferendas queimadas ao Senhor da Manhã em um enorme sol de vime — carnes curadas, incenso, joias e assim por diante. "Os céus verão nossa alegria e riqueza e olharão favoravelmente para nós," ele cacareja. "Por meio de nosso bom espírito, avançaremos cada vez mais para nossa liberdade desta treva nefasta."
 
@@ -131,15 +131,15 @@ Após arquitetarem uma desculpa para falar novamente com Victor, os PJs viajam p
 
 Naquela noite, os PJs jantam com Lady Wachter no Wachterhaus, dando continuidade ao Arco G - O Desejo de Lady Wachter. Embora receptivos à sua hostilidade contra o Barão, eles permanecem desconfiados quanto à lealdade dela a Strahd, e recusam sua missão de assassinato. 
 
-Ao retornarem à Estalagem Água Azul, no entanto, os PJs a encontram saqueada pelo próprio Izek — dando início ao [[Arco G - Os Irmãos Strazni]]. Enfurecidos, os PJs retornam a Wachterhaus e aceitam a oferta de ajuda de Lady Wachter para matar Izek de uma vez por todas. Ireena, ao saber do ataque de Izek, exige o direito de auxiliá-los.  
+Ao retornarem à Estalagem Água Azul, no entanto, os PJs a encontram saqueada pelo próprio Izek — dando início ao [[Arco G - Os Irmãos Strazni]]. Enfurecidos, os PJs retornam a Wachterhaus e aceitam a oferta de ajuda de Lady Wachter para matar Izek de uma vez por todas. Irene, ao saber do ataque de Izek, exige o direito de auxiliá-los.  
 ### Neyavr 5  
 Os PJs continuam [[Arco F - O Desejo de Lady Wachter]] quando encontram Ernst Larnak na taberna da Estalagem Água Azul, onde recebem o vinho envenenado para Izek. Os PJs se infiltram na Mansão do Barão e persuadem Tereska, a cozinheira do Barão, a incluir o vinho envenenado como um "presente" para Izek. Os PJs perseguem Izek pelo resto do dia, eventualmente matando-o às margens do Lago Zarovich e entregando sua cabeça decepada a Lady Wachter. Naquela noite, Lady Wachter intimida o Barão Vallakovich a entregar o poder.  
 ### Neyavr 6  
 Os PJs aprendem o ritual de vínculo da **night hag** com Victor em [[Arco H - A Alma Perdida]]. Após o discurso de Lady Wachter na praça da cidade ao final do Arco G - O Desejo de Lady Wachter, os PJs a convencem a abaixar o círculo protetor ao redor de Wachterhaus, permitindo que o espírito de Stella Wachter se manifeste ali e recrutando Lady Wachter como aliada.
 
-Junto com Lady Wachter e seus **fanáticos da laia**, os PJs partem para o antigo Móiossos. Lá, eles roubam o contrato da laia das **megeras da noite**, permitindo que Lady Wachter prenda as hags ao Plano Material. Os PJs vencem as hags e tomam suas heartstones para usar no ritual de *etherealness* de Victor.  
+Junto com Lady Wachter e seus **fanáticos da laia**, os PJs partem para o antigo Móiossos. Lá, eles roubam o contrato da laia das **megeras da noite**, permitindo que Lady Wachter prenda as hags ao Plano Material. Os PJs vencem as hags e tomam suas heartstones para usar no ritual de *forma etérea* de Victor.  
 ### Neyavr 7  
-Com a lua cheia — e, em [[Arc H - The Lost Soul]], o ritual de *etherealness* de Victor — a pouco mais de vinte e quatro horas, os PJs fazem uma viagem de um dia até a vila de Krezk em [[Arc I - The Walls of Krezk]], na esperança de colher wolfsbane que o Dr. Rudolph van Richten possa usar para conter a maldição da licantropia em um deles. 
+Com a lua cheia — e, em [[Arc H - The Lost Soul]], o ritual de *forma etérea* de Victor — a pouco mais de vinte e quatro horas, os PJs fazem uma viagem de um dia até a vila de Krezk em [[Arc I - The Walls of Krezk]], na esperança de colher wolfsbane que o Dr. Rudolph van Richten possa usar para conter a maldição da licantropia em um deles. 
 
 Após receberem a missão do Barão Krezkov, os PJs viajam para o sul, até as ruínas de Berez, onde a bruxa Baba Lysaga observa Ilya Krezkov em troca do presente do Barão Krezkov. Em seguida, os PJs retornam a Krezk para colher acônito. Dada a proximidade da Abadia de Saint Markovia, os PJs também sobem até os portões da Abadia, onde encontram o Abade e são informados para retornar em dois dias para se encontrarem com Ezmerelda d'Avenir, sua aliada profetizada em ***Arco M: Inimigo de Strahd***.
 
@@ -179,12 +179,12 @@ Os PJs partem para a vila de Krezk em [[Arc I - The Walls of Krezk]]. Após rece
 
 Os PJs então retornam a Krezk e sobem até a Abadia de Saint Markovia, onde encontram o Abade. O Abade cura a febre do riso deles em troca da promessa de empreender ***Arco N: Algo Emprestado.*** Os PJs são informados de que sua aliada prevista em ***Arco M: Inimiga de Strahd***, Ezmerelda d'Avenir, retornará à Abadia em dois dias.  
 ### Neyavr 7  
-Os PJs retornam a Vallaki e descobrem que Ireena foi sequestrada por Izek Strazni em [[Arco G - Os Irmãos Strazni]]. Os PJs conseguem entrar na mansão do Barão com a ajuda de Victor e enfrentam Izek nos corredores da mansão. 
+Os PJs retornam a Vallaki e descobrem que Irene foi sequestrada por Izek Strazni em [[Arco G - Os Irmãos Strazni]]. Os PJs conseguem entrar na mansão do Barão com a ajuda de Victor e enfrentam Izek nos corredores da mansão. 
 
-Com Ireena libertada, os PJs e Victor discutem a perspectiva de derrotar a laia das **night hags** por meio de um ritual de vínculo em [[Arc H - The Lost Soul]]. Os PJs visitam Wachterhaus e convencem Lady Wachter a abaixar o círculo protetor ao redor de Wachterhaus, permitindo que o espírito de Stella Wachter se manifeste ali e recrutando Lady Wachter como aliada.
+Com Irene libertada, os PJs e Victor discutem a perspectiva de derrotar a laia das **megeras da noite** por meio de um ritual de vínculo em [[Arc H - The Lost Soul]]. Os PJs visitam Wachterhaus e convencem Lady Wachter a abaixar o círculo protetor ao redor de Wachterhaus, permitindo que o espírito de Stella Wachter se manifeste ali e recrutando Lady Wachter como aliada.
 
 ### Neyavr 8
 
-Junto com Lady Wachter e seus **fanáticos do culto**, os PJs partem para o antigo Móiossos. Lá, eles roubam o contrato da laia das night hags, permitindo que Lady Wachter prenda as hags ao Plano Material. Os PJs vencem as hags e tomam suas heartstones para usar no ritual de *etherealness* de Victor.
+Junto com Lady Wachter e seus **fanáticos do culto**, os PJs partem para o antigo Móiossos. Lá, eles roubam o contrato da laia das megeras da noite, permitindo que Lady Wachter prenda as hags ao Plano Material. Os PJs vencem as hags e tomam suas heartstones para usar no ritual de *forma etérea* de Victor.
 
 Naquela noite, os PJs se juntam a Victor e Lady Wachter para viajar ao Plano Etéreo, onde enfrentam o espírito de Leo Dilisnya enquanto Victor restaura a alma de Stella em seu corpo.
