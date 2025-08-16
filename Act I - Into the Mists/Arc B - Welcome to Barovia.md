@@ -301,7 +301,7 @@ Impulsionados pela desespero diante dos ataques de Strahd à vila, Alenka e a mu
 
 Se os PJs ainda estiverem presentes e não tiverem intervenido, Irene implora por sua ajuda enquanto a multidão de Alenka avança.
 
-Se os PJs intervirem, Alenka, Kolyan e Ireena os recebem com estranheza e surpresa, embora Alenka esteja suspeitando que eles possam ser espiões do "Diabo Strahd." (Se o nome de Ismark for mencionado, Irene e Kolyan ficam mais seguros, embora Alenka cuspa no chão e murmure em voz baixa uma maldição contra "Ismark, o Menor.")
+Se os PJs intervirem, Alenka, Kolyan e Irene os recebem com estranheza e surpresa, embora Alenka esteja suspeitando que eles possam ser espiões do "Diabo Strahd." (Se o nome de Ismark for mencionado, Irene e Kolyan ficam mais seguros, embora Alenka cuspa no chão e murmure em voz baixa uma maldição contra "Ismark, o Menor.")
 
 Os PJs podem dispersar a multidão fazendo uma argumentação razoável e obtendo sucesso em um teste de Carisma (Persuasão) com CD 10, realizado com vantagem se os PJs perguntarem sobre os membros da família desaparecidos de Alenka e demonstrarem simpatia por ela. Os PJs também podem dispersar a multidão brandindo suas armas ou magia e obtendo sucesso em um teste de Carisma (Intimidação) com CD 10, realizado com vantagem se mencionarem suas batalhas recentes na Casa da Morte.
 
@@ -309,7 +309,7 @@ Se os PJs parecerem prontos para atacar a multidão sem provocação, Kolyan imp
 
 Se os PJs falharem em dispersar a multidão, mas se recusarem a permitir que Irene seja levada, Alenka ordena que eles se retirem. Se eles se recusarem, ela direciona a multidão para deixá-los inconscientes antes de levar Irene.
 
-Se o combate eclodir, Ireena se junta aos PJs na defesa da mansão enquanto Kolyan implora para que os combatentes evitem matar alguém. Se dois dos Barovianos forem derrubados inconscientes, ou se um for morto, os demais fogem.
+Se o combate eclodir, Irene se junta aos PJs na defesa da mansão enquanto Kolyan implora para que os combatentes evitem matar alguém. Se dois dos Barovianos forem derrubados inconscientes, ou se um for morto, os demais fogem.
 
 > [!info]+ **Dano Não Letal**
 > A morte indiscriminada dos comuns da Baróvia alienará os habitantes da vila e os membros da família de Ismark. PJs que desejam evitar matar os Barovianos podem incapacitar seus oponentes conforme descrito em <span class="citation">Nocauteando uma Criatura (*Manual do Jogador*, p. 198)</span>. Se os PJs optarem por não fazer isso, permita que os membros inconscientes da multidão façam testes de salvaguarda de morte conforme descrito em <span class="citation">Monstros e Morte (*Manual do Jogador*, p. 198)</span>. 
@@ -373,7 +373,7 @@ Se os PJs mencionarem a oferta de Ismark para fornecer quartos, Irene os leva ao
 
 Se os PJs perguntarem sobre seus pais, Irene compartilha livremente as seguintes informações enquanto pergunta sobre as próprias famílias dos PJs:
 
-* Ismark e a mãe de Ireena eram Korina Targolova. Korina morreu de uma doença há quatorze anos, mas Kolyan fez o seu melhor desde então para continuar criando os dois filhos sozinho. (O cachecol que Ireena usa é sua última lembrança de sua mãe.)
+* Ismark e a mãe de Irene eram Korina Targolova. Korina morreu de uma doença há quatorze anos, mas Kolyan fez o seu melhor desde então para continuar criando os dois filhos sozinho. (O cachecol que Irene usa é sua última lembrança de sua mãe.)
 * Kolyan, o pai deles, foi quem encontrou Irene quando ela era uma jovem, à beira da Floresta Svalich, perto do Monólito de Ravenloft. Irene não se lembra de nada de seu passado antes disso, mas é grata aos seus pais por tê-la acolhido e amarem-na profundamente.
 
 Enquanto os PJs exploram seus quartos, um deles encontra um trecho rasgado de *Guia de Van Richten para Vampiros* do Dr. Rudolph van Richten repousando em uma mesa de cabeceira ao lado da cama. Este trecho do prefácio, que Van Richten rasgou do livro de Doru no meio de uma discussão furiosa, diz o seguinte:
@@ -519,7 +519,7 @@ Pouco depois que os PJs eliminam a onda final, o **licantropo-corvo** Muriel apa
 Embora ela não possa falar na forma de corvo, Muriel tenta alertar os PJs de forma não verbal que a barricada ocidental caiu, puxando seus cabelos e roupas em direção à praça da cidade. Se os PJs não seguirem imediatamente, leia:
 
 <div class="description">
-<p>Vocês ouvem gritos aterrorizados à distância, e o som de madeira se quebrando.<p>
+<p>Vocês ouvem gritos aterrorizados à distância, e o som de madeira se quebrando.</p>
 </div>
 
 ### A Última Resistência de Ismark
@@ -683,13 +683,8 @@ Quando um jogador que interferiu é nocauteado, Rahadin usa o punho de seu sabre
       <td>16 (+3)</td>
       <td>18 (+4)</td>
     </tr>
-  <hr>
-<strong>Testes de Resistência</strong> Des +11, Sab +8<br>
-<strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
-<strong>Sentidos</strong> visão no escuro 18 m (60 ft.), Percepção passiva 23<br>
-<strong>Idiomas</strong> Comum, Élfico<br>
-<strong>Nível de Desafio (ND)</strong> 15<br>
-<strong>Bônus de Proficiência</strong> +5<br>
+  </tbody>
+</table>
 <hr>
 <strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
 <strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
@@ -749,16 +744,16 @@ Os PJs podem escutar esta conversa com um teste bem-sucedido de DC 13 em Destrez
 <p>A resposta de Ismark é ponderada, mas há nela um tom inconfundível de preocupação. “O Diabo está com os olhares voltados a você — e mesmo que nós não acreditemos na lenda sobre mulheres de cabelos ruivos, outros podem acreditar. Baróvia já não é segura para você.”</p>
 <p>Um bufar de desafio ecoa do outro lado da fina divisória de madeira. “Não sou covarde, Ismark, e não vou abandonar nossos amigos e vizinhos em sua hora de necessidade.”</p>
 <p>Há uma pausa. Então, Ismark diz, em voz baixa: “Gertruda deixou a vila esta manhã. Sozinha.”</p>
-<p>Você ouve um suspiro trêmulo de Ireena. “<em>Por quê?</em>”</p>
+<p>Você ouve um suspiro trêmulo de Irene. “<em>Por quê?</em>”</p>
 <p>“A mãe dela acha que foi até o castelo — provavelmente para buscar clemência para o vilarejo diante do Diabo,” murmura Ismark.</p>
 <p>Segue-se um longo e sofrido silêncio. Então—</p>
 <p>Ismark parece hesitar, as palavras saindo de forma um pouco atrapalhada. “Não estou pedindo que os abandone. Mas há outros que precisam da sua ajuda. Pense nos nossos vizinhos que fugiram para Vallaki. Eles precisam de orientação, de representação — e talvez de alguém que um dia os traga de volta para casa.”</p>
-<p>Há uma nova pausa prolongada. Quando Ireena finalmente fala, sua voz sai baixa — quase inaudível. “Ainda não gosto disso.”</p>
+<p>Há uma nova pausa prolongada. Quando Irene finalmente fala, sua voz sai baixa — quase inaudível. “Ainda não gosto disso.”</p>
 <p>A resposta de Ismark é calma. “É a sua escolha. Não posso tirar isso de você. Mas depois de perder o Pai, eu não... eu não suporto a ideia de perder você também.”</p>
-<p>O silêncio que se segue é palpável, carregado de emoções não ditas. Finalmente, a voz de Ireena o rompe, frágil e quase em sussurros. “Eu irei. Só por você. E apenas se enterrarmos o Pai antes — juntos.”</p>
+<p>O silêncio que se segue é palpável, carregado de emoções não ditas. Finalmente, a voz de Irene o rompe, frágil e quase em sussurros. “Eu irei. Só por você. E apenas se enterrarmos o Pai antes — juntos.”</p>
 </div>
 
-Ismark e Ireena sobem as escadas alguns momentos depois. Um PJ com um valor passivo de Sabedoria (Intuição) de 10 ou mais percebe que ambos têm os olhos manchados e vermelhos, como se tivessem chorado.
+Ismark e Irene sobem as escadas alguns momentos depois. Um PJ com um valor passivo de Sabedoria (Intuição) de 10 ou mais percebe que ambos têm os olhos manchados e vermelhos, como se tivessem chorado.
 
 Se confrontado, Ismark pode relutantemente compartilhar as seguintes informações:
 
@@ -768,11 +763,11 @@ Se confrontado, Ismark pode relutantemente compartilhar as seguintes informaçõ
 Quando os jogadores retornam ao quarto, podem ver dois **swarms of bats**—os espiões de Strahd—reunidos nas beiradas de uma casa próxima, observando silenciosamente das sombras.
 
 ### Manhã na Mansão
-O descanso dos PJs na mansão transcorre sem incidentes. Quando despertam na manhã seguinte, pouco antes do amanhecer, encontram o corpo do burgomestre repousando em um caixão na sala de estar, conforme descrito em <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark e Ireena estão na sala de jantar, tomando chá em silêncio.
+O descanso dos PJs na mansão transcorre sem incidentes. Quando despertam na manhã seguinte, pouco antes do amanhecer, encontram o corpo do burgomestre repousando em um caixão na sala de estar, conforme descrito em <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark e Irene estão na sala de jantar, tomando chá em silêncio.
 
-Quando os personagens descem ao andar principal, Ireena os cumprimenta e insiste em preparar para eles tigelas de mingau de leite de cabra e xícaras de chá de camomila no café da manhã. Enquanto Ireena se ocupa na cozinha, Ismark, de modo solene e pedindo desculpas, faz três pedidos aos jogadores:
+Quando os personagens descem ao andar principal, Irene os cumprimenta e insiste em preparar para eles tigelas de mingau de leite de cabra e xícaras de chá de camomila no café da manhã. Enquanto Irene se ocupa na cozinha, Ismark, de modo solene e pedindo desculpas, faz três pedidos aos jogadores:
 
-***Escoltar Ireena***. Ismark primeiro comenta em voz baixa que Ireena parece ter se tornado um alvo tanto para o Diabo quanto para os próprios aldeões, e que ele não acredita mais que a vila — localizada diretamente sob a sombra do Castelo Ravenloft — seja segura para ela.. 
+***Escoltar Irene***. Ismark primeiro comenta em voz baixa que Irene parece ter se tornado um alvo tanto para o Diabo quanto para os próprios aldeões, e que ele não acredita mais que a vila — localizada diretamente sob a sombra do Castelo Ravenloft — seja segura para ela.. 
 
 Ismark compartilha as informações sobre seu desejo de levá-la a Vallaki, conforme descrito em <span class="citation">Interpretando Ismark (p. 43)</span>, e ressalta que a Igreja de St. Andral, em Vallaki, supostamente é solo consagrado, protegendo os fiéis de vampiros e outros mortos-vivos. Embora ele não possa deixar Baróvia por conta de suas obrigações como sucessor de seu pai, Ismark pede aos jogadores que, em seu lugar, escoltem Irene até a Igreja de St. Andral. 
 
@@ -780,7 +775,7 @@ Ismark compartilha as informações sobre seu desejo de levá-la a Vallaki, conf
 >  
 > *Curse of Strahd: Reloaded* é uma campanha sobre heróis. Também é uma campanha sobre formar alianças e sobre os laços e a força que surgem dessas alianças.  
 >  
-> Sendo assim, embora Ireena não seja um NPC essencial para a campanha, um grupo que recusar o pedido de Ismark provavelmente tem expectativas desalinhadas em relação ao tipo de campanha que você pretende conduzir. Se os jogadores se recusarem a escoltar Ireena até Vallaki, pause o jogo e converse com eles para esclarecer e confirmar expectativas. Se os jogadores ainda se mostrarem relutantes em levá-la, faça perguntas e discuta o assunto antes de retomar o jogo.
+> Sendo assim, embora Irene não seja um NPC essencial para a campanha, um grupo que recusar o pedido de Ismark provavelmente tem expectativas desalinhadas em relação ao tipo de campanha que você pretende conduzir. Se os jogadores se recusarem a escoltar Irene até Vallaki, pause o jogo e converse com eles para esclarecer e confirmar expectativas. Se os jogadores ainda se mostrarem relutantes em levá-la, faça perguntas e discuta o assunto antes de retomar o jogo.
 
 ***Buscando Madame Eva.*** O ataque de Strahd à vila só reforçou a convicção de Ismark de que os barovianos precisam encontrar uma forma de escapar da tirania do vampiro. “Não podemos continuar vivendo assim”, ele diz com a voz rouca, enquanto seus nós dos dedos ficam brancos sobre a caneca. “Ouvi dizer como as coisas eram terríveis cem anos atrás, antes de ele adormecer. Vampiros à espreita em cada sombra. Pais e filhos desaparecendo durante a noite. Ratos, lobos e morcegos relatando cada movimento nosso ao castelo. Mesmo que o Diabo entre em dormência novamente em cinquenta ou sessenta anos, quem seríamos nós se condenássemos nossos filhos e netos ao mesmo destino?”
 
@@ -1023,7 +1018,7 @@ Ao final da oração de Donavich, Ismark e Irene oferecem as seguintes palavras 
 <div class="description">
 <p>Ismark enxuga os olhos. “Kolyan Indirovich possuía todas as qualidades de um grande burgomestre: era bondoso, compassivo e justo. Mas, acima de tudo, ele era nosso pai — o homem que nos ensinou a escolher a coragem em vez do medo, a esperança em vez do desespero, e o riso em vez da tristeza. Embora ele tenha nos deixado, suas lições e sua memória jamais o farão. Que ele encontre descanso no abraço do Senhor da Manhã, e que seu legado jamais seja esquecido.”</p>
 
-<p>Ireena fica olhando para a sepultura por alguns instantes, os dedos se contorcendo ansiosamente. Finalmente, ela diz, em voz baixa: “Quando vocês me encontraram, eu era uma estranha — uma criança perdida na floresta. Você e Mamãe me acolheram, cuidaram de mim e me amaram como se eu fosse de vocês. Quando perguntei por quê, você sempre dizia apenas: ‘Porque você precisava.’” Ela hesita, engasgada com as palavras, então completa: “Eu jamais poderei retribuir o que vocês me deram. Mas, assim como vocês fizeram, nunca deixarei de tentar ajudar aqueles que precisam.”</p>
+<p>Irene fica olhando para a sepultura por alguns instantes, os dedos se contorcendo ansiosamente. Finalmente, ela diz, em voz baixa: “Quando vocês me encontraram, eu era uma estranha — uma criança perdida na floresta. Você e Mamãe me acolheram, cuidaram de mim e me amaram como se eu fosse de vocês. Quando perguntei por quê, você sempre dizia apenas: ‘Porque você precisava.’” Ela hesita, engasgada com as palavras, então completa: “Eu jamais poderei retribuir o que vocês me deram. Mas, assim como vocês fizeram, nunca deixarei de tentar ajudar aqueles que precisam.”</p>
 </div>
 
 Qualquer PJ que desejar pode oferecer palavras, orações ou tributos próprios. 
@@ -1038,15 +1033,15 @@ Donavich considera a presença dos morcegos um mau presságio. Em um momento sur
 > Todos em Baróvia sabem que a Abadia de São Markova fica na vila de Krezk. A maioria das pessoas de fora de Krezk não tem certeza se ela ainda está em funcionamento, embora haja boatos de que Strahd a tenha destruído há muito tempo, deixando apenas fantasmas para assombrar seus corredores. Alguns moradores de Vallaki, incluindo o Padre Lucian Petrovich da Igreja de São Andral, sabem que a Abadia foi reaberta há mais de cem anos, mas ninguém fora de Krezk sabe que o abade atual é o mesmo homem que a reabriu mais de um século atrás.
 
 ### Retorno à Mansão
-Quando os personagens retornam à mansão do burgomestre após o enterro, Ismark coloca em sacolas de tecido rações suficientes para três dias de viagem. Enquanto ele faz isso, Ireena diz aos personagens que estará pronta para partir ao meio-dia. Até lá, os jogadores podem explorar a vila, fazer compras na Loja de Mercadorias de Bildrath ou passar o tempo de outra forma.
+Quando os personagens retornam à mansão do burgomestre após o enterro, Ismark coloca em sacolas de tecido rações suficientes para três dias de viagem. Enquanto ele faz isso, Irene diz aos personagens que estará pronta para partir ao meio-dia. Até lá, os jogadores podem explorar a vila, fazer compras na Loja de Mercadorias de Bildrath ou passar o tempo de outra forma.
 
 Enquanto Ismark empacota as rações, ele pode compartilhar as seguintes informações:
 
-* A viagem até Vallaki leva mais de um dia se os jogadores tiverem a intenção de visitar Tser Pool primeiro, e tanto Ireena quanto os personagens provavelmente precisarão passar uma noite na estrada. Ele recomenda que eles façam isso em Tser Pool.  
+* A viagem até Vallaki leva mais de um dia se os jogadores tiverem a intenção de visitar Tser Pool primeiro, e tanto Irene quanto os personagens provavelmente precisarão passar uma noite na estrada. Ele recomenda que eles façam isso em Tser Pool.  
 * Tser Pool fica a menos de duas horas de viagem de Baróvia. (Embora alguns Vistani sejam tidos como aliados de Strahd, Tser Pool é conhecido como um local seguro para viajantes passarem a noite, especialmente por conta da reputação de Madam Eva.)  
 
 ## B5j. Colina de Lugdana  
-Cerca de uma hora antes do meio-dia, [[Non-Player Characters#Ireena Kolyana|Ireena]] sai silenciosamente da mansão e segue para a Colina de Lugdana, uma elevação pequena e tranquila ao norte de Baróvia. (A colina recebe o nome da paladina Lugdana que, segundo a lenda, conheceu o Burgomestre Ismark Antonovich, o Grande, pela primeira vez naquele local.)
+Cerca de uma hora antes do meio-dia, [[Non-Player Characters#Irene Kolyana|Irene]] sai silenciosamente da mansão e segue para a Colina de Lugdana, uma elevação pequena e tranquila ao norte de Baróvia. (A colina recebe o nome da paladina Lugdana que, segundo a lenda, conheceu o Burgomestre Ismark Antonovich, o Grande, pela primeira vez naquele local.)
 
 Pouco antes do meio-dia, se os PJs não estiverem prestando atenção nela, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—que atualmente está entrevistando um par de **batedores** barovianos sobre sua busca malsucedida por Gertruda—nota a ausência de Irene com leve preocupação e pede aos PJs que a encontrem e a tragam de volta para casa. 
 
@@ -1059,11 +1054,11 @@ Se os PJs visitarem a colina, leia:
 <p>Uma árvore solitária ergue-se no cume, seus galhos retorcidos alcançando o céu como braços estendidos. Sob sua sombra, uma figura feminina permanece ajoelhada, o olhar fixo no chão.</p>
 </div>
 
-A figura é Ireena, que vestiu sua armadura de peito e o rapier e agora usa um lenço vermelho ao redor do pescoço. À medida que os PJs se aproximam, podem ver que ela está usando uma colher de pedreiro para cavar um buraco na terra entre as raízes da árvore. Ireena, fixada em seu trabalho, não nota os PJs até que eles a chamem ou entrem de outra forma em seu campo de visão.
+A figura é Irene, que vestiu sua armadura de peito e o rapier e agora usa um lenço vermelho ao redor do pescoço. À medida que os PJs se aproximam, podem ver que ela está usando uma colher de pedreiro para cavar um buraco na terra entre as raízes da árvore. Irene, fixada em seu trabalho, não nota os PJs até que eles a chamem ou entrem de outra forma em seu campo de visão.
 
 Irene cumprimenta os PJs com calor, embora com um certo constrangimento por tê-los levado a vir à sua procura. Ela compartilha livremente que está cavando em busca de um pequeno baú de madeira que ela e sua mãe, Korina Targolova, enterraram aqui antes da morte de sua mãe, há quatorze anos—um cofre cujo conteúdo ela espera levar como lembrança quando partir para Vallaki, já que não sabe quando, se é que algum dia, poderá retornar para casa.
 
-Se permitido terminar de desenterrar o baú, Ireena o abre, revelando seu conteúdo. O baú contém uma pulseira de prata adornada com pedras preciosas, uma flor de aster prensada, um amuleto de madeira em forma de flor de mil-folhas preso a um cordão de couro, e um lenço com padrões florais.
+Se permitido terminar de desenterrar o baú, Irene o abre, revelando seu conteúdo. O baú contém uma pulseira de prata adornada com pedras preciosas, uma flor de aster prensada, um amuleto de madeira em forma de flor de mil-folhas preso a um cordão de couro, e um lenço com padrões florais.
 
 A flor (que Irene encontrou e sua mãe prensou), o amuleto (que a mãe de Irene usava como aprendiz do curandeiro da cidade) e o lenço (que a mãe de Irene a ajudou a costurar) são todos recordações da infância de Irene com sua mãe. A pulseira é um item que Irene foi encontrada carregando quando Kolyan a encontrou na Floresta Svalich, que Korina guardou como uma lembrança de sua "criança milagrosa" após descobrir que não poderia ter mais filhos.
 
@@ -1073,7 +1068,7 @@ O bracelete de prata, que está manchado e claramente tem centenas de anos, vale
 
 Irene não sabe quem é Tatyana. (Desconhecido para Irene, a pulseira foi um presente dos pais de Tatyana Federovna em seu décimo oitavo aniversário. Ela foi perdida na Floresta Svalich quando Tatyana saltou para sua morte do mirante do Castelo Ravenloft.)
 
-Após compartilhar os itens do baú, Ireena remove seu lenço, revelando as marcas de mordida em seu pescoço. Enquanto traça os dedos ao longo delas, ela faz uma careta. "Não sei por que ele não me matou ou me transformou," diz ela, cerrando os dentes enquanto suas mãos se fecham em punhos. "Não sei se isso é algum tipo de jogo doentio que ele está jogando, ou se ele simplesmente gosta de ver as pessoas sofrerem."
+Após compartilhar os itens do baú, Irene remove seu lenço, revelando as marcas de mordida em seu pescoço. Enquanto traça os dedos ao longo delas, ela faz uma careta. "Não sei por que ele não me matou ou me transformou," diz ela, cerrando os dentes enquanto suas mãos se fecham em punhos. "Não sei se isso é algum tipo de jogo doentio que ele está jogando, ou se ele simplesmente gosta de ver as pessoas sofrerem."
 
 A raiva a abandona enquanto ela acrescenta, sua voz se apertando, "Dizem que mulheres com cabelo vermelho trazem má sorte. Sinto muito—nunca quis trazer nenhuma para vocês." (Ela é grata por qualquer desagravo que os PJs possam oferecer.)
 
@@ -1083,36 +1078,34 @@ Quando os PJs estão prontos para partir, Irene se despede de Ismark com um adeu
 
 **_Marco_**. Defender a vila e enterrar o Burgomestre completa um marco da história. Se os PJs partirem da Baróvia com Irene os acompanhando, conceda a cada PJ 400 XP. Se Doru tiver passado com sucesso em seu teste de vontade, conceda a cada PJ 100 XP adicionais.
 
-> [!info]+ **Ireena se Une ao Grupo**  
+> [!info]+ **Irene se Une ao Grupo**  
 >  
-> Ireena tem as estatísticas de uma **companheira especialista (Tasha's Cauldron of Everything, p. 142)**, usando o bloco de estatísticas base de um **nobre**. Ela também possui o talento <span class="citation">Curandeiro (<em>Player's Handbook</em>, p. 167)</span> e começa com dois *kits de curandeiro*.  
+> Irene tem as estatísticas de uma **companheira especialista (Tasha's Cauldron of Everything, p. 142)**, usando o bloco de estatísticas base de um **nobre**. Ela também possui o talento <span class="citation">Curandeiro (<em>Player's Handbook</em>, p. 167)</span> e começa com dois *kits de curandeiro*.  
 >  
-> O nível inicial de Ireena é o mesmo que a média de nível do grupo no momento em que ela se junta a eles pela primeira vez. Ela começa com proficiências adicionais em História, Investigação, Medicina, Percepção e Furtividade, além de proficiência em testes de resistência de Destreza. Quando ingressa no grupo pela primeira vez no 3º nível, ela tem 25 (5d8) pontos de vida.  
+> O nível inicial de Irene é o mesmo que a média de nível do grupo no momento em que ela se junta a eles pela primeira vez. Ela começa com proficiências adicionais em História, Investigação, Medicina, Percepção e Furtividade, além de proficiência em testes de resistência de Destreza. Quando ingressa no grupo pela primeira vez no 3º nível, ela tem 25 (5d8) pontos de vida.  
 >  
-> Ireena também sobe de nível sempre que o grupo sobe, independente de ela ter ou não os acompanhado, encerrando a aventura no 10º nível. (Consulte <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> para mais informações sobre como conduzir e evoluir companheiros.)  
+> Irene também sobe de nível sempre que o grupo sobe, independente de ela ter ou não os acompanhado, encerrando a aventura no 10º nível. (Consulte <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> para mais informações sobre como conduzir e evoluir companheiros.)  
 >  
-> Por padrão, Ireena escolhe as seguintes opções de companheira à medida que avança de nível:  
-> - **3º Nível.** Ireena recebe especialização (expertise) nas perícias Intuição (Insight) e Medicina.  
-> - **4º Nível.** O valor de Destreza de Ireena aumenta em 2, chegando a 14.  
-> - **8º Nível.** O valor de Destreza de Ireena aumenta em 2, chegando a 16.  
-> - **10º Nível.** O valor de Destreza de Ireena aumenta em 2, chegando a 18.  
+> Por padrão, Irene escolhe as seguintes opções de companheira à medida que avança de nível:  
+> - **3º Nível.** Irene recebe especialização (expertise) nas perícias Intuição (Insight) e Medicina.  
+> - **4º Nível.** O valor de Destreza de Irene aumenta em 2, chegando a 14.  
+> - **8º Nível.** O valor de Destreza de Irene aumenta em 2, chegando a 16.  
+> - **10º Nível.** O valor de Destreza de Irene aumenta em 2, chegando a 18.  
 >  
-> Nenhum dos servos ou monstros de Strahd — independentemente de sua inteligência, e menos ainda o próprio Strahd — jamais ataca Ireena.  
+> Nenhum dos servos ou monstros de Strahd — independentemente de sua inteligência, e menos ainda o próprio Strahd — jamais ataca Irene.  
 
 ## B5k. Casa de Mad Mary  
 <span class="citation"><em>Esta cena ocorre no Capítulo 3: Área E3.</em></span>
 
 Não deve haver razão para os PJs visitarem <span class="citation">a Casa de Mad Mary (p. 44)</span> nesta revisão. No entanto, se o fizerem, as seguintes mudanças foram feitas:
 
-Mad Mary não escondeu Gertruda nesta casa durante toda a sua vida. Em vez disso, Gertruda viveu uma vida bastante ordinária—embora uma vida com uma mãe viúva bastante opressora. (Ireena e Gertruda inicialmente se uniram como meninas pequenas pela perda de seus pais—mãe de Ireena e pai de Gertruda.) Quando estava vivo, o pai de Gertruda era um comerciante que criou Gertruda com histórias de grandes senhores e senhoras, usando os escassos recursos da família para comprar ocasionalmente livros de caravanas Vistani sobre diplomacia e história militar.
+Mad Mary não escondeu Gertruda nesta casa durante toda a sua vida. Em vez disso, Gertruda viveu uma vida bastante ordinária—embora uma vida com uma mãe viúva bastante opressora. (Irene e Gertruda inicialmente se uniram como meninas pequenas pela perda de seus pais—mãe de Irene e pai de Gertruda.) Quando estava vivo, o pai de Gertruda era um comerciante que criou Gertruda com histórias de grandes senhores e senhoras, usando os escassos recursos da família para comprar ocasionalmente livros de caravanas Vistani sobre diplomacia e história militar.
 
 O primeiro andar desta velha e suja habitação é composto por um espaço de estar dividido em um único cômodo. Ao norte, encontra-se uma pequena cozinha, com suas bancadas sujas e cobertas de poeira. Há um copo quebrado no chão e uma refeição podre para dois servida em uma mesa coberta com uma toalha de mesa azul suja. (Mary se serviu de um copo de vinho para acalmar os nervos após perceber o desaparecimento de Gertruda, e o deixou cair no chão em angústia.)
 
 Uma pequena área de estar ao sul contém uma lareira, duas poltronas confortáveis e um tapete sujo. Escadas levam para cima, até o segundo andar.
 
 O corredor do segundo andar contém três portas de madeira. Uma leva a um banheiro com um penico não esvaziado e uma bacia de água suja de banho. Outra leva ao quarto de Mary, que possui uma escrivaninha e uma cama. (Se encontrada aqui, Mary está sentada na cama, soluçando silenciosamente.) 
-
-A terceira porta, que está ligeiramente entreaberta, leva ao quarto de Gertruda; uma bandeja segurando um bule de chá quebrado e uma xícara se despedaçou no chão diante dela. (Mary estava trazendo chá para Gertruda quando encontrou sua filha desaparecida e a deixou cair em horror.)
 
 A terceira porta, que está ligeiramente entreaberta, leva ao quarto de Gertruda; uma bandeja segurando um bule de chá quebrado e uma xícara se despedaçou no chão diante dela. (Mary estava trazendo chá para Gertruda quando encontrou sua filha desaparecida e a deixou cair em horror.)
 

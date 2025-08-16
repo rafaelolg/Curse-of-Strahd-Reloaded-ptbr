@@ -96,7 +96,7 @@ Se um ou mais dos seus PJs estiverem usando o gancho [[Running the Adventure#Adv
 
 Lei para todos os jogadores o seguinte texto:
 
-<div class=description>
+<div class="description">
 <p>Uma imponente mansão ergue-se diante de vocês, quatro andares de pedra fria e manchada de fuligem, janelas altas e estreitas, e telhados pontiagudos que formam um quadro de austeridade e grandiosidade gélida. A meio caminho, uma estreita sacada avança do terceiro andar, oferecendo um posto sombrio de onde vigiar os terrenos ao redor.</p>
 <p>O centro desta fachada imponente é o pórtico, um arco de pedra que vigia as portas de carvalho da casa. Um portão de ferro forjado preenche este arco, suas dobradiças enferrujadas rangendo enquanto balança ao sabor do vento.</p>
 <p>De cada lado do portão, lâmpadas a óleo pendem de correntes, sua luz fraca e trêmula lançando um brilho doentio que mal perfura a névoa circundante.</p>
@@ -210,7 +210,7 @@ Esta sala é em grande parte como descrita em <span class="citation">Den of Wolv
 
 <div class="description">
 <p>Ao entreabrir a porta deste aposento, vocês vislumbram algo selvagem sala adentro: um olho âmbar que brilha na escuridão, e um focinho bestial contraído em um rosnado.</p>
-</div>s
+</div>
 
 Se os jogadores prosseguirem, leia:
 
@@ -373,10 +373,10 @@ Os PJs não reconhecem o nome "Strahd von Zarovich."
 > [!design]- **Nota de Design: Removendo a Escritura**
 > Os PJs que encontram a escritura do Velho Móiossos no baú secreto frequentemente chegam à conclusão equivocada de que saquear a escritura os torna os novos proprietários do moinho. Tais PJs tendem, como resultado, a tentar explorar o moinho de vento durante [[Act I - Into the Mists/Arc C - Into the Valley]], desencadeando um conflito com a laia das megeras da noite e—sem culpa própria—um provável TPK. Por isso, a escritura foi removida para ajudar a evitar esse desfecho.
 
-## A2d. The Third Floor
-As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
-### Balcony
-<span class="citation"><em>This scene takes place in Appendix B: Area 11.</em></span>
+## A2d. O Terceiro Andar
+À medida que os PJs sobem a escada em espiral até o terceiro andar, lembre-os de que podem enxergar pelo centro da escada até o piso inferior.
+### Sacada
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 11.</em></span>
 
 Esta sala é em grande parte como descrita em <span class="citation">Balcony (p. 214)</span>. Quando os PJs entrarem nesta sala, leia:
 
@@ -486,304 +486,307 @@ O nome "Walter" foi carinhosamente entalhado na cabeceira do berço. Um teste be
 
 O espírito assemelha-se a uma jovem pálida e esquelética, com todos os dedos das mãos e dos pés arrancados, os olhos costurados e os lábios e dentes arrancados de sua boca. Incontáveis cicatrizes finas como navalhas cobrem todo o seu corpo, incluindo a carne ao redor dos pulsos e tornozelos, e seus cabelos foram descuidadamente cortados até restar apenas um tufinho.
 
-Though its appearance is disturbing, players observing the spirit feel that it is simply observing them with shy curiosity.
+Embora sua aparência seja perturbadora, os PJs que observam o espírito sentem que ele está simplesmente os observando com uma curiosa timidez.
 
-The spirit can neither speak aloud nor exit the mirror. However, it shows no hostility toward the players, and can answer basic questions by nodding or shaking its head. It knows everything that the nursemaid did in life. It shows fear at any mention of Mrs. Durst’s name, sorrow at any mention of Mr. Durst’s, melancholic fondness at any mention of Rose or Thorn, and despair at any mention of Walter.
+O espírito não pode falar em voz alta nem sair do espelho. No entanto, não demonstra hostilidade em relação aos PJs e pode responder a perguntas básicas acenando com a cabeça ou balançando-a. Ele sabe tudo o que a ama de leite fez em vida. Mostra medo a qualquer menção do nome da Sra. Durst, tristeza a qualquer menção do Sr. Durst, uma melancólica afeição a qualquer menção de Rose ou Thorn, e desespero a qualquer menção de Walter.
 
-If the players ask the spirit for aid in reaching the basement or finding the “monster,” the spirit steps aside—vanishing from sight—and the secret door behind the mirror slowly swings open. The spirit does not return.
-## A2e. The Attic
-### Attic Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
+Se os PJs pedirem ajuda ao espírito para alcançar o porão ou encontrar o “monstro”, o espírito se afasta—desaparecendo da vista—e a porta secreta atrás do espelho se abre lentamente. O espírito não retorna.  
+## A2e. O Sótão  
+### Corredor do Sótão  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 16.</em></span>
 
-This room is largely as described in <span class="citation">Attic Hall (p. 215)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>This bare hall is choked with dust and cobwebs. Several doors lead from this attic corridor, including a door held shut with a padlock.</p>
-<p>A low creak cuts through the air as one of the unlocked doors slowly creaks open.</p>
-</div>
-
-The door leads to the [[#Spare Bedroom]].
-### Spare Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
-
-This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. The doll from Children’s Room (p. 215-16) can be found here. When the players first enter it, read:
+Esta sala é em grande parte como descrita em <span class="citation">Attic Hall (p. 215)</span>. Quando os PJs entrarem nesta sala, leia:
 
 <div class="description">
-<p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
+<p>Este corredor nu está sufocado por poeira e teias de aranha. Várias portas levam deste corredor do sótão, incluindo uma porta mantida fechada com um cadeado.</p>
+<p>Um baixo rangido corta o ar enquanto uma das portas destrancadas se abre lentamente.</p>
 </div>
 
-The players can recognize the doll as the same doll that Thorn was holding in the family portrait in the Main Hall.
+A porta leva ao [[#Quarto de Hóspedes]].
+### Quarto de Hóspedes
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 17.</em></span>
 
-The music box contains a rusted, bloodstained skinning knife as well as the key to the padlock on Rose and Thorn's bedroom door.
+Este quarto é em grande parte como descrito em <span class="citation">Quarto de Hóspedes (p. 215)</span>. A boneca do Quarto das Crianças (p. 215-16) pode ser encontrada aqui. Quando vocês entrarem pela primeira vez, leia:
 
-The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
+<div class="description">
+<p>Este quarto frio e sufocado pela poeira contém uma cama esguia, um criado-mudo, um pequeno fogão de ferro, uma escrivaninha com um banquinho, um guarda-roupa vazio e uma cadeira de balanço. Uma boneca fazendo cara de tristeza em um vestido amarelo rendado está sentada na caixa da janela norte ao lado de uma velha caixa de música empoeirada, teias de aranha a cobrindo como um véu de noiva.</p>
+</div>
+
+Os PJs podem reconhecer a boneca como a mesma boneca que Espinho estava segurando no retrato de família no Salão Principal.
+
+A caixa de música contém uma faca de desossa enferrujada e manchada de sangue, assim como a chave do cadeado na porta do quarto de Rosa e Espinho.
+
+A caixa de música também contém dois pedaços de pergaminho enrolados. O primeiro pergaminho mostra um plano básico dividido em três retângulos rotulados como CÔMODOS, SANTUÁRIO  e ALTAR. CÔMODOS e SANTUÁRIO estão conectados na parte superior por uma linha simples, e na parte inferior por uma linha dupla, que conecta ambos ao ALTAR. O segundo pergaminho contém uma lista de nomes desconhecidos abaixo da palavra RECRUTAMENTO.
 
 ![[Death House Dungeon Map.png]]
-<span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Death House Dungeon Map" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
-### Children’s Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
+À medida que os PJs saem da sala, a cadeira de balanço começa a balançar suavemente e a caixa de música se abre e começa a tocar. O som de um canto materno flutua pelo ar por duas medidas, mas se torna desafinado e distorcido antes de chegar a uma parada violenta e estridente. A cadeira de balanço então para de balançar.  
+### Quarto das Crianças  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+Este quarto é em grande parte como descrito na **Quarto das Crianças** (p. 215-16).
 
 ![[Rose and Thorn.png]]
-<span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Rosa & Espinho" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Rosavalda "Rose" Durst**
+> [!profile]+ **Perfil: Rosavalda "Rosa" Durst**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
+> **Informações de Interpretação**
+> ***Ressonância.*** Rosa deve inspirar simpatia por suas inseguranças e medos, carinho por sua dedicação a Espinho, e gratidão por seus esforços sinceros para ajudar os PJs.
 >
-> ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
+> ***Emoções.*** Rosa frequentemente se sente apreensiva, curiosa, desafiadora ou audaciosa.
 >
-> ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
+> ***Motivações.*** Rosa quer manter Espinho seguro e confortado, e permitir que seus espíritos finalmente encontrem paz.
 >
-> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
+> ***Inspirações.*** Ao interpretar Rose, canalize Eleven (*Stranger Things*), Matilda (*Matilda*), e Lucy Pevensie (*As Crônicas de Nárnia*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Rosa é a protetora mais feroz de Espinho. Para aqueles em quem confia, Rosa é uma jovem perdida, medrosa e traumatizada.
 >
-> ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
+> ***Moral.*** Em uma luta, Rosa imploraria por paz, mas fugiria com Espinho se isso se mostrasse impossível.
 >
-> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
+> ***Relacionamentos.*** Rosa é a irmã mais velha de Thorn Durst, meio-irmã de Walter Durst, e a filha mais velha de Elisabeth e Gustav Durst.
 
-> [!profile]+ **Profile: Thornboldt "Thorn" Durst**
+> [!profile]+ **Perfil: Thornboldt "Espinho" Durst**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
+> **Informações de Interpretação**
+> ***Ressonância.*** Espinho deve inspirar simpatia por sua timidez e medo, e carinho por sua alegria infantil.
 >
-> ***Emotions.*** Thorn most often feels uncomfortable, joyous, anxious, or terrified.
+> ***Emoções.*** Espinho frequentemente se sente desconfortável, alegre, ansioso ou aterrorizado.
 >
-> ***Motivations.*** Thorn wants to keep close to Rose and find toys to play with.
+> ***Motivações.*** Espinho quer ficar perto de Rosa e encontrar brinquedos para brincar.
 >
-> ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
+> ***Inspirações.*** Ao interpretar Espinho, canalize Neville Longbottom (*Harry Potter*) e Piglet (*Winnie the Pooh*).
 >
-> **Character Information**
-***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Espinho é um menino assustado que se apega à irmã. Para aqueles em quem confia, Espinho é uma criança silenciosamente observadora e perspicaz.
 >
-> ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
+> ***Moral.*** Em uma luta, Espinho se encolheria e choraria, implorando para que Rosa o resgatasse.
 >
-> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+> ***Relacionamentos.*** Espinho é o irmão mais novo de Rosa Durst, meio-irmão de Walter Durst, e o filho mais novo de Elisabeth e Gustav Durst.
 
-In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+Na vida, Rosa era uma jovem maga que descobriu um pequeno grimório na biblioteca de seu pai e teve grande cuidado ao copiar os truques _mending_, _light_ e _shocking grasp_ em seu diário.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
-As the ghost children speak with the players, Thorn levitates one of his toys into the air, which falls and breaks. Rose swiftly uses her _mending_ spell to repair it. If her use of magic is remarked upon, she shyly shares her diary’s location, which can be found hidden in the cobweb-covered pillowcase on her bed.
+Enquanto as crianças fantasmas falam com os PJs, Espinho levita um de seus brinquedos no ar, que cai e se quebra. Rosa rapidamente usa seu feitiço de _mending_ para consertá-lo. Se seu uso de magia for comentado, ela timidamente compartilha a localização de seu diário, que pode ser encontrado escondido na fronha coberta de teias de aranha em sua cama.
 
-In addition to her cantrips, Rose’s aged and faded diary also contains entries regarding her studies, her friends, her younger brother, her nursemaid (“Miss Klara”), and arguments between her mother and father. (Rose doesn't know anything about the content of those fights.)
+Além de seus truques, o diário envelhecido e desbotado de Rosa também contém anotações sobre seus estudos, seus amigos, seu irmão mais novo, sua ama de leite (“Miss Klara”) e discussões entre sua mãe e seu pai. (Rosa não sabe nada sobre o conteúdo dessas brigas.)
 
-Rose knows the way down to the basement, but “isn’t supposed to go down there.” If the party convinces her to show them the way, she points them toward the dollhouse, revealing the secret entry. In exchange, she asks the players to take her and Thorn's bones with them when they escape, burying them in the garden outside. 
+Rosa sabe o caminho para o porão, mas “não é suposto que ela desça lá.” Se o grupo a convencer a mostrar o caminho, ela os aponta em direção à casa de bonecas, revelando a entrada secreta. Em troca, ela pede que os PJs levem os ossos dela e de Espinho com eles quando escaparem, enterrando-os no jardim do lado de fora. 
 
-The dollhouse contains small dolls that depict tiny, twisted molds of any characters and creatures currently visible in the house. The dolls are made of painted resin. Any character looking inside the dollhouse while in Rose and Thorn’s room can see the appropriately-placed dolls of all living creatures within the manor. The dollhouse only contains rooms within the house itself, and does not depict the dungeon levels below.
+A casa de bonecas contém pequenas bonecas que representam moldes minúsculos e distorcidos de quaisquer personagens e criaturas atualmente visíveis na casa. As bonecas são feitas de resina pintada. Qualquer personagem que olhar dentro da casa de bonecas enquanto estiver no quarto de Rosa e Espinho pode ver as bonecas devidamente posicionadas de todas as criaturas vivas dentro do casarão. A casa de bonecas contém apenas os cômodos dentro da própria casa e não retrata os níveis do porão abaixo.
 
-When the secret door is revealed, Thorn shyly asks the players if he and Rose can accompany them downstairs to aid them, and attempts to possess a friendly player if permitted. When Rose or Thorn attempts to possess a player, describe it as “a child’s tiny hand, desperately seeking the touch of another soul.” 
+Quando a porta secreta é revelada, Espinho timidamente pergunta aos PJs se ele e Rosa podem acompanhá-los escada abaixo para ajudá-los, e tenta possuir um jogador amigável, se permitido. Quando Rosa ou Espinho tentam possuir um jogador, descreva isso como “a pequena mão de uma criança, buscando desesperadamente o toque de outra alma.” 
 
-A player possessed by Rose can cast the cantrips in her diary, while a player possessed by Thorn can gain the effects of the _mage hand_ cantrip as an action, without the use of components. (The spectral hand is invisible.)
-### Storage Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 18.</em></span>
+Um PJ possuído por Rosa pode lançar os truques em seu diário, enquanto um PJ possuído por Espinho pode obter os efeitos do truque _mage hand_ como uma ação, sem o uso de componentes. (A mão espectral é invisível.)  
+### Despensa  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 18.</em></span>
 
-This room is largely as described in <span class="citation">Storage Room (p. 215)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>This dusty chamber is packed with lumpy, squat shapes draped in dusty white sheets. An old iron stove stands against the right-side wall, next to what looks to be a large trunk covered by a sheet.</p>
-</div>
-
-The nursemaid’s **specter** does not appear in this room. Instead, a character who opens the trunk finds the nursemaid’s corpse, with wounds consistent with those seen on the spirit’s body in the **Nursemaid’s Suite**. A DC 14 Wisdom (Medicine) check reveals that the woman died of starvation.
-
-A player inspecting the remains feels a cold breath on their shoulder and the unshakeable sense of being watched. Meanwhile, if another player has previously uncovered a nearby mirror from its sheet covering, that player can see an apparition of Elisabeth Durst within the mirror staring at the player near the chest. Once observed, the apparition swiftly vanishes.
-### Guest Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
-
-This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
-### Secret Stairs
-<span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
-
-This room is largely as described in <span class="citation">Secret Stairs (p. 217)</span>. However, opening the secret door reveals only a stone slab on the opposite side, inset with a small bronze panel at approximately chest level. A small hollow niche identical to the one in the library lies at the panel's center, emanating a faint amber glow. When the niche is exposed, the amber shard from the [[#Master Suite]] glimmers faintly and swings in the air toward it, as though held aloft by an unseen force.
-
-To allow the stone slab to swing open and reveal the hidden stairs on the opposite side, the players must place the amber shard into the niche.
-
-When the players enter this room, read:
+Esta sala é em grande parte como descrita na <span class="citation">Despensa (p. 215)</span>. Quando vocês entrarem nesta sala, leia:
 
 <div class="description">
-<p>The secret door opens to reveal a narrow spiral staircase built of aged-looking wood within a tight shaft of mortared stone. Thick cobwebs fill the staircase as it descends into the darkness below.</p>
+<p>Esta câmara empoeirada está repleta de formas lumpadas e baixas cobertas por lençóis brancos empoeirados. Um velho fogão de ferro se ergue contra a parede do lado direito, ao lado do que parece ser um grande baú coberto por um lençol.</p>
 </div>
 
-As the players descend the stairs, read:
+O **espectro** da babá não aparece nesta sala. Em vez disso, um personagem que abre o baú encontra o cadáver da babá, com feridas consistentes com aquelas vistas no corpo do espírito na **Suíte da Babá**. Um teste de Sabedoria (Medicina) com CD 14 revela que a mulher morreu de fome.
+
+Um PJ inspecionando os restos sente um bafo frio em seu ombro e a inabalável sensação de estar sendo observado. Enquanto isso, se outro PJ já tiver descoberto um espelho próximo de sua cobertura de lençol, esse PJ pode ver uma aparição de Elisabeth Durst dentro do espelho, encarando o PJ próximo ao peito. Uma vez observada, a aparição desaparece rapidamente.  
+### Quarto de Hóspedes  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 19.</em></span>
+
+Este quarto é como descrito em <span class="citation">Quarto de Hóspedes (p. 215)</span>.
+### Escadaria Secretas
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 21.</em></span>
+
+Este quarto é em grande parte como descrito em <span class="citation">Escadaria Secreta (p. 217)</span>. No entanto, ao abrir a porta secreta, revela-se apenas uma laje de pedra do outro lado, embutida com um pequeno painel de bronze a aproximadamente altura do peito. Uma pequena nicho oco, idêntico ao da biblioteca, encontra-se no centro do painel, emanando um fraco brilho âmbar. Quando o nicho é exposto, o fragmento âmbar do [[#Quarto Principal]] brilha suavemente e balança no ar em direção a ele, como se fosse sustentado por uma força invisível.
+
+Para permitir que a laje de pedra se abra e revele as escadas ocultas do outro lado, vocês devem colocar o fragmento de âmbar na cavidade.
+
+Quando os PJs entrarem nesta sala, leia:
 
 <div class="description">
-<p>The broken cobwebs around you sway like a gossamer wedding veil, beckoning you forward as the ancient stairs creak and groan underfoot. The gaping maw of the stairwell draws you deeper, swallowing you up as you descend further down its gullet. You descend one floor—two floors—three.</p>
-<p>The walls of the stone shaft narrow around you, forcing you to hunch your shoulders and pull in your elbows to continue downward. In the darkness, you can only hear the shuffle of your feet, the choking groan of the stairs, and the pounding of your blood in your ears. </p>
-<p>Finally, after what feels like hours, the descent levels out, and the spiral staircase ends at a darkened landing of  packed earth. A narrow tunnel supported by aged timber braces stretches ahead of you, its stone walls seeming to bleed with deposits of streaked, red clay. Eight feet ahead, the tunnel splits, branching to the left and right.</p>
-<p>As your eyes and ears adjust to the cold, subterranean corridor, you notice that the tunnel isn't as silent as the staircase above. An eerie, low-pitched sound echoes through the space—and you soon recognize it as a deep, incessant chanting.</p>
+<p>A porta secreta se abre para revelar uma estreita escada em espiral feita de madeira com aparência envelhecida dentro de um estreito poço de pedra argamassada. Teias de aranha espessas preenchem a escada enquanto ela desce para a escuridão abaixo.</p>
 </div>
 
-**_Milestone_**. Descending into Death House's dungeon level completes a story milestone. When the party exits the secret stairs, award each player 200 XP. 
-## A2f. The Basement
-### Family Crypts
-<span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
-
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
-
-As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
+À medida que os PJs descem as escadas, leia:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. On either side, large standing stone slabs have been set aside to lean against the walls, opening the way to a pair of dark, quiet crypts. The slab to the right is etched with the name "Walter Durst"; the slab to the left is blank.</p>
+<p>As teias de aranha quebradas ao seu redor balançam como um véu de noiva diáfano, chamando vocês para frente enquanto as antigas escadas rangem e gemem sob seus pés. A boca aberta do poço das escadas os atrai para mais fundo, engolindo-os à medida que descem mais em sua garganta. Vocês descem um andar—dois andares—três.</p>
+<p>As paredes do poço de pedra se estreitam ao redor de vocês, forçando-os a curvar os ombros e puxar os cotovelos para continuar descendo. Na escuridão, vocês só conseguem ouvir o arrastar de seus pés, o gemido sufocante das escadas e o pulsar de seu sangue em seus ouvidos.</p>
+<p>Finalmente, após o que parece horas, a descida se nivela, e a escada em espiral termina em um patamar escurecido de terra compactada. Um túnel estreito sustentado por vigas de madeira envelhecidas se estende à frente de vocês, suas paredes de pedra parecendo sangrar com depósitos de argila vermelha riscada. Oito pés à frente, o túnel se divide, ramificando-se à esquerda e à direita.</p>
+<p>À medida que seus olhos e ouvidos se ajustam ao frio corredor subterrâneo, vocês notam que o túnel não é tão silencioso quanto a escada acima. Um som baixo e sinistro ecoa pelo espaço—e vocês logo o reconhecem como um canto profundo e incessante.</p>
 </div>
 
-If the characters enter the **Empty Crypt**, read:
+**_Marco_**. Descer para o nível do dungeon da Casa da Morte completa um marco na história. Quando o grupo sair das escadas secretas, conceda a cada PJ 200 XP.  
+## A2f. O Porão  
+### Criptas da Família  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 23.</em></span>
+
+Esses quartos são em grande parte como descritos em **Criptas da Família** (p. 217-18). 
+
+À medida que os **PJs** se aproximam da **Cripta Vazia** e da **Cripta de Walter**, leia:
 
 <div class="description">
-<p>You peer past the leaning stone slab to see an empty earthen crypt.</p>
+<p>Este corredor lateral se ramifica novamente à esquerda e à direita. De cada lado, grandes lajes de pedra em pé foram colocadas para se encostar às paredes, abrindo o caminho para um par de criptas escuras e silenciosas. A laje à direita está gravada com o nome "Walter Durst"; a laje à esquerda está em branco.</p>
 </div>
 
-If the characters enter **Walter’s Crypt**, read:
+Se os personagens entrarem na **Cripta Vazia**, leia:
 
 <div class="description">
-<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. Each time they do, you can hear an infant's quiet whimpers, which are swiftly quieted by the sound of distant humming.</p>
+<p>Vocês olham além da laje de pedra inclinada e veem uma cripta de terra vazia.</p>
 </div>
 
-Players who have previously read or heard the song recognize the melody of the humming as *Waltz for Klara.*
-
-As the players approach **Gustav’s Crypt** and **Elisabeth’s Crypt**, read:
+Se os personagens entrarem na **Cripta de Walter**, leia:
 
 <div class="description">
-<p>This side corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Gustav Durst"; the slab to the right is etched with the name "Elisabeth Durst." The tunnel here is unnaturally quiet, and a thin mist clings to the floor.</p>
+<p>Cistos inchados e sangrentos cobrem as paredes desta cripta como tumores. De tempos em tempos, eles pulsão e estouram, jorros de pus escorrendo para se acumular no chão. Cada vez que isso acontece, vocês podem ouvir os suaves gemidos de um bebê, que são rapidamente silenciados pelo som de um zumbido distante.</p>
 </div>
 
-If the characters enter **Gustav’s Crypt**, read:
+PJs que já leram ou ouviram a canção reconhecem a melodia do zumbido como *Valsa para Klara.*
+
+À medida que os PJs se aproximam da **Cripta de Gustav** e da **Cripta de Elisabeth**, leia:
 
 <div class="description">
-<p>The crypt beyond the slab contains a stone coffin lying atop a dusty stone bier. Silence hangs heavy over the lonely chamber.</p>
+<p>Este corredor lateral se ramifica novamente à esquerda e à direita. Grandes lajes de pedra em pé selam a entrada dos túneis de cada lado, bloqueando o caminho à frente. A laje à esquerda está gravada com o nome "Gustav Durst"; a laje à direita está gravada com o nome "Elisabeth Durst." O túnel aqui é anormalmente silencioso, e uma fina bruma se agarra ao chão.</p>
 </div>
 
-If the characters enter **Elisabeth’s Crypt**, read:
+Se os personagens entrarem na **Cripta de Gustav**, leia:
 
 <div class="description">
-<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier. The floor before it is littered with the bodies of hundreds of dead termites. Many cling to the elongated, bloated body of a dead termite queen, while others appear to have died atop the scarred, mutilated bodies of four larger beetles not far away.</p>
+<p>A cripta além da laje contém um caixão de pedra repousando sobre um leito de pedra empoeirado. O silêncio pesa sobre a solitária câmara.</p>
 </div>
 
-As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
+Se os personagens entrarem na **Cripta de Elisabeth**, leia:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Rosavalda Durst"; the slab to the right is etched with the name "Thornboldt Durst." Each slab exudes the silence of a forgotten grave.</p>
+<p>Uma densa e ácida miasma paira sobre o interior desta cripta, que abriga um caixão esculpido em pedra repousando sobre um leito de pedra. O chão à sua frente está coberto pelos corpos de centenas de térmitas mortas. Muitas se agarram ao corpo alongado e inchado de uma rainha térmita morta, enquanto outras parecem ter morrido sobre os corpos marcados e mutilados de quatro besouros maiores não muito longe.</p>
 </div>
 
-If the characters enter either crypt, read:
+À medida que os PJs se aproximam da **Cripta de Rosa** e da **Cripta de Espinho**, leia:
 
 <div class="description">
-<p>This small chamber contains a stone coffin resting on a stone bier. The air in this crypt hangs heavy with sorrow.</p>
+<p>Este corredor lateral se ramifica novamente à esquerda e à direita. Grandes lajes de pedra em pé selam a entrada dos túneis de cada lado, bloqueando o caminho à frente. A laje à esquerda está gravada com o nome "Rosavalda Durst"; a laje à direita está gravada com o nome "Thornboldt Durst." Cada laje exala o silêncio de um túmulo esquecido.</p>
 </div>
 
-The players cannot help Rose or Thorn’s ghosts find peace by placing their remains in their coffins. Neither [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nor [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] finds these crypts comforting. Both prefer to leave as quickly as possible.
-### Cult Initiates’ Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
-
-This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
-
-As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
-### Well and Cultist Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
-
-This room is largely as described in <span class="citation">Well and Cultist Quarters (p. 218)</span>. When the players enter this room, read:
+Se os personagens entrarem em qualquer cripta, leia:
 
 <div class="description">
-<p>The ceiling of this dark, earthen chamber rises a foot higher than the cramped tunnel. It's supported by thick wooden posts and cross beams that have rotted with age and bear deep holes indicative of hungry insects.</p>
-<p>Here, a lonely well stands at the center of the room, surrounded on three sides by several smaller, alcove-like chambers that have been carved into the walls. Old footprints criss-cross the floor, leading into the alcoves, around the well, up a staircase on the other end of the room, and back upstairs the way you came.</p>
-<p>An old hempen rope attached to a rusted pulley descends past the mouth of the well, swaying gently in the stagnant air as if just abandoned by an unseen occupant.</p>
+<p>Esta pequena câmara contém um caixão de pedra repousando sobre um leito de pedra. O ar nesta cripta está pesado de tristeza.</p>
 </div>
 
-The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, and descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the cross beams above the well. The interior of the shaft is covered with an ash-black species of fungi.
+Os PJs não podem ajudar os fantasmas de Rosa ou Espinho a encontrar paz colocando seus restos mortais em seus caixões. Nem [[Non-Player Characters#Rosavalda "Rose" Durst|Rosa]] nem [[Non-Player Characters#Thornboldt "Thorn" Durst|Espinho]] acham esses criptas confortantes. Ambos preferem sair o mais rápido possível.
 
-If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
+### Quartos dos Iniciados do Culto  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 24.</em></span>
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
+Esta sala é em grande parte como descrita em <span class="citation">Quartos dos Iniciados do Culto (p. 218)</span>. 
 
+À medida que os personagens se movem para descer até a <span class="citation">Poço e Quartos dos Cultistas (p. 218)</span>, um repentino som de respingos pode ser ouvido—que rapidamente se silencia.  
 
-### Hidden Spiked Pit
-<span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
+### Poço e Quartos dos Cultistas  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 25.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. If the characters enter this area from [[#Well and Cultist Quarters]], read:
+Esta sala é em grande parte como descrita em <span class="citation">Poço e Quartos dos Cultistas (p. 218)</span>. Quando os PJs entrarem nesta sala, leia:
 
 <div class="description">
-<p>The staircase leads to a quiet landing. To the front, the stairs continue upward and vanish around a bend. To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor. Its source seems to lie beyond the descending stairs.</p>
+<p>O teto desta câmara escura e terrosa se eleva um pé acima do túnel apertado. É sustentado por grossos postes de madeira e vigas que apodreceram com o tempo e apresentam buracos profundos indicativos de insetos famintos.</p>
+<p>Aqui, um poço solitário se ergue no centro da sala, cercado em três lados por várias câmaras menores, semelhantes a alcovas, que foram esculpidas nas paredes. Velhas pegadas cruzam o chão, levando para as alcovas, ao redor do poço, subindo uma escada no outro extremo da sala e de volta para cima, pelo caminho que vocês vieram.</p>
+<p>Uma velha corda de cânhamo presa a uma polia enferrujada desce além da boca do poço, balançando suavemente no ar estagnado como se tivesse sido abandonada por um ocupante invisível.</p>
 </div>
 
-If the characters enter this area from [[#Dining Hall]], read:
+O poço consiste em um poço com diâmetro de 1,2 metros e uma borda de pedra de 0,9 metros de altura, descendo 9 metros até uma cisterna cheia de água. Um balde de madeira pende de um mecanismo de corda e polia fixado nas vigas transversais acima do poço. O interior do poço está coberto por uma espécie de fungo negro como cinzas.
+
+Se os PJs jogarem um objeto no poço e depois se virarem, ouvirão sons altos de respingos e rasgos vindo de baixo. Quando se virarem novamente, o objeto estará despedaçado, com grandes partes faltando.
+
+Substitua a espada curta prateada no baú **25E** por um livro encadernado em couro preto sujo. Este diário, assinado por Drasha, contém uma lista de nomes e descrições físicas associadas a cada nome. Cada entrada inclui detalhes macabros descrevendo o sacrifício da vítima, como “lutou profusamente” ou “nenhum sedativo administrado,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> e termina com a frase: "Alimentado a Walter."
+
+
+### Fossa Oculta com Espinhos
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 26.</em></span>
+
+Esta sala é em grande parte como descrita em <span class="citation">Fosso com estácas oculto (p. 218)</span>. Se os personagens entrarem nesta área a partir de [[#Well and Cultist Quarters]], leia:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the front, the stairs continue to descend, opening into a broader chamber. To the left, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor.</p>
+<p>A escada leva a um patamar silencioso. À frente, as escadas continuam subindo e desaparecem em uma curva. À direita, o patamar se estende diretamente para um corredor solitário. Este túnel parece surpreendentemente limpo e desprovido de detritos; em sua extremidade, outra escada de terra desce para a escuridão.</p>
+<p>O canto incessante que preenche o ar deste complexo subterrâneo se intensifica em direção à extremidade deste corredor. Sua fonte parece estar além das escadas que descem.</p>
 </div>
 
-If the characters enter this area from [[#Ghoulish Encounter]], read:
+Se os personagens entrarem nesta área a partir da [[#Sala de Jantar]], leia:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the left, the stairs continue to descend, rounding a bend before vanishing into darkness. The incessant chanting that has filled the air of this underground complex appears to be echoing from below.</p>
-<p>To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, the corridor branches left and right.</p>
+<p>A escada desce até um patamar silencioso. À frente, as escadas continuam a descer, abrindo-se em uma câmara mais ampla. À esquerda, o patamar segue reto em um corredor solitário. Este túnel parece surpreendentemente limpo e desprovido de detritos; em sua extremidade, outra escada de terra desce para a escuridão.</p>
+<p>O canto incessante que tem preenchido o ar deste complexo subterrâneo se intensifica em direção à extremidade deste corredor.</p>
 </div>
 
-### Dining Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
-
-This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
+Se os personagens entrarem nesta área a partir de [[#Encontro com o Carniçal]], leia:
 
 <div class="description">
-<p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
-<p>A few dozen moldy bones have been piled into a grotesque and misshapen pyramid in a dark alcove to the south.</p>
+<p>A escada desce para um patamar silencioso. À esquerda, as escadas continuam a descer, contornando uma curva antes de desaparecer na escuridão. O canto incessante que tem preenchido o ar deste complexo subterrâneo parece ecoar de baixo.</p>
+<p>À direita, o patamar se estende em linha reta para um corredor solitário. Este túnel parece surpreendentemente limpo e desprovido de detritos; em sua extremidade, o corredor se ramifica à esquerda e à direita.</p>
 </div>
 
-### Larder
-<span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
+### Sala de Jantar
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 27.</em></span>
 
-This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
-
-The **grick** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. A DC 17 Wisdom (Perception) check allows a player to determine its presence before entering. 
-
-If the players disturb the grick, read:
+Esta sala é em grande parte como descrita em <span class="citation">Sala de Jantar (p. 218)</span>. Quando os PJs entrarem nesta sala, leia: 
 
 <div class="description">
-<p>A horrific creature drops from the ceiling—a long, flesh-like worm the breadth and length of a human man, its trunk resembling a humanoid body with its arms sewn to its torso and both legs sewn together. Its flayed muscles split open to reveal a flapping, gaping maw ringed by hundreds of tiny, humanlike teeth and a gnashing, bony beak. </p>
-<p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
+<p>Esta sala contém uma mesa de madeira simples ladeada por longos bancos. Ossos humanos mofados estão espalhados pelo chão de terra. Um fedor intenso de decomposição e sangue preenche a câmara, tão metálico com o sangue que vocês podem senti-lo na língua.</p>
+<p>Alguns dezenas de ossos mofados foram empilhados em uma pirâmide grotesca e deformada em um alcove escuro ao sul.</p>
 </div>
 
-> [!combat]- **Balancing the Grick**
-> This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-> 
-> * ***Three Players.*** Reduce the grick’s hit points to 16. Reduce its tentacles attack to 5 (2d4) damage and its beak attack to 3 (1d6) damage.
-> * ***Four Players.*** Reduce the grick’s hit points to 22. Reduce its tentacles attack to 7 (2d6) damage and its beak attack to 4 (1d8) damage.
-> * ***Six Players.*** Increase the grick’s hit points to 32. Increase its tentacles attack to 11 (2d8+2) and its bite attack to 6 (1d8+2).
-### Ghoulish Encounter
-<span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
+### Despensa
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 28.</em></span>
 
-This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
+Esta área é em grande parte como descrita em <span class="citation">Despensa (p. 218)</span>. 
+
+O **grick** nesta alcova—os restos deformados do corpo esfolado de Gustav Durst—está encaracolado no teto e cai sobre sua vítima quando ela entra. Um teste de Sabedoria (Percepção) com CD 17 permite que vocês determinem sua presença antes de entrar. 
+
+Se os PJs perturbarem o grick, leia:
 
 <div class="description">
-<p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
+<p>Uma criatura horrífica despenca do teto—um longo verme semelhante a carne, com a largura e o comprimento de um homem, seu tronco assemelhando-se a um corpo humanoide com os braços costurados ao torso e ambas as pernas costuradas juntas. Seus músculos despelados se abrem para revelar uma boca escancarada e ofegante, cercada por centenas de pequenos dentes humanos e um bico ósseo e rangente.</p>
+<p>Ela emite um grito agudo e gorgolejante enquanto se lança para frente, tentáculos semelhantes a tendões se contorcendo em direção ao seu rosto.</p>
+</div>
+
+> [!combat]- **Equilibrando o Grick**  
+> Este encontro de combate é um **encontro brutal** contra um grupo de cinco PJs de 2º nível, e consumirá aproximadamente 28% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
+>  
+> * ***Três PJs.*** Reduza os pontos de vida do grick para 16. Reduza o ataque de tentáculos para 5 (2d4) de dano e o ataque de bico para 3 (1d6) de dano.  
+> * ***Quatro PJs.*** Reduza os pontos de vida do grick para 22. Reduza o ataque de tentáculos para 7 (2d6) de dano e o ataque de bico para 4 (1d8) de dano.  
+> * ***Seis PJs.*** Aumente os pontos de vida do grick para 32. Aumente o ataque de tentáculos para 11 (2d8+2) e o ataque de mordida para 6 (1d8+2).  
+
+### Encontro com o Carniçal  
+<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 29.</em></span>
+
+Esta área é em grande parte como descrita em <span class="citation">Encontro com o Carniçal (p. 218)</span>. Quando vocês se aproximarem desta área pela primeira vez, leia: 
+
+<div class="description">
+<p>Um cheiro mortal emana deste corredor. As paredes de pedra apresentam manchas vermelhas e rachadas, e uma trilha de ossos antigos leva mais fundo pelo túnel.</p>
 
 </div>
 
-When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
+Quando um PJ entra pela primeira vez em um dos quadrados de 1,5 metro na entrada dos corredores (marcados com T no mapa), três **ghouls** emergem do chão nos espaços marcados com S e atacam.
 
 ![[Ghoulish Encounter Map.png]]
 
-> [!combat]- **Balancing the Ghouls**
-> Due to the choke point, this is a series of three consecutive **mild** combat encounters against a party of five 2nd-level players, each of which will consume approximately 15% of the party's total maximum hit points (for a total of 45% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter(s) as follows:
-> 
-> * ***Three Players.*** Decrease the number of ghouls to one.
-> * ***Four Players.*** Decrease the number of ghouls to two and only let one ghoul attack at a time.
-> * ***Six Players.*** Increase the number of ghouls to four and only let one ghoul attack at a time.
+> [!combat]- **Equilibrando os Ghouls**  
+> Devido ao ponto de estrangulamento, esta é uma série de três encontros de combate **leves** consecutivos contra um grupo de cinco PJs de 2º nível, cada um dos quais consumirá aproximadamente 15% dos pontos de vida máximos totais do grupo (totalizando 45% de seus pontos de vida máximos). Para grupos de tamanhos menores ou maiores, modifique o(s) encontro(s) da seguinte forma:  
+>  
+> * ***Três PJs.*** Diminua o número de ghouls para um.  
+> * ***Quatro PJs.*** Diminua o número de ghouls para dois e permita que apenas um ghoul ataque por vez.  
+> * ***Seis PJs.*** Aumente o número de ghouls para quatro e permita que apenas um ghoul ataque por vez.
 
-As the ghouls attack, they mindlessly repeat any or all of the following phrases:
+À medida que os ghouls atacam, eles repetem sem pensar qualquer uma ou todas as seguintes frases:
 
-* “Beautiful. We’re so beautiful.”
-* “We are perfect. We are immortal.”
-* “Help us live forever.”
+* “Belas. Nós somos tão belas.”  
+* “Nós somos perfeitos. Nós somos imortais.”  
+* “Ajude-nos a viver para sempre.”
 
-If the players continue down the corridor, read:
+Se os PJs continuarem pelo corredor, leia:
 
 <div class="description">
-<p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
+<p>O caminho termina no centro de uma interseção tranquila. O canto incessante que vocês ouviram desde que entraram pela primeira vez na masmorra é visivelmente mais alto ao longo do ramal norte da interseção.</p>
 </div>
 
 ### Escada Abaixo
@@ -983,26 +986,26 @@ Uma criatura engolida pela primeira forma do monte de carne pode ouvir o suave s
   </tbody>
 </table>
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion, grappled, prone<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <strong><em>heavy sleeper</em></strong> feature is active.<br>
+<strong>Imunidades a Condições</strong> cegueira, surdez, exaustão, agarrado, caído<br>
+<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 10<br>
+<strong>Idiomas</strong> Compreende Comum, mas não pode falar<br>
+<strong>Desafio</strong> 4, ou 3 quando sua característica <strong><em>pesadão</em></strong> está ativa.<br>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>slam</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two attacks. It can replace one of those attacks with <strong><em>engulf</em></strong>. If its <strong><em>heavy sleeper</em></strong> feature is active, it can't use its <strong><em>slam</em></strong> attack more than once, and it can't use <strong><em>engulf</em></strong> on the same turn it uses its <strong><em>slam</em></strong>.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
-<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<p><strong><em>Engulf.</em></strong> The flesh mound attempts to engulf a Medium or smaller creature grappled by it, forcing that creature to make a DC 13 Strength saving throw. On a failure, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Rupture.</em></strong> The flesh mound expels a pustule of rotting flesh, which hits a point within 20 feet of the mound and bursts, spraying each creature within 5 feet with caustic blood and pus. A target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the flesh mound's next turn.</p>
-<p><strong><em>Quake.</em></strong> The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.</p>
-<h3>Reactions</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Squelch.</em></strong> In response to taking damage from a melee attack, the flesh mound attempts to grapple the attacker using their <strong><em>Slam.</em></strong></p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
+<p><strong><em>Pesadão.</em></strong> Se qualquer uma das formas do monte de carne estiver inconsciente nos últimos 60 segundos, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez por turno.</p>
+<p><strong><em>Corpo Viscoso.</em></strong> O monte de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado e provoca ataques de oportunidade normalmente.)</p>
+<p><strong><em>Defesa Instintiva.</em></strong> Quando o monte cai a 0 pontos de vida, ele expulsa cada criatura atualmente engolida por ele. (Essas criaturas aparecem caídas em um espaço vazio a até 1,5 m do monte.) As estatísticas do monte são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não se transfere para sua nova forma, mas ele retém quaisquer condições que tinha em sua forma anterior.</p>
+<h3>Ações</h3>
+<p><strong><em>Múltiplo Ataque.</em></strong> O monte de carne faz dois ataques. Ele pode substituir um desses ataques por <strong><em>engolir</em></strong>. Se sua característica <strong><em>pesadão</em></strong> estiver ativa, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez, e não pode usar <strong><em>engolir</em></strong> no mesmo turno em que usa seu <strong><em>pancada</em></strong>.</p>
+<p><strong><em>Pancada.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 1,5 m, um alvo. <em>Atingido:</em> 14 (2d10 + 3) de dano contundente, ou 10 (2d6 + 3) de dano contundente se a característica <strong><em>pesadão</em></strong> do monte estiver ativa. Se o ataque atingir um alvo Médio ou menor, o alvo é agarrado (DC de fuga 13).</p>
+<p><strong><em>Fragmentos de Osso.</em></strong> <em>Ataque de Arma à Distância:</em> +5 para acertar, alcance 6/18 m, até dois alvos que estejam a até 1,5 m um do outro. <em>Atingido:</em> 5 (1d4 + 3) de dano perfurante.</p>
+<p><strong><em>Engolir.</em></strong> O monte de carne tenta engolir uma criatura Média ou menor que esteja agarrada por ele, forçando essa criatura a fazer um teste de salvaguarda de Força DC 13. Em caso de falha, o alvo engolido fica cego, restrito e incapaz de respirar, e deve ter sucesso em um teste de salvaguarda de Constituição DC 13 no início de cada um de seus turnos ou sofrer 8 (2d4 + 3) de dano contundente. Se o monte se mover, o alvo engolido se move com ele. O monte pode ter apenas uma criatura engolida por vez. Uma criatura engolida pode fazer um teste de salvaguarda de Força DC 13 no final de cada um de seus turnos, libertando-se em caso de sucesso. (Uma vez libertada, a criatura não está mais agarrada.)</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Ruptura.</em></strong> O monte de carne expulsa uma pústula de carne podre, que atinge um ponto a até 6 m do monte e estoura, borrifando cada criatura a até 1,5 m com sangue cáustico e pus. Um alvo deve ter sucesso em um teste de salvaguarda de Constituição DC 13 ou ficará envenenado até o início do próximo turno do monte de carne.</p>
+<p><strong><em>Treme.</em></strong> O monte de carne bate contra o chão, fazendo o cômodo tremer. Cada criatura a até 3 m do monte deve ter sucesso em um teste de salvaguarda de Força DC 13 ou cairá no chão.</p>
+<h3>Reações</h3>
+<p>O monte de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
+<p><strong><em>Esmagar.</em></strong> Em resposta a um dano recebido de um ataque corpo a corpo, o monte de carne tenta agarrar o atacante usando seu <strong><em>Pancada.</em></strong></p>
+<p><strong><em>Rolar.</em></strong> Em resposta a um dano recebido de um ataque à distância ou feitiço, o monte de carne se move até sua velocidade diretamente em direção ou para longe do atacante sem provocar ataques de oportunidade. Se ele se mover em direção ao atacante, pode então imediatamente tentar empurrá-lo.</p>
 </div><br>
 
 <div class="statblock">
@@ -1046,7 +1049,7 @@ Uma criatura engolida pela primeira forma do monte de carne pode ouvir o suave s
 <p><strong><em>Sono Pesado.</em></strong> Se qualquer uma das formas do montículo estiver inconsciente nos últimos minutos, ele não pode usar seu ataque <strong><em>tentáculo</em></strong> mais de uma vez por turno.</p>
 <p><strong><em>Corpo Viscoso.</em></strong> O montículo de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado, e provoca ataques de oportunidade normalmente.)</p>
 <p><strong><em>Coração Inocente.</em></strong> O centro do montículo oculta seu "coração": uma grande e deformada caixa torácica. Dentro da caixa torácica paira o cadáver infantil de Walter Durst. O cadáver de Walter tem CA 15 e os mesmos valores de habilidade que o montículo de carne. Cada vez que o cadáver de Walter recebe dano, o montículo de carne recebe o dobro de dano.</p>
-<p><strong><em>Canção de Ninar da Mãe.</em></strong> Se um PJ usar sua ação para cantarolar ou tocar <em>Valsa para Klara</em> e tiver sucesso em um teste de Carisma (Performance) CD 10, o montículo expõe seu coração e não pode usar sua reação <strong><em>retirada</em></strong> até o início do próximo turno do PJ.
+<p><strong><em>Canção de Ninar da Mãe.</em></strong> Se um PJ usar sua ação para cantarolar ou tocar <em>Valsa para Klara</em> e tiver sucesso em um teste de Carisma (Performance) CD 10, o montículo expõe seu coração e não pode usar sua reação <strong><em>retirada</em></strong> até o início do próximo turno do PJ.</p>
 <h3>Ações</h3>
 <p><strong><em>Múltiplo Ataque.</em></strong> O montículo de carne faz três ataques, ou dois ataques se seu recurso <strong><em>pesadão</em></strong> estiver ativo.</p>
 <p><strong><em>Tentáculo.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 15 pés, um alvo. <em>Atingir:</em> 14 (2d10 + 3) de dano contundente, ou 7 (1d8 + 3) de dano contundente se o recurso <strong><em>pesadão</em></strong> do montículo estiver ativo. Se o alvo for uma criatura, ela deve ter sucesso em um teste de salvaguarda de Força CD 13 ou ser puxada até 15 pés em direção ao montículo.</p>
