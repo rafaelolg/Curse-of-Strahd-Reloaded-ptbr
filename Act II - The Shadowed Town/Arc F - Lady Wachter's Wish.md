@@ -1,6 +1,6 @@
 _Uma aventura para cinco personagens de 4º nível._
 
-Neste arco, se os PJs desafiaram a vontade do Barão na primeira manhã após entrarem em Vallaki, se eles ou Irene foram vistos visitando os refugiados barovianos fora do portão leste, ou se compartilharam sua aversão ao Barão Vallakovich com Nikolai ou Karl Wachter na Estalagem Água Azul, os PJs recebem uma carta entregue por Ernst Larnak, o mensageiro e espião de Lady Fiona Wachter, que os convida para jantar no Wachterhaus naquela noite.
+Neste arco, se os PJs desafiaram a vontade do Barão na primeira manhã após entrarem em Vallaki, se eles ou Ireena foram vistos visitando os refugiados barovianos fora do portão leste, ou se compartilharam sua aversão ao Barão Vallakovich com Nikolai ou Karl Wachter na Estalagem Água Azul, os PJs recebem uma carta entregue por Ernst Larnak, o mensageiro e espião de Lady Fiona Wachter, que os convida para jantar no Wachterhaus naquela noite.
 
 Quando os PJs chegam ao Wachterhaus naquela noite, Lady Wachter os recebe em Vallaki e passa a oferecer-lhes vinho, comida e conversa. Ao longo da noite, ela os interroga sutilmente sobre suas capacidades e objetivos, tudo enquanto trabalha para convencê-los de que o Barão Vargas Vallakovich é uma ameaça que deve ser deposta.
 
@@ -16,7 +16,7 @@ Se os PJs entregarem a cabeça decepada de Izek para Lady Wachter, ela visita o 
 # F1. A Estalagem Água Azul  
 <span class="citation"><em>Esta cena ocorre no Capítulo 5: Área N2.</em></span>
 
-Se os PJs desafiaram o Barão Vallakovich ou de alguma forma intervieram em favor de Willemina na primeira manhã em Vallaki, se eles ou Irene visitaram o acampamento dos refugiados barovianos em algum momento enquanto estavam em Vallaki, ou se os PJs compartilharam sua aversão ao Barão Vallakovich com Nikolai ou Karl Wachter na Estalagem Água Azul, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] lhes entrega um envelope ao retornarem à Estalagem Água Azul naquela mesma noite.
+Se os PJs desafiaram o Barão Vallakovich ou de alguma forma intervieram em favor de Willemina na primeira manhã em Vallaki, se eles ou Ireena visitaram o acampamento dos refugiados barovianos em algum momento enquanto estavam em Vallaki, ou se os PJs compartilharam sua aversão ao Barão Vallakovich com Nikolai ou Karl Wachter na Estalagem Água Azul, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] lhes entrega um envelope ao retornarem à Estalagem Água Azul naquela mesma noite.
 
 O envelope está endereçado ao PJs que primeiro se apresentou a Nikolai e Karl Wachter na noite de sua primeira chegada ou, caso os PJs não tenham interagido com Nikolai e Karl na taverna, ao PJs que primeiro se identificou para os guardas nos portões de Vallaki naquele mesmo dia.
 
@@ -306,7 +306,7 @@ Enquanto os PJs seguem [[Non-Player Characters#Izek Strazni|Izek]], qualquer um 
 > 
 > Se Izek detectar os PJs, ele exige saber se eles o estavam seguindo e os acusa de serem "espiões e criminosos." Os PJs podem enganá-lo com um teste de Carisma (Enganação) CD 9 bem-sucedido. Em caso de falha, Izek ordena que quaisquer guardas próximos prendam os PJs para serem colocados no pelourinho; se os PJs resistirem, ou se não houver guardas por perto, Izek ataca na tentativa de nocauteá-los pessoalmente.
 > 
-> Se os PJs forem detectados, mas conseguirem enganar Izek quanto às suas intenções, e se Izek os viu anteriormente na companhia de Irene Kolyana, ele imediatamente exige saber o paradeiro dela. Os PJs podem enganar Izek com outro teste de Carisma (Enganação) CD 9 bem-sucedido, feito com desvantagem se negarem qualquer associação com Irene. Se ele os pegar em uma mentira, Izek friamente promete "extrair a verdade deles na força" e ataca.
+> Se os PJs forem detectados, mas conseguirem enganar Izek quanto às suas intenções, e se Izek os viu anteriormente na companhia de Ireena Kolyana, ele imediatamente exige saber o paradeiro dela. Os PJs podem enganar Izek com outro teste de Carisma (Enganação) CD 9 bem-sucedido, feito com desvantagem se negarem qualquer associação com Ireena. Se ele os pegar em uma mentira, Izek friamente promete "extrair a verdade deles na força" e ataca.
 ### 1. A Praça da Cidade
 <span class="citation"><em>Esta cena ocorre no Capítulo 5: Área N8.</em></span>
 
@@ -329,7 +329,7 @@ Izek então ordena que um dos guardas busque uma dúzia de virotes de besta prat
 
 Enquanto Izek deixa o Portão da Manhã, ele casualmente ordena a um dos guardas de plantão que compre e entregue um pastel de sonhos para ele quando o vendedor ambulante retornar no dia seguinte.  
 ### 4. Fim do Dia  
-Quando [[Non-Player Characters#Izek Strazni|Izek]] termina a inspeção noturna em todos os portões, ele dispensa seus dois **guardas**, como de costume. Contudo, em vez de seguir para um dos seus habituais pontos de bebida, ele se dirige a <span class="citation">N7. Brinquedos Blinsky (p. 118)</span>, onde tenta pegar a boneca que se parece com Irene Kolyana. 
+Quando [[Non-Player Characters#Izek Strazni|Izek]] termina a inspeção noturna em todos os portões, ele dispensa seus dois **guardas**, como de costume. Contudo, em vez de seguir para um dos seus habituais pontos de bebida, ele se dirige a <span class="citation">N7. Brinquedos Blinsky (p. 118)</span>, onde tenta pegar a boneca que se parece com Ireena Kolyana. 
 
 > [!abstract]+ **A Boneca Desaparecida**
 >
@@ -345,9 +345,9 @@ Enquanto ele estiver envenenado dessa forma, considere a pontuação passiva de 
 
 Se Izek não for perturbado, ele deixa o Lago Zarovich e retorna à mansão do burgomestre aproximadamente quatro horas depois. Se Izek for atacado, ele se defende, jurando destruir os PJs por sua insolência. Izek sempre inicia o combate usando as estatísticas de sua **primeira forma**. Ao perceber seu estado envenenado no final de seu primeiro turno de combate, Izek ruge de fúria e exige saber o que os PJs lhe fizeram.
 
-Se os PJs perguntarem a verdade por trás da boneca em forma de Irene, Izek rosna que a boneca não é da conta deles.
+Se os PJs perguntarem a verdade por trás da boneca em forma de Ireena, Izek rosna que a boneca não é da conta deles.
 
-Se Irene acompanhou os PJs até o lago, Izek a instrui a ficar de lado enquanto ele "ensina a esses vermes algumas maneiras." Se desafiado, ele rosna furioso.
+Se Ireena acompanhou os PJs até o lago, Izek a instrui a ficar de lado enquanto ele "ensina a esses vermes algumas maneiras." Se desafiado, ele rosna furioso.
 
 ![[Lake-Zarovich_Izek-Encounter_4k_NoGrid_40x30_102PPI_Gloom_Fog.jpg]]
 
@@ -395,6 +395,29 @@ Se Irene acompanhou os PJs até o lago, Izek a instrui a ficar de lado enquanto 
       <td>15 (+2)</td>
     </tr>
   </tbody>
+</table>
+<hr>
+<strong>Testes de Salvaguarda</strong> For +8, Con +7<br>
+<strong>Perícias</strong> Atletismo +8, Intimidação +5, Percepção +2<br>
+<strong>Resistências a Dano</strong> fogo<br>
+<strong>Sentidos</strong> Percepção passiva 12<br>
+<strong>Idiomas</strong> Comum<br>
+<strong>Desafio</strong> 6 ou 5 se envenenado<br>
+<hr>
+<p><strong><em>Segunda Fase.</em></strong> Quando Izek é reduzido a 0 pontos de vida, seus braços e sua machadinha são engolidos pelas chamas, os espinhos em seu braço demoníaco crescem mais longos e afiados, e sua pele se torna vermelha e começa a soltar fumaça. Suas estatísticas são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não se transfere para sua nova forma, mas ele retém quaisquer condições que tinha em sua forma anterior.</p>
+<h3>Ações</h3>
+<p><strong><em>Multiataque.</em></strong> Izek faz dois ataques.</p>
+<p><strong><em>Machadinha Prateada.</em></strong> <em>Ataque de arma corpo a corpo:</em> +8 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 11 (1d10 + 5) de dano cortante e Izek pode empurrar o alvo até 1,5 m para longe.</p>
+<p><strong><em>Lançamento de Chamas.</em></strong> <em>Ataque de feitiço à distância:</em> +5 para acertar, alcance 18 m, um alvo. <em>Atingir:</em> 7 (2d6) de dano de fogo.</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Redemoinho Cortante.</em></strong> Izek gira sua machadinha ao seu redor. Cada criatura dentro de um raio de 1,5 m deve ter sucesso em um teste de salvaguarda de Destreza CD 16 ou sofrer 5 (2d4) de dano cortante e cair no chão. Uma criatura que tiver sucesso no teste de salvaguarda sofre metade do dano e não cai no chão.</p>
+<p><strong><em>Salva de Chamas.</em></strong> Izek conjura uma salva de esferas flamejantes que caem sobre um ponto dentro de 18 m que ele pode ver. Cada criatura dentro de 3 m desse ponto deve fazer um teste de salvaguarda de Destreza CD 13 ou sofrer 7 (2d6) de dano de fogo.</p>
+<h3>Reações</h3>
+<p>Izek pode realizar até três reações por rodada, mas apenas uma por turno. Se Izek perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Izek pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigisse originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Retirada Forçada.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, Izek faz um ataque de empurrão contra o atacante. Ele pode então se mover imediatamente até 4,5 m para longe do atacante sem provocar ataques de oportunidade.</p>
+<p><strong><em>Golpe Vingativo.</em></strong> Em resposta a receber dano de um ataque ou feitiço, Izek pode se mover até 4,5 m em direção ao atacante sem provocar ataques de oportunidade. Ele pode então imediatamente fazer um ataque contra essa criatura com sua machadinha.</p>
+</div></tbody>
 </table>
 <hr>
 <strong>Testes de Salvaguarda</strong> Str +8, Con +7<br>
@@ -454,7 +477,7 @@ Se Irene acompanhou os PJs até o lago, Izek a instrui a ficar de lado enquanto 
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Str +8, Con +7<br>
+<strong>Testes de Salvaguarda</strong> For +8, Con +7<br>
 <strong>Perícias</strong> Atletismo +8, Intimidação +5, Percepção +2<br>
 <strong>Imunidades a Dano</strong> fogo<br>
 <strong>Sentidos</strong> Percepção passiva 12<br>
@@ -462,23 +485,23 @@ Se Irene acompanhou os PJs até o lago, Izek a instrui a ficar de lado enquanto 
 <strong>Desafio</strong> 6 ou 5 se envenenado<br>
 <hr>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Izek realiza dois ataques corpo a corpo.</p>
-<p><strong><em>Machado de Batalha Prateado.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 10 (1d8 + 5) de dano cortante mais 2 (1d4) de dano de fogo.</p>
-<p><strong><em>Pancada Flamejante.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 8 (1d4 + 5) de dano contundente mais 2 (1d4) de dano de fogo, e Izek pode empurrar o alvo em até 1,5 m para longe. Em um acerto crítico, o alvo deve também ser bem-sucedido em um teste de salvaguarda de Constituição CD 16 ou ficar atordoado até o início do próximo turno de Izek. (A criatura pode se mover ou realizar uma ação em seu turno, não ambos. Também não pode realizar uma ação bônus ou reação.)</p>
-<p><strong><em>Onda Flamejante.</em></strong> Uma onda de chamas varre Izek em uma linha de 18 m de comprimento por 1,5 m de largura. Cada criatura na linha deve realizar um teste de salvaguarda de Destreza CD 13 ou sofrer 11 (2d10) de dano de fogo. O fogo incendeia objetos inflamáveis na área que não estejam sendo usados ou carregados.</p>
+<p><strong><em>Multiataque.</em></strong> Izek faz dois ataques corpo a corpo.</p>
+<p><strong><em>Machado de Batalha Prateado.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 10 (1d8 + 5) de dano cortante mais 2 (1d4) de dano de fogo.</p>
+<p><strong><em>Soco Flamejante.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 8 (1d4 + 5) de dano contundente mais 2 (1d4) de dano de fogo, e Izek pode empurrar o alvo até 1,5 m para longe. Em um acerto crítico, o alvo deve também ter sucesso em um teste de salvaguarda de Constituição CD 16 ou ficará atordoado até o início do próximo turno de Izek. (Essa criatura pode se mover ou realizar uma ação em seu turno, não ambas. Ela também não pode realizar uma ação bônus ou uma reação.)</p>
+<p><strong><em>Onda Flamejante.</em></strong> Uma onda de chamas se espalha a partir de Izek em uma linha de 18 metros de comprimento e 1,5 metros de largura. Cada criatura na linha deve fazer um teste de salvaguarda de Destreza CD 13 ou sofrer 11 (2d10) de dano de fogo. O fogo incendeia objetos inflamáveis na área que não estão sendo usados ou carregados.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Explosão de Chamas.</em></strong> Izek crava seu machado no chão, causando um turbilhão de chamas ao seu redor. Cada criatura em um raio de 1,5 m deve realizar um teste de salvaguarda de Destreza CD 13 ou sofrer 7 (2d6) de dano de fogo.</p>
-<p><strong><em>Explosão Explosiva.</em></strong> Uma faixa brilhante pisca da mão garrada de Izek até um ponto que ele escolhe em até 27 m e então explode com um rugido baixo em uma explosão de chamas. Cada criatura em uma esfera de 1,5 m de raio centrada nesse ponto deve realizar um teste de salvaguarda de Destreza CD 13. Um alvo sofre 7 (2d6) de dano de fogo em uma falha, ou metade do dano em um sucesso. Um alvo que falhar no teste também é derrubado. O fogo se espalha ao redor de cantos. Ele incendeia objetos inflamáveis na área que não estejam sendo usados ou carregados.</p>
+<p><strong><em>Explosão Flamejante.</em></strong> Izek golpeia seu machado contra o chão, causando um turbilhão de chamas ao seu redor. Cada criatura a até 1,5 m deve fazer um teste de salvaguarda de Destreza CD 13 ou sofrer 7 (2d6) de dano de fogo.</p>
+<p><strong><em>Explosão Explosiva.</em></strong> Um brilho intenso surge da mão garras de Izek em direção a um ponto que ele escolhe a até 27 metros e então explode com um baixo rugido em uma explosão de chamas. Cada criatura em uma esfera de 1,5 m de raio centrada naquele ponto deve fazer um teste de salvaguarda de Destreza CD 13. Um alvo sofre 7 (2d6) de dano de fogo em um teste falho, ou metade desse dano em um teste bem-sucedido. Um alvo que falha no teste também é derrubado. O fogo se espalha por esquinas. Ele incendeia objetos inflamáveis na área que não estão sendo usados ou carregados.</p>
 <h3>Reações</h3>
-<p>Izek pode realizar até três reações por rodada, mas apenas uma por turno. Se Izek perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Izek pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição originalmente não exigiu que ele falhasse em um teste de salvaguarda.)</p>
-<p><strong><em>Perseguição Ardente.</em></strong> Em resposta a sofrer dano de um ataque ou magia, Izek se impulsiona para frente com um jato de chamas crepitantes, movendo-se até 9 m sem provocar ataques de oportunidade. Ele pode então imediatamente realizar um ataque de <strong><em>pancada flamejante</em></strong> contra uma criatura dentro do alcance.</p>
-<p><strong><em>Faíscas de Cinzas.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, Izek faz o ar ao seu redor explodir em cinzas rodopiantes. O atacante deve ser bem-sucedido em um teste de salvaguarda de Constituição CD 13 ou sofrer 2 (1d4) de dano de fogo e ficar cego até o final do seu próximo turno.</p>
-<p><strong><em>Queimadura Retaliatória (1/rodada).</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo feito com uma arma de metal, Izek faz o objeto brilhar em vermelho incandescente até o início do seu próximo turno. Qualquer criatura em contato físico com a arma sofre imediatamente 4 (1d8) de dano de fogo e deve ser bem-sucedida em um teste de salvaguarda de Constituição CD 13 ou largar a arma, se puder. Se não largar o objeto, sofre desvantagem em jogadas de ataque e testes de habilidade até o início do próximo turno de Izek.</p>
+<p>Izek pode realizar até três reações por rodada, mas apenas uma por turno. Se Izek perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Izek pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Perseguição Ardente.</em></strong> Em resposta a receber dano de um ataque ou feitiço, Izek se impulsiona para frente com um jato de chamas crepitantes, movendo-se até 9 metros sem provocar ataques de oportunidade. Ele pode então imediatamente realizar um ataque de <strong><em>soco flamejante</em></strong> contra uma criatura dentro do alcance.</p>
+<p><strong><em>Faíscas de Cinzas.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, Izek faz com que o ar ao seu redor exploda com cinzas giratórias. O atacante deve ter sucesso em um teste de salvaguarda de Constituição CD 13 ou sofrer 2 (1d4) de dano de fogo e ficar cego até o final de seu próximo turno.</p>
+<p><strong><em>Queimadura Retaliatória (1/rodada).</em></strong> Em resposta a receber dano de um ataque corpo a corpo feito com uma arma de metal, Izek faz com que o objeto brilhe em vermelho até o início de seu próximo turno. Qualquer criatura em contato físico com a arma imediatamente sofre 4 (1d8) de dano de fogo e deve ter sucesso em um teste de salvaguarda de Constituição CD 13 ou soltar a arma se puder. Se não soltar o objeto, ela tem desvantagem em jogadas de ataque e testes de habilidade até o início do próximo turno de Izek.</p>
 </div>
 
 > [!combat]+ **Equilibrando o Brutamontes**  
-> Devido à mecânica de fases, esta é uma série de dois encontros de combate **intensos** consecutivos contra um grupo de cinco jogadores de 4º nível e um aliado CR 2 (Irene Kolyana), consumindo aproximadamente 31% do total de pontos de vida máximos de cada um em cada fase (totalizando 62% dos pontos de vida máximos). Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
+> Devido à mecânica de fases, esta é uma série de dois encontros de combate **intensos** consecutivos contra um grupo de cinco jogadores de 4º nível e um aliado CR 2 (Ireena Kolyana), consumindo aproximadamente 31% do total de pontos de vida máximos de cada um em cada fase (totalizando 62% dos pontos de vida máximos). Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
 >  
 > * ***Três Jogadores.*** Reduza os pontos de vida de Izek para 75 em cada fase. Na primeira fase, reduza o ataque com machado prateado para 7 (1d8+3) de dano, o ataque de arremesso flamejante e a ação bônus de rajada de chamas para 4 (1d8) de dano, e a ação bônus de redemoinho cortante para 3 (1d6) de dano. Na segunda fase, reduza o ataque com machado prateado para 6 (1d6+3) de dano cortante mais 1 de dano de fogo, o ataque de soco flamejante para 5 (1d4+3) de dano contundente mais 1 de dano de fogo, a ação de onda flamejante para 7 (2d6) de dano, as ações bônus de explosão de chamas e explosão destrutiva para 4 (1d8) de dano, a reação de queimadura retaliatória para 2 (1d4) de dano de fogo, e a reação de faíscas incandescentes para 1 de dano de fogo.  
 > * ***Quatro Jogadores.*** Reduza os pontos de vida de Izek para 92 em cada fase. Na primeira fase, reduza o ataque com machado prateado para 9 (1d8+5) de dano, o ataque de arremesso flamejante e a ação bônus de rajada de chamas para 5 (1d10) de dano, e a ação bônus de redemoinho cortante para 4 (1d8) de dano. Na segunda fase, reduza o ataque com machado prateado para 8 (1d6+5) de dano cortante mais 1 de dano de fogo, o ataque de soco flamejante para 7 (1d4+5) de dano contundente mais 1 de dano de fogo, a ação de onda flamejante para 9 (2d8) de dano, as ações bônus de explosão de chamas e explosão destrutiva para 6 (1d12) de dano, a reação de queimadura retaliatória para 3 (1d6) de dano de fogo, e a reação de faíscas incandescentes para 1 de dano de fogo.  

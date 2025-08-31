@@ -5,7 +5,7 @@ Como todos os Domínios do Terror, a Baróvia está aprisionada pelas Brumas de 
 
 Poucos—incluindo apenas arquimagos, estudiosos e (às vezes) os próprios Senhores das Trevas—sabem que os Poderes Sombrios existem. Menos ainda conhecem sua verdadeira natureza e origens. Embora os Poderes Sombrios tenham nascido da miasma do mal que habita dentro do Templo de Âmbar da Baróvia, eles não são, por si mesmos, os vestígios—os fragmentos não-sapientes de deuses mortos e malévolos—que estão selados dentro dos sarcófagos do templo. (Para mais informações sobre os vestígios do Templo de Âmbar, veja <span class="citation">O Templo de Âmbar (p. 181)</span>.)
 
-Os Poderes Sombrios não buscam necessariamente corromper aqueles que encontram. Em vez disso, para certos indivíduos, eles procuram oferecer uma escolha entre a escuridão e a luz—e punir e aprisionar aqueles que sucumbem às suas tentações. Nesta aventura, dois desses indivíduos são Strahd von Zarovich e Irene Kolyana.
+Os Poderes Sombrios não buscam necessariamente corromper aqueles que encontram. Em vez disso, para certos indivíduos, eles procuram oferecer uma escolha entre a escuridão e a luz—e punir e aprisionar aqueles que sucumbem às suas tentações. Nesta aventura, dois desses indivíduos são Strahd von Zarovich e Ireena Kolyana.
 
 Conforme descrito em <span class="citation">Brumas de Ravenloft</span> e <span class="citation">Luz do Sol na Baróvia (p. 23-24)</span>, a terra da Baróvia é cercada por uma névoa mortal que envolve qualquer criatura que tente deixar o lugar, e não conhece a luz do sol há séculos. 
 
@@ -42,7 +42,7 @@ Isso mudou quando o filho do sacerdote, Doru—encorajado pela chegada do caçad
 
 Strahd então despertou um exército de morto-vivos e o enviou contra a vila como punição por sua insolência. O cerco à Baróvia dizimou a vila, matando dezenas e ferindo muitos mais. Somente quando o burgomestre da Baróvia, um homem chamado Kolyan Indirovich, foi morto em batalha, as forças de Strahd finalmente se retiraram, julgando o massacre como uma punição exemplar o suficiente. 
 
-Os filhos do burgomestre, Ismark e Irene, assumiram o comando do esforço de reconstrução. Mesmo assim, muitos barovianos, temerosos do surgimento de Strahd e da sombra do Castelo Ravenloft, abandonaram seus lares arruinados e famílias despedaçadas e fugiram para Vallaki, a oeste, na esperança de que suas altas muralhas pudessem trazer segurança. Muitos daqueles que permaneceram na vila voltaram-se contra Ismark, culpando-o e a seu pai por permitir que Strahd despertasse e por não terem feito mais para prevenir o contra-ataque de Strahd. Ismark—nomeado em homenagem a “Ismark o Grande”, um herói ancestral que erradicou ninhos de vampiros pelo vale—é agora desprezado como “Ismark o Menor.”
+Os filhos do burgomestre, Ismark e Ireena, assumiram o comando do esforço de reconstrução. Mesmo assim, muitos barovianos, temerosos do surgimento de Strahd e da sombra do Castelo Ravenloft, abandonaram seus lares arruinados e famílias despedaçadas e fugiram para Vallaki, a oeste, na esperança de que suas altas muralhas pudessem trazer segurança. Muitos daqueles que permaneceram na vila voltaram-se contra Ismark, culpando-o e a seu pai por permitir que Strahd despertasse e por não terem feito mais para prevenir o contra-ataque de Strahd. Ismark—nomeado em homenagem a “Ismark o Grande”, um herói ancestral que erradicou ninhos de vampiros pelo vale—é agora desprezado como “Ismark o Menor.”
 
 A vila caiu em um estado de paranoia, desespero e desolação. Vizinhos desconfiam uns dos outros, temerosos de que qualquer pessoa possa ser encantada por um vampiro—ou, pior, um vampiro disfarçado. Poucos saem de casa, seja de dia ou de noite. Todos evitam a igreja, um edifício marcado e assombrado, rumorando-se que foi amaldiçoado pelo próprio Diabo Strahd.
 
@@ -60,8 +60,8 @@ O povo de Krezk é em grande parte como descrito em <span class="citation">Capí
 Os Vistani são em grande parte como descritos em <span class="citation">Vistani (p. 26)</span>, com dois grandes assentamentos semi-permanentes: o acampamento no Lago Tser (como descrito em <span class="citation">G. Acampamento do Lago Tser (p. 36)</span>), e o acampamento perto de Vallaki (como descrito em <span class="citation">N9. Acampamento Vistani (p. 119)</span>). 
 
 No entanto, a maioria dos Vistani barovianos vê o vale como um abrigo temporário contra os males do mundo além, ou como uma breve parada em suas jornadas através das brumas. Apenas alguns Vistani dentro da Baróvia residem lá permanentemente e consideram Strahd como seu "rei"; entre aqueles que o fazem, ainda menos servem Strahd fielmente como seus olhos, ouvidos e mãos no vale. A maioria dos Vistani barovianos simplesmente deseja viver suas vidas, participar das maravilhas da vida e criar suas famílias em paz.  
-## Elfos do Crepúsculo  
-Os elfos do crepúsculo são como descritos em <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>.  
+## elfos crepusculáres  
+Os elfos crepusculáres são como descritos em <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>.  
 ## Primeiros Povos  
 Os Primeiros Povos são uma sociedade solta de caçadores-coletores druidicos descendentes dos nômades que primeiro se estabeleceram no vale há milênios. Desde a chegada de Strahd ao vale, eles se dividiram em duas facções: os Povos da Floresta, que adoram Strahd como uma divindade e fazem sua vontade através da Floresta Svalich; e os Povos da Montanha, um povo recluso que se mantém na antiga religião das Três Damas e que em grande parte permanece dentro do assentamento protegido de Soldav, escondido nas encostas do Monte Ghakis.  
 # Facções  
@@ -69,11 +69,11 @@ Os Primeiros Povos são uma sociedade solta de caçadores-coletores druidicos de
 
 Tanto em todo lugar quanto em lugar nenhum, os Poderes Sombrios não são exatamente uma facção propriamente dita—seus objetivos são insondáveis, sua verdadeira agenda oculta. Como os carcereiros sem nome de Strahd von Zarovich, eles buscam apenas garantir que sua prisão permaneça intacta, e seu sofrimento continue.
 
-Como parte da punição de Strahd, no entanto, os Poderes Sombrios trabalham silenciosamente para manter a alma de Tatyana Federovna—agora reencarnada como Irene Kolyana—fora do alcance do vampiro. Por mais poderosos que sejam, é contra a natureza dos Poderes Sombrios agir diretamente sobre as almas dentro de seus domínios: eles não podem destruí-la, nem comandar seu espírito. 
+Como parte da punição de Strahd, no entanto, os Poderes Sombrios trabalham silenciosamente para manter a alma de Tatyana Federovna—agora reencarnada como Ireena Kolyana—fora do alcance do vampiro. Por mais poderosos que sejam, é contra a natureza dos Poderes Sombrios agir diretamente sobre as almas dentro de seus domínios: eles não podem destruí-la, nem comandar seu espírito. 
 
-No entanto, assim como fizeram uma vez com Strahd, os Poderes Sombrios sempre podem oferecer uma escolha—no caso de Irene, uma escolha para acabar com sua existência, fugir da perseguição de Strahd e encontrar a segurança do esquecimento temporário. Quase quinhentos anos atrás, Tatyana Federovna aceitou essa oferta e saltou do Monólito de Ravenloft para sua condenação. Quarenta anos depois, Marina Ulrich fez o mesmo e revelou a seu pai o segredo da perseguição de Strahd.
+No entanto, assim como fizeram uma vez com Strahd, os Poderes Sombrios sempre podem oferecer uma escolha—no caso de Ireena, uma escolha para acabar com sua existência, fugir da perseguição de Strahd e encontrar a segurança do esquecimento temporário. Quase quinhentos anos atrás, Tatyana Federovna aceitou essa oferta e saltou do Monólito de Ravenloft para sua condenação. Quarenta anos depois, Marina Ulrich fez o mesmo e revelou a seu pai o segredo da perseguição de Strahd.
 
-Repetidas vezes, as mulheres que carregam a alma de Tatyana foram apresentadas a essa escolha e, desprovidas de outras opções, tomaram a decisão de aceitá-la. Ainda não é a hora de Irene—mas os Poderes Sombrios são pacientes, e sabem que, sozinha, ela inevitavelmente cairá mais uma vez em suas garras.
+Repetidas vezes, as mulheres que carregam a alma de Tatyana foram apresentadas a essa escolha e, desprovidas de outras opções, tomaram a decisão de aceitá-la. Ainda não é a hora de Ireena—mas os Poderes Sombrios são pacientes, e sabem que, sozinha, ela inevitavelmente cairá mais uma vez em suas garras.
 
 ## Guardiões da Pena
 
@@ -226,14 +226,14 @@ Mais pragmaticamente, a narrativa acelerada do módulo requer tempos de viagem c
 
 ***Culturas.*** As mudanças na história da Baróvia são discutidas em mais detalhes em **História da Baróvia** abaixo. Em Vallaki, Izek Strazni agora conta com um pequeno número de espiões locais para explicar por que—em uma cidade onde todos os guardas foram designados para patrulhar as muralhas—o Barão consegue tão facilmente encontrar e processar indivíduos por "infelicidade maliciosa." Em segundo lugar, os Primeiros Povos foram incluídos para fornecer uma história compartilhada para os druidas enlouquecidos da Colina d'Antes e os berserkers das Montanhas Balinok.
 
- ***Facções.*** Mais informações sobre a relação dos Poderes Sombrios com Strahd von Zarovich e Irene Kolyana são discutidas no **Capítulo 3: Conduzindo o Jogo.** O falecido licantropo-corvo, Elric, foi adicionado aos Prelados da Pena para explicar por que Baba Lysaga e os druidas da Colina d'Antes descobriram repentinamente a existência da sociedade. 
+ ***Facções.*** Mais informações sobre a relação dos Poderes Sombrios com Strahd von Zarovich e Ireena Kolyana são discutidas no **Capítulo 3: Conduzindo o Jogo.** O falecido licantropo-corvo, Elric, foi adicionado aos Prelados da Pena para explicar por que Baba Lysaga e os druidas da Colina d'Antes descobriram repentinamente a existência da sociedade. 
 
-Enquanto isso, os refugiados da vila da Baróvia foram adicionados do lado de fora das muralhas de Vallaki para dar a Irene uma razão não egoísta para viajar até Vallaki (ou seja, para ajudar os refugiados a se relocarem da Baróvia); para explicar por que a vila da Baróvia é uma cidade vazia e oca; e para fornecer a Fiona Wachter vítimas para oferecer a Strahd na noite do "Imposto de Sangue" de Vallaki, o que proporciona aos PJs uma oportunidade crítica de infiltrar o Castelo Ravenloft enquanto Strahd não está presente.
+Enquanto isso, os refugiados da vila da Baróvia foram adicionados do lado de fora das muralhas de Vallaki para dar a Ireena uma razão não egoísta para viajar até Vallaki (ou seja, para ajudar os refugiados a se relocarem da Baróvia); para explicar por que a vila da Baróvia é uma cidade vazia e oca; e para fornecer a Fiona Wachter vítimas para oferecer a Strahd na noite do "Imposto de Sangue" de Vallaki, o que proporciona aos PJs uma oportunidade crítica de infiltrar o Castelo Ravenloft enquanto Strahd não está presente.
 
 Os "bons" Povos da Montanha de Soldav foram adicionados para proporcionar aos jogadores uma oportunidade significativa de aprender sobre a história dos druidas enlouquecidos da Colina d'Antes e para conectar os jogadores à linha de missões das Damas dos Santuários—um arco narrativo que agora desempenha um papel crucial no plano final de Strahd.
 
 Finalmente, a história recente da matilha de lobisomens foi atualizada para se conectar mais fortemente à narrativa do recente reavivamento de Strahd, enquanto os vestígios âmbar receberam "fragmentos âmbar" para introduzir os jogadores à sua corrupção em uma escala de tempo muito anterior à do módulo original.
 
-***Religiões.*** O culto de Ezra foi adicionado à campanha para proporcionar uma profundidade adicional à caracterização de Fiona Wachter e para prenunciar a verdadeira natureza dos Poderes Sombrios antes que Irene os encontre e os desafie no clímax de seu arco de personagem.
+***Religiões.*** O culto de Ezra foi adicionado à campanha para proporcionar uma profundidade adicional à caracterização de Fiona Wachter e para prenunciar a verdadeira natureza dos Poderes Sombrios antes que Ireena os encontre e os desafie no clímax de seu arco de personagem.
 
 <sup>1</sup> Calendário Baroviano, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (última visita em 29 de mar. de 2024).

@@ -1,36 +1,36 @@
-_An adventure for five 5th-level characters._
+_Uma aventura para cinco personagens de 5º nível._
 
-In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+Neste arco, na primeira manhã após a primeira lua cheia dos PJs na Baróvia, eles são abordados por Urwin Martikov, que lhes pede para investigar uma misteriosa escassez de entregas de vinho da vinícola Mago dos Vinhos para o sudoeste. Se os PJs aceitarem sua missão, Urwin pede que eles permitam que Muriel Vinshaw—uma funcionária da vinícola—os acompanhe na jornada. (Muriel é, claro, uma **licantropo-corvo** secreta e membro do Prelado da Pena, encarregada de levar a palavra da profecia de Strahd a Davian Martikov, o líder da ordem.)
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Antes que os PJs deixem Vallaki, Ireena Kolyana—inspirada pelas façanhas dos PJs ali e preenchida com uma determinação sombria após seus encontros com Izek Strazni—pede que a deixem acompanhá-los em suas viagens, abandonando o santuário de Vallaki por uma oportunidade de se juntar à luta contra Strahd. Se os PJs aceitarem seu pedido, Ireena se junta ao grupo como uma companheira permanente pelo restante da campanha.
 
-Upon arriving at the Wizard of Wines, the players meet Davian Martikov—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
+Ao chegarem ao Mago dos Vinhos, os PJs encontram Davian Martikov—o patriarca da família Martikov—e seus diversos filhos e netos, que se refugiaram em uma caverna oculta sob as árvores próximas. Davian revela que a vinícola foi invadida por um grupo de druidas conhecidos como o Povo da Floresta, juntamente com uma horda de criaturas vegetais distorcidas chamadas **blights**. Davian pede aos PJs que derrotem o Povo da Floresta e quebrem o bastão que seu líder usa para controlar os blights, permitindo que os Martikovs recuperem seu lar.
 
-To do so, the players must enter the winery through a secret tunnel that leads into the cellar, then do battle with the druids and their corrupted blight servants. The druids, however, are nurturing a cutting of the “Gulthias tree"—a vampiric tree that grows atop Yester Hill to the south—within the walls of the winery, complicating the players’ efforts to reach the upper levels.
+Para isso, os PJs devem entrar na vinícola através de um túnel secreto que leva até a adega, e então enfrentar os druidas e seus servos corrompidos pela praga. Os druidas, no entanto, estão cultivando um broto da “árvore Gulthias” — uma árvore vampírica que cresce no topo da Colina d'Antes, ao sul — dentro das paredes da vinícola, complicando os esforços dos PJs para alcançar os níveis superiores.
 
-Should the players defeat the druids, they learn that the Forest Folk are planning a ritual to summon a being called “Wintersplinter" at Yester Hill the following day—a being that threatens to smash the winery into pieces. Davian asks the players and Muriel to journey to Yester Hill and prevent Wintersplinter’s birth. Davian also asks the players to retrieve an enchanted gemstone that the winery previously used to grow grapes before it was stolen by the druids.
+Se os PJs derrotarem os druidas, eles descobrem que o Povo da Floresta está planejando um ritual para invocar um ser chamado “Wintersplinter” na Colina d'Antes no dia seguinte—um ser que ameaça despedaçar a vinícola. Davian pede aos PJs e a Muriel que viagem até a Colina d'Antes e impeçam o nascimento de Wintersplinter. Davian também solicita que os PJs recuperem uma gema encantada que a vinícola usava anteriormente para cultivar uvas antes de ser roubada pelos druidas.
 
-At Yester Hill, Muriel first guides the players to a grove in the shadow of the Svalich Woods. There, she summons the spirit of Kavan, an ancient chieftain of the Forest Folk, who provides information regarding the druids’ plans and defenses. Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.
+Na Colina d'Antes, Muriel primeiro guia os PJs até um bosque na sombra da Floresta Svalich. Lá, ela convoca o espírito de Kavan, um antigo chefe do Povo da Floresta, que fornece informações sobre os planos e defesas dos druidas. Kavan adverte os PJs de que Svarog, o líder dos druidas, é um inimigo poderoso, e os convida a retornar ao seu túmulo caso consigam derrotar Svarog e recuperar sua varinha de teixo.
 
-As the players continue their journey to Yester Hill, they are met by Strahd von Zarovich riding his **nightmare**, Beucephalus. Should the players convince Strahd to allow them to oppose the druids, Strahd suggests a wager and offers a reward should they win, which the players can collect at the Whispering Wall west of Yester Hill after the battle.
+À medida que os PJs continuam sua jornada para a Colina d'Antes, eles são surpreendidos por Strahd von Zarovich montado em seu **pesadelo** (_nightmare_), Beucephalus. Caso os PJs convençam Strahd a permitir que se oponham aos druidas, Strahd sugere uma aposta e oferece uma recompensa caso vençam, que os PJs poderão coletar na Muralha Sussurrante a oeste da Colina d'Antes após a batalha.
 
-The players must climb Yester Hill without alerting the druids’ patrols, fight their way past the guardians of the stone ring atop the hill, and defeat Svarog’s circle of druids before they can summon Wintersplinter, a fearsome **tree blight** that threatens to lay siege to the Wizard of Wines winery. If the players succeed, they can obtain the Martikovs’ stolen gemstone from Wintersplinter’s heart and end the threat of the Forest Folk for good.
+Os PJs devem escalar a Colina d'Antes sem alertar as patrulhas dos druidas, lutar contra os guardiões do anel de pedras no topo da colina e derrotar o círculo de druidas de Svarog antes que consigam invocar Wintersplinter, um temível _tree blight_ que ameaça sitiar a vinícola do Mago dos Vinhos. Se os PJs tiverem sucesso, poderão obter a joia roubada dos Martikovs do coração de Wintersplinter e acabar com a ameaça dos Povos da Floresta de uma vez por todas.
 
-Should the players meet Strahd at the Whispering Wall, he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
+Se os PJs encontrarem Strahd na Muralha Sussurrante, ele compartilha uma breve história da muralha e os convida a se aventurarem em suas brumas profundas, onde poderão enfrentar visões de seus desejos mais profundos. Antes de partir, Strahd apresenta aos PJs sua recompensa, bem como presentes adicionais para cada PJ que entrou e retornou da Muralha Sussurrante.
 
-Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
-# J1. The Blue Water Inn
-### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, Urwin Martikov approaches them with an expression of obvious concern. 
+Se os PJs retornarem ao túmulo de Kavan e lhe apresentarem a varinha de Svarog, ele compartilha com eles a história do cisma entre os Povos da Floresta (que escolheram adorar Strahd) e os Povos da Montanha (que desafiaram a autoridade de Strahd) há muito tempo. Kavan conta aos PJs sobre as Damas dos Santuários e os instrui a viajar para o escondido assentamento dos Povos da Montanha, Soldav, na Passagem Tsolenka, se desejarem encontrar uma maneira de reverter a corrupção da terra.
+# J1. A Estalagem Água Azul
+### J1a. O Pedido de Urwin
+Na manhã após a noite da primeira lua cheia dos PJs na Baróvia, se eles estiverem hospedados na Estalagem Água Azul, Urwin Martikov se aproxima deles com uma expressão de evidente preocupação. 
 
 After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
 
 * The Blue Water Inn ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
 * However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and Danika have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
 
-Urwin asks the players to travel to the Wizard of Wines and speak with the owner, a man named Davian Martikov, to discern the reason for the delay and resolve it, if necessary. (If the players point out Davian’s last name, Urwin grimly admits that Davian is his father, but refuses to elaborate, sharing only that he and his father have not spoken in many years.) Urwin warns the players that Davian is a “stubborn old bird," and that his short temper might wear on their patience.
+Urwin pede aos PJs que viagem até o Mago dos Vinhos e conversem com o proprietário, um homem chamado Davian Martikov, para descobrir o motivo do atraso e resolvê-lo, se necessário. (Se os PJs mencionarem o sobrenome de Davian, Urwin admite com pesar que Davian é seu pai, mas se recusa a dar mais detalhes, compartilhando apenas que ele e seu pai não se falam há muitos anos.) Urwin alerta os PJs de que Davian é um “velho teimoso”, e que seu temperamento explosivo pode testar a paciência deles.
 
-Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
+Urwin observa, no entanto, que a estalagem possui estoque suficiente de vinho para durar pelo menos alguns dias. Se os PJs tiverem assuntos mais urgentes a tratar, ele fica satisfeito em permitir que eles fiquem mais um ou dois dias antes de partirem.
 
 If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
 
@@ -83,13 +83,13 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 
 <div class="statblock">
     <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <em>Médio humanoide (humano, metamorfose), caótico e bom</em>
     <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
+    <strong>Classe de Armadura</strong> 14 (armadura de couro)
     <br>
-    <strong>Hit Points</strong> 63 (14d8)
+    <strong>Pontos de Vida</strong> 63 (14d8)
     <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <strong>Velocidade</strong> 9 m (voo 15 m nas formas de corvo e híbrida)
     <hr>
     <table class="ability-table">
         <thead>
@@ -114,24 +114,24 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Perícias</strong> Intuição +4, Percepção +6<br>
+    <strong>Sentidos</strong> Percepção passiva 16<br>
+    <strong>Idiomas</strong> Comum (não pode falar na forma de corvo)<br>
+    <strong>Nível de Desafio</strong> 2<br>
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+    <p><strong><em>Mimic.</em></strong> Muriel pode imitar sons simples que ouviu, como o sussurro de uma pessoa, o choro de um bebê ou o chilrear de um animal. Uma criatura que ouça esses sons pode perceber que são imitações com um teste bem-sucedido de Sabedoria (Intuição) CD 10.</p>
+    <p><strong><em>Queda Livre.</em></strong> Se Muriel voar pelo menos 6 metros em linha reta em direção a um alvo enquanto desce pelo menos 1,5 metro em direção ao solo, e então atingir esse alvo com um ataque de espada curta no mesmo turno, o alvo sofre 7 (2d6) de dano perfurante adicional. Se o alvo for uma criatura, ela deve ser bem-sucedida em um teste de salvaguarda de Força CD 12 ou será derrubada ao chão.</p>
+    <h3>Ações</h3>
+    <p><strong><em>Multiataque.</em></strong> Muriel realiza dois ataques com armas, um dos quais pode ser com sua besta de mão.</p>
+    <p><strong><em>Espada Curta.</em></strong> (Apenas Forma Humanoide ou Híbrida) <em>Ataque Corpo a Corpo com Arma:</em> +5 para atingir, alcance de 1,5 m, um alvo. <em>Acerto:</em> 6 (1d6 + 3) de dano perfurante.</p>
+    <p><strong><em>Bestas de Mão.</em></strong> (Apenas Forma Humanoide ou Híbrida) <em>Ataque à Distância com Arma:</em> +5 para atingir, alcance 9/36 m, um alvo. <em>Acerto:</em> 5 (1d6 + 3) de dano perfurante.</p>
+    <p><strong><em>Bico.</em></strong> (Apenas na Forma de Corvo ou Híbrida) <em>Ataque Corpo a Corpo com Arma:</em> +5 para atingir, alcance de 1,5 m, um alvo. <em>Acerto:</em> 1 de dano perfurante na forma de corvo, ou 5 (1d4 + 3) de dano perfurante na forma híbrida. Se o alvo for humanoide, deve ser bem-sucedido em um teste de salvaguarda de Constituição CD 10 ou será amaldiçoado com licantropia wereraven.</p>
+    <h3>Ações Bônus</h3>
+    <p><strong><em>Shapechange.</em></strong> Muriel se transforma em um híbrido humanoide-corvo ou em um corvo, ou retorna à sua forma humana. Suas estatísticas, exceto pelo tamanho, são as mesmas em cada forma. Qualquer equipamento que ela esteja vestindo ou carregando não é transformado. Ela retorna à sua forma humana se morrer.</p>
+    <h3>Reações</h3>
+    <p><strong><em>Interpor-se.</em></strong> Quando uma criatura que Muriel pode ver atinge outro alvo a até 1,5 metro de Muriel com um ataque, ela pode usar sua reação para absorver o dano em seu lugar.</p>
 </div>
 
 ### Ireena's Request
@@ -154,23 +154,23 @@ The journey from the town of Vallaki to the **Wizard of Wines winery** is just u
 As the players cross the bridge over the Luna River, read the following:
 
 <div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
+<p>O caminho se estreita, ladeado por árvores densas e imponentes. À frente, vocês avistam uma velha ponte de madeira, suas tábuas gastas pelo tempo estendendo-se sobre o rio impetuoso abaixo. Ao se aproximarem, podem ver o rio escuro tumulando sobre as pedras lisas do leito, margeado de ambos os lados por arbustos retorcidos e árvores retorcidas.</p>
+<p>Ao pisarem na ponte, as botas ecoam contra a madeira antiga e úmida. Ao norte, o rio serpenteia rio acima contornando a linha das árvores antes de desaparecer em uma curva. Ao sul, o rio se enrola como uma fita entre suas margens, para então desaparecer gradualmente nas Brumas.</p>
 </div>
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+Os Cruzamentos do Rio Luna são descritos conforme em <span class="citation">P. Luna River Crossroads (p. 40)</span>. Contudo, não verifique por um encontro aleatório quando os PJs chegarem a esta área.
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+À medida que os PJs passam por ali, o caminho para o Silvado de Argynvost é em grande parte como descrito em <span class="citation">Aproximando-se da Mansão (p. 130)</span>. Leia:
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>Um caminho de terra se ramifica da Velha estrada Svalich aqui, serpenteando para o sul, subindo por um penhasco rochoso da montanha. A terra do caminho é compactada e dura, sua cor é um cinza-pardo pálido que lembra cinzas frias. As árvores de ambos os lados permanecem silenciosas e estoicas, suas folhas de um verde desbotado. À medida que o caminho sobe, ele é gradualmente engolido pelas sombras profundas da encosta florestada da montanha, desaparecendo na penumbra da Floresta Svalich além.</p>
 </div>
 
 ## J2b. The Path to Tsolenka Pass
 Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
 
 <div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
+<p>Uma antiga trilha de caça se desvia da Velha estrada Svalich neste ponto, serpenteando para o norte entre árvores retorcidas e ancestrais antes de desaparecer sob a vegetação rasteira. Cem metros adiante, um caminho alpino se separa da estrada principal e segue para o sul, em direção às montanhas, elevando-se gradualmente até sumir atrás de um escarpado íngreme coberto por árvores sombrias.</p>
 </div>
 
 As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **berserker** lurking in the southern underbrush. Read:
@@ -194,7 +194,7 @@ If the players ask Muriel about the druid of the Forest Folk that they saw on th
 The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
 <div class="description">
-<p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
+<p>Uma figura vestida com uma armadura enferrujada permanece solitária sobre a ponte, segurando com mãos pálidas uma espada longa reluzente.</p>
 </div>
 
 The figure is recognizably similar to the revenant standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
@@ -235,7 +235,7 @@ As the players proceed past the pit trap, read:
 <p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other two slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
+If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
 # J3. The Wizard of Wines
 The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
@@ -303,7 +303,7 @@ The two men resembling Urwin Martikov are Adrian and Elvir Martikov, respectivel
 > * **Dag**, who married into the Martikov family, takes no position on Davian’s feud with Urwin, though he shares Stefania’s position that Elric’s death was a tragedy but his choice deserves respect. He most often feels amused, thoughtful, playful, or determined, and should make the players feel grateful, amused, and endeared to him.
 > * **Claudiu** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
 > * **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
-> * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Mirabel Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
+> * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Angelika Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
 
 Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
 
@@ -429,7 +429,7 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
     <br>
     <strong>Hit Points</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocidade</strong> 9 metros
     <hr>
     <table class="ability-table">
         <thead>
@@ -445,9 +445,9 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
         <tbody>
             <tr>
                 <td>10 (+0)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>13 (+1)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>15 (+2)</td>
                 <td>11 (+0)</td>
             </tr>
@@ -458,7 +458,7 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
     <strong>Senses</strong> passive Perception 14<br>
     <strong>Languages</strong> Druidic and Common<br>
     <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
     <ul>
@@ -466,12 +466,12 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
         <li>1st level (4 slots): faerie fire, longstrider, speak with animals, thunderwave</li>
         <li>2nd level (3 slots): barkskin, darkvision</li>
     </ul>
-    <h3>Actions</h3>
+    <h3>Ações</h3>
     <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
     <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
-    <h3>Bonus Actions</h3>
+    <h3>Ações Bônus</h3>
     <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
+    <h3>Reações</h3>
     <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
 </div>
 
@@ -600,7 +600,7 @@ If the players free the ravens from their cages, they join the party as a **swar
     <br>
     <strong>Hit Points</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocidade</strong> 9 metros
     <hr>
     <table class="ability-table">
         <thead>
@@ -616,9 +616,9 @@ If the players free the ravens from their cages, they join the party as a **swar
         <tbody>
             <tr>
                 <td>10 (+0)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>13 (+1)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>15 (+2)</td>
                 <td>11 (+0)</td>
             </tr>
@@ -629,7 +629,7 @@ If the players free the ravens from their cages, they join the party as a **swar
     <strong>Senses</strong> passive Perception 14<br>
     <strong>Languages</strong> Druidic and Common<br>
     <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
     <ul>
@@ -637,11 +637,11 @@ If the players free the ravens from their cages, they join the party as a **swar
         <li>1st level (4 slots): entangle, fog cloud, speak with animals, thunderwave</li>
         <li>2nd level (3 slots): barkskin, moonbeam</li>
     </ul>
-    <h3>Actions</h3>
+    <h3>Ações</h3>
     <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands.</p>
-    <h3>Bonus Actions</h3>
+    <h3>Ações Bônus</h3>
     <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
+    <h3>Reações</h3>
     <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
 </div>
 
@@ -655,7 +655,7 @@ If the players free the ravens from their cages, they join the party as a **swar
     <br>
     <strong>Hit Points</strong> 66 (12d8 + 12)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocidade</strong> 9 metros
     <hr>
     <table class="ability-table">
         <thead>
@@ -672,7 +672,7 @@ If the players free the ravens from their cages, they join the party as a **swar
             <tr>
                 <td>8 (-1)</td>
                 <td>15 (+2)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>4 (-3)</td>
                 <td>8 (-1)</td>
                 <td>3 (-4)</td>
@@ -686,10 +686,10 @@ If the players free the ravens from their cages, they join the party as a **swar
     <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
     <strong>Languages</strong> understands Common and Druidic but can't speak<br>
     <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
-    <h3>Actions</h3>
+    <h3>Ações</h3>
     <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
     <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage and the target is grappled (escape DC 9).</p>
     <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
@@ -720,9 +720,9 @@ If the players free the ravens from their cages, they join the party as a **swar
         </thead>
         <tbody>
             <tr>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>13 (+1)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>4 (-3)</td>
                 <td>8 (-1)</td>
                 <td>3 (-4)</td>
@@ -736,11 +736,11 @@ If the players free the ravens from their cages, they join the party as a **swar
     <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
     <strong>Languages</strong> understands Common and Druidic but can't speak<br>
     <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>False Appearance.</em></strong> While the swarm remains motionless, it is indistinguishable from a patch of dead shrubs.</p>
     <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small plant. The swarm can't regain hit points or gain temporary hit points.</p>
-    <h3>Actions</h3>
+    <h3>Ações</h3>
     <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., up to two targets in the swarm's space. <em>Hit:</em> 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.</p>
 </div>
 
@@ -805,7 +805,7 @@ This area is largely as described in <span class="citation">W16. Loading Winch (
 
 The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
 
-* ***Legendary Resistance (1/day).*** If Lorghoth would fail a saving throw, he can choose to succeed instead.
+* ***Indomitable.*** <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Lorghoth can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.).
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
 * ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
@@ -1093,7 +1093,7 @@ The players can climb the trail straight to <span class="citation">Y3. Druids Ci
 > [!info]+ **The Swarms of Ravens**
 > The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
 > 
-> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla & Muriel]] and [[#Stopping the Ritual]] for more information on how the ravens help.
+> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla's Provocations]] and [[#J5f. Stopping the Ritual]] for more information on how the ravens help.
 ## J5a. Entering the Circle
 The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
 
@@ -1112,7 +1112,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
 > * ***Four Players.*** Reduce the number of berserkers to one.
@@ -1176,7 +1176,7 @@ As the conversation winds down, or if the players attack or attempt to bypass Lu
 The lightning strike signals the true beginning of the druids’ ritual. Once the ritual begins, the thirteen **druid naturalists** encircling the statue use their action each turn to continue chanting and beating their drums. While participating in the ritual, a druid can't move or use bonus actions or reactions.
 
 > [!info]+ **Completing the Ritual**
-> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. On each round that fewer than twelve druids are able to chant (e.g., because some druids have died, or due to a *silence* spell), roll a d12. 
+> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. At the end of each round, if fewer than twelve druids are able to chant (e.g., because some druids have died, or due to a *silence* spell), roll a d12. 
 > 
 > If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Constitution saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
 > 
@@ -1193,7 +1193,7 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > 
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
 ## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
+Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -1248,14 +1248,14 @@ The statistics of the wall of roots are as follows:
 Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
 
 <div class="statblock">
-    <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, neutral evil</em>
+    <h2>Ludmilla, Primeira Forma</h2>
+    <em>Mortos-vivo médio, maligno neutro</em>
     <hr>
     <strong>Armor Class</strong> 15 (natural armor)
     <br>
-    <strong>Hit Points</strong> 120 (16d8 + 48)
+    <strong>Pontos de Vida</strong> 120 (16d8 + 48)
     <br>
-    <strong>Speed</strong> 30 ft., climb 20 ft.
+    <strong>Velocidade</strong> 9 metros
     <hr>
     <table class="ability-table">
         <thead>
@@ -1275,38 +1275,38 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
                 <td>16 (+3)</td>
                 <td>18 (+4)</td>
                 <td>10 (+0)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
             </tr>
         </tbody>
     </table>
     <hr>
     <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-    <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-    <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
+    <strong>Perícias</strong> Arcana +7, Percepção +3, Furtividade +6<br>
+    <strong>Resistências a Dano</strong> necrótico; contusão, perfuração e corte de armas não mágicas<br>
     <strong>Senses</strong> passive Perception 13<br>
     <strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
     <strong>Challenge Rating</strong> 8<br>
-    <strong>Proficiency Bonus</strong> +3
+    <strong>Bônus de Proficiência</strong> +3
     <hr>
     <p><strong><em>Devil's Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
-    <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-    <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-    <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
-    <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
-    <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
-    <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
+    <p><strong><em>Regeneração.</em></strong> Ludmilla recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou em água corrente. Se ela sofrer dano radiante ou dano de água benta, essa característica não funcionará no início do seu próximo turno.</p>
+    <p><strong><em>Spider Climb.</em></strong> Ludmilla pode escalar superfícies difíceis, incluindo de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
+    <p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob a luz do sol, Ludmilla sofre 20 de dano radiante no início do seu turno, e ela tem desvantagem em jogadas de ataque e testes de habilidade.</p>
+    <p><strong><em>Forma de Bruma.</em></strong> Quando Ludmilla é reduzida a 0 pontos de vida, suas estatísticas são instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não é transferido para sua nova forma, mas ela mantém quaisquer condições que possuía em sua forma anterior.</p>
+    <h3>Ações</h3>
+    <p><strong><em>Grease.</em></strong> Ludmilla conjura <em>grease</em> (CD 15) em uma área de 6 metros quadrados.</p>
+    <p><strong><em>Comando.</em></strong> Ludmilla conjura <em>comando</em> (CD 15), mirando até duas criaturas com o mesmo comando. Se ela estiver a até 3 metros de todos os alvos, pode proferir um comando de até três palavras, em vez de apenas uma.</p>
+    <p><strong><em>Padrão Hipnótico(2 vezes/dia).</em></strong> Ludmilla conjura <em>hypnotic pattern</em> (CD 15).</p>
+    <p><strong><em>Dimension Door (1/dia).</em></strong> Ludmilla conjura <em>dimension door.</em></p>
+    <h3>Ações Bônus</h3>
+    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to bludgeoning, piercing, and slashing damage dealt by magical and nonmagical melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
     <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
-    <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-    <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
-    <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
-    <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
+    <h3>Reações</h3>
+    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
+    <p><strong><em>Misty Step.</em></strong> Em resposta a receber dano, Ludmilla conjura <em>misty step.</em></p>
+    <p><strong><em>Disrupt Spell (3 vezes/dia).</em></strong> <em>Magia de 3º Nível:</em> 18 metros, componentes S, instantâneo. <em>Efeito:</em> Ludmilla tenta interromper uma criatura no ato de conjurar uma magia. Se a criatura estiver conjurando uma magia de 3º nível ou inferior, deve realizar um teste de salvaguarda CD 15 usando sua habilidade de conjuração. Em caso de falha, a magia da criatura falha e não produz efeito.</p>
+    <p><strong><em>Reprisal da Maga.</em></strong> Em resposta a um ataque mágico que a erre ou ao sucesso em um teste de salvaguarda contra uma magia, Ludmilla pode imediatamente forçar o conjurador a obter sucesso em um teste de salvaguarda de Constituição CD 15 ou sofrer 7 (2d6) de dano de força.</p>
+    <p><strong><em>Contingência (1/vez ao dia).</em></strong> Se Ludmilla cair a 0 pontos de vida como resultado de receber dano, um feitiço de <em>contingência</em> é ativado, permitindo que ela obtenha os efeitos de <em>dimension door</em>. (Como Ludmilla não conjura o feitiço no momento de sua reação, ele não pode ser anulado.)</p>
 </div>
 
 > [!combat]- **Balancing the Second Bride**
@@ -1375,7 +1375,7 @@ If the ritual is permanently disrupted (see **The Ritual Begins** above) or if t
 
 In the round following the ritual's disruption, the following events occur:
 
-* On initiative count 20, the statue collapses. When this occurs, player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
+* On initiative count 20, the statue collapses. When this occurs, any player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
 * On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
 * On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Constitution saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
 
@@ -1449,7 +1449,7 @@ If the players ask about the nature of the spark Strahd holds, he holds it up to
 When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
 
 > [!item]+ **Twilight Crest**
-> _Uncommon wondrous item (requires attunement)_
+> _Uncommon wondrous item_
 > 
 > This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
 > 
@@ -1460,6 +1460,10 @@ When the players all either return from the Whispering Wall or decline to do so,
 > At night, the crest's wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
 > 
 > The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
+
+![[Twilight_Crest.png]]
+
+<span class="credit">"Twilight Crest" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
 ## J6c. Gulthias Tree
@@ -1533,7 +1537,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
 </div>
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. (This should bring the players to 6th level.)
 
 > [!item]+ **Keeper's Whistle**
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
@@ -1547,6 +1551,10 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 >* **Spy** on a location or character, tailing them discreetly and reporting back on their activities and associations after a predetermined period of time. (The agent won’t enter any structures while doing so.)
 >
 >The agent departs after completing the requested task.
+
+![[Keepers_Whistle.png]]
+
+<span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **The Wine Shipments**
 > With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 

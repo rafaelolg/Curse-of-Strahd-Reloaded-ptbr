@@ -8,15 +8,15 @@
 
 # Ato I: Brumas Adentro
 <div class="subtitle"><em>Para personagens de 2º a 3º nível.</em></div>
-Neste ato, os PJs são atraídos para a assombrada Casa da Morte, que os transporta misticamente para a terra da Baróvia. À medida que os PJs se orientam, eles viajam até a vila da Baróvia, onde encontram o burgomestre Ismark Kolyanovich e sua irmã, Irene Kolyana, e aprendem sobre o misterioso Strahd von Zarovich, um vampiro que despertou recentemente para atormentar o vale Baroviano. 
+Neste ato, os PJs são atraídos para a assombrada Casa da Morte, que os transporta misticamente para a terra da Baróvia. À medida que os PJs se orientam, eles viajam até a vila da Baróvia, onde encontram o burgomestre Ismark Kolyanovich e sua irmã, Ireena Kolyana, e aprendem sobre o misterioso Strahd von Zarovich, um vampiro que despertou recentemente para atormentar o vale Baroviano. 
 
-Os PJs são convidados a escoltar Irene até a cidade próxima de Vallaki em busca de segurança; se os PJs concordarem, Irene também pede que os ajudem a enterrar seu falecido pai, o Burgomestre Kolyan Indirovich. Enquanto estão na igreja local, os PJs encontram Doru, uma **vampire spawn** em guerra com sua natureza sedenta de sangue, e têm a oportunidade de reconciliá-lo com seu pai, o padre Donavich.
+Os PJs são convidados a escoltar Ireena até a cidade próxima de Vallaki em busca de segurança; se os PJs concordarem, Ireena também pede que os ajudem a enterrar seu falecido pai, o Burgomestre Kolyan Indirovich. Enquanto estão na igreja local, os PJs encontram Doru, uma **vampire spawn** em guerra com sua natureza sedenta de sangue, e têm a oportunidade de reconciliá-lo com seu pai, o padre Donavich.
 
 Ao receber um aviso e um convite enviados em um sonho pela vidente Vistani Madame Eva, os PJs partem da vila da Baróvia em direção a um acampamento Vistani nas proximidades do Lago Tser. Após um breve encontro com o próprio Strahd, os PJs recebem uma leitura mística de Tarokka da Madame Eva, que prevê a localização de três artefatos místicos—e um companheiro—que os ajudarão a derrotar Strahd.
 
 À medida que os PJs viajam para o acampamento da Madame Eva e a cidade próxima de Vallaki, eles encontram uma série de personagens com laços a possíveis aventuras futuras, assim como alguns encontros conflituosos que testarão suas táticas, coordenação e habilidades de combate.
 
-Ao chegarem em Vallaki, os PJs podem encontrar abrigo na Estalagem Água Azul e—se Irene estiver com eles—ajudá-la a buscar refúgio na Igreja de São Andral. O ato termina quando os PJs realizam seu primeiro descanso longo em Vallaki.
+Ao chegarem em Vallaki, os PJs podem encontrar abrigo na Estalagem Água Azul e—se Ireena estiver com eles—ajudá-la a buscar refúgio na Igreja de São Andral. O ato termina quando os PJs realizam seu primeiro descanso longo em Vallaki.
 
 ## Marcos do Ato I
 | Nível | Arco | Marco                                                             | XP    |
@@ -27,19 +27,19 @@ Ao chegarem em Vallaki, os PJs podem encontrar abrigo na Estalagem Água Azul e�
 |   3   | B    | Os PJs auxiliam Doru a passar em seu teste de vontade             | 100   |
 |   3   | B    | Os PJs recebem a leitura Tarokka                                  | 500   |
 |   3   | C    | Os PJs chegam em Vallaki                                          | 1.000 |
-|   3   | C    | Os PJs escoltam Irene até Vallaki                               | 250   |
+|   3   | C    | Os PJs escoltam Ireena até Vallaki                               | 250   |
 
 # Ato II: A Cidade Sombria
 <div class="subtitle"><em>Para personagens de 4º nível ou superior.</em></div>
 Neste ato, os PJs são deixados para explorar a sombria cidade de Vallaki—um assentamento baroviano que sucumbiu à tensão e ao conflito após o despertar de Strahd.
 
-Enquanto os PJs buscam cumprir obrigações pendentes—escoltar Irene até a Igreja de São Andral, comprar e entregar um brinquedo para a criança Vistani Arabelle, e desvendar o *Tomo de Strahd*—eles encontram novos aliados e inimigos, incluindo o Padre Lucian, o sacerdote da Igreja de São Andral; Izek Strazni, o brutal executor do Barão Vallakovich; e Lady Fiona Wachter, a rival leal a Strahd do Barão.
+Enquanto os PJs buscam cumprir obrigações pendentes—escoltar Ireena até a Igreja de São Andral, comprar e entregar um brinquedo para a criança Vistani Arabelle, e desvendar o *Tomo de Strahd*—eles encontram novos aliados e inimigos, incluindo o Padre Lucian, o sacerdote da Igreja de São Andral; Izek Strazni, o brutal executor do Barão Vallakovich; e Lady Fiona Wachter, a rival leal a Strahd do Barão.
 
 Na Igreja de São Andral, os PJs terão a missão de recuperar os roubados Ossos do São Andral para proteger a sagrada proteção da igreja. No acampamento Vistani próximo, os PJs terão a oportunidade de provar seu valor como heróis ao encontrar e resgatar Arabelle após seu misterioso desaparecimento — e receber uma profecia enigmática caso o façam. E em Wachterhaus, a ancestral morada da Casa Wachter, os PJs enfrentarão uma escolha: matar Izek Strazni e permitir que Lady Wachter tome o poder — ou nada fazer, deixando o reinado insano do Barão continuar.
 
 Enquanto isso, um dos PJs começa a experimentar aparições assombrosas, levando-os a descobrir o destino trágico da alma de Stella Wachter—e uma oportunidade de restaurar sua mente despedaçada. Simultaneamente, um assassino noturno assombra as ruas de Vallaki, trabalhando secretamente para expulsar das sombras o caçador de vampiros disfarçado, Dr. Rudolph van Richten.
 
-Ao longo de tudo isso, os PJs terão a oportunidade de buscar pistas que os conduzam ao local oculto do *Tome of Strahd*, que—dependendo da leitura do Tarokka que receberam—pode estar escondido na mansão do Barão ou em Wachterhaus. E, à medida que se aproxima a data do Festival do Sol Fulgurante, Izek Strazni e Irene Kolyana se aproximam de um encontro fatídico, porém trágico.
+Ao longo de tudo isso, os PJs terão a oportunidade de buscar pistas que os conduzam ao local oculto do *Tome of Strahd*, que—dependendo da leitura do Tarokka que receberam—pode estar escondido na mansão do Barão ou em Wachterhaus. E, à medida que se aproxima a data do Festival do Sol Fulgurante, Izek Strazni e Ireena Kolyana se aproximam de um encontro fatídico, porém trágico.
 
 O Ato II termina na manhã seguinte à primeira lua cheia dos PJs na Baróvia, que ocorre na noite do sexto dia completo após sua chegada em Vallaki. No entanto, os PJs ainda podem concluir arcos não resolvidos deste ato mesmo após o início do Ato III—desde que, é claro, esses arcos ainda sejam possíveis de serem concluídos.
 
@@ -103,18 +103,18 @@ Após superar as provações das encostas do Monte Ghakis, o **bode gigante** Sa
 
 Ao restaurar a memória do **lich** Exethanter e compartilhar com ele os esquemas encontrados no *Tome of Strahd*, os PJs também podem descobrir o plano final de Strahd: canalizar o poder dos Santuários para o indestrutível Coração da Tristeza dentro do Castelo Ravenloft, que Strahd usará para rasgar as Brumas e escapar. Os PJs também aprenderão que Strahd pretende consumir as almas de toda a Baróvia para alimentar seu audacioso esquema, e que ele jamais poderá ser verdadeiramente morto a menos que seja separado do poder dos Santuários.
 
-Quando os PJs recuperam o pomo quebrado da *Sunsword*, descobrem que Strahd está caçando o Dr. Rudolph van Richten para usar em seu ritual nefasto, e devem ajudá-lo junto com ao Vistani Arturi Radanavich a levantar as maldições de ambos em [[Arco T - O Caçador de Monstros]]. Quando a aurora chega, entretanto, os PJs descobrem que a bruxa do pântano Baba Lysaga sequestrou os Martikovs de Vallaki e a vinícola Wizard of Wines, forçando-os a viajar até Berez para derrotá-la em [[Arco U - A Bruxa de Berez]]. 
+When the players have recovered the broken hilt of the *Sunsword*, they learn that Strahd is hunting Dr. Rudolph van Richten for use in his fell ritual, and must aid him and the Vistana Arturi Radanavich to lift both men's curses in [[Arc T - The Three Fanes]]. When dawn comes, however, the players learn that the swamp witch Baba Lysaga has kidnapped the Martikovs of the Wizard of Wines winery, forcing them to travel to Berez to defeat her. 
 
-Em [[Arco V - As Três Damas dos Santuários]], os PJs devem usar as três gemas encantadas da vinícola Wizard of Wines e três artefatos antigos recuperados da Árvore Gulthias em Yester Hill para reconsagrar os três Santuários, mesmo enquanto Strahd reúne suas forças para derrotá-los. O Ato IV termina quando os PJs reconsagram todos os três Santuários.  
-# Ato V: A Maldição de Strahd  
-<div class="subtitle"><em>Para personagens de 9º nível ou superior.</em></div>  
-Neste ato, logo após o último Santuário ser restaurado, a jogada-mestra de Strahd se desenrola. Ao liberar a energia armazenada contida no Coração da Tristeza, Strahd mergulha a Baróvia em uma noite eterna — e transforma o próprio vale em solo profanado. Enquanto isso, o Muro Sussurrante — ressoando com as energias do Coração da Tristeza — desloca-se para a superfície do Lago Zarovich, onde seus tentáculos mortais ameaçam extinguir toda vida em Vallaki em [[Arco W - Sonhos Esquecidos]].
+The players must use the three enchanted gems of the Wizard of Wines winery and three ancient artifacts retrieved from the Gulthias Tree of Yester Hill to reconsecrate the three Fanes, even as Strahd musters his forces to defeat them. Act IV ends when the players reconsecrate all three Fanes.
+# Act V: The Curse of Strahd
+<div class="subtitle"><em>For characters of 9th level and higher.</em></div>
+In this act, soon after the last Fane is restored, Strahd's masterstroke unfolds. By releasing the stored energy bound within the Heart of Sorrow, Strahd plunges Barovia into an eternal night—and turns the valley itself into desecrated ground. Meanwhile, the Whispering Wall—resonating with the energies of the Heart of Sorrow—relocates to the surface of Lake Zarovich, where its deadly tendrils threaten to extinguish all life in Vallaki in [[Arc W - Forgotten Dreams]].
 
 Mesmo quando o Muro Sussurrante é silenciado, entretanto, um perigo maior surge em [[Arco X - A Maldição de Strahd]]. Enquanto um apocalipse morto-vivo ameaça engolir o povo da Baróvia, os PJs devem viajar até o Castelo Ravenloft para enfrentar Strahd no Coração da Dor. À medida que a batalha final se desenrola, o Coração da Dor revela visões do cerco morto-vivo de Strahd por toda a Baróvia — e da resistência heroica demonstrada pelos aliados e amigos que os PJs conquistaram ao longo de sua jornada:
 
-***Vila da Baróvia.*** Se os PJs escoltaram Irene até Vallaki, reconciliaram Doru com Donavich, fizeram amizade com o Dr. Rudolph van Richten em Vallaki e inspiraram Irene a rejeitar o convite de Sergei, a vila da Baróvia é salva pela liderança e destreza de Ismark Kolyanovich, Doru e Donavich, do Dr. Van Richten e do **fantasma** Erasmus van Richten, além do espírito de Sergei von Zarovich.
+***Vila da Baróvia.*** Se os PJs escoltaram Ireena até Vallaki, reconciliaram Doru com Donavich, fizeram amizade com o Dr. Rudolph van Richten em Vallaki e inspiraram Ireena a rejeitar o convite de Sergei, a vila da Baróvia é salva pela liderança e destreza de Ismark Kolyanovich, Doru e Donavich, do Dr. Van Richten e do **fantasma** Erasmus van Richten, além do espírito de Sergei von Zarovich.
 
-***Cidade de Vallaki.*** Se os PJs restauraram a alma de Stella Wachter, ajudaram Lady Fiona Wachter a derrotar Izek Strazni, localizaram a Vistana desaparecida Arabelle, recuperaram os roubados Ossos do São Andral e resgataram a Estalagem Água Azul das garras de Baba Lysaga, a cidade de Vallaki está salva pelo poder e pela visão de Lady Fiona Wachter e seu culto; o jovem **mago** Victor Vallakovich; os Vistani Luvash, Arrigal e Arabelle; os elfos do crepúsculo; o Padre Lucian Petrovich; e os **wereravens** Urwin Martikov e Danika Dorakova.
+***Cidade de Vallaki.*** Se os PJs restauraram a alma de Stella Wachter, ajudaram Lady Fiona Wachter a derrotar Izek Strazni, localizaram a Vistana desaparecida Arabelle, recuperaram os roubados Ossos do São Andral e resgataram a Estalagem Água Azul das garras de Baba Lysaga, a cidade de Vallaki está salva pelo poder e pela visão de Lady Fiona Wachter e seu culto; o jovem **mago** Victor Vallakovich; os Vistani Luvash, Arrigal e Arabelle; os elfos crepusculáres; o Padre Lucian Petrovich; e os **wereravens** Urwin Martikov e Danika Dorakova.
 
 ***Vila de Krezk.*** Se os PJs resgataram Ilya Krezkov da Toca dos Werewolves, salvaram Emil Toranescu das masmorras do Castelo Ravenloft e restauraram a graça divina do Abade, a vila de Krezk é salva pelo poder e selvageria do Abade redimido, dos **mongrelfolk** de Belview, dos **werewolves** Krezkov e da nova matilha de **werewolf** de Emil.
 

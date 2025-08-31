@@ -40,7 +40,7 @@
 
 ***Emoções.*** Ismark frequentemente sente-se preocupado, culpado, amigável, melancólico, desafiador, esperançoso, desesperado e grato.
 
-***Motivações.*** Ismark deseja proteger sua vila e Irene, preservar viva a memória de seu pai e, um dia, igualar o legado de seus ancestrais.
+***Motivações.*** Ismark deseja proteger sua vila e Ireena, preservar viva a memória de seu pai e, um dia, igualar o legado de seus ancestrais.
 
 ***Inspirações.*** Ao interpretar Ismark, canalizem Jon Snow (*Game of Thrones*), Faramir (*Senhor dos Anéis*) e Trevor Belmont (*Castlevania*).
 
@@ -49,23 +49,23 @@
 
 ***Moral.*** Em uma luta, Ismark inicialmente tentaria mediar o conflito entre as partes, mas não hesitaria em sacar sua espada — e até lutar até a morte — se acreditasse estar defendendo algo ou alguém que valesse a pena proteger.
 
-***Relacionamentos.*** Ismark é o irmão adotivo de Irene Kolyana, e o bisneto de Ismark, o Grande.  
-### Irene Kolyana  
+***Relacionamentos.*** Ismark é o irmão adotivo de Ireena Kolyana, e o bisneto de Ismark, o Grande.  
+### Ireena Kolyana  
 **Informações de Interpretação**  
-***Ressonância.*** Irene deve inspirar lisonja com seu interesse genuíno pelos objetivos e interesses dos PJs, simpatia por seu sentimento de culpa e medo de Strahd, afeto por sua determinação em seguir adiante, e gratidão por seus esforços em ajudar os PJs a triunfar.
+***Ressonância.*** Ireena deve inspirar lisonja com seu interesse genuíno pelos objetivos e interesses dos PJs, simpatia por seu sentimento de culpa e medo de Strahd, afeto por sua determinação em seguir adiante, e gratidão por seus esforços em ajudar os PJs a triunfar.
 
-***Emoções.*** Irene frequentemente sente-se curiosa, pensativa, melancólica, culpada, teimosa, alegre, determinada, desafiadora e ansiosa.
+***Emoções.*** Ireena frequentemente sente-se curiosa, pensativa, melancólica, culpada, teimosa, alegre, determinada, desafiadora e ansiosa.
 
-***Motivações.*** Irene deseja proteger seus conterrâneos barovianos e Ismark, honrar a memória de seus pais, aprender novas histórias e, um dia, explorar terras distantes.
+***Motivações.*** Ireena deseja proteger seus conterrâneos barovianos e Ismark, honrar a memória de seus pais, aprender novas histórias e, um dia, explorar terras distantes.
 
-***Inspirações.*** Ao interpretar Irene, canalize Belle (A Bela e a Fera), Elizabeth Swann (Piratas do Caribe), Éowyn (O Senhor dos Anéis), Hermione Granger (Harry Potter) e Katniss Everdeen (Jogos Vorazes).
+***Inspirações.*** Ao interpretar Ireena, canalize Belle (A Bela e a Fera), Elizabeth Swann (Piratas do Caribe), Éowyn (O Senhor dos Anéis), Hermione Granger (Harry Potter) e Katniss Everdeen (Jogos Vorazes).
 
 **Informações do Personagem**  
-***Persona.*** Para o mundo, Irene é uma jovem nobre compassiva, curiosa, porém teimosa. Para aqueles em quem confia, Irene é uma jovem ansiosa, porém determinada, que sonha com liberdade e aventura. No fundo, Irene se pergunta se entregar-se a Strahd seria a melhor forma de proteger aqueles que ama.
+***Persona.*** Para o mundo, Ireena é uma jovem nobre compassiva, curiosa, porém teimosa. Para aqueles em quem confia, Ireena é uma jovem ansiosa, porém determinada, que sonha com liberdade e aventura. No fundo, Ireena se pergunta se entregar-se a Strahd seria a melhor forma de proteger aqueles que ama.
 
-***Moral.*** Em uma luta, Irene sempre recorrerá às palavras antes da espada. Se for necessário se defender, porém, ela desembainhará sua espada fina—relutantemente, se for para se proteger, e com orgulho, se for para proteger outra pessoa.
+***Moral.*** Em uma luta, Ireena sempre recorrerá às palavras antes da espada. Se for necessário se defender, porém, ela desembainhará sua espada fina—relutantemente, se for para se proteger, e com orgulho, se for para proteger outra pessoa.
 
-***Relacionamentos.*** Irene é a irmã adotiva (consciente) de Ismark Kolyanovich, a irmã (inconsciente) de Izek Strazni e a reencarnação (inconsciente) de Tatyana Federovna.  
+***Relacionamentos.*** Ireena é a irmã adotiva (consciente) de Ismark Kolyanovich, a irmã (inconsciente) de Izek Strazni e a reencarnação (inconsciente) de Tatyana Federovna.  
 ### Parriwimple  
 **Informações de Interpretação**  
 ***Ressonância.*** Parriwimple deve inspirar simpatia pela perda de seus pais, afeto por seus maneirismos infantis e perseverança otimista, e admiração por sua fascinação pelas armas e roupas exóticas dos PJs.
@@ -184,32 +184,34 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +7, Sab +5<br>
+<strong>Teste de Salvaguarda</strong> Des +7, Sab +5<br>
 <strong>Perícias</strong> Acrobacia +10, Percepção +5, Furtividade +10<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
+<strong>Resistências a Dano</strong> necrótico; contusão, perfuração e corte de ataques não mágicos<br>
 <strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 15<br>
 <strong>Idiomas</strong> Comum<br>
-<strong>Desafio</strong> 5 (1.800 XP)<br>
+<strong>Desafio</strong> 5 (1.800 PX)<br>
 <strong>Proficiência</strong> +3<br>
 <hr>
-<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se Volenta sofrer dano radiante ou de água benta, essa característica não funciona no início do seu próximo turno.</p>
-<p><strong><em>Escalada Aracnídea.</em></strong> Volenta pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Volenta sofre 20 de dano radiante no início do seu turno, e tem desvantagem em ataques e testes de habilidade.</p>
-<p><strong><em>Fuga Ágil.</em></strong> Volenta pode usar a ação de Desengajar ou Esconder-se como ação bônus em cada um dos seus turnos.</p>
-<p><strong><em>Fúria Desperta.</em></strong> Quando Volenta cai a 0 pontos de vida, suas estatísticas são instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não é transferido para a nova forma, mas ela mantém quaisquer condições que possuía na forma anterior.</p>
+<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se Volenta sofrer dano radiante ou dano de água benta, essa característica não funciona no início do seu próximo turno.</p>
+<p><strong><em>Escalada Aracnídea.</em></strong> Volenta pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
+<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Volenta sofre 20 de dano radiante no início do seu turno, e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
+<p><strong><em>Fuga Ágil.</em></strong> Volenta pode realizar a ação de Desengajar ou Esconder-se como uma ação bônus em cada um dos seus turnos.</p>
+<p><strong><em>Sede de Sangue Desperta.</em></strong> Quando Volenta cai a 0 pontos de vida, suas estatísticas são instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não é transferido para sua nova forma, mas ela mantém quaisquer condições que possuía na forma anterior.</p>
 <div class="break"></div>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Volenta usa <strong><em>chuva de adagas</em></strong> duas vezes, <strong><em>adaga</em></strong> duas vezes, ou <strong><em>chuva de adagas</em></strong> uma vez e <strong><em>pés emaranhados</em></strong> ou <strong><em>pedra trovejante</em></strong>.</p>
+<p><strong><em>Multiataque.</em></strong> Volenta usa <strong><em>chuva de adagas</em></strong> duas vezes, <strong><em>adaga</em></strong> duas vezes, ou <strong><em>chuva de adagas</em></strong> uma vez e <strong><em>pé de lodo</em></strong> ou <strong><em>pedra trovejante</em></strong>.</p>
 <p><strong><em>Chuva de Adagas.</em></strong> <em>Ataque à Distância com Arma:</em> +7 para atingir, alcance 4,5 m, um alvo. <em>Acerto:</em> 9 (2d4 + 4) de dano perfurante.</p>
 <p><strong><em>Adaga.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +7 para atingir, 1,5 m, um alvo. <em>Acerto:</em> 6 (1d4 + 4) de dano perfurante.</p>
-<p><strong><em>Pés Emaranhados (1/dia).</em></strong> Volenta arremessa um saco de piche negro pegajoso e contorcido em um ponto no chão a até 9 metros. O saco se rompe ao impactar, cobrindo até duas criaturas que estejam a até 1,5 metro uma da outra com piche pegajoso, forçando cada alvo a suceder em um teste de salvaguarda de Força CD 14 ou ficar imobilizado. Um alvo pode repetir o teste no final de cada um dos seus turnos, encerrando o efeito em caso de sucesso.</p>
-<p><strong><em>Pedra Trovejante (1/dia).</em></strong> Volenta arremessa um fragmento cristalino em uma criatura, objeto ou superfície a até 9 metros. O fragmento se estilhaça ao impactar com uma explosão de energia concussiva. Cada criatura a até 3 metros do ponto de impacto deve suceder em um teste de salvaguarda de Constituição CD 14 ou ser derrubada e empurrada 3 metros para longe do ponto. Uma criatura que falhar no teste também fica surda até o início do próximo turno de Volenta.</p>
-<p><strong><em>Bomba de Fogo do Alquimista (1/dia).</em></strong> Volenta arremessa um frasco de fogo alquímico concentrado em um ponto a até 9 metros. O frasco se estilhaça ao impactar e detona em um raio de 3 metros. Qualquer criatura na área deve suceder em um teste de salvaguarda de Destreza CD 14 ou sofrer 2d6 de dano de fogo e ser incendiada. Uma criatura incendiada dessa forma sofre 1d4 de dano de fogo no início de cada um dos seus turnos, podendo fazer um teste adicional de Destreza CD 14 no final de cada turno para apagar as chamas.</p>
+<p><strong><em>Pé de Lodo (1/dia).</em></strong> Volenta arremessa um saco de piche negro e pegajoso em um ponto no chão a até 9 metros. O saco se rompe ao impactar, cobrindo até duas criaturas a até 1,5 metro uma da outra com piche pegajoso e forçando cada alvo a suceder em um teste de salvaguarda de Força CD 14 ou ficar imobilizado. Um alvo pode repetir o teste de salvaguarda no final de cada um de seus turnos, encerrando o efeito em caso de sucesso.</p>
+<p><strong><em>Pedra Trovejante (1/dia).</em></strong> Volenta arremessa um fragmento cristalino em uma criatura, objeto ou superfície a até 9 metros. O fragmento se estilhaça ao impactar com uma explosão de energia concussiva. Cada criatura a até 3 metros do ponto de impacto deve suceder em um teste de salvaguarda de Constituição CD 14 ou ser derrubada e empurrada 3 metros para longe daquele ponto. Uma criatura que falhar no teste também fica surda até o início do próximo turno de Volenta.</p>
+<p><strong><em>Bomba de Fogo do Alquimista (1/dia).</em></strong> Volenta arremessa um frasco de fogo alquímico concentrado em um ponto a até 9 metros. O frasco se estilhaça ao impactar e detona em um raio de 3 metros. Qualquer criatura na área deve suceder em um teste de salvaguarda de Destreza CD 14 ou sofrer 2d6 de dano de fogo e ser incendiada. Uma criatura incendiada dessa forma sofre 1d4 de dano de fogo no início de cada um de seus turnos, podendo fazer um teste de salvaguarda de Destreza CD 14 no final de cada turno para apagar as chamas.</p>
+<h3>Reações</h3>
+<p><strong><em>Vareta de Fumaça (1/dia).</em></strong> Quando Volenta é reduzida a 0 pontos de vida, se não estiver agarrada, imobilizada ou incapacitada, ela pode quebrar uma vareta de madeira queimada e negra, liberando uma nuvem de fumaça espessa e opaca que cria uma área fortemente obscurecida em um raio de 6 metros. Ela pode então se mover até sua velocidade sem provocar ataques de oportunidade. Um vento moderado (pelo menos 16 km/h) dispersa a fumaça em 4 rodadas; um vento forte (32 km/h ou mais) dispersa em 1 rodada.
 </div>
 <br>
 <div class="statblock">
 <h2>Volenta, Segunda Forma</h2>
-<em>morto-vivo médio, caótico maligno</em>
+<em>Morto-vivo médio, caótico maligno</em>
 <hr>
 <strong>Classe de Armadura</strong> 15 (armadura natural)
 <br>
@@ -240,30 +242,30 @@
   </tbody>
 </table>
 <hr>
-<strong>Teste de Salvaguarda</strong> Des +7, Sab +5<br>
+<strong>Teste de Salvaguarda</strong> Dex +7, Wis +5<br>
 <strong>Perícias</strong> Acrobacia +10, Percepção +5, Furtividade +10<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
+<strong>Resistências a Dano</strong> necrótico; contusão, perfuração e corte de ataques não mágicos<br>
 <strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 15<br>
 <strong>Idiomas</strong> Comum<br>
-<strong>Desafio</strong> 6 (2.300 PX)<br>
+<strong>Desafio</strong> 6 (2.300 XP)<br>
 <hr>
-<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se Volenta sofrer dano radiante ou dano de água benta, essa característica não funciona no início do próximo turno do vampiro.</p>
-<p><strong><em>Escalada de Aranha.</em></strong> Volenta pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Volenta sofre 20 pontos de dano radiante no início do seu turno, e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
-<p><strong><em>Frenesi Sanguinário.</em></strong> Volenta tem vantagem em jogadas de ataque corpo a corpo contra qualquer criatura que não esteja com todos os seus pontos de vida.</p>
+<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início de seu turno se tiver pelo menos 1 ponto de vida e não estiver exposta à luz solar ou água corrente. Se Volenta sofrer dano radiante ou dano de água sagrada, essa característica não funcionará no início do próximo turno do vampiro.</p>
+<p><strong><em>Escalada de Aranha.</em></strong> Volenta pode escalar superfícies difíceis, incluindo de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
+<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver exposta à luz solar, Volenta sofre 20 pontos de dano radiante no início de seu turno, e ela tem desvantagem em jogadas de ataque e testes de habilidade.</p>
+<p><strong><em>Frenesi Sanguinário.</em></strong> Volenta tem vantagem em jogadas de ataque corpo a corpo contra qualquer criatura que não tenha todos os seus pontos de vida.</p>
 <div class="break"></div>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Volenta realiza dois ataques, dos quais apenas um pode ser um ataque de mordida.</p>
-<p><strong><em>Mordida.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, uma criatura voluntária, ou uma criatura que esteja agarrada por Volenta, incapacitada ou imobilizada. <em>Acerto:</em> 6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Volenta recupera pontos de vida iguais a essa quantidade. A redução dura até o alvo terminar um descanso longo. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0.</p>
-<p><strong><em>Garras.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, uma criatura. <em>Acerto:</em> 8 (2d4 + 3) de dano cortante. Em vez de causar dano, Volenta pode agarrar o alvo (CD 13 para escapar).</p>
+<p><strong><em>Múltiplo Ataque.</em></strong> Volenta faz dois ataques, dos quais apenas um pode ser um ataque de mordida.</p>
+<p><strong><em>Mordida.</em></strong> <em>Ataque com Arma Corpo a Corpo:</em> +6 para acertar, alcance 1,5 m, uma criatura disposta, ou uma criatura que esteja agarrada por Volenta, incapacitada ou restrita. <em>Atingir:</em> 6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Volenta recupera pontos de vida iguais a essa quantidade. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0. Cada vez que o alvo termina um descanso longo sem ser mordido novamente, ele pode rolar um de seus dados de vida e adicionar seu modificador de Constituição. Os pontos de vida máximos do alvo aumentam em uma quantidade igual ao resultado. (Esse aumento não pode elevar os pontos de vida do alvo acima de seu máximo original.)</p>
+<p><strong><em>Garras.</em></strong> <em>Ataque com Arma Corpo a Corpo:</em> +6 para acertar, alcance 1,5 m, uma criatura. <em>Atingir:</em> 8 (2d4 + 3) de dano cortante. Em vez de causar dano, Volenta pode agarrar o alvo (DC de fuga 13).</p>
 <h3>Ações Bônus</h3>
 <p><strong><em>Salto.</em></strong> Volenta se move até sua velocidade sem provocar ataques de oportunidade. Ao fazer isso, ela pode substituir 3 metros de movimento por um salto de 3 metros de altura.</p>
-<p><strong><em>Dislocar.</em></strong> Volenta desloca suas articulações, escapando automaticamente de quaisquer restrições não mágicas, como algemas ou uma criatura que a esteja agarrando.</p>
+<p><strong><em>Deslocar.</em></strong> Volenta desloca suas articulações, escapando automaticamente de quaisquer restrições não mágicas, como algemas ou de uma criatura que a tenha agarrada.</p>
 <h3>Reações</h3>
-<p>Volenta pode realizar até três reações por rodada, mas apenas uma por turno. Se Volenta perder suas reações e não estiver incapacitada, ela perde uma reação em vez disso.</p>
-<p><strong><em>Cuspir Sangue.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, Volenta cospe um jato de sangue nos olhos da criatura atacante, forçando-a a fazer um teste de salvaguarda de Destreza CD 15. Em caso de falha, a criatura fica cega até o final do seu próximo turno.</p>
-<p><strong><em>Agressão.</em></strong> Em resposta a sofrer dano de um ataque ou magia, Volenta se move até sua velocidade em direção a uma criatura hostil que possa ver, sem provocar ataques de oportunidade.</p>
-<p><strong><em>Fuga.</em></strong> Em resposta a escapar de um agarramento, Volenta usa sua característica <strong><em>salto</em></strong>.
+<p>Volenta pode realizar até três reações por rodada, mas apenas uma por turno. Se Volenta perder suas reações, ela perde uma reação em vez disso.</p>
+<p><strong><em>Cospe Sangue.</em></strong> Em resposta a dano sofrido de um ataque corpo a corpo, Volenta cospe um bocado de sangue nos olhos da criatura atacante, forçando-a a fazer um teste de salvaguarda de Destreza CD 15. Em caso de falha, a criatura fica cega até o final de seu próximo turno.</p>
+<p><strong><em>Agressão.</em></strong> Em resposta a dano sofrido de um ataque ou feitiço, Volenta se move até sua velocidade em direção a uma criatura hostil que ela possa ver, sem provocar ataques de oportunidade.</p>
+<p><strong><em>Fugir.</em></strong> Em resposta a escapar de um agarrão, Volenta usa sua característica <strong><em>salto</em></strong>.</p>
 </div>
 
 #### Segundo Encontro
@@ -316,15 +318,15 @@
 <h3>Ações</h3>
 <p><strong><em>Multiataque.</em></strong> Volenta usa <strong><em>chuva de adagas</em></strong> duas vezes, ou <strong><em>chuva de adagas</em></strong> uma vez e <strong><em>pedra trovejante</em></strong> ou <strong><em>estrela de gelo</em></strong>.</p>
 <p><strong><em>Chuva de Adagas.</em></strong> <em>Ataque à Distância com Arma:</em> +7 para atingir, alcance 4,5 m, um alvo. <em>Acerto:</em> 9 (2d4 + 4) de dano perfurante mais 7 (2d6) de dano por veneno.</p>
-<p><strong><em>Pedra Trovejante (2/dia).</em></strong> Volenta arremessa um fragmento cristalino em uma criatura, objeto ou superfície a até 9 metros. O fragmento se estilhaça no impacto com uma explosão de energia concussiva. Cada criatura em um raio de 3 metros do ponto de impacto deve suceder em um <span class="highlight">teste de salvaguarda de Constituição CD 14</span> ou ser derrubada e empurrada 3 metros para longe daquele ponto. Uma criatura que falhar no teste também fica ensurdecida até o início do próximo turno de Volenta.</p>
-<p><strong><em>Estrela de Gelo (3/dia).</em></strong> Volenta lança um fragmento cristalino em um ponto que possa ver a até 9 metros. O fragmento explode no impacto, cobrindo a área com uma espessa geada congelante. Cada criatura em um raio de 1,5 metro do ponto de impacto deve fazer um <span class="highlight">teste de salvaguarda de Destreza CD 14</span>. Em uma falha, a criatura sofre 2d6 de dano por frio e fica presa pelo gelo até o início do próximo turno de Volenta. Em um sucesso, a criatura sofre metade do dano e não fica presa. Uma criatura presa pode usar sua ação para fazer um <span class="highlight">teste de Força CD 14</span> para se libertar. Um bloco de gelo de 1,5 metro quadrado tem CA 10, 15 pontos de vida, vulnerabilidade a dano por contusão e fogo, e imunidade a dano por frio, veneno e psíquico.</p>
-<p><strong><em>Bomba de Fogo do Alquimista (1/dia).</em></strong> Volenta arremessa um frasco de fogo alquímico concentrado em um ponto a até 9 metros. O frasco se estilhaça no impacto e detona em um raio de 3 metros. Qualquer criatura nessa área deve suceder em um <span class="highlight">teste de salvaguarda de Destreza CD 14</span> ou sofrer 2d6 de dano por fogo e ser incendiada. Uma criatura incendiada dessa forma sofre 1d4 de dano por fogo no início de cada um de seus turnos, e pode fazer um teste adicional de Destreza CD 14 no final de cada turno para apagar as chamas.</p>
+<p><strong><em>Pedra Trovejante (2/dia).</em></strong> Volenta arremessa um fragmento cristalino em uma criatura, objeto ou superfície a até 9 metros. O fragmento se estilhaça no impacto com uma explosão de energia concussiva. Cada criatura em um raio de 3 metros do ponto de impacto deve ser bem-sucedida em um <span class="highlight">teste de salvaguarda de Constituição CD 14</span> ou cairá prone e será empurrada 3 metros para longe daquele ponto. Uma criatura que falhar no teste também fica ensurdecida até o início do próximo turno de Volenta.</p>
+<p><strong><em>Estrela de Gelo (3/dia).</em></strong> Volenta lança um fragmento cristalino em um ponto que ela possa ver a até 9 metros. O fragmento explode no impacto, cobrindo a área com uma espessa geada congelante. Cada criatura em um raio de 1,5 metro do ponto de impacto deve fazer um <span class="highlight">teste de salvaguarda de Destreza CD 14</span>. Em uma falha, a criatura sofre 2d6 de dano por frio e fica presa pelo gelo até o início do próximo turno de Volenta. Em um sucesso, a criatura sofre metade do dano e não fica presa. Uma criatura presa pode usar sua ação para fazer um <span class="highlight">teste de Força CD 14</span> para se libertar. Um bloco de gelo de 1,5 metro quadrado tem CA 10, 15 pontos de vida, vulnerabilidade a dano de contusão e fogo, e imunidade a dano por frio, veneno e psíquico.</p>
+<p><strong><em>Bomba de Fogo do Alquimista (1/dia).</em></strong> Volenta arremessa um frasco de fogo alquímico concentrado em um ponto a até 9 metros. O frasco se estilhaça no impacto e detona em um raio de 3 metros. Qualquer criatura nessa área deve ser bem-sucedida em um <span class="highlight">teste de salvaguarda de Destreza CD 14</span> ou sofrer 2d6 de dano por fogo e ser incendiada. Uma criatura incendiada dessa forma sofre 1d4 de dano por fogo no início de cada um de seus turnos, e pode fazer um teste adicional de Destreza CD 14 no final de cada turno para apagar as chamas.</p>
 <h3>Ações Bônus</h3>
 <p><strong><em>Fuga Ágil.</em></strong> Volenta realiza a ação Desengajar ou Esconder-se.</p>
 <h3>Reações</h3>
-<p>Volenta pode realizar até três reações por rodada, mas apenas uma por turno. Se Volenta perder suas reações e não estiver incapacitada, ela perde uma reação em vez disso.</p>
-<p><strong><em>Conflagração Final.</em></strong> Quando Volenta é reduzida a 0 pontos de vida, ela pode usar sua bomba de fogo do alquimista, se disponível, centrada em si mesma. (Qualquer dano sofrido não é transferido para sua segunda forma.)</p>
-<p><strong><em>Fuga Acrobática.</em></strong> Quando um ataque erra Volenta, ela pode usar sua reação para se mover até metade de sua velocidade sem provocar ataques de oportunidade.</p>
+<p>Volenta pode realizar até três reações por rodada, mas apenas uma por turno. Se Volenta perder suas reações, ela perde uma reação em vez disso.</p>
+<p><strong><em>Conflagração Final.</em></strong> Quando Volenta é reduzida a 0 pontos de vida, ela pode usar sua bomba de fogo do alquimista, se disponível, centrada nela mesma. (Qualquer dano sofrido não é transferido para sua segunda forma.)</p>
+<p><strong><em>Fuga Acrobática.</em></strong> Quando um ataque erra Volenta, ela pode usar sua reação para se mover até metade da sua velocidade sem provocar ataques de oportunidade.</p>
 <p><strong><em>Salpico Cáustico (1/dia).</em></strong> Quando Volenta sofre dano de uma criatura a até 1,5 metro dela, pode usar sua reação para salpicar essa criatura com produtos químicos cáusticos. A criatura deve fazer um <span class="highlight">teste de salvaguarda de Destreza CD 14</span>. Em uma falha, a criatura sofre <span class="highlight">14 (4d6) de dano por ácido</span> e fica cega até o final do próximo turno de Volenta. Em um sucesso, a criatura sofre metade do dano e não fica cega.</p>
 </div>
 <br>
@@ -362,28 +364,29 @@
   </tbody>
 </table>
 <hr>
-<strong>Teste de Salvaguarda</strong> Des +7, Sab +5<br>
-<strong>Perícias</strong> Acrobacia +10, Percepção +5, Furtividade +10<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
-<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 15<br>
-<strong>Idiomas</strong> Comum<br>
-<strong>Desafio</strong> 6 (2.300 PX)<br>
+<strong>Saving Throws</strong> Dex +7, Wis +5<br>
+<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
+<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
+<strong>Languages</strong> Common<br>
+<strong>Challenge</strong> 6 (2,300 XP)<br>
 <hr>
-<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se Volenta sofrer dano radiante ou dano de água benta, essa característica não funciona no início do próximo turno do vampiro.</p>
-<p><strong><em>Escalada de Aranha.</em></strong> Volenta pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Volenta sofre 20 de dano radiante no início do seu turno, e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
-<p><strong><em>Frenesi Sanguinário.</em></strong> Volenta tem vantagem em jogadas de ataque corpo a corpo contra qualquer criatura que não tenha todos os seus pontos de vida.</p>
-<h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Volenta realiza dois ataques, dos quais apenas um pode ser um ataque de mordida. Se ambos os ataques acertarem, ela pode imediatamente fazer um ataque adicional.</p>
-<p><strong><em>Mordida.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, uma criatura voluntária, ou uma criatura que esteja agarrada por Volenta, incapacitada ou imobilizada. <em>Acerto:</em> 6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Volenta recupera pontos de vida iguais a essa quantidade. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0. Cada vez que o alvo termina um descanso longo sem ser mordido novamente, ele pode rolar um de seus dados de vida e adicionar seu modificador de Constituição. O máximo de pontos de vida do alvo aumenta em uma quantidade igual ao resultado. (Esse aumento não pode elevar os pontos de vida do alvo acima do seu máximo original).</p>
-<p><strong><em>Garras.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, uma criatura. <em>Acerto:</em> 8 (2d4 + 3) de dano cortante. Em vez de causar dano, Volenta pode agarrar o alvo (CD 13 para escapar).</p>
-<h3>Ações Bônus</h3>
-<p><strong><em>Salto.</em></strong> Volenta se move até sua velocidade sem provocar ataques de oportunidade. Ao fazer isso, ela pode substituir 3 metros de movimento por um salto de 3 metros de altura.</p>
-<p><strong><em>Dislocar.</em></strong> Volenta desloca suas articulações, escapando automaticamente de quaisquer restrições não mágicas, como algemas ou uma criatura que a tenha agarrado.</p>
-<h3>Reações</h3>
-<p><strong><em>Cuspir Sangue.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, Volenta cospe um jato de sangue nos olhos da criatura atacante, forçando-a a fazer um teste de salvaguarda de Destreza CD 15. Em uma falha, a criatura fica cega até o final do seu próximo turno.</p>
-<p><strong><em>Agressão.</em></strong> Em resposta a sofrer dano de um ataque ou magia, Volenta se move até sua velocidade em direção a uma criatura hostil que possa ver, sem provocar ataques de oportunidade.</p>
-<p><strong><em>Fuga.</em></strong> Em resposta a escapar de um agarramento, Volenta usa sua característica de <strong><em>salto</em></strong>.</p>
+<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
+<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
+<h3>Reactions</h3>
+<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
+<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
+<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
 </div>
 
 ## Ludmilla Vilisevic
@@ -460,7 +463,7 @@
     <p><strong><em>Manto de Sombras (1/vez ao dia).</em></strong> Ludmilla convoca um manto de sombras ao seu redor, que dura por 8 horas ou até que ela o dissipe como uma ação bônus. Enquanto o manto permanecer, ela ganha uma velocidade de voo de 15 metros (pairando) e possui resistência a danos causados por ataques corpo a corpo. Se Ludmilla resistir a um dano dessa forma, o atacante recebe a mesma quantidade e tipo de dano causado.<br>&nbsp;&nbsp;&nbsp;&nbsp; Na primeira vez que Ludmilla sofrer dano radiante ou dano de água benta enquanto o manto estiver presente, o manto enfraquece, reduzindo sua velocidade de voo para 7,5 metros e fazendo-a cair 6 metros. Na segunda vez que Ludmilla sofrer dano radiante ou dano de água benta enquanto o manto estiver presente, o manto desaparece imediatamente.</p>
     <p><strong><em>Entangling Slime.</em></strong> Se Ludmilla estiver atualmente concentrada em um feitiço de <em>grease</em>, ela conjura <em>web</em> (CD 15) sem precisar manter a concentração, mirando na mesma área de 6 metros quadrados do feitiço <em>grease</em>. As teias desaparecem quando ela perde a concentração no <em>grease</em>.</p>
     <h3>Reações</h3>
-    <p>Ludmilla pode realizar até três reações por rodada, mas apenas uma por turno. Se ela fosse perder suas reações e não estiver incapacitada, ela perde apenas uma reação.</p>
+    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
     <p><strong><em>Misty Step.</em></strong> Em resposta a receber dano, Ludmilla conjura <em>misty step.</em></p>
     <p><strong><em>Disrupt Spell (3 vezes/dia).</em></strong> <em>Magia de 3º Nível:</em> 18 metros, componentes S, instantâneo. <em>Efeito:</em> Ludmilla tenta interromper uma criatura no ato de conjurar uma magia. Se a criatura estiver conjurando uma magia de 3º nível ou inferior, deve realizar um teste de salvaguarda CD 15 usando sua habilidade de conjuração. Em caso de falha, a magia da criatura falha e não produz efeito.</p>
     <p><strong><em>Reprisal da Maga.</em></strong> Em resposta a um ataque mágico que a erre ou ao sucesso em um teste de salvaguarda contra uma magia, Ludmilla pode imediatamente forçar o conjurador a obter sucesso em um teste de salvaguarda de Constituição CD 15 ou sofrer 7 (2d6) de dano de força.</p>
@@ -500,33 +503,33 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +6, Int +7, Sab +3<br>
-<strong>Perícias</strong> Arcana +7, Percepção +3, Furtividade +6<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
-<strong>Sentidos</strong> Percepção passiva 13<br>
-<strong>Idiomas</strong> Abyssal, Common, Draconic, Infernal<br>
-<strong>Desafio</strong> 8<br>
-<strong>Bônus de Proficiência</strong> +3
+<strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
+<strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
+<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
+<strong>Senses</strong> passive Perception 13<br>
+<strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
+<strong>Challenge</strong> 8<br>
+<strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Visão Diabólica.</em></strong> Ludmilla pode enxergar normalmente na escuridão, tanto mágica quanto não mágica, a uma distância de 36 metros.</p>
-<p><strong><em>Regeneração.</em></strong> Ludmilla recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se sofrer dano radiante ou de água benta, essa característica não funciona no início do seu próximo turno.</p>
-<p><strong><em>Escalada Aracnídea.</em></strong> Ludmilla pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Ludmilla sofre 20 pontos de dano radiante no início do seu turno e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
-<p><strong><em>Forma de Névoa.</em></strong> Quando Ludmilla é reduzida a 0 pontos de vida, suas estatísticas são instantaneamente substituídas pelas estatísticas de sua forma Mistfiend. Sua contagem de iniciativa não muda. O dano excedente não é transferido para sua nova forma, mas ela mantém quaisquer condições que possuía na forma anterior.</p>
-<h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Ludmilla realiza dois ataques de Shocking Grasp.</p>
-<p><strong><em>Shocking Grasp.</em></strong> <em>Ataque Mágico Corpo a Corpo:</em> +7 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (2d8) de dano elétrico. Em um acerto, o alvo não pode realizar reações até o início do seu próximo turno.</p>
-<p><strong><em>Lightning Lance.</em></strong> Um raio de eletricidade se projeta em direção a uma criatura à escolha de Ludmilla que ela possa ver a até 9 metros. Dois raios então saltam dessa criatura para até duas outras criaturas, cada uma a até 3 metros da primeira criatura. (Uma criatura só pode ser alvo de um dos raios.) Cada criatura deve fazer um <span class="highlight">teste de salvaguarda de Destreza CD 15</span>, sofrendo 9 (2d8) de dano elétrico em uma falha, ou metade do dano em um sucesso.</p>
-<h3>Ações Bônus</h3>
-<p><strong><em>Manto de Sombras (1/dia).</em></strong> Ludmilla invoca um manto de sombras ao seu redor, que dura 8 horas ou até que ela o dissipe como ação bônus. Enquanto o manto permanecer, ela ganha velocidade de voo de 15 metros (pairando) e resistência a danos causados por ataques corpo a corpo. Se Ludmilla resistir a um dano dessa forma, o atacante sofre a mesma quantidade e tipo de dano.<br>&nbsp;&nbsp;&nbsp;&nbsp; Na primeira vez que Ludmilla sofrer dano radiante ou de água benta enquanto o manto estiver ativo, o manto enfraquece, reduzindo sua velocidade de voo para 7,5 metros e fazendo-a cair 6 metros. Na segunda vez que sofrer dano radiante ou de água benta enquanto o manto estiver ativo, o manto desaparece imediatamente.</p>
-<p><strong><em>Duplicata.</em></strong> Ludmilla cria uma ilusão perfeita e intangível de si mesma que dura até o início do seu próximo turno. A ilusão aparece em um espaço desocupado a até 9 metros dela. Ludmilla pode então trocar de lugar magicamente com a ilusão. Enquanto a ilusão permanecer, ela imita perfeitamente as ações, fala e movimentos de Ludmilla, embora não possa atacar. Um jogador pode fazer um <span class="highlight">teste de Inteligência (Investigação) CD 15</span> para determinar qual Ludmilla é ilusória. A ilusão desaparece se sofrer qualquer dano.</p>
-<p><strong><em>Raio Congelante.</em></strong> <em>Ataque Mágico à Distância:</em> +7 para atingir, alcance 36 metros, três criaturas. <em>Acerto:</em> 7 (2d6) de dano frio por raio.</p>
-<p><strong><em>Escuridão (1/dia).</em></strong> Ludmilla conjura <em>darkness</em> com raio de 12 metros.</p>
-<h3>Reações</h3>
-<p>Ludmilla pode realizar até três reações por rodada, mas apenas uma por turno. Se Ludmilla perder suas reações e não estiver incapacitada, ela perde uma reação em vez disso.</p>
-<p><strong><em>Passo Nebuloso.</em></strong> Em resposta a sofrer dano ou conjurar *darkness*, Ludmilla conjura <em>misty step</em>. Ela pode então realizar imediatamente a ação Esconder-se. Se estiver voando, tem vantagem no teste para se esconder.</p>
-<p><strong><em>Disrupt Spell (3/dia).</em></strong> Magia de 3º nível, alcance 18 metros, componentes S, instantânea. <em>Efeito:</em> Ludmilla tenta interromper uma criatura no processo de conjurar uma magia. Se a criatura estiver conjurando uma magia de 3º nível ou inferior, deve fazer um <span class="highlight">teste de salvaguarda CD 15</span> usando sua habilidade de conjuração. Em uma falha, a magia da criatura falha e não tem efeito.</p>
-<p><strong><em>Reprisal do Mago.</em></strong> Em resposta a ser errada por um ataque mágico ou a ter sucesso em um teste de salvaguarda contra uma magia, Ludmilla pode forçar imediatamente o conjurador a fazer um teste de salvaguarda de Constituição CD 15 ou sofrer 7 (2d6) de dano de força.</p>
+<p><strong><em>Devil’s Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>
+<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Mistfiend form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Ludmilla makes two Shocking Grasp attacks.</p>
+<p><strong><em>Shocking Grasp.</em></strong> <em>Melee Spell Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d8) lightning damage. On a hit, the target can't take reactions until the start of its next turn.</p>
+<p><strong><em>Lightning Lance.</em></strong> A bolt of lightning arcs toward a creature of Ludmilla’s choice that she can see within 30 feet. Two bolts then leap from that creature to as many as two other creatures, each of which must be within 10 feet of the first creature. (A creature can be targeted by only one of the bolts.) Each creature must make a <span class="highlight">DC 15 Dexterity saving throw</span>, taking 9 (2d8) lightning damage on a failed save, or half as much damage on a success.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
+<p><strong><em>Duplicate.</em></strong> Ludmilla creates a perfect, intangible illusion of herself that lasts until the start of her next turn. The illusion appears in an unoccupied space within 30 feet of her. Ludmilla can then magically switch places with the illusion. While the illusion remains, it perfectly mimics Ludmilla's actions, speech, and movement, though it cannot attack. A player can make a <span class="highlight">DC 15 Intelligence (Investigation) check</span> to determine which Ludmilla is illusory. The illusion vanishes if it takes any damage.</p>
+<p><strong><em>Freezing Ray.</em></strong> <em>Ranged Spell Attack:</em> +7 to hit, range 120 ft., three creatures. <em>Hit:</em> 7 (2d6) cold damage per ray.</p>
+<p><strong><em>Darkness (1/day).</em></strong> Ludmilla casts <em>darkness</em> with a radius of 40 feet.</p>
+<h3>Reactions</h3>
+<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions, she loses one reaction instead..</p>
+<p><strong><em>Misty Step.</em></strong> In response to taking damage or casting *darkness*, Ludmilla casts <em>misty step</em>. She can then immediately take the Hide action. If she’s flying, she has advantage on the check made to hide.</p>
+<p><strong><em>Disrupt Spell (3/day).</em></strong> 3rd-level spell, range 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a <span class="highlight">DC 15 saving throw</span> using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
+<p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
 </div>
 <br>
 
@@ -561,35 +564,35 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +6, Int +7, Sab +3<br>
-<strong>Perícias</strong> Arcana +7, Percepção +3, Furtividade +6<br>
-<strong>Vulnerabilidades a Dano</strong> relâmpago<br>
-<strong>Imunidades a Dano</strong> contusão, perfuração e corte de ataques não mágicos<br>
-<strong>Imunidades a Condições</strong> agarrado, caído, imobilizado<br>
-<strong>Sentidos</strong> Percepção passiva 13<br>
-<strong>Idiomas</strong> —<br>
-<strong>Desafio</strong> 8 (3.900 PX)<br>
-<strong>Bônus de Proficiência</strong> +3
+<strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
+<strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
+<strong>Damage Vulnerabilities</strong> lightning<br>
+<strong>Damage Immunities</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
+<strong>Condition Immunities</strong> grappled, prone, restrained<br>
+<strong>Senses</strong> passive Perception 13<br>
+<strong>Languages</strong> —<br>
+<strong>Challenge</strong> 8 (3,900 XP)<br>
+<strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Regeneração.</em></strong> Ludmilla recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se ela sofrer dano radiante ou dano de água benta, essa característica não funciona no início do seu próximo turno.</p>
-<p><strong><em>Escalada Aracnídea.</em></strong> Ludmilla pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Ludmilla sofre 20 de dano radiante no início do seu turno, e tem desvantagem em ataques e testes de habilidade.</p>
-<p><strong><em>Sensibilidade ao Frio.</em></strong> Quando Ludmilla sofre dano por frio, ela congela em uma forma corpórea até o início do seu próximo turno. Enquanto congelada dessa forma, ela perde os atributos da característica Mistform, perde sua imunidade a dano de contusão, perfuração e corte de armas não mágicas, ganha vulnerabilidade a dano de contusão e trovão, perde sua imunidade às condições agarrado, caído e imobilizado, e perde sua velocidade de voo.</p>
-<p><strong><em>Visão nas Brumas.</em></strong> Enquanto estiver dentro da névoa, Ludmilla possui blindsight que se estende até a borda da névoa, com alcance máximo de 18 metros.
-<p><strong><em>Forma de Névoa.</em></strong> Ludmilla pode entrar e ocupar o espaço de outra criatura, e pode passar por pequenos buracos, aberturas estreitas e até mesmo fendas, embora trate líquidos como se fossem superfícies sólidas. Ela não pode cair, e permanece pairando no ar mesmo quando atordoada ou incapacitada. Contudo, ao realizar um ataque corpo a corpo ou agarrar um alvo, Ludmilla perde esses atributos, assim como sua imunidade a dano de contusão, perfuração e corte de armas não mágicas, e perde sua imunidade às condições agarrado, caído e imobilizado.</p>
-<h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Ludmilla realiza dois ataques com suas garras. Ela pode substituir um ataque por um ataque com estilhaços de névoa ou mordida.</p>
-<p><strong><em>Garras.</em></strong> <em>Ataque Corpo a Corpo:</em> +6 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 8 (2d4 + 3) de dano cortante mais 2 (1d4) de dano necrótico. Em vez de causar o dano cortante, Ludmilla pode agarrar o alvo (CD 14 para escapar).</p>
-<p><strong><em>Estilhaços de Névoa.</em></strong> <em>Ataque à Distância:</em> +6 para atingir, alcance 9 m, um alvo. <em>Acerto:</em> 6 (1d6 + 3) de dano cortante mais 3 (1d6) de dano necrótico.</p>
-<p><strong><em>Mordida.</em></strong> <em>Ataque Corpo a Corpo:</em> +6 para atingir, alcance 1,5 m, uma criatura voluntária, ou uma criatura agarrada por Ludmilla, incapacitada ou imobilizada. <em>Acerto:</em> 6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Ludmilla recupera pontos de vida iguais a essa quantidade. A redução dura até que o alvo termine um descanso longo. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0.</p>
-<h3>Ações Bônus</h3>
-<p><strong><em>Dissipar.</em></strong> Se Ludmilla estiver fortemente obscurecida por névoa ou neblina, ela realiza a ação Esconder-se.
-<p><strong><em>Asfixiar.</em></strong> Uma criatura em até 9 metros deve realizar um <span class="highlight">teste de salvaguarda de Constituição CD 14</span>. Em caso de falha, a cabeça do alvo fica envolta por um vácuo de ar por 1 minuto, ou enquanto Ludmilla mantiver sua concentração (como se estivesse concentrada em uma magia). Enquanto estiver cercado por esse vácuo, o alvo fica surdo, não pode falar, não pode respirar (mas pode prender a respiração), e acumula níveis de exaustão iguais a três menos o número de minutos de ar restantes (mínimo 0). Além disso, um alvo cercado por esse vácuo deve ter sucesso em um teste de salvaguarda de Constituição CD 14 no final de cada um de seus turnos ou perde 1 minuto de ar em caso de falha.<br>&nbsp;&nbsp;&nbsp;&nbsp;O alvo perde todos os níveis de exaustão adquiridos dessa forma se cair inconsciente ou se o vácuo desaparecer. O vácuo desaparece se Ludmilla realizar a ação Esconder-se ou se o alvo estiver atrás de cobertura total ou a mais de 9 metros dela.</p>
-<h3>Reações</h3>
-<p>Ludmilla pode realizar até três reações por rodada, mas apenas uma por turno. Se Ludmilla perder suas reações e não estiver incapacitada, ela perde uma reação em vez disso.</p>
-<p><strong><em>Névoa.</em></strong> Em resposta a sofrer dano, Ludmilla conjura <em>fog cloud</em> sem concentração.
-<p><strong><em>Névoa Venenosa.</em></strong> Em resposta a sofrer dano de uma criatura em até 1,5 m, Ludmilla força essa criatura a realizar um <span class="highlight">teste de salvaguarda de Constituição CD 14</span> ou sofrer 7 (2d6) de dano por veneno.</p>
-<p><strong><em>Emboscada.</em></strong> Em resposta a ouvir ou ver uma criatura se mover em até 9 metros enquanto está escondida, Ludmilla se move até sua velocidade em direção a ela e a ataca com suas garras.</p>
+<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Cold Sensitivity.</em></strong> When Ludmilla takes cold damage, she freezes into a corporeal form until the start of her next turn. While frozen in this way, she loses the attributes of her Mistform feature, loses her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons, gains vulnerability to bludgeoning and thunder damage, loses her immunity to the grappled, prone, and restrained conditions, and loses her fly speed.</p>
+<p><strong><em>Mistsight.</em></strong> While within fog, Ludmilla has blindsight that extends to the edge of the fog, out to a maximum of 60 feet.
+<p><strong><em>Mistform.</em></strong> Ludmilla can enter and occupy the space of another creature, and can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. She can't fall, and remains hovering in the air even when stunned or otherwise incapacitated. However, while making a melee attack or grappling a target, Ludmilla loses these attributes, as well as her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons and loses her immunity to the grappled, prone, and restrained conditions.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
+<p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Ludmilla, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.).</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
+<p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
+<h3>Reactions</h3>
+<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Fog Cloud.</em></strong> In response to taking damage, Ludmilla casts <em>fog cloud</em> without concentration.
+<p><strong><em>Poison Mist.</em></strong> In response to taking damage from a creature within 5 feet, Ludmilla forces that creature to succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or take 7 (2d6) poison damage.</p>
+<p><strong><em>Ambush.</em></strong> In response to hearing or seeing a creature move within 30 feet while she's hidden, Ludmilla moves up to her speed toward it and attacks it with her claws.</p>
 </div>
 
 ## Anastrasya Karelova
@@ -600,7 +603,7 @@
 
 ***Motivações.*** Anastrasya deseja eliminar Volenta, Ludmilla e os PJs como concorrentes ao afeto de Strahd — colocando-os uns contra os outros, se possível.
 
-***Inspirações.*** Ao interpretar Anastrasya, canalizem Lara Raith (*The Dresden Files*), Margaery Tyrell (*Game of Thrones*) e Irene Adler (*Sherlock Holmes*)
+***Inspirações.*** Ao interpretar Anastrasya, canalizem Lara Raith (*The Dresden Files*), Margaery Tyrell (*Game of Thrones*) e Ireena Adler (*Sherlock Holmes*)
 
 **Informações do Personagem**  
 ***Persona.*** Para o mundo, Anastrasya é uma socialite empática, ponderada e encantadora. Para aqueles que a conhecem melhor, Anastrasya é uma astuta e implacável estrategista, com uma inclinação para se esquivar das situações mais complicadas.
@@ -641,30 +644,30 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +6, Sab +3, Car +6<br>
-<strong>Perícias</strong> Enganação +6, Percepção +3, Persuasão +6, Furtividade +6<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
-<strong>Sentidos</strong> Percepção passiva 13<br>
-<strong>Idiomas</strong> Comum, Élfico<br>
-<strong>Desafio</strong> 7 (2.900 PX)<br>
-<strong>Bônus de Proficiência</strong> +3
+<strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
+<strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
+<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
+<strong>Senses</strong> passive Perception 13<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 7 (2,900 XP)<br>
+<strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Regeneração.</em></strong> Anastrasya recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se ela sofrer dano radiante ou dano de água benta, essa característica não funciona no início do seu próximo turno.</p>
-<p><strong><em>Escalada Aracnídea.</em></strong> Anastrasya pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Anastrasya sofre 20 de dano radiante no início do seu turno, e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
-<p><strong><em>Mudança de Pele.</em></strong> Quando Anastrasya é reduzida a 0 pontos de vida, sua pele se desprende, revelando um morcego gigante, inchado e grotesco. Suas estatísticas são instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não é transferido para sua nova forma, mas ela mantém quaisquer condições que possuía em sua forma anterior.
-<h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Anastrasya realiza três ataques com sua espada voadora, ou dois com suas garras.</p>
-<p><strong><em>Garras.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 8 (2d4 + 3) de dano cortante. Em vez de causar dano, Anastrasya pode agarrar o alvo (CD 13 para escapar).</p>
-<p><strong><em>Espada Voadora.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 9 m, um alvo. <em>Acerto:</em> 7 (1d8 + 3) de dano cortante.</p>
-<h3>Ações Bônus</h3>
-<p><strong><em>Encanto.</em></strong> Uma criatura a até 3 metros deve fazer um <span class="highlight">teste de salvaguarda de Sabedoria CD 14</span>. Em caso de falha, o alvo fica magicamente encantado por 1 minuto ou até Anastrasya perder a concentração (como se estivesse concentrada em uma magia). Um alvo que não possa ver Anastrasya automaticamente tem sucesso. Enquanto encantado, o alvo considera Anastrasya um amigo confiável a ser ouvido e protegido; não está sob o controle dela, mas atende seus pedidos e ações da forma mais favorável e permite que Anastrasya o morda. O alvo pode repetir o teste de salvaguarda no final de cada um de seus turnos, encerrando o efeito em caso de sucesso.</p>
-<p><strong><em>Investida Telecinética.</em></strong> Anastrasya escolhe um objeto pesando entre 0,5 e 22,7 kg a até 9 metros que não esteja sendo usado ou carregado. O objeto voa em linha reta até 9 metros na direção escolhida por Anastrasya antes de cair no chão, parando antecipadamente se colidir com uma superfície sólida. Se o objeto atingir uma criatura, essa criatura deve fazer um <span class="highlight">teste de salvaguarda de Destreza CD 14</span>. Em caso de falha, o objeto atinge o alvo e para de se mover. Quando o objeto atinge algo, tanto o objeto quanto o que ele atingiu recebem 3d8 de dano contundente.</p>
-<h3>Reações</h3>
-<p>Anastrasya pode realizar até três reações por rodada, mas apenas uma por turno. Se Anastrasya perder suas reações e não estiver incapacitada, ela perde uma reação em vez disso.</p>
-<p><strong><em>Retirada Noturna.</em></strong> Em resposta a sofrer dano, Anastrasya pode voar até metade de sua velocidade sem provocar ataques de oportunidade.</p>
-<p><strong><em>Convocar Defensor (1/rodada).</em></strong> Em resposta a ser alvo de um ataque, se Anastrasya tiver encantado uma criatura, ela ordena que essa criatura use sua reação, se disponível, para se mover até sua velocidade em direção a ela. Se a criatura encantada terminar seu movimento a até 1,5 metro de Anastrasya, ela se torna o novo alvo do ataque.</p>
-<p><strong><em>Defesa Telecinética.</em></strong> Em resposta a ser alvo de um ataque ou magia, Anastrasya telecineticamente invoca um objeto pesando entre 0,5 e 22,7 kg a até 9 metros que não esteja sendo usado ou carregado, ganhando meia cobertura contra o ataque ou magia que a atingiria.</p>
+<p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Skinchange.</em></strong> When Anastrasya is reduced to 0 hit points, her skin sloughs off, revealing a giant, bloated, grotesque bat. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn’t change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks with her flying sword, or two with her claws.</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).</p>
+<p><strong><em>Flying Sword.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 30 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Charm.</em></strong> One creature within 10 feet must make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failure, the target is magically charmed for 1 minute or until Anastrasya loses her concentration (as if concentrating on a spell). A target that can't see Anastrasya automatically succeeds. While charmed, the target regards Anastrasya as a trusted friend to be heeded and protected; it isn't under Anastrasya's control, but takes her requests and actions in the most favorable way and lets Anastrasya bite it. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
+<p><strong><em>Telekinetic Thrust.</em></strong> Anastrasya chooses one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried. The object flies in a straight line up to 30 feet in a direction Anastrasya chooses before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.</p>
+<h3>Reactions</h3>
+<p>Anastrasya can take up to three reactions per round, but only one per turn. If Anastrasya would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Night's Retreat.</em></strong> In response to taking damage, Anastrasya can fly up to half her speed without provoking opportunity attacks.</p>
+<p><strong><em>Call Defender (1/round).</em></strong> In response to being targeted by an attack, if Anastrasya has charmed a creature, she commands that creature to use its reaction, if available, to move up to its speed toward her. If the charmed creature ends its movement within 5 feet of Anastrasya, it becomes the target of the attack instead.</p>
+<p><strong><em>Telekinetic Defense.</em></strong> In response to being targeted by an attack or spell, Anastrasya telekinetically summons one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried, gaining half cover against the triggering attack or spell.</p>
 </div>
 <br>
 
@@ -699,29 +702,29 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +6, Sab +3, Car +6<br>
-<strong>Perícias</strong> Enganação +6, Percepção +3, Persuasão +6, Furtividade +6<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
-<strong>Sentidos</strong> Percepção passiva 13<br>
-<strong>Idiomas</strong> Comum, Élfico<br>
-<strong>Desafio</strong> 7 (2.900 PX)<br>
-<strong>Bônus de Proficiência</strong> +3
+<strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
+<strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
+<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
+<strong>Senses</strong> passive Perception 13<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 7 (2,900 XP)<br>
+<strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Regeneração.</em></strong> Anastrasya recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou em água corrente. Se ela sofrer dano radiante ou dano de água benta, essa característica não funciona no início do seu próximo turno.</p>
-<p><strong><em>Escalada Aracnídea.</em></strong> Anastrasya pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Anastrasya sofre 20 de dano radiante no início do seu turno, e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
-<h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Anastrasya realiza três ataques, dos quais apenas um pode ser um ataque de mordida.</p>
-<p><strong><em>Mordida.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> <span class="highlight">+6 para atingir</span>, alcance 1,5 m, uma criatura voluntária, ou uma criatura que esteja agarrada por Anastrasya, incapacitada ou imobilizada. <em>Acerto:</em> <span class="highlight">6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico</span>. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Anastrasya recupera pontos de vida iguais a essa quantidade. A redução dura até que o alvo termine um descanso longo.</p>
-<p><strong><em>Garras.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> <span class="highlight">+6 para atingir</span>, alcance 1,5 m, um alvo. <em>Acerto:</em> <span class="highlight">8 (2d4 + 3) de dano cortante</span>. Em vez de causar dano, Anastrasya pode agarrar o alvo (escapar <span class="highlight">CD 13</span>).</p>
-<p><strong><em>Vômito de Sangue.</em></strong> Anastrasya cospe sangue em um <span class="highlight">cone de 4,5 metros</span>. Cada criatura nessa área deve fazer um <span class="highlight">teste de salvaguarda de Destreza CD 14</span>, sofrendo <span class="highlight">7 (2d6) de dano contundente e 3 (1d6) de dano necrótico</span> em uma falha, ou metade do dano em um sucesso.</p>
-<h3>Ações Bônus</h3>
-<p><strong><em>Tempestade Telecinética.</em></strong> Cada criatura em um <span class="highlight">raio de 1,5 metro</span> ao redor de Anastrasya deve fazer um <span class="highlight">teste de salvaguarda de Constituição CD 14</span>, sofrendo <span class="highlight">4d4 de dano de força</span> em uma falha, ou metade do dano em um sucesso.</p>
-<p><strong><em>Grito Horripilante.</em></strong> Todas as criaturas que puderem ouvir dentro de um <span class="highlight">raio de 9 metros</span> devem ser bem-sucedidas em um <span class="highlight">teste de salvaguarda de Constituição CD 14</span> ou sofrer os seguintes efeitos: Em uma falha, a criatura tem desvantagem em jogadas de ataque, testes de habilidade e testes de concentração até o início do próximo turno de Anastrasya. Se a criatura falhar o teste por 5 ou mais, também fica amedrontada de Anastrasya até o início do próximo turno dela. Se falhar por 10 ou mais, também fica paralisada até o final do próximo turno de Anastrasya.</p>
-<h3>Reações</h3>
-<p>Anastrasya pode realizar até três reações por rodada, mas apenas uma por turno. Se Anastrasya perder suas reações e não estiver incapacitada, ela perde uma reação em vez disso.</p>
-<p><strong><em>Ataque com Asas.</em></strong> Quando Anastrasya sofre dano de uma criatura a até 1,5 metro dela, ela pode forçar o atacante a fazer um <span class="highlight">teste de salvaguarda de Força CD 14</span>. Em uma falha, o atacante é empurrado para trás <span class="highlight">3 metros</span>. Se falhar o teste por 5 ou mais, também cai no chão.</p>
-<p><strong><em>Comando Vampírico.</em></strong> Quando uma criatura se move para dentro de 3 metros de Anastrasya ou a danifica enquanto estiver a essa distância, ela pode usar sua reação para forçar a criatura a fazer um <span class="highlight">teste de salvaguarda de Sabedoria CD 14</span>. Em uma falha, Anastrasya pode comandar a criatura como se tivesse lançado o feitiço <em>command</em>, sem gastar um espaço de magia ou usar componentes.</p>
+<p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks, only one of which can be a bite attack.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">8 (2d4 + 3) slashing damage</span>. Instead of dealing damage, Anastrasya can grapple the target (escape <span class="highlight">DC 13</span>).</p>
+<p><strong><em>Vomit Blood.</em></strong> Anastrasya spews blood in a <span class="highlight">15-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 14 Dexterity saving throw</span>, taking <span class="highlight">7 (2d6) bludgeoning damage and 3 (1d6) necrotic damage</span> on a failed save, or half as much damage on a successful one.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Telekinetic Storm.</em></strong> Each creature within a <span class="highlight">5-foot radius</span> of Anastrasya must make a <span class="highlight">DC 14 Constitution saving throw</span>, taking <span class="highlight">4d4 force damage</span> on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Horrific Screech.</em></strong> All creatures that can hear within a <span class="highlight">30-foot radius</span> must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or suffer the following effects: On a failed save, a creature has disadvantage on attack rolls, ability checks, and concentration checks until the start of Anastrasya's next turn. If a creature fails the save by 5 or more, it is also frightened of Anastrasya until the start of her next turn. If a creature fails the save by 10 or more, it is also paralyzed until the end of Anastrasya's next turn.</p>
+<h3>Reactions</h3>
+<p>Anastrasya can take up to three reactions per round, but only one per turn. If Anastrasya would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Wing Attack.</em></strong> When Anastrasya takes damage from a creature within 5 feet of her, she can force the attacker to make a <span class="highlight">DC 14 Strength saving throw</span>. On a failed save, the attacker is pushed back <span class="highlight">10 feet</span>. If they fail the save by 5 or more, they also fall prone.</p>
+<p><strong><em>Vampiric Command.</em></strong> When a creature moves within 10 feet of Anastrasya or damages her while within 10 feet of her, she can use her reaction to force the creature to make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failed save, Anastrasya can command the creature as if she had cast the <em>command</em> spell, without expending a spell slot or using any components.</p>
 </div>
 
 ## Escher
@@ -810,34 +813,34 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
+<strong>Testes de Salvaguarda</strong> Dex +11, Wis +8<br>
 <strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
 <strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 23<br>
 <strong>Idiomas</strong> Comum, Élfico<br>
 <strong>Desafio</strong> 14<br>
 <strong>Proficiência</strong> +5<br>
 <hr>
-<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
-<p><strong><em>Ascendência Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser enfeitiçado, e magia não pode colocá-lo para dormir.</p>
-<p><strong><em>Magia Inata.</em></strong> A habilidade para conjuração inata de Rahadin é Inteligência. Ele pode conjurar inatamente os seguintes feitiços, sem necessidade de componentes:<br>
-- 3/dia: phantom steed<br>
-- 1/dia: nondetection</p>
-<p><strong><em>Máscara da Natureza.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente encoberto por folhagens, chuva forte, neve caindo, névoa e outros fenômenos naturais.</p>
-<p><strong><em>Instinto Assassino.</em></strong> Quando Rahadin cai a 0 pontos de vida, ele guarda sua sabre e desembainha suas cimitarra gêmeas, <em>Thorn</em> e <em>Chain</em>. Suas estatísticas são instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. Dano excedente não é transferido para sua nova forma, e ele não mantém quaisquer condições que possuía em sua forma anterior.</p>
+<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço de <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
+<p><strong><em>Ancestralidade Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser encantado, e magia não pode fazê-lo dormir.</p>
+<p><strong><em>Magia Inata.</em></strong> A habilidade mágica inata de Rahadin é Inteligência. Ele pode conjurar inatamente os seguintes feitiços, não requerendo componentes:<br>
+- 3/dia: cavalo fantasma<br>
+- 1/dia: não detecção</p>
+<p><strong><em>Máscara da Selva.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente obscurecido por folhagens, chuva forte, neve caindo, brumas e outros fenômenos naturais.</p>
+<p><strong><em>Instinto Assassino.</em></strong> Quando Rahadin cai a 0 pontos de vida, ele guarda seu sabre e empunha suas gêmeas cimitaras, <em>Espinho</em> e <em>Corrente</em>. Suas estatísticas são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excessivo não se transfere para sua nova forma, e ele não retém nenhuma condição que tinha em sua forma anterior.</p>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Rahadin realiza dois ataques.</p>
-<p><strong><em>Sabre.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Dano:</em> 11 (1d8 + 6) de dano cortante, e Rahadin pode empurrar o alvo em até 1,5 metro para longe. Em vez de empurrar o alvo, Rahadin pode forçá-lo a ter sucesso em um teste de salvaguarda de Força CD 15 ou ser derrubado.</p>
-<p><strong><em>Dardo Envenenado.</em></strong> <em>Ataque à Distância com Arma:</em> +11 para atingir, alcance 6/18 m, um alvo. <em>Dano:</em> 14 (1d4 + 6 mais 2d4) de dano perfurante e venenoso, e o alvo deve ter sucesso em um teste de salvaguarda de Constituição CD 15 ou ficar envenenado até o início do próximo turno de Rahadin.</p>
+<p><strong><em>Múltiplo Ataque.</em></strong> Rahadin faz dois ataques.</p>
+<p><strong><em>Sabre.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +11 para acertar, alcance 1,5 m, um alvo. <em>Atingido:</em> 11 (1d8 + 6) de dano cortante, e Rahadin pode empurrar o alvo até 1,5 metros para longe. Em vez de empurrar o alvo, Rahadin pode forçá-lo a ter sucesso em um teste de salvaguarda de Força CD 15 ou ser derrubado.</p>
+<p><strong><em>Seta Envenenada.</em></strong> <em>Ataque de Arma à Distância:</em> +11 para acertar, alcance 6/18 m, um alvo. <em>Atingido:</em> 14 (1d4 + 6 mais 2d4) de dano perfurante e de veneno, e o alvo deve ter sucesso em um teste de salvaguarda de Constituição CD 15 ou ficar envenenado até o início do próximo turno de Rahadin.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Golpe do Vento.</em></strong> Rahadin se move até sua velocidade em linha reta em direção a um espaço desocupado que possa ver, incluindo através de espaços inimigos, sem provocar ataques de oportunidade. Cada criatura a até 1,5 metro de um espaço pelo qual ele passar deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em uma falha, ou metade do dano em um sucesso.</p>
-<p><strong><em>Lâminas Giratórias.</em></strong> Cada criatura a até 3 metros de Rahadin deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em uma falha, ou metade do dano em um sucesso.</p>
+<p><strong><em>Golpe do Vento.</em></strong> Rahadin se move até sua velocidade em linha reta em direção a um espaço desocupado que ele pode ver, incluindo através de espaços inimigos, sem provocar ataques de oportunidade. Cada criatura a até 1,5 metros de um espaço que ele atravessa deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em um teste falho, ou metade desse dano em um teste bem-sucedido.</p>
+<p><strong><em>Lâminas Giratórias.</em></strong> Cada criatura a até 3 metros de Rahadin deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em um teste falho, ou metade desse dano em um teste bem-sucedido.</p>
 <h3>Reações</h3>
-<p>Rahadin pode realizar até três reações por rodada, mas não mais que uma por turno. Se Rahadin perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
-<p><strong><em>Golpe Punitivo.</em></strong> Quando Rahadin é atingido por um ataque corpo a corpo ou à distância, ele pode usar sua reação para se mover até sua velocidade em direção ao atacante e realizar um ataque com seu sabre. Este movimento não provoca ataques de oportunidade.</p>
-<p><strong><em>Desarmar.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin enquanto empunha uma arma, ele pode usar sua reação para forçar esse inimigo a fazer um teste de salvaguarda de Força CD 19, com vantagem se o inimigo estiver segurando a arma com as duas mãos. Em uma falha, o inimigo solta o item, que é arremessado a 3 metros de distância.</p>
-<p><strong><em>Passo Nebuloso (1/rodada).</em></strong> Quando um inimigo erra um ataque contra Rahadin ou lhe causa dano, ele pode usar sua reação para conjurar <em>misty step</em>. Ele pode então imediatamente realizar a ação Esconder-se. Rahadin não precisa ver seu destino ao conjurar <em>misty step</em> desta forma.</p>
-<p><strong><em>Grito Psíquico (1/dia).</em></strong> Quando Rahadin é reduzido a 0 pontos de vida, ele pode usar sua reação para fazer seu coro mortal soltar um grito terrível. Cada criatura a até 18 metros de Rahadin deve fazer um teste de salvaguarda de Sabedoria CD 17, sofrendo 11 (2d10) de dano psíquico em uma falha, ou metade do dano em um sucesso. Se uma criatura falhar no teste por 5 ou mais, ela também fica atordoada até o início do próximo turno de Rahadin.</p>
+<p>Rahadin pode realizar até três reações por rodada, embora não mais de uma por turno. Se Rahadin perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigisse originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Golpe Punitivo.</em></strong> Quando Rahadin é atingido por um ataque corpo a corpo ou à distância, ele pode usar sua reação para se mover até sua velocidade em direção ao atacante e fazer um ataque com seu sabre. Esse movimento não provoca ataques de oportunidade.</p>
+<p><strong><em>Desarmar.</em></strong> Quando um inimigo erra Rahadin com um ataque corpo a corpo enquanto empunha uma arma, ele pode usar sua reação para forçar esse inimigo a fazer um teste de salvaguarda de Força CD 19, com vantagem se o inimigo estiver segurando a arma com duas mãos. Em caso de falha, o inimigo solta o item, que é lançado a 3 metros de distância.</p>
+<p><strong><em>Passo Nebuloso (1/rodada).</em></strong> Quando um inimigo erra Rahadin com um ataque ou causa dano a ele, ele pode usar sua reação para conjurar <em>passo nebuloso</em>. Ele pode então imediatamente realizar a ação Esconder. Rahadin não precisa ver seu destino ao conjurar <em>passo nebuloso</em> dessa forma.</p>
+<p><strong><em>Grito Psíquico (1/dia).</em></strong> Quando Rahadin é reduzido a 0 pontos de vida, ele pode usar sua reação para fazer seu coro mortal liberar um grito terrível. Cada criatura a até 18 metros de Rahadin deve fazer um teste de salvaguarda de Sabedoria CD 17, sofrendo 11 (2d10) de dano psíquico em um teste falho ou metade desse dano em um teste bem-sucedido. Se uma criatura falhar no teste de salvaguarda por 5 ou mais, ela também fica atordoada até o início do próximo turno de Rahadin.</p>
 </div>
 <br>
 
@@ -874,30 +877,30 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
-<strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
-<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 23<br>
-<strong>Idiomas</strong> Comum, Élfico<br>
-<strong>Desafio</strong> 15<br>
-<strong>Proficiência</strong> +5<br>
+<strong>Saving Throws</strong> Dex +11, Wis +8<br>
+<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
+<strong>Languages</strong> Common, Elvish<br>
+<strong>Challenge</strong> 15<br>
+<strong>Proficiency</strong> +5<br>
 <hr>
-<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
-<p><strong><em>Ascendência Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser enfeitiçado, e magia não pode fazê-lo dormir.</p>
-<p><strong><em>Máscara da Natureza.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente obscurecido por folhagens, chuva forte, neve caindo, névoa e outros fenômenos naturais.</p>
-<h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Rahadin realiza três ataques com suas cimitarra <strong><em>Thorn</em></strong> e/ou <strong><em>Chain</em></strong>. Ele pode substituir um ataque por sua habilidade <strong><em>haunt</em></strong>.
-<p><strong><em>Thorn.</em></strong> <em>Ataque Corpo a Corpo:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou sangrar pelo próximo 1 minuto. (Um alvo sangrando deve ter sucesso em um teste de salvaguarda de Constituição CD 19 no início de cada um de seus turnos ou sofrer 1d6 de dano cortante adicional. Em um sucesso ou ao receber cura mágica, o alvo para de sangrar.)
-<p><strong><em>Chain.</em></strong> <em>Ataque Corpo a Corpo:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou ter sua velocidade reduzida a 0 até o final do seu próximo turno. Se o alvo falhar por 5 ou mais, ele também cai prone.</p>
-<p><strong><em>Haunt.</em></strong> Rahadin força uma criatura que ele possa ver a até 9 metros a ter sucesso em um teste de salvaguarda de Sabedoria CD 17 ou sofrer 7 (2d6) de dano psíquico e ficar amedrontada e surda pelos gritos das almas até o início do próximo turno dele.</p>
-<h3>Ações Bônus</h3>
-<p><strong><em>Coro Mortal.</em></strong> Cada criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> deve ter sucesso em um teste de salvaguarda de Sabedoria CD 17, sofrendo 9 (2d8) de dano psíquico em uma falha ou metade do dano em um sucesso. Se uma criatura falhar o teste por 5 ou mais, ela também fica amedrontada até o início do próximo turno de Rahadin.</p>
-<p><strong><em>Passo Veloz.</em></strong> Rahadin realiza a ação Correr ou Desengajar.
-<h3>Reações</h3>
-<p>Rahadin pode realizar até três reações por rodada, embora não mais que uma por turno. Se Rahadin perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adiciona +5 à sua Classe de Armadura contra um ataque corpo a corpo ou à distância que o atingiria ou ao resultado de um teste de salvaguarda de Destreza falho, ou não sofre dano de <em>magic missile</em> neste turno. Se ele fizer um ataque corpo a corpo errar dessa forma, pode usar imediatamente uma reação adicional, se disponível, para usar seu Riposte contra o atacante.</p>
-<p><strong><em>Riposte.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin, ele pode usar sua reação para se mover até sua velocidade para um espaço desocupado a até 1,5 m desse inimigo sem provocar ataques de oportunidade. Ele pode então fazer imediatamente um ataque com <strong><em>Thorn</em></strong> ou <strong><em>Chain</em></strong> contra esse inimigo com vantagem.</p>
-<p><strong><em>Amuleto de Ravenloft (1/dia, apenas no Castelo Ravenloft).</em></strong> Quando Rahadin é reduzido a 50 pontos de vida ou menos, ele pode usar sua reação para terminar todos os efeitos que o estejam afetando no momento e usar o <em>Amuleto de Ravenloft</em> (veja abaixo). Se ele foi reduzido a 0 pontos de vida, cai para 1 ponto de vida em vez disso e sofre uma lesão interna conforme descrito em <span class="citation">Lesões Persistentes (Guia do Mestre, p. 272)</span>. Ele pode então se mover até sua velocidade sem provocar ataques de oportunidade.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<h3>Actions</h3>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<h3>Bonus Actions</h3>
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
+<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
+<h3>Reactions</h3>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Amulet of Ravenloft (1/day, Castle Ravenloft only).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
 </div>
 
 ## Cyrus Belview
@@ -931,7 +934,7 @@
 
 ***Moral.*** Se atacada, ou se Doru fosse ameaçado, Gertruda imediatamente agarraria a arma mais próxima e tentaria defender a si mesma e seus entes queridos.
 
-***Relacionamentos.*** Gertruda é filha de Mad Mary, prometida de Doru e amiga de infância de Irene Kolyana.
+***Relacionamentos.*** Gertruda é filha de Mad Mary, prometida de Doru e amiga de infância de Ireena Kolyana.
 
 # Antigo Móiossos 
 
@@ -1343,7 +1346,7 @@
 
 ### Izek Strazni
 **Informações de Interpretação**
-***Ressonância.*** Izek deve inspirar repulsa por sua crueldade e indiferença à vida humana, além de causar desconforto com seu interesse perturbador por Irene Kolyana.
+***Ressonância.*** Izek deve inspirar repulsa por sua crueldade e indiferença à vida humana, além de causar desconforto com seu interesse perturbador por Ireena Kolyana.
 
 ***Emoções.*** Izek frequentemente se sente irritado, enfurecido, impaciente, sádico, obcecado ou entediado.
 
@@ -1356,7 +1359,7 @@
 
 ***Moral.*** Em uma luta, Izek empunharia com prazer sua machadinha prateada e lutaria até a morte.
 
-***Relacionamentos.*** Izek é o "filho" adotivo do Barão Vargas Vallakovich, o capitão da guarda da cidade de Vallaki, um cliente frequente do fabricante de brinquedos Gadof Blinsky e (sem que nenhum deles saiba) o irmão biológico de Irene Kolyana.
+***Relacionamentos.*** Izek é o "filho" adotivo do Barão Vargas Vallakovich, o capitão da guarda da cidade de Vallaki, um cliente frequente do fabricante de brinquedos Gadof Blinsky e (sem que nenhum deles saiba) o irmão biológico de Ireena Kolyana.
 
 <div class="statblock">
 <h2>Izek Strazni, 1ª Forma</h2>
@@ -1389,6 +1392,29 @@
       <td>15 (+2)</td>
     </tr>
   </tbody>
+</table>
+<hr>
+<strong>Testes de Salvaguarda</strong> For +8, Con +7<br>
+<strong>Perícias</strong> Atletismo +8, Intimidação +5, Percepção +2<br>
+<strong>Resistências a Dano</strong> fogo<br>
+<strong>Sentidos</strong> Percepção passiva 12<br>
+<strong>Idiomas</strong> Comum<br>
+<strong>Desafio</strong> 6 ou 5 se envenenado<br>
+<hr>
+<p><strong><em>Segunda Fase.</em></strong> Quando Izek é reduzido a 0 pontos de vida, seus braços e sua machadinha são engolidos pelas chamas, os espinhos em seu braço demoníaco crescem mais longos e afiados, e sua pele se torna vermelha e começa a soltar fumaça. Suas estatísticas são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não se transfere para sua nova forma, mas ele retém quaisquer condições que tinha em sua forma anterior.</p>
+<h3>Ações</h3>
+<p><strong><em>Multiataque.</em></strong> Izek faz dois ataques.</p>
+<p><strong><em>Machadinha Prateada.</em></strong> <em>Ataque de arma corpo a corpo:</em> +8 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 11 (1d10 + 5) de dano cortante e Izek pode empurrar o alvo até 1,5 m para longe.</p>
+<p><strong><em>Lançamento de Chamas.</em></strong> <em>Ataque de feitiço à distância:</em> +5 para acertar, alcance 18 m, um alvo. <em>Atingir:</em> 7 (2d6) de dano de fogo.</p>
+<h3>Ações Bônus</h3>
+<p><strong><em>Redemoinho Cortante.</em></strong> Izek gira sua machadinha ao seu redor. Cada criatura dentro de um raio de 1,5 m deve ter sucesso em um teste de salvaguarda de Destreza CD 16 ou sofrer 5 (2d4) de dano cortante e cair no chão. Uma criatura que tiver sucesso no teste de salvaguarda sofre metade do dano e não cai no chão.</p>
+<p><strong><em>Salva de Chamas.</em></strong> Izek conjura uma salva de esferas flamejantes que caem sobre um ponto dentro de 18 m que ele pode ver. Cada criatura dentro de 3 m desse ponto deve fazer um teste de salvaguarda de Destreza CD 13 ou sofrer 7 (2d6) de dano de fogo.</p>
+<h3>Reações</h3>
+<p>Izek pode realizar até três reações por rodada, mas apenas uma por turno. Se Izek perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Izek pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigisse originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Retirada Forçada.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, Izek faz um ataque de empurrão contra o atacante. Ele pode então se mover imediatamente até 4,5 m para longe do atacante sem provocar ataques de oportunidade.</p>
+<p><strong><em>Golpe Vingativo.</em></strong> Em resposta a receber dano de um ataque ou feitiço, Izek pode se mover até 4,5 m em direção ao atacante sem provocar ataques de oportunidade. Ele pode então imediatamente fazer um ataque contra essa criatura com sua machadinha.</p>
+</div></tbody>
 </table>
 <hr>
 <strong>Testes de Salvaguarda</strong> Str +8, Con +7<br>
@@ -1448,7 +1474,7 @@
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Str +8, Con +7<br>
+<strong>Testes de Salvaguarda</strong> For +8, Con +7<br>
 <strong>Perícias</strong> Atletismo +8, Intimidação +5, Percepção +2<br>
 <strong>Imunidades a Dano</strong> fogo<br>
 <strong>Sentidos</strong> Percepção passiva 12<br>
@@ -1456,19 +1482,19 @@
 <strong>Desafio</strong> 6 ou 5 se envenenado<br>
 <hr>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Izek realiza dois ataques corpo a corpo.</p>
-<p><strong><em>Machado de Batalha Prateado.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 10 (1d8 + 5) de dano cortante mais 2 (1d4) de dano de fogo.</p>
-<p><strong><em>Pancada Flamejante.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 8 (1d4 + 5) de dano contundente mais 2 (1d4) de dano de fogo, e Izek pode empurrar o alvo em até 1,5 m para longe. Em um acerto crítico, o alvo deve também ser bem-sucedido em um teste de salvaguarda de Constituição CD 16 ou ficar atordoado até o início do próximo turno de Izek. (A criatura pode se mover ou realizar uma ação em seu turno, não ambos. Também não pode realizar uma ação bônus ou reação.)</p>
-<p><strong><em>Onda Flamejante.</em></strong> Uma onda de chamas varre Izek em uma linha de 18 m de comprimento por 1,5 m de largura. Cada criatura na linha deve realizar um teste de salvaguarda de Destreza CD 13 ou sofrer 11 (2d10) de dano de fogo. O fogo incendeia objetos inflamáveis na área que não estejam sendo usados ou carregados.</p>
+<p><strong><em>Multiataque.</em></strong> Izek faz dois ataques corpo a corpo.</p>
+<p><strong><em>Machado de Batalha Prateado.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 10 (1d8 + 5) de dano cortante mais 2 (1d4) de dano de fogo.</p>
+<p><strong><em>Soco Flamejante.</em></strong> <em>Ataque com arma corpo a corpo:</em> +8 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 8 (1d4 + 5) de dano contundente mais 2 (1d4) de dano de fogo, e Izek pode empurrar o alvo até 1,5 m para longe. Em um acerto crítico, o alvo deve também ter sucesso em um teste de salvaguarda de Constituição CD 16 ou ficará atordoado até o início do próximo turno de Izek. (Essa criatura pode se mover ou realizar uma ação em seu turno, não ambas. Ela também não pode realizar uma ação bônus ou uma reação.)</p>
+<p><strong><em>Onda Flamejante.</em></strong> Uma onda de chamas se espalha a partir de Izek em uma linha de 18 metros de comprimento e 1,5 metros de largura. Cada criatura na linha deve fazer um teste de salvaguarda de Destreza CD 13 ou sofrer 11 (2d10) de dano de fogo. O fogo incendeia objetos inflamáveis na área que não estão sendo usados ou carregados.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Explosão de Chamas.</em></strong> Izek crava seu machado no chão, causando um turbilhão de chamas ao seu redor. Cada criatura em um raio de 1,5 m deve realizar um teste de salvaguarda de Destreza CD 13 ou sofrer 7 (2d6) de dano de fogo.</p>
-<p><strong><em>Explosão Explosiva.</em></strong> Uma faixa brilhante pisca da mão garrada de Izek até um ponto que ele escolhe em até 27 m e então explode com um rugido baixo em uma explosão de chamas. Cada criatura em uma esfera de 1,5 m de raio centrada nesse ponto deve realizar um teste de salvaguarda de Destreza CD 13. Um alvo sofre 7 (2d6) de dano de fogo em uma falha, ou metade do dano em um sucesso. Um alvo que falhar no teste também é derrubado. O fogo se espalha ao redor de cantos. Ele incendeia objetos inflamáveis na área que não estejam sendo usados ou carregados.</p>
+<p><strong><em>Explosão Flamejante.</em></strong> Izek golpeia seu machado contra o chão, causando um turbilhão de chamas ao seu redor. Cada criatura a até 1,5 m deve fazer um teste de salvaguarda de Destreza CD 13 ou sofrer 7 (2d6) de dano de fogo.</p>
+<p><strong><em>Explosão Explosiva.</em></strong> Um brilho intenso surge da mão garras de Izek em direção a um ponto que ele escolhe a até 27 metros e então explode com um baixo rugido em uma explosão de chamas. Cada criatura em uma esfera de 1,5 m de raio centrada naquele ponto deve fazer um teste de salvaguarda de Destreza CD 13. Um alvo sofre 7 (2d6) de dano de fogo em um teste falho, ou metade desse dano em um teste bem-sucedido. Um alvo que falha no teste também é derrubado. O fogo se espalha por esquinas. Ele incendeia objetos inflamáveis na área que não estão sendo usados ou carregados.</p>
 <h3>Reações</h3>
-<p>Izek pode realizar até três reações por rodada, mas apenas uma por turno. Se Izek perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Izek pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição originalmente não exigiu que ele falhasse em um teste de salvaguarda.)</p>
-<p><strong><em>Perseguição Ardente.</em></strong> Em resposta a sofrer dano de um ataque ou magia, Izek se impulsiona para frente com um jato de chamas crepitantes, movendo-se até 9 m sem provocar ataques de oportunidade. Ele pode então imediatamente realizar um ataque de <strong><em>pancada flamejante</em></strong> contra uma criatura dentro do alcance.</p>
-<p><strong><em>Faíscas de Cinzas.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, Izek faz o ar ao seu redor explodir em cinzas rodopiantes. O atacante deve ser bem-sucedido em um teste de salvaguarda de Constituição CD 13 ou sofrer 2 (1d4) de dano de fogo e ficar cego até o final do seu próximo turno.</p>
-<p><strong><em>Queimadura Retaliatória (1/rodada).</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo feito com uma arma de metal, Izek faz o objeto brilhar em vermelho incandescente até o início do seu próximo turno. Qualquer criatura em contato físico com a arma sofre imediatamente 4 (1d8) de dano de fogo e deve ser bem-sucedida em um teste de salvaguarda de Constituição CD 13 ou largar a arma, se puder. Se não largar o objeto, sofre desvantagem em jogadas de ataque e testes de habilidade até o início do próximo turno de Izek.</p>
+<p>Izek pode realizar até três reações por rodada, mas apenas uma por turno. Se Izek perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Izek pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Perseguição Ardente.</em></strong> Em resposta a receber dano de um ataque ou feitiço, Izek se impulsiona para frente com um jato de chamas crepitantes, movendo-se até 9 metros sem provocar ataques de oportunidade. Ele pode então imediatamente realizar um ataque de <strong><em>soco flamejante</em></strong> contra uma criatura dentro do alcance.</p>
+<p><strong><em>Faíscas de Cinzas.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, Izek faz com que o ar ao seu redor exploda com cinzas giratórias. O atacante deve ter sucesso em um teste de salvaguarda de Constituição CD 13 ou sofrer 2 (1d4) de dano de fogo e ficar cego até o final de seu próximo turno.</p>
+<p><strong><em>Queimadura Retaliatória (1/rodada).</em></strong> Em resposta a receber dano de um ataque corpo a corpo feito com uma arma de metal, Izek faz com que o objeto brilhe em vermelho até o início de seu próximo turno. Qualquer criatura em contato físico com a arma imediatamente sofre 4 (1d8) de dano de fogo e deve ter sucesso em um teste de salvaguarda de Constituição CD 13 ou soltar a arma se puder. Se não soltar o objeto, ela tem desvantagem em jogadas de ataque e testes de habilidade até o início do próximo turno de Izek.</p>
 </div>
 
 ### Victor Vallakovich  
@@ -1506,7 +1532,7 @@ O grimório de Victor contém os feitiços _sending_ e _fear_, e não contém _r
 
 ***Moral.*** Em uma luta, Blinsky imploraria por paz, tropeçando em suas próprias palavras e balbuciando por misericórdia enquanto buscava uma oportunidade para fugir.
 
-***Relacionamentos.*** Blinsky é dono de Piccolo, um macaco de estimação que lhe foi dado por Rictavio, o mestre de cerimônias itinerante. Blinsky também confecciona bonecas que se assemelham a Irene Kolyana para Izek Strazni, e recebe um modesto estipêndio para criar decorações para os festivais semanais do Barão Vallakovich.
+***Relacionamentos.*** Blinsky é dono de Piccolo, um macaco de estimação que lhe foi dado por Rictavio, o mestre de cerimônias itinerante. Blinsky também confecciona bonecas que se assemelham a Ireena Kolyana para Izek Strazni, e recebe um modesto estipêndio para criar decorações para os festivais semanais do Barão Vallakovich.
 
 ## Acampamento Vistani
 ### Luvash
@@ -1549,16 +1575,16 @@ O grimório de Victor contém os feitiços _sending_ e _fear_, e não contém _r
 
 ***Emoções.*** Kasimir frequentemente sente-se curioso, frustrado, desconfiado, excitado, melancólico, nostálgico, sombrio ou arrependido.
 
-***Motivações.*** Kasimir deseja garantir a segurança dos elfos do crepúsculo e ressuscitar sua irmã, Patrina, assim que a libertar da sombria influência de Strahd e testemunhar a destruição de Strahd.
+***Motivações.*** Kasimir deseja garantir a segurança dos elfos crepusculáres e ressuscitar sua irmã, Patrina, assim que a libertar da sombria influência de Strahd e testemunhar a destruição de Strahd.
 
 ***Inspirações.*** Ao interpretar Kasimir, canalizem Stephen Strange (*Doctor Strange*), Sherlock Holmes (*Sherlock*), Spock (*Star Trek*) e o Décimo Segundo Doutor (*Doctor Who*).
 
 **Informações do Personagem**  
-***Persona.*** Para o mundo, Kasimir é um estudioso silencioso e reservado, dotado de uma curiosidade poderosa e uma dedicação feroz ao seu povo. Para aqueles em quem confia, Kasimir é um homem perdido e despedaçado, consumido pela culpa pelo papel que teve na morte de Patrina e resignado a um desespero sombrio pelo futuro dos elfos do crepúsculo. Apenas Kasimir conhece até onde está disposto a ir para ressuscitar sua irmã — e o preço que está disposto a pagar.
+***Persona.*** Para o mundo, Kasimir é um estudioso silencioso e reservado, dotado de uma curiosidade poderosa e uma dedicação feroz ao seu povo. Para aqueles em quem confia, Kasimir é um homem perdido e despedaçado, consumido pela culpa pelo papel que teve na morte de Patrina e resignado a um desespero sombrio pelo futuro dos elfos crepusculáres. Apenas Kasimir conhece até onde está disposto a ir para ressuscitar sua irmã — e o preço que está disposto a pagar.
 
 ***Moral.*** Em um combate, Kasimir tentaria negociar a paz, mas não hesitaria em lançar seus feitiços mais poderosos — ou usar sua magia para escapar — caso uma solução diplomática se mostrasse inviável.
 
-***Relações.*** Kasimir é o líder do acampamento dos elfos do crepúsculo e irmão mais novo da falecida Patrina Velikovna, uma **banshee** que habita as catacumbas do Castelo Ravenloft. Kasimir também é primo de Rahadin, o camareiro de Strahd, e sobrinho do falecido príncipe dos elfos do crepúsculo, Erevan Löwenhart. (Kasimir não tem relação sanguínea direta com Erevan, que se casou com a tia de Kasimir, Lorelei.)  
+***Relações.*** Kasimir é o líder do acampamento dos elfos crepusculáres e irmão mais novo da falecida Patrina Velikovna, uma **banshee** que habita as catacumbas do Castelo Ravenloft. Kasimir também é primo de Rahadin, o camareiro de Strahd, e sobrinho do falecido príncipe dos elfos crepusculáres, Erevan Löwenhart. (Kasimir não tem relação sanguínea direta com Erevan, que se casou com a tia de Kasimir, Lorelei.)  
 ## Wachterhaus  
 ### Lady Fiona Wachter  
 Lady Wachter ainda possui as estatísticas de uma **priest**. No entanto, ela tem uma lista diferente de magias preparadas:
@@ -1757,10 +1783,10 @@ At will: detect evil and good<br>
 <p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
 <p><strong><em>Sacred Radiance (1/day).</em></strong> Ithuriel's form bursts with divine light. Each creature that can see him within 20 feet must succeed on a DC 18 Constitution saving throw or take 14 (4d6) radiant damage. A creature that fails the saving throw by 5 or more is also blinded until the start of Ithuriel's next turn. A creature that fails the saving throw by 10 or more is also charmed by Ithuriel until the start of his next turn. While charmed in this way, the creature must fall prone to grovel before Ithuriel at the start of its turn, then immediately end its turn.</p>
 <h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Punish.</em></strong> In response to an enemy hitting or missing him with a melee attack, Ithuriel makes a <strong><em>palm</em></strong> attack against it. 
-<p><strong><em>Descend.</em></strong> In response hitting an enemy with a Palm attack or Punish reaction, if Ithuriel has grappled that enemy and is at least 40 feet in the air, he can then move up to his speed toward the ground without provoking opportunity attacks and force the target to make a DC 17 Strength saving throw. On a failure, the target falls prone, it takes 3 (1d6) bludgeoning damage per 10 feet fallen, and Ithuriel can use up to his remaining movement, if any, to push it in a straight line in any direction while grinding it against the earth, dealing an additional 2 (1d4) bludgeoning damage per 10 feet moved along the ground. (This movement doesn't provoke opportunity attacks.)</p>
+<p><strong><em>Descend.</em></strong> In response to hitting an enemy with a Palm attack or Punish reaction, if Ithuriel has grappled that enemy and is at least 40 feet in the air, he can then move up to his speed toward the ground without provoking opportunity attacks and force the target to make a DC 17 Strength saving throw. On a failure, the target falls prone, it takes 3 (1d6) bludgeoning damage per 10 feet fallen, and Ithuriel can use up to his remaining movement, if any, to push it in a straight line in any direction while grinding it against the earth, dealing an additional 2 (1d4) bludgeoning damage per 10 feet moved along the ground. (This movement doesn't provoke opportunity attacks.)</p>
 <p><strong><em>Ascend.</em></strong> In response to taking damage, Ithuriel releases any creatures he has grappled, then flies up to one third of his speed without provoking opportunity attacks.</p>
 <p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
 </div>
@@ -1819,7 +1845,7 @@ At will: detect evil and good<br>
 <p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
 <p><strong><em>Eclipse Beam (Recharge 5-6).</em></strong> Ithuriel exhales a burst of brilliant radiance and shadowy mirk in a 30-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 9 (2d8) radiant damage plus 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions, he loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
 <p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
@@ -1946,8 +1972,8 @@ When roleplaying the Martikov family, keep the following information in mind:
 <p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 17 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.
 <p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
 <h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Pounce.</em></strong>  In response to a creature moving within 30 feet, Kiril moves up to his speed toward it without triggering opportunity attacks.</p>
 <p><strong><em>Claw.</em></strong> In response to being missed by an attack made by a creature within 5 feet, Kiril attacks that creature with his claws.</p>
 <p><strong><em>Bite.</em></strong> In response to being hit by an attack made by a creature within 5 feet, Kiril attacks that creature with his bite.</p>
@@ -2005,8 +2031,8 @@ When roleplaying the Martikov family, keep the following information in mind:
 <p><strong><em>Nightmare Howl.</em></strong> Each creature within 60 feet of Kiril that can hear him must succeed on a DC 17 Wisdom saving throw. On a failure, a creature takes 5 (2d4) psychic damage and is frightened until the start of Kiril's next turn. If a target's saving throw is successful, the target can’t be frightened by Kiril's Nightmare Howl for the next 24 hours.</p>
 <p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
 <h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 18 Strength saving throw or fall prone.</p>
 <p><strong><em>Rend.</em></strong> In response to a creature moving within his reach, Kiril attacks it with his claws. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach, Kiril forces that creature to make a DC 18 Strength saving throw. On a failure, that creature is knocked prone and either shoved 20 feet away or grappled (Kiril's choice).</p>
@@ -2141,8 +2167,8 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
 <p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
 <h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
 <p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
 <p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
@@ -2204,8 +2230,8 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
 <p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
 <h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
 <p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>

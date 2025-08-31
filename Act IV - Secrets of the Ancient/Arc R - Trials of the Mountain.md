@@ -1,4 +1,4 @@
-_An adventure for five 8th-level characters._
+[parcial][parcial]Uma aventura para 5 personagens de 3° nível.
 
 In this arc, after learning that the dusk elf Kasimir Velikov knows the location of the Amber Temple after lighting Argynvost's beacon in [[Arc Q - A Shining Beacon]], the players must recruit Kasimir to their cause and traverse the treacherous Tsolenka Pass as they ascend toward the snowy peak of Mt. Ghakis. As their journey unfolds, however, a wrathful Strahd—now determined to turn the players into vampire spawn—calls down blizzards, avalanches, and monsters to test their resolve and exhaust their strength.
 
@@ -6,12 +6,12 @@ The players’ sole respite arrives in the form of Soldav, the hidden refuge of 
 
 Should the players survive the final leg of their journey, they emerge before the great facade of the Amber Temple. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
 # R1. Recruiting Kasimir
-Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana|#E2. The Vistani Camp|Arc E - The Missing Vistana]].
+Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
 > [!info]+ **Kasimir’s Spellbook**
 > Kasimir’s spellbook largely contains the spells described in <span class="citation">N9a. Kasimir’s Hovel (p. 121)</span>. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
 
-When the players first arrive, Kasimir is drinking tea and reading a book titled *The Crags of Mount Ghakis* by Finderway Ulbrek. If the players knock on the door, Kasimir marks his page, places it on his meditation map by the fireplace, and goes to greet them.
+When the players first arrive, Kasimir is drinking tea and reading a book titled *The Crags of Mount Ghakis* by Finderway Ulbrek. If the players knock on the door, Kasimir marks his page, places it on his meditation mat by the fireplace, and goes to greet them.
 
 When he answers the door, the players can observe that Kasimir’s [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|black eye and cuts]] appear to have healed, though a player with a passive Wisdom (Insight) score of 15 or greater notices that Kasimir seems to be in a gloomy, melancholic mood. His prior mood notwithstanding, however, Kasimir brightens at the players’ appearance and warmly invites them inside, promising to brew a fresh batch of tea as they talk.
 
@@ -37,7 +37,7 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 >
 > Though Patrina would promise to train him in the ways of magic, honing his skills until the necessary rituals lay within his reach, she—as Exethanter had once done to her—would never truly conclude his education. Instead, in a scant thirty years—or even fewer, with a little "help"—Strahd von Zarovich would die in his bed, a withered and old human man. Patrina, an ageless dusk elf still in the prime of her life, would claim his throne as her own—and so a new dynasty would begin.
 >
-> To Patrina’s delight, Strahd appeared intrigued by her offer and, following a series of lessons in the magical arts, at last accompanied her to the Amber Temple. As he marveled at the power it contained, she grew confident that her plan was within reach. Under her watchful eye, Strahd communed with the vestige of Tenebrous, there beholding the dark gift of lichdom for the first time. As Patrina and Strad departed the Temple, Patrina assured him that, beneath her tutelage, he would one day grow powerful enough to claim Tenebrous’s dark gift as his own.
+> To Patrina’s delight, Strahd appeared intrigued by her offer and, following a series of lessons in the magical arts, at last accompanied her to the Amber Temple. As he marveled at the power it contained, she grew confident that her plan was within reach. Under her watchful eye, Strahd communed with the vestige of Tenebrous, there beholding the dark gift of lichdom for the first time. As Patrina and Strahd departed the Temple, Patrina assured him that, beneath her tutelage, he would one day grow powerful enough to claim Tenebrous’s dark gift as his own.
 >
 > Their lessons continued until the day of Sergei’s wedding, when Strahd bathed Castle Ravenloft in blood and ascended from death as a vampire. Struggling to plot a path forward, Patrina returned at last to the dusk elf encampment by Vallaki. There, she reunited with Kasimir, though she stubbornly refused to discuss her whereabouts across the past several years.
 >
@@ -194,6 +194,7 @@ Whether Vargas is present or not, and whether he dies or flees, continue:^[Dialo
 <p>"When last we met, I informed you that I could be a gracious host—but a far less gracious enemy." His frown cuts the corners of his mouth like a knife, his dark brows furrowing his forehead into a deep, cold scowl. "It appears, however, that my words failed to take root. Allow me, then, to reintroduce myself.</p>
 <p>"I am Strahd—lord of Barovia, and master of Ravenloft." His claws tighten around the hilt of his sword, and his eyes burn like fiery coals. "You have stolen items that are <em>not</em> yours to possess. Though you shall wish otherwise, you now have my <em>full and complete attention.</em>"</p>
 </div>
+
 ### Strahd’s Challenge
 As the conversation unfolds, Strahd warns the players that they have "invaded his home, attacked his servants, and stolen his possessions," noting with a growl, that they "have spilled blood on the stones of Castle Ravenloft itself." "Tell me," he adds, his fist tightening around his longsword’s hilt, "whether I would not be justified in spilling blood today to right this wrong."
 
@@ -267,7 +268,7 @@ If any of the players attack him or attempt to stop him from enacting his penalt
 Before departing, whether the players name sufficient penalties or not, Strahd informs them that they have "worn his patience thin." "I once found your boldness amusing," he adds, "but the thread of your lives grows thin." He informs the players that he will need new servants to replenish those he lost in the players’ raid; to this end, he shall visit them nightly to see which among them are worthy of a place in his court and which "are worthy only of a place among my legions—or the worms that writhe in the earth." His form then bursts into a swarm of thousands of bats, which ascend into the sky and fly for Castle Ravenloft to the east.
 
 > [!info]+ **The Tyrant’s Trials**
-> From this point on, until the end of [[Arc T - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc T - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
+> From this point on, until the end of [[Arc S - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc S - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
 # R3. Town of Vallaki
 ## R3a. Purchasing Cold-Weather Clothing
 The players can purchase cold-weather clothing from <span class="citation">N5. Arasek Stockyard (p. 115)</span> at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
@@ -300,7 +301,7 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 >
 > Whether he knows the players’ specific location or not, Strahd then uses the teleportation brazier in [[Arc P - Ravenloft Heist#P11e. Brazier Room|P11e. Brazier Room]] to teleport to the area nearest the players’ current location. Upon arriving, if he doesn’t know the players’ specific location, he summons twenty **wolves**, twenty **swarms of bats**, and/or twenty **swarms of rats** and instructs them to explore the area (in pairs) to discern the players’ specific location. Strahd learns the players’ location if at least one spy is able to report it back to him.
 > 
-> If the players are in a permanent artificial structure (e.g., the tower at Lake Barok) or a place where someone lives (e.g., the werewolf den), continue to [[#Strahd’s Greeting]] below. Otherwise, continue directly to [[Strahd’s Game]].
+> If the players are in a permanent artificial structure (e.g., the tower at Lake Barok) or a place where someone lives (e.g., the werewolf den), continue to [[#Strahd’s Greeting]] below. Otherwise, continue directly to [[#Strahd’s Game]].
 
 > [!warning]+ **Strahd’s Backup**
 > If Strahd is unable to scry a member of the party (e.g., due to a *nondetection* or *private sanctum* spell), he dispatches his spies to search for them. He then makes his way to the skies above Berez atop his **nightmare** Beucephalus, where he waits for any of his spies to return.
@@ -505,7 +506,7 @@ If the door is opened, Strahd greets the players cordially and asks the charmed 
 If Strahd is invited to enter the players’ resting place, he does so. Proceed to [[#Strahd’s Game]].
 
 > [!info]+ **Blocking the Door**
-> If a player attempts to block Strahd from entering the players’ resting place after he is invited inside, he places a hand on the hilt of his longsword and asks the player quietly if they are interested in "testing their fortune" against him. (If the players didn’t fight him in [[#R2. The Tyrant’s First Trial]], he adds: "It has been some time since I last dueled—but I do not believe it shall take long to refamiliarize myself.")
+> If a player attempts to block Strahd from entering the players’ resting place after he is invited inside, he places a hand on the hilt of his longsword and asks the player quietly if they are interested in "testing their fortune" against him. (If the players didn’t fight him in [[#R3b. The Tyrant’s First Trial]], he adds: "It has been some time since I last dueled—but I do not believe it shall take long to refamiliarize myself.")
 >
 > If the player continues to block Strahd from entering the resting place, he smiles coldly, says, "As you wish," and attacks, continuing until all defiant players have either died or escaped. (Strahd doesn’t accept those players’ surrender.) In combat, Strahd begins in his Soldier phase, rather than his Mage phase, and assumes his Vampire phase only once both his Soldier and Mage phases have been reduced to 0 hit points.
 >
@@ -535,7 +536,7 @@ Strahd explains the rules of the game as follows:
 * From now until the game concludes, the players are forbidden from communicating or coordinating in any way. If Strahd believes that the players have broken this rule, they shall immediately forfeit.
 
 > [!warning]+ **No Talking!**
-> When Strahd informs the players of this rule, note out-of-character that the rule applies to *all* inter-player conversation, and that all out-of-character communications (e.g., players talking across the table or exchanging text messages) will be treated as in-character communications while Strahd’s game is ongoing. (This rule is necessary because the gameplay of Strahd’s games—in both [[#R3b. The Tyrant’s First Trial]] and [[#R4e. The Tyrant’s Second Trial]]—rely heavily on the players’ inability to communicate or coordinate their efforts.)
+> When Strahd informs the players of this rule, note out-of-character that the rule applies to *all* inter-player conversation, and that all out-of-character communications (e.g., players talking across the table or exchanging text messages) will be treated as in-character communications while Strahd’s game is ongoing. (This rule is necessary because the gameplay of Strahd’s games—in both [[#R3b. The Tyrant’s First Trial]] and [[#R4f. The Tyrant’s Second Trial]]—rely heavily on the players’ inability to communicate or coordinate their efforts.)
 
 * Tonight, Strahd will drink the blood of one of their party. He will return each night to drink that player’s blood again, until that player dies and rises as a vampire spawn. "Unless you are far weaker than I anticipate, he notes, "the process will take several nights. Such an opportunity to savor one’s meals is disappointingly rare; I hope you shall not think poorly of me for taking advantage."
 * Each time a player is turned, Strahd will choose a new victim. However, it is for the players to decide which of them shall be the next to receive his "gift."
@@ -569,7 +570,7 @@ Once Strahd or the players have chosen a victim, Strahd then attempts to drink t
 > Strahd’s ***bite*** attack does two things at once: (1) it deals piercing and necrotic damage, and (2) it decreases your maximum hit points by the amount of necrotic damage dealt. For example:
 > * Imagine a player starts with 50 hit points
 > * The player takes 8 piercing + 10 necrotic damage, for a total of 18 damage. The player now has 32 hit points left out of 50.
-> * The player’s 50 maximum hit points are decreased by 10 (the amount of necrotic damage taken), and now equal 30. The player now has 32 hit points out of 40.
+> * The player’s 50 maximum hit points are decreased by 10 (the amount of necrotic damage taken), and now equal 40. The player now has 32 hit points out of 40.
 > * If Strahd bites the player again and deals the same amount of damage—18 total damage, including 10 necrotic damage—the player now has 14 hit points out of 30.
 > * If Strahd bites the player again and deals the same amount of damage, the player now has 0 hit points out of 20. The player falls unconscious and starts making death saving throws.
 > * At this point, if Strahd keeps using his ***bite***, he risks killing the player with failed death saving throws before the player’s maximum hit points reach 0.
@@ -647,6 +648,13 @@ Three **druid assailants**, three **berserkers**, and two **rootspike triads** l
 * One rootspike triad west of the lake path
 * One rootspike triad west of the mountain trail
 
+> [!combat]+ **Balancing the Druids' Vengeance** 
+> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> * _**Three Players.**_ Reduce the number of **druid assailants** to one. Reduce the number of **berserkers** to two.
+> * _**Four Players.**_ Reduce the number of **druid assailants** to two.
+> * _**Six Players.**_ Increase the number of **berserkers** to four.
+
 > [!lore]+ **Rootspike Triad**
 > Following the players’ victory over the Forest Folk in [[Arc J - The Stolen Gem]], several **druid naturalists** journeyed to the ruins of Berez, seeking the aid of the swamp witch Baba Lysaga in empowering their magic. The **rootspike triads** were the end result: trios of druid naturalists with wooden spikes driven into their eyes, bloody runes carved into their flesh, and a bark-like covering across their skin.
 
@@ -659,6 +667,7 @@ In combat, the druids and berserkers act as follows:
 * The rootspike triad by the lake path casts *wrath of nature* on its first turn, then uses its action on subsequent turns to cast *blight* or its multiattack to cast *thorn whip*. 
 * The rootspike triad by the mountain trail casts *wall of fire* on its first turn—hoping to split the party in two—then uses its action on subsequent turns to cast *thunderwave* or its multiattack to cast *produce flame*.
 * The druid assailants and berserkers attack and corner any vulnerable players, preferring to attack targets with low hit points and/or low Armor Classes.
+
 
 <div class="statblock">
 <h2>Rootspike Triad</h2>
@@ -685,9 +694,9 @@ In combat, the druids and berserkers act as follows:
   <tbody>
     <tr>
       <td>10 (+0)</td>
-      <td>12 (+1)</td>
+      <td>12 (+1)</td>s
       <td>13 (+1)</td>
-      <td>12 (+1)</td>
+      <td>12 (+1)</td>s
       <td>20 (+5)</td>
       <td>15 (+2)</td>
     </tr>
@@ -719,7 +728,7 @@ In combat, the druids and berserkers act as follows:
     <br>
     <strong>Hit Points</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocidade</strong> 9 metros
     <hr>
     <table class="ability-table">
         <thead>
@@ -735,9 +744,9 @@ In combat, the druids and berserkers act as follows:
         <tbody>
             <tr>
                 <td>10 (+0)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>13 (+1)</td>
-                <td>12 (+1)</td>
+                <td>12 (+1)</td>s
                 <td>15 (+2)</td>
                 <td>11 (+0)</td>
             </tr>
@@ -748,7 +757,7 @@ In combat, the druids and berserkers act as follows:
     <strong>Senses</strong> passive Perception 14<br>
     <strong>Languages</strong> Druidic and Common<br>
     <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
     <ul>
@@ -756,22 +765,17 @@ In combat, the druids and berserkers act as follows:
         <li>1st level (4 slots): faerie fire, longstrider, speak with animals, thunderwave</li>
         <li>2nd level (3 slots): barkskin, darkvision</li>
     </ul>
-    <h3>Actions</h3>
+    <h3>Ações</h3>
     <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
     <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
-    <h3>Bonus Actions</h3>
+    <h3>Ações Bônus</h3>
     <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
+    <h3>Reações</h3>
     <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
 </div>
 
-The druids attack when any players fall into, discover, or bypass the pits. When they do, each player with a passive Wisdom (Perception) score of 19 or less is surprised.
 
-In combat, the druids and berserkers act as follows:
 
-* The two lake naturalists act on the same initiative. On their turn, they can each use a 2nd-level spell slot and two 1st-level spell slots to cast *wall of fire* together, placing the wall so as to separate the party into two separate groups. Each naturalist must use their action each turn to maintain concentration on the spell. The spell ends when either naturalist loses their concentration or the naturalists move 5 feet or more away from each other.
-* The three mountain naturalists act on the same initiative. On their turn, they can each use a 2nd-level spell slot and two 1st-level spell slots to cast *wrath of nature*  together. Each naturalist must use their action each turn to maintain concentration on the spell. The spell ends when either naturalist loses their concentration or any one of the naturalists moves 5 feet or more away from the others.
-* The druid assailants and berserkers attack and corner any vulnerable players, preferring to attack targets with low hit points and/or low Armor Classes.
 
 As the fight unfolds, the druids condemn the players for their "treason" against "the Shadowed Lord"—Strahd—and the "crimes" they committed at Yester Hill in [[Arc J - The Stolen Gem]]. They further warn the players that Strahd, He Who Calls the Lightning, will "bring the wrath of the storm down upon their heads for their transgressions," and that his servants will find and eradicate "those who stand against him, root and branch."
 
@@ -782,7 +786,7 @@ The journey from the Raven River Crossroads to the Tsolenka Pass gatehouse is ni
 <div class="description">
 <p>Here, the muddy earth of the Old Svalich Road turns into a crumbling gravel trail, which winds gently through the Svalich Woods as it slowly ascends up the slopes of Mt. Ghakis. Soon, the trees thin out and the elevation becomes steeper, the air growing colder with each step you take.</p>
 <p>As the evergreen woods fall away, the mountain’s smallest snow-capped peak rises before you, its steep cliffs shrouded in gray, creeping fog. The road switches back here, curving around the mountain as it steadily ascends above the valley below. The path grows narrower and more treacherous, and patches of frost and ice cling to the jagged rocks that line its eastern edge.</p>
-<p>An hour past the crossroads, snow begins to fall—at first, in small flurries, then, not thirty minutes later, in a steady, powdery veil that blankets the landscape and trail before you. Frozen gravel and packed snow crunch beneath your boots, and bitter gusts bite at your face and hands, swirling the snow into eddies that dance across the icy cliffs. To the east, a large, flat hill rises in the distance, its peak cloaked by storm clouds.</p>
+<p>An hour past the crossroads, snow begins to fall—at first, in small flurries, then, not thirty minutes later, in a steady, powdery veil that blankets the landscape and trail before you. Frozen gravel and packed snow crunch beneath your boots, and bitter gusts bite at your face and hands, swirling the snow into eddies that dance across the icy cliffs. To the west, a large, flat hill rises in the distance, its peak cloaked by storm clouds.</p>
 <p>Through the snow, you catch a glimpse of a silent shadow standing beside the trail ahead.</p>
 </div>
 
@@ -835,6 +839,13 @@ The three spear-wielding maidens are mounted upon **snow perytons**, which have 
 
 In combat, the spear-wielding maidens and their mounts target the toughest or healthiest-looking party members, while the unmounted maidens target the weakest. 
 
+> [!combat]+ **Balancing the Monument** 
+> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 53% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+>
+> - _**Three Players.**_ Reduce the number of **snow maidens** to eight. Reduce the number of **perytons** and spear-wielding **snow maidens** to two each.
+> - _**Four Players.**_ Reduce the number of **snow maidens** to six.
+> - _**Six Players.**_ Reduce number of **snow maidens** to eight. Increase the number of **perytons** and spear-wielding **snow maidens** to four each.
+
 > [!abstract]+ **The Roc’s Blessing**
 > On initiative count 20 of the second round of combat, if the players repaired the monument’s wings (e.g., through the use of a *mending* spell) or otherwise paid homage to it, a player with a passive Wisdom (Perception) score of 13 or greater notices the statue’s eyes glimmer a cold, cerulean blue. The players then gain the benefits of a *wind wall* spell, placed in such a way as to obstruct or injure the greatest number of snow maidens possible. 
 >
@@ -851,7 +862,7 @@ As the players proceed past the monument, the road takes them into Tsolenka Pass
 If asked, Kasimir can share that the gatehouse is guarded by a quartet of petrified flying demons, which animated and attacked him on his most recent visit when he tried to bypass the gatehouse by means of a rope.
 
 > [!info]+ **What Time Is It?**
-> At the time of Kasimir’s warning, the players have traveled for ten miles and four hours (not including short rests or other detours), leaving approximately six hours until nightfall and two and three-quarter miles until they reach [[#R3e. The Gatehouse]].
+> At the time of Kasimir’s warning, the players have traveled for ten miles and four hours (not including short rests or other detours), leaving approximately six hours until nightfall and two and three-quarter miles until they reach [[#R4e. The Gatehouse]].
 ### Seeking Shelter
 Players who choose to seek shelter from the storm can make a Wisdom (Survival) check to do so. The difficulty of finding shelter is as follows:
 
@@ -900,9 +911,16 @@ The howl belongs to the leader of a pack of eight **winter wolves**, one of whic
 
 In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in order to gain advantage on their attacks and using their ***cold breath*** whenever they can catch at least two victims in its range. (As servants of Strahd, however, the wolves ensure their cold breath never harms Ireena.) The wolves fight to the death.
 
+> [!combat]+ **Balancing the Blizzard** 
+> This combat encounter is a **brutal** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 75% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+>
+> - _**Three Players.**_ Reduce the number of **winter wolves** to five.
+> - _**Four Players.**_ Reduce the number of **winter wolves** to six.
+> - _**Six Players.**_ Increase the number of **winter wolves** to eight.
+
 > [!info]+ **Short Rests in the Blizzard**
 > Players seeking to take a short rest after the wolf attack can still seek out cover from the storm for the duration, as described in [[#Seeking Shelter]] above. However, players who roll a result of 20 or higher on the Wisdom (Survival) check to find shelter don’t find the Mountain Folk cave.
-## R4d. The Gatehouse
+## R4e. The Gatehouse
 The journey from the crevasse to the gatehouse is one and three-quarter miles long. It takes one hour and ten minutes if the players are traveling the day after the blizzard (due to the high snow banks), and two hours if the players are traveling during the blizzard.
 
 The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
@@ -911,18 +929,25 @@ The players’ arrival at the gatehouse is largely as described in <span class="
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
 </div>
 
-In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypas the gatehouse by means of a *fly* spell.)
+In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a *fly* spell.)
+
+> [!combat]+ **Balancing the Gatehouse** 
+> This combat encounter is a **bloody** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 54% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the number of petrified **vrocks** to three.
+> - _**Four Players.**_ Reduce the number of petrified **vrocks** to three.
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
-## R4e. The Tyrant’s Second Trial
+The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
 <div class="description">
 <p>Gradually, the howling wind fades. The torrent of snow, too, diminishes to mere flurries, then even those settle softly upon the landscape, forming a pristine, untouched expanse beneath the darkened sky above.</p>
 <p>Snow-covered trees stand still, their pale, white-laden boughs almost ethereal as they reflect a faint glimmer of moonlight. In the distance, the mountain’s slopes loom far above them, its tallest peaks vanishing into the low-lying clouds overhead. Though the bitter cold continues to gnaw through the layers of your clothing, a deep, unbroken silence hangs over the world, as though the mountain itself is holding its breath.</p>
 </div>
+
 ### Strahd’s Arrival
 One hour after the players have begun their long rest, Strahd again scries and visits them as described in [[#R3b. The Tyrant’s First Trial]].
 
@@ -1078,7 +1103,7 @@ Depending on the players’ response, Strahd responds as follows:
 
 * If the players tell Strahd they’ve journeyed to Mt. Ghakis to find a weapon capable of destroying him, Strahd raises an eyebrow and says: "I regret to inform you that but one weapon was capable of such a thing—and it was destroyed long ago." 
 * If the players tell Strahd they’ve journeyed to Mt. Ghakis to find a "sword of sunlight," Strahd chuckles coldly and informs them that "the weapon they seek was destroyed long ago."
-* If the players falsley tell Strahd they’ve journeyed to Mt. Ghakis to seek power or knowledge from the Amber Temple, have the responding players roll a DC 19 group Charisma (Deception) check. Regardless of the result, Strahd curiously asks who told them of the Temple’s existence. Regardless of the players’ response, Strahd notes that "few have the strength or will to claim the power that lies dormant within its vaults," adding: "Forgive me, but I hold my doubts as to your capabilities in this regard."
+* If the players falsely tell Strahd they’ve journeyed to Mt. Ghakis to seek power or knowledge from the Amber Temple, have the responding players roll a DC 19 group Charisma (Deception) check. Regardless of the result, Strahd curiously asks who told them of the Temple’s existence. Regardless of the players’ response, Strahd notes that "few have the strength or will to claim the power that lies dormant within its vaults," adding: "Forgive me, but I hold my doubts as to your capabilities in this regard."
 * If the players provide Strahd with any other false reason, have the responding players roll a DC 19 group Charisma (Deception) check, made with disadvantage if the reason is particularly poor. On a success, Strahd makes any appropriate response. On a failure, Strahd’s gaze grows icy. He informs the players that "he has refrained from speaking any falsehood before them," and shares his regrets that they "have not seen fit to return the courtesy."
 ### Strahd’s Challenge
 Regardless of the players’ response, Strahd then turns to the player he bit the previous night. "Many in this valley name me ‘tyrant,’" he says, "but I have always respected the choices of my subjects." He then retrieves a small item from an inner pocket of his cloak and holds his hand forward, the item clenched in his fist. 
@@ -1147,7 +1172,7 @@ Strahd departs when he has taken all blood owed to him, vanishing into mist.
 Each round that the victim remains grappled, Strahd uses his ***unarmed strike*** multiattack and ***bats’ frenzy*** bonus action to attack them, continuing until the victim is dead. If any other players attempt to stop Strahd from killing the victim, Strahd uses his first lair action to cast *change weather*, then uses his lair action to cast *call lightning* on each subsequent round that his Vampire phase survives.
 
 Strahd departs only when the chosen victim is dead. When he does, he warns the players that he shall return again the following night—and that he hopes they shall be better prepared to play his game when he does. He then vanishes into mist.
-## R4f. The Rider on the Bridge
+## R4g. The Rider on the Bridge
 When the players awaken the following morning, the weather is crisp and cold, with a heavy layer of snow covering the road from the previous night.
 
 > [!info]+ **Heavy Snow**
@@ -1199,7 +1224,7 @@ The rider is Rahadin, though the cloak he wears hides his features from view. Re
 > If the players indicate an interest in lying in wait and ambushing the rider, Kasimir points out that the road here is far too narrow and bare to easily serve as a hiding place. "More significantly," he adds, "we appear to be on a timeline—should we fail to reach our destination, we may lose one of our number when Zarovich returns tonight." Although he notes his willingness to defer to the players’ decision, Kasimir warns them that further delays may jeopardize their mission.
 >
 > If the players nonetheless attempt to find a place to ambush the rider, all members of the ambush party must make a DC 24 group Dexterity (Stealth) check. On a failure, when he arrives fifty minutes later, Rahadin detects their presence and flees in the direction from whence he came before approaching within two hundred feet. Rahadin also flees if the players attack, fighting only if cornered.
-## R4g. The Mountain Crossroad
+## R4h. The Mountain Crossroad
 As the players continue up the road, read:
 
 <div class="description">
@@ -1241,7 +1266,7 @@ If a player notices Kalaris, he swiftly retreats from sight and vanishes behind 
 > |11-20|No complication.|
 
 When the players are ready to proceed, Kasimir informs them that, according to his dreams, the northern branch leads toward their destination. If any player asks or wonders aloud about the wall of mist to the south, Kasimir replies that it is the southern border of Barovia—the Mists that keep the land entrapped in Strahd’s domain.
-## R4h. The Avalanche
+## R4i. The Avalanche
 When the players continue down the north branch of the mountain crossroad, read:
 
 <div class="description">
@@ -1316,7 +1341,7 @@ During the chase, the players’ NPC companions act as follows, modifying their 
 * **Ezmerelda.** Ezmerelda takes the Dash action each turn. If she runs out of Dashes, she casts *zephyr strike* as a bonus action, then uses her action to attack the "air" in front of her in order to increase her movement speed.
 * **Kasimir.** Kasimir casts _misty step_ as a bonus action each turn.
 
-If the players outrun the avalanche or escape it by magical means (e.g., flight), continue to [[#R5. Soldav]]. If the players sought refuge in the cave, continue to [[#R4i. The Ice Cave]].
+If the players outrun the avalanche or escape it by magical means (e.g., flight), continue to [[#R5. Soldav]]. If the players sought refuge in the cave, continue to [[#R4j. The Bodaks’ Lair]].
 
 > [!abstract]+ **Caught in the Avalanche**
 > If any players were caught in the avalanche and fell from the cliff to the precipice below, their bodies lie buried beneath 14 (4d6) feet of snow and debris. While buried in this way, a creature is blinded, restrained, deafened, and can’t breathe. (See <span class="citation">Suffocating (<em>Player’s Handbook</em>, p. 183)</span>.
@@ -1334,17 +1359,22 @@ If the players outrun the avalanche or escape it by magical means (e.g., flight)
 > If the players attempt to pursue them despite their warnings, Zia and Corylla attack them with ***unarmed strikes***, attempting to knock them out before departing. If their efforts are unsuccessful, or if they’re outnumbered, the two women instead turn and flee toward the mountain. 
 >
 > If the players give chase, run their pursuit as described in <span class="citation">Chases (<em>Dungeon Master’s Guide</em>, (p. 252)</span>, using the Alpine Chase Complications table below. Due to their familiarity with the terrain, Zia and Corylla have advantage on Dexterity (Stealth) checks made to hide while fleeing.
-## R4i. The Bodaks’ Lair
+## R4j. The Bodaks’ Lair
 If the players enter the cave, read:
 
 <div class="description">
 <p>The cave entrance leads to a small, rocky chamber no more than twenty feet across. A narrow natural corridor splits from the chamber’s right side, bending further into the depths of the mountain before winding out of sight.</p>
 </div>
 
+![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+
+![[Bodak_Lair_Labeled.jpg]]
+<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
+
 > [!lore]+ **The Bodaks**
 > Several decades ago, two siblings bearing amber shards named Cassius and Deirdre found their way through the Mists into Barovia. Their shards led them to the Amber Temple, where they accepted the dark gift of the vestige Sykane, the Soul Hungerer in order to resurrect their mother. Both succumbed to Sykane’s corruption, however, transforming into dark, twisted husks with the statistics of **bodaks** before they could escape the mountain or Mists. 
 >
-> Cassius and Deirdre still linger in this cave today, each having claimed a separate chamber as their "nest." Though the natural chimney in [[#The Trash Heap]] connects their cavern to [[#The Ice Cave]], the **shoosuva** that dwells there is too large to descend the chimney to the bodaks’ cave, while the bodaks have no interest in contesting the shoosuva’s territory.
+> Cassius and Deirdre still linger in this cave today, each having claimed a separate chamber as their "nest." Though the natural chimney in [[#The Trash Heap]] connects their cavern to [[#R4k. The Ice Caves]], the **shoosuva** that dwells there is too large to descend the chimney to the bodaks’ cave, while the bodaks have no interest in contesting the shoosuva’s territory.
 >
 > The first time the players observe a bodak’s full form, read:
 >
@@ -1353,7 +1383,7 @@ If the players enter the cave, read:
 > *Ragged, filthy robes cloak this creature’s hunched, skeletal frame. Its arms and legs are long, thin, and bony, ending in elongated, claw-like fingers and twisted, knobbly feet. Its head is a hollow, mask-like visage, its mouth a gaping black maw and its eyes a pair of voidlike sockets.*
 
 > [!info]+ **Disturbing the Bodaks**
-> If the players declare an intention to move quietly down the corridor and succeed on a DC 15 group Dexterity (Stealth) check, the two **bodaks** in [[#The Black Maze]] are dormant when the players first enter. If the players don’t declare such an intention, or if the players fail the check, the bodaks are active when the players first enter.
+> If the players declare an intention to move quietly down the corridor and succeed on a DC 15 group Dexterity (Stealth) check, the two **bodaks** are dormant when the players first enter. If the players don’t declare such an intention, or if the players fail the check, the bodaks are active when the players first enter.
 
 > [!info]+ **The Stalking Bodaks**
 > When dormant, the bodak that was once Cassius dwells in [[#The Western Nest]], while the bodak that was once Deirdre dwells in [[#The Room of Regret]].
@@ -1386,6 +1416,13 @@ If the players enter the cave, read:
 > *The room darkens, the temperature plummeting as a dull, low hum resonates through the air. An unnatural, bone-chilling cold suddenly gnaws against your flesh, even as the bitter scents of ash and decay claw at your throats and lungs.*
 >
 > *Shadows gather, slithering across the ground and creeping up the walls as colors fade to shades of pale, lifeless gray. All around you, the warmth and light of the world seem to seep away—as though drawn into a cold and distant void.*
+
+> [!combat]+ **Balancing the Bodaks' Lair** 
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the hit points of each **bodak** to 103. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 5 (2d4) necrotic damage. Reduce the damage of their ***death gaze*** to 12 (5d4) psychic damage. Reduce the damage of their ***withering gaze*** to 17 (5d6) necrotic damage.
+> - _**Four Players.**_ Reduce the hit points of each **bodak** to 119. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. Reduce the damage of their ***death gaze*** to 14 (4d6) psychic damage. Reduce the damage of their ***withering gaze*** to 18 (4d8) necrotic damage.
+> - _**Six Players.**_ Increase the hit points of each **bodak** to 153. Increase the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 11 (2d10) necrotic damage. Increase the damage of their ***death gaze*** to 18 (4d8) psychic damage. Increase the damage of their ***withering gaze*** to 24 (5d8) necrotic damage.
 ### The Junction
 If a player follows the corridor, read:
 
@@ -1411,10 +1448,10 @@ When the players enter this room, read:
 
 The bones on the floor are the remnants of Cassius’s meals. They crunch loudly underfoot, and creatures have disadvantage on Dexerity (Stealth) checks made to move silently through this area. A player who inspects the bones and succeeds on a DC 12 Wisdom (Medicine or Nature) check discerns sharp teeth marks along their lengths, as well as places where the marrow has been sucked clean.
 
-The tunnel to the left leads to [[#The Western Nest]]. The chimney, which is two-and-a-half feet in diameter, begins ten feet above the floor before rising sixty feet through the stone to [[#R4j. The Ice Caves]]. 
+The tunnel to the left leads to [[#The Western Nest]]. The chimney, which is two-and-a-half feet in diameter, begins ten feet above the floor before rising sixty feet through the stone to [[#R4k. The Ice Caves]]. 
 
 > [!info]+ **Ascending the Chimney**
-The walls beside the chimney, smoothed from years of erosion, are bereft of natural handholds. To climb the walls to the chimney’s entrance, a character must succeed on a DC 25 Strength (Athletics) check. 
+> The walls beside the chimney, smoothed from years of erosion, are bereft of natural handholds. To climb the walls to the chimney’s entrance, a character must succeed on a DC 25 Strength (Athletics) check.
 >
 > Once within the chimney, a character attempting to ascend or descend the chimney shaft without the aid of magic or equipment must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the shaft, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the shaft.
 
@@ -1489,13 +1526,14 @@ Otherwise, if the players entered it via [[#The Room of Regret]], add:
 
 This tunnel leads to [[#The Trash Heap]].
 
-***Treasure.*** A player who investigates the nest finds an old *adventurer’s pack* containing, in addition to its ordinary contents, 12 bloodstained platinum pieces and 56 gold pieces. The pack also contains an old, torn parchment letter. It reads:
+***Treasure.*** A player who investigates the nest finds an old *explorer’s pack* containing, in addition to its ordinary contents, 12 bloodstained platinum pieces and 56 gold pieces. The pack also contains an old, torn parchment letter. It reads:
 
 <div class="description">
 <p>Cassius,</p>
 <p>I know I’m breaking my promise, but I can’t ignore these visions any longer. If there is a way to bring Mother back, I must take it—no matter the risk.</p>
 <p>Deirdre</p>
 </div>
+
 ### The Eastern Nest
 When the players enter this chamber, read:
 
@@ -1524,7 +1562,7 @@ In either case, if the bodaks aren’t yet active, Deirdre can be found resting 
 If the players attack it or otherwise reveal their presence, Deirdre wails in rage and attacks.
 
 ***Treasure.*** A player who investigates the nest finds a set of shredded common clothes, a crumpled map of Mount Ghakis (including a point marking the approximate location of the Amber Temple, which Kasimir can confirm), and a worn cloth purse containing 6 silver pieces.
-## R4j. The Ice Caves
+## R4k. The Ice Caves
 A player who fully ascends the natural chimney in [[#The Trash Heap]] emerges into a system of ice caves. Read:
 
 <div class="description">
@@ -1547,6 +1585,9 @@ If a player enters this chamber, read:
 <p>The opening leads to a small stone cavern no more than twelve feet across and approximately ten feet high. Its walls, sheathed in ice, form a natural mirror, reflecting your blurry, fractured silhouette across every angle as you pass inside. Every sound here seems amplified, bouncing off the frozen surfaces with an eerie, echoing clarity.</p>
 <p>An enormous, lone icicle hangs from the center of the ceiling, easily three feet tall and ten inches wide at the base. A deep, pulsating red light flickers from something frozen inside of it.</p>
 </div>
+
+![[Frozen-Vault.png]]
+<span class="credit">"The Frozen Vault" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 The icicle, which ends seven feet above the ground and falls easily if melted or broken, contains a frozen *ironblood pendant* (see below), whose iron chain dangles from a natural stone hook on the ceiling. The pendant falls if the icicle falls, or becomes exposed if the icicle is melted. 
 
@@ -1591,16 +1632,21 @@ When the pendant first becomes visible, read:
 > If a character accepts the dark gift of the Vampyr in <span class="citation">X42. Amber Vault (p. 195)</span> and fulfills the conditions to become a **vampire** while cursed in this way, the character falls under Strahd’s permanent control, as if he turned them into a **vampire spawn**.
 
 > [!lore]+ **The Cursed Pendant**
-> Strahd intentionally placed this pendant here the night of [[#R4e. The Tyrant’s Second Trial]], hoping that one of the players might take it with them to the Amber Temple and accept the Vampyr’s dark gift—thereby giving him a full-blooded vampire under his control. (The vestige of the Vampyr doesn’t know that the pendant is cursed.)
+> Strahd intentionally placed this pendant here the night of [[#R4f. The Tyrant’s Second Trial]], hoping that one of the players might take it with them to the Amber Temple and accept the Vampyr’s dark gift—thereby giving him a full-blooded vampire under his control. (The vestige of the Vampyr doesn’t know that the pendant is cursed.)
 >
-> The amber shard embedded in the pendant is the same one the Dark Powers bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with the Vampyr’s sarcophagus under Patrina Velikov’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
+> The amber shard embedded in the pendant is the same one the Dark Powers bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with the Vampyr’s sarcophagus under Patrina Velikovna’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
 ### The Cave of Daggers
-The gap in [[#R4j. The Ice Caves]] bends around the western wall of the entry cavern, then bends west again, soon widening into a tunnel. Read:
+
+The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry cavern, then bends west again, soon widening into a tunnel. Read:
 
 <div class="description">
 <p>The rocky, frost-coated crack broadens into a long, rounded tunnel. Rippled, wave-like ice sheets cover the walls, forming a near-perfect circular passage through the mountain. The ice glimmers faintly, shimmering as if filled with thousands of distant stars.</p>
 <p>The tunnel continues long into the distance ahead, soon vanishing into darkness.</p>
 </div>
+
+![[The-Cave-of-Daggers.png]]
+
+<span class="credit">"The Cave of Daggers" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 If the players follow the tunnel, read:
 
@@ -1618,7 +1664,7 @@ A player who succeeds on a DC 15 Intelligence (Nature) check recognizes the cave
 > [!info]+ **Icicle Cascade**
 > Each time the players perform one of the following acts, roll a d100. If the result falls within the "Warning" range for that act, the icicles overhead tremble faintly, clinking together and causing bits of frost to filter down from above, but otherwise remain undisturbed. However, if the result falls within the "Cascade" range for that act, an icicle cascade begins. 
 >
-> | Action | | Cascade Range | Warning Range |
+> | Action | Cascade Range | Warning Range |
 > |:---|:---:|:--:|
 > | Ordinary Noises | 00-09 | 10-49 |
 > | Weak Heat | 00-09 | 10-49 |
@@ -1679,7 +1725,7 @@ The den contains 3 pp, 107 gp, 389 sp, 780 cp, seven 10-gp azurites, three 50-gp
 >
 > <hr>
 > 
-> *Ahead, you see a pile of black rags strewn admist a snow bank.*
+> *Ahead, you see a pile of black rags strewn amidst a snow bank.*
 > 
 > <hr>
 >
@@ -1712,7 +1758,7 @@ The shadows are thirteen **forsaken warriors** (see below), and are placed as de
 ![[The Frozen Lake.png]]
 
 > [!info]+ **Slippery Ice**
-> A creature that crawls across slippery ice automatically succeeds on its saving throw against falling prone. 
+> A creature that crawls across doesn't need to make a saving throw to avoid falling prone. 
 >
 > To jump from a square covered in slippery ice, a creature must make a DC 10 Dexterity (Acrobatics) check. On a failure, the creature jumps only half the distance and lands prone. (A creature or object that lands on thin ice in this way is treated as though its weight is five times as heavy. A creature or object that breaks through thin ice generates a loud noise, as described in **icicle cascade** above.)
 
@@ -1748,7 +1794,7 @@ The forsaken soldiers attack any creature that falls through the ice. If a forsa
 > *A bronze, devil-horned helm sits atop its head, its leather interior seemingly fused to the corpse’s head from cold and time. For a moment, the figure seems to drift peacefully below the frigid waters—until its eyes snap open, revealing bright, startlingly blue irises that stare blankly into yours. With the faint, creaking sound of cracking ice, it begins to stir, its bony arms reaching toward you.*
 # R5. Soldav
 ## R5a. The Twin Falls
-If the players exit [[#R4j. The Ice Caves]] via [[#The Cave of Daggers]], read:
+If the players exit [[#R4k. The Ice Caves]] via [[#The Cave of Daggers]], read:
 
 <div class="description">
 <p>You emerge from the cave mouth onto a narrow, snow-dusted ledge. It winds around the cliffs toward the south, soon vanishing around a bend. In the distance, you can see it join a cliffside trail that hugs the mountain’s southern edge.</p>
@@ -1762,7 +1808,7 @@ If the players follow the ledge down to the trail, read:
 <p>You descend the winding ledge, the frozen snow crunching once more beneath your boots. As your path joins with the trail below, you can see, a mile behind you, a place where the path has been covered by fallen snow and debris, approximately where you recall the avalanche occurring.</p>
 </div>
 
-If the players continue down the trail, or if the players escaped the avalanche without seeking refuge in [[#R4i. The Bodaks’ Lair]], read:
+If the players continue down the trail, or if the players escaped the avalanche without seeking refuge in [[#R4j. The Bodaks’ Lair]], read:
 
 <div class="description">
 <p>The cliffside trail continues eastward, rising and circling the base of a cloud-shrouded peak before emerging onto a flat, snowy plateau. Here, where no fog chokes the air, and where the air is crisp and clear, the entirety of the valley opens up before you.</p>
@@ -1793,6 +1839,9 @@ Pause for a moment to allow the players an opportunity to interject. If no playe
 A player who investigates the rectangular foundation of the main hall finds a crumbling hearth set into the sole remaining wall, as well as an assortment of collapsed timber beams rotted into long mounds, a number of rusted iron fittings and hinges, and an assortment of stones that have fallen from the wall where the snow and wind eroded the mortar connecting them.
 
 Investigation of the row of stonework reveals a few post holes where the stable’s main supports once stood. Nothing further remains of the storage shed.
+
+![[The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg]]
+<span class="credit">"Twin Falls" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/901b225d88">here!</a></span>
 ### The Shrine
 When a player approaches the shrine, read:
 
@@ -1853,7 +1902,7 @@ In addition, when using its ***multiattack***, a barlgura can make two ***rock**
 > [!info]+ **Running Leap**
 > If a player is flying above the battlefield, a barlgura prefers to attack them by using its **climb** speed to ascend the rock face, then use its ***running leap*** feature to leap toward and grapple them. (A barlgura only uses its ***rock*** attack if it needs to hit a distant combatant and can’t reach it with its ***running leap*** feature.)
 
-At the start of the first round of combat, if the players triggered the icicle cascade in [[#R4j. The Ice Caves]], they’re also attacked by two **elder shoosuva**. Read:
+At the start of the first round of combat, if the players triggered the icicle cascade in [[#R4k. The Ice Caves]], they’re also attacked by two **elder shoosuva**. Read:
 
 <div class="description">
 <p>A piercing, keening howl cuts through the air—joined a moment later by a matching twin. From the western cliffs, a massive, monstrous beast leaps forth, landing on the plateau below with an earthshaking crack. It’s followed soon after by its companion—another beast of similar appearance and size—whose enormous, dinner-plate-sized paws splinter the ice beneath its tremendous weight.</p>
@@ -1894,6 +1943,14 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 > Following reports of outsiders’ arrival outside Soldav from lookouts’ outposts using peepholes on the cliff above, Scorilo’s contingent is joined by his twin brother Como (use the statistics of a **gladiator** with a Dexterity of 10 (+0), a Wisdom of 15 (+2) and a Charisma of 16 (+3) ) and three of Como’s **berserker** friends. Despite Scorilo’s suspicion and paranoia that the players might be Strahd’s spies or otherwise endanger Soldav, the friendlier Como urges him to admit the players inside to grant them shelter from the balrgura and shoosuva.
 >
 > The players’ companions (i.e., Kalaris, Zia, or Corylla), possessions (i.e., the legendary *spear of the Huntress*), or familiarity with the Mountain Folks’ faith (i.e., their skill in solving the puzzle of the carvings) dictate the ease with which Como can convince Scorilo’s guards to open the door. Como also successfully convinces the guards to rally out if the players appear to be at a clear risk of dying to the barlgura and shoosuva.
+
+> [!combat]+ **Balancing the Amber-Touched** 
+> Due to the three-faction combat, this combat encounter is a **bruising** combat encounter against a party of five 8th-level players, two CR 1/2 allies (two **scouts**) four CR 2 allies (Ireena Kolyana and three **berserkers**), a CR 4 ally (Ezmerelda d’Avenir), two CR 5 allies (two **gladiators**), and a CR 6 ally (Kasimir Velikov), and will consume approximately 31% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Increase the number of **berserkers** to five. Increase the number of **scouts** to five.
+> - _**Four Players.**_ Increase the number of **berserkers** to four. Increase the number of **scouts** to four.
+> - _**Six Players.**_ Decrease the number of **berserkers** to two. Decrease the number of **scouts** to one.
+
 
 > [!profile]+ **Scorilo & Como**
 > **Roleplaying Information**
@@ -1994,7 +2051,7 @@ As the players enter Soldav, read:
 
 <div class="description">
 <p>The tunnel opens into a mountain crater perhaps a thousand feet across, its walls rising steeply around you like a giant bowl. Snow blankets the ground here in soft layers, broken by a rocky central avenue that splits off into dozens of smaller paths and trails crisscrossed by footprints and animal tracks.</p>
-<p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, sown with soil and carefully cleared of any snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
+<p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, their recently sown soil carefully cleared of snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
 <p>Across the crater, wooden palisades encircle small pens where handfuls of goats bleat softly. The rocky, muddy central "road" winds between them, ending at a larger longhouse built against the far side of the crater. Smoke curls lazily from its chimney, vanishing amidst a thick layer of white fog that covers the crater's top like a lid.</p>
 <p>The village hums with quiet activity—but at your approach, the rhythm of daily life slows, then falters. A young girl leading a pair of goats toward one of the pens freezes, clutching the animals' ropes with wide eyes, while a trio of men splitting logs lower their axes, murmuring to one another in hushed tones. A group of playing children atop a wooden terrace pause, then stare at you with rapt fascination, while an elderly man sharpening an iron blade stop his hut's wooden step spares only a quiet, wary scowl. Above you, a pair of adolescent sentries peer down curiously from a set of ramshackle wooden scaffolding, a shortbow slung loosely over each teen's shoulder.</p>
 </div>
@@ -2012,7 +2069,7 @@ If asked, Diegia or Como are glad to provide the following information about Sol
 * Since then, the Mountain Folk—who consider themselves the true Tauta, and the Forest Folk to be sniveling servants of the Great Shadow—have remained largely within Soldav's walls, venturing forth into the Balinok Mountains to gather food and supplies, but remaining careful to avoid the Great Shadow's notice. "The Castle and its servants are ignorant of Soldav's existence," Diegia adds, sniffing. "So long as the Great Shadow believes us to be disparate bands of savages scratching through the snow for morsels, we remain safe from his attentions." 
 
 > [!abstract]+ **Soldav's Protections**
-> If asked why the Forest Folk haven't led Strahd to Soldav, Diegia smiles. "Exile from Soldav is more than merely a word. Ancient enchantments protect us from those who would wish us harm, cleansing their memories of Soldav's location and obstructing their gazes from perceiving it." (Though she won't say so here, Diegia is referring to the enchantments sustained by Elder Burebis, the ancient **storm giant** dwelling in [[#R5c. The Shrine of the Rozana]].)
+> If asked why the Forest Folk haven't led Strahd to Soldav, Diegia smiles. "Exile from Soldav is more than merely a word. Ancient enchantments protect us from those who would wish us harm, cleansing their memories of Soldav's location and obstructing their gazes from perceiving it." (Though she won't say so here, Diegia is referring to the enchantments sustained by Elder Burebis, the ancient **storm giant** dwelling in [[#R5f. The Shrine of the Rozana]].)
 
 As they proceed through Soldav, Diegia guides the players toward the longhouse at the far end of the crater—"my home, and our meeting place," she explains. When the players arrive outside of the longhouse, read:
 
@@ -2084,7 +2141,7 @@ If the players ask Diegia for information about the Amber Temple, she refuses to
 ### Diegia’s Invitation
 At a suitable point after welcoming the players to the longhouse, Diegia expressly invites them to stay the night as guests at her hearth, adding: "You may lay your bedrolls beside our fire, share in our meat and mead, and trust that no harm shall come to you within our walls." If the players accept, she turns to Como and Scorilo (if present) or Oroles and asks them to prepare places for the players near the hearth after the evening meal.
 
-If the players asked Diegia for information about the Fanes, or if they do so now, she asks Kaldur (if he didn't bruise his leg, or if his leg has been healed) or Como to inform Elder Burebis that outsiders wish to see him. After briefly complaining, Kaldur spares a final, shy glance toward the players before scampering out the front door. (After departing, Diegia’s messenger makes their way to [[#R5c. The Shrine of the Rozana]], where they inform Elder Burebis of the players’ arrival. The messenger returns to Diegia’s longhouse shortly before [[#The Hearth]].)
+If the players asked Diegia for information about the Fanes, or if they do so now, she asks Kaldur (if he didn't bruise his leg, or if his leg has been healed) or Como to inform Elder Burebis that outsiders wish to see him. After briefly complaining, Kaldur spares a final, shy glance toward the players before scampering out the front door. (After departing, Diegia’s messenger makes their way to [[#R5f. The Shrine of the Rozana]], where they inform Elder Burebis of the players’ arrival. The messenger returns to Diegia’s longhouse shortly before [[#R5e. The Night of Clear Skies]].)
 
 Diegia further informs the players that they have arrived "on a fortuitous occasion"—on the annual celebration of the Night of Clear Skies. Diegia declines to share further information about the holiday, but promises the players with a smile that they’ll receive a thorough education during the evening’s festivities.
 
@@ -2100,6 +2157,7 @@ At nightfall, the Mountain Folk gather in Chief Diegia’s longhouse to celebrat
 <p>It’s not long before laughter and conversation fills the longhouse’s central hall, with well over a hundred Mountain Folk filling the tables around the hearth’s warm glow. The savory aroma of roasted meat mingles with the sweet scene of honeyed mead as villagers pass wooden platters piled high with food. Children dart between tables, their shrill laughter mingling with the melodies of panpipes, flutes, and pounding drums.</p>
 <p>Chief Diegia’s wooden throne is moved aside, making room for a long, low wooden table surrounded by a dozen woolen cushions. You find yourselves beckoned toward it, joining Diegia’s family as they take their places atop the dais overlooking the hall.</p>
 </div>
+
 ### The Keeper of Voices
 As the feast unfolds, Oroles stands from his seat at Diegia’s side, excuses himself, and vanishes past the heavy woolen curtain into the family’s private quarters. (If asked, Diegia or her family share only that Oroles—the tribe’s Keeper of Voices—is "preparing" for his part in the festivities.) A few minutes later, Oroles returns to the main hall. Read:
 
@@ -2131,7 +2189,7 @@ Following the story, Oroles returns to Chief Diegia’s table, removing his head
 Oroles and Diegia can share the following information about Oroles’ story if asked:
 
 * Millenia ago, the Tauta were a group of nomadic tribes seeking sanctuary amidst a world torn by war and conflict. According to legend, the Ladies Three guided them to the valley—Girvisa, now called Barovia—where the Tauta found a home of peace and plenty.
-* According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies
+* According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies held the power to stop it; together, they rose up to destroy it, thereby returning life and light to the valley.
 * None among the Tauta fully know the Ladies’ true nature, be it fey, divine, primordial, or something else altogether. However, for as long as the Tauta have dwelled in the valley or amidst the surrounding mountains, they have placed their faith in the Ladies to guide them—"even now," Diegia says solemnly, "centuries after we have last heard their voices."
 * No one knows what the Devourer was, where it came from, or where its endless hunger came from. However, according to the legend, the Whispering Wall that has long towered above the west side of Yester Hill rose from—or is all that remains of—the Devourer’s corpse. (Oroles proceeds to ask, offhandedly, whether the players have seen Yester Hill and the Whispering Wall.)
 
@@ -2306,7 +2364,7 @@ If asked, Burebis has sufficient energy to answer one final question; otherwise,
 
 ***Milestone.*** Receiving Burebis’s mission achieves a story milestone. When the players depart the Shrine of the Rozana, award each player 5,000 XP.
 ## R5g. Morning in Soldav
-Upon their return to Chief Diegia's longhouse, the players find that Como, Kaldur, and (if the players have made peace with him) have cleared away the tables, benches, and refuse left by the holiday feast, allowing the players to place their bedrolls around the hearth. (Due to Burebis’s protective clouds, which shroud Soldav’s crater from view and protect it from divination, Strahd and his spies can’t find the players while they remain in Soldav, and their long rest is uninterrupted.)
+Upon their return to Chief Diegia's longhouse, the players find that Como, Kaldur, and (if the players have made peace with him) Scorilo have cleared away the tables, benches, and refuse left by the holiday feast, allowing the players to place their bedrolls around the hearth. (Due to Burebis’s protective clouds, which shroud Soldav’s crater from view and protect it from divination, Strahd and his spies can’t find the players while they remain in Soldav, and their long rest is uninterrupted.)
 
 When the players awaken the next morning, Oroles greets them with a breakfast of warm flatbreads with honey, dried berries, and soft cheese. If the players previously asked Diegia about the Amber Temple, or if they request such information now, she joins Oroles and can share the following information:
 
@@ -2314,15 +2372,15 @@ When the players awaken the next morning, Oroles greets them with a breakfast of
 * Many have sought to obtain power or knowledge from the temple; most all have fallen prey to the temple’s corruption, or else fallen victim to the danger that lies within. Though its builders died long ago, the temple remains well-defended by unnatural forces, with strange constructs and undead patrolling its darkened corridors. In addition, an evil miasma fills the temple’s chambers, consuming the vitality of any who seek to rest there.
 * The temple is well-hidden, mounted high in the frozen reaches of Mt. Ghakis and surrounded by deadly cliffs. Although an ancient road once led directly to its front facade, it collapsed long ago, leaving only treacherous paths and narrow ledges to approach it. "The easiest path begins on the southwestern edge of the plateau outside Soldav," Diegia says. "If you follow it, it will guide you to the temple’s doors."
 * The **giant goat** Sangzor guards the only pass that now leads toward the temple. Rumored to have dwelled upon Mt. Ghakis for centuries, if not millenia, Sangzor has sent many pilgrims to the Temple plummeting to their deaths down the mountainside. "It is said that Sangzor senses the evil that lurks in men’s hearts," Diegia says solemnly. "Only if it judges you worthy will it allow you to pass."
-* Heirs to the chiefdom of Soldav, each joined by two trusted companions, have traveled to the Amber Temple for centuries, seeking to test their resilience and will against the corruption it contains. "From time immemorial, it has dwelled upon our sister peak," Diegia says grimly, "its whispers gently caressing the dreams of those it seeks to tempt. Each time a chief has accepted its invitations, calamity has befallen the tribe not long after. Now, we test our chiefs before they take the wooden chair—so that if weakness lurks in their heart, it shall be drawn out and be destroyed with its bearer." 
-* Currently, Diegia’s eldest child and only daughter, Diona, is undergoing such a trial, meditating in the temple with her two chosen companions for six days and six nights before she may return to Soldav. Should the players encounter her, Diegia asks them to convey her regards, and her hope that Diona may complete her rite of passage successfully and return home to her family.
+* Heirs to the chiefdom of Soldav, each joined by three trusted companions, have traveled to the Amber Temple for centuries, seeking to test their resilience and will against the corruption it contains. "From time immemorial, it has dwelled upon our sister peak," Diegia says grimly, "its whispers gently caressing the dreams of those it seeks to tempt. Each time a chief has accepted its invitations, calamity has befallen the tribe not long after. Now, we test our chiefs before they take the wooden chair—so that if weakness lurks in their heart, it shall be drawn out and be destroyed with its bearer." 
+* Currently, Diegia’s eldest child and only daughter, Diona, is undergoing such a trial, meditating in the temple with her three chosen companions for six days and six nights before she may return to Soldav. Should the players encounter her, Diegia asks them to convey her regards, and her hope that Diona may complete her rite of passage successfully and return home to her family.
 
 When the players are ready to depart, Diegia and her family wish them farewell. Como then guides them to the exit tunnel and bids them luck in their journey. (If asked, Como declines to join the players on their journey. "My place is here, with my family and people," he says, apologetically.)
 # R6. Mt. Ghakis
 ## R6a. Sangzor's Test
 Upon departing Soldav, Kasimir can guide the players to the hidden trail that leads from the plateau to the Amber Temple.
 
-This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, a half-miled down the path, they automatically notice Sangzor on a crag above them. 
+This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
 
 Modify Sangzor's stats as follows:
 
@@ -2346,8 +2404,3 @@ If Sangzor does not detect any intent to seek the vestiges' power in the players
 Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.
-
-> [!tip] **You've Reached the End of the Mists**
-> You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
-> 
-> To get a sneak peek at drafts for [[Arc S - A Sword of Sunlight]], as well as additional outlines and notes for _**Act IV: Secrets of the Ancient**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).

@@ -2,13 +2,17 @@ Ao longo da aventura, os PJs terão a oportunidade de obter um ou mais *fragment
 
 Embora não carreguem a essência completa dos vestígios, cada fragmento âmbar possui um vínculo psíquico com o sarcófago de onde veio. Através desse vínculo, um vestígio pode sussurrar ao portador do fragmento, oferecendo promessas de poder em troca da descida à corrupção.
 
-> [!info]+ **Encontrando Fragmentos de Âmbar**
-> Os PJs têm a oportunidade de obter um fragmento de âmbar:
-> * durante a [[Criação de Personagem]]
-> * após derrotar Izek Strazni em [[Arco F - O Desejo de Lady Wachter]] / [[Arco G - Os Irmãos Strazni]] (veja [[#Seriach, o Sussurrador de Hell Hounds]])
-> * após invadir o tesouro do Castelo Ravenloft em [[Arco P - Assalto a Ravenloft]] (veja [[#Great Taar Haak, o Destruidor de Cinco Cabeças]])
+> [!info]+ **Finding Amber Shards**
+> The players have an opportunity to obtain an amber shard:
+> * during [[Character Creation]]
+> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
+> * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
+> * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
+> * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
+> * within the [[Arc R - Trials of the Mountain#The Cave of Daggers|Cave of Daggers]] (see [[#Yog the Invincible]])
+> * from the **nothic** Meda in [[Arc S - A Sword of Sunlight]] (see [[#Khirad, the Star of Secrets]])
 > 
-> No entanto, você não deve adicionar fragmentos para os jogadores obterem.
+> You should not, however, add additional shards for the players to obtain.
 
 > [!info]+ **A Magia dos Fragmentos**  
 > Um PJ que examina um fragmento âmbar com um feitiço *detect magic* percebe matizes de magia de abjuração. Um PJ que tenta identificar um fragmento com um feitiço *identify* descobre que ele já foi parte de uma estrutura maior destinada a conter ou aprisionar alguma entidade ou criatura, e que ainda mantém algum vínculo arcano com o recipiente original.  
@@ -47,15 +51,19 @@ Se os PJs recusarem a oferta da voz, poderão se comunicar com o vestígio novam
 
 ***Bênção.*** Quando vocês desferirem um acerto crítico, podem forçar o alvo a obter sucesso em um teste de salvaguarda de Constituição ou ficar envenenado. O alvo pode repetir o teste de salvaguarda no final de cada um de seus turnos, encerrando o efeito em caso de sucesso.
 
-***Condição.*** Seu corpo está coberto de furúnculos e pústulas. Outras criaturas têm desvantagem em testes de Sabedoria (Medicina) feitos para estabilizá-los.
-## Zrin-Hala, a Tempestade Uivante
-***Magia.*** _Relâmpago._
+***Condition.*** Your body is covered in boils and pustules. Other creatures have disadvantage on Wisdom (Medicine) checks made to stabilize you.
+## Zrin-Hala, the Howling Storm
+*Shard Location: Soldav*
+
+***Spell.*** _Lightning Bolt._
 
 ***Bênção.*** Quando vocês realizam um acerto crítico, podem forçar o alvo a obter sucesso em um teste de salvaguarda de Constituição ou ficar paralisado até o início do próximo turno de vocês.
 
-***Condição.*** Um lado do seu rosto cai e perde toda a sensibilidade. Vocês têm desvantagem em testes de Carisma (Persuasão).
-## Sykane, o Devorador de Almas
-***Feitiço.*** _Spirit Guardians (Necrotic)._
+***Condition.*** One side of your face sags and loses all feeling. You have disadvantage on Charisma (Persuasion) checks.
+## Sykane, the Soul Hungerer
+*Shard Location: Tsolenka Pass*
+
+***Spell.*** _Spirit Guardians (Necrotic)._
 
 ***Bênção.*** Vocês fazem testes de salvaguarda contra morte com vantagem e têm vantagem em testes de Sabedoria (Medicina) feitos para estabilizar outras criaturas.
 
@@ -77,12 +85,9 @@ Se os PJs recusarem a oferta da voz, poderão se comunicar com o vestígio novam
 
 ***Bênção.*** Vocês têm vantagem em testes de Carisma (Persuasão).
 
-***Condição.*** Você ganha um dedo extra em cada mão. Você sofre desvantagem em testes de salvaguarda de Constituição contra veneno, magias e efeitos mágicos.
-
-## Drizlash, a Aranha de Nove Olhos  
-*Local do Fragmento: O Templo de Âmbar*
-
-***Magia.*** _Web._
+***Condition.*** You gain an extra finger on each hand. You have disadvantage on Constitution saving throws against poison, spells, and magical effects.
+## Drizlash, the Nine-Eyed Spider
+***Spell.*** _Web._
 
 ***Bênção.*** Vocês podem escalar superfícies difíceis, incluindo de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.
 
@@ -104,9 +109,11 @@ Se os PJs recusarem a oferta da voz, poderão se comunicar com o vestígio novam
 
 ***Bênção.*** Quando vocês acertam um golpe crítico, podem forçar o alvo a obter sucesso em um teste de salvaguarda de Força ou ficar imobilizado pelo gelo até o final do próximo turno dele.
 
-***Condição.*** Sua pele torna-se azul-gelo e quebradiça. Você sofre desvantagem em testes de Força.  
-## Khirad, a Estrela dos Segredos  
-***Feitiço.*** _Phantasmal Killer._
+***Condition.*** Your skin turns ice-blue and brittle. You have disadvantage on Strength checks.
+## Khirad, the Star of Secrets
+*Shard Location: The Amber Temple*
+
+***Spell.*** _Phantasmal Killer._
 
 ***Bênção.*** Vocês têm vantagem em testes de Inteligência.
 

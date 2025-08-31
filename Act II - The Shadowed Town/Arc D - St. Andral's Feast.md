@@ -3,18 +3,18 @@ _Uma aventura para cinco personagens de 4º nível._
 > [!info]+ **O Novo Arco D**
 > O antigo Arco D, [[Arc D - The Tome of Strahd]], foi descontinuado e fundido com [[Arc H - The Lost Soul]]. Este arco, anteriormente Arco E, foi renomeado para acomodar sua remoção.
 
-Neste arco, os PJs escoltam Irene Kolyana até a Igreja de São Andral em Vallaki, cumprindo seus votos ao irmão dela, Ismark. Contudo, o Padre Lucian, o sacerdote da igreja, informa-lhes que os ossos de São Andral — a fonte da magia protetora da igreja — foram recentemente roubados, colocando em risco suas proteções e os fiéis.
+Neste arco, os PJs escoltam Ireena Kolyana até a Igreja de São Andral em Vallaki, cumprindo seus votos ao irmão dela, Ismark. Contudo, o Padre Lucian, o sacerdote da igreja, informa-lhes que os ossos de São Andral — a fonte da magia protetora da igreja — foram recentemente roubados, colocando em risco suas proteções e os fiéis.
 
 Os PJs têm até a noite do quinto dia após sua chegada em Vallaki para identificar o ladrão (o zelador da igreja, Milivoj), rastrear os ossos até seu esconderijo (a loja do fabricante de caixões de Vallaki) e devolvê-los ao seu lugar legítimo na igreja. A missão os levará a um confronto direto com Volenta Popofsky, a noiva vampírica mais sádica de Strahd, e seus servos vampíricos.
 
 Os PJs conseguirão frustrar o plano de Volenta e restaurar a proteção da igreja? Ou a igreja será consumida pela escuridão e pelo sangue, sua luz piscante apagada nas sombras?
 
 > [!abstract]+ **Um Começo Prematuro**  
-> Se os jogadores levarem Irene à Igreja de St. Andral na primeira noite em Vallaki (isto é, o "dia zero" em Vallaki), eles chegam para encontrar o Padre Lucian terminando um serviço para sua congregação. Após tranquilizar Wilemina Rikalova (veja [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] para mais informações sobre Wilemina), o Padre Lucian recebe os jogadores e Irene na igreja e oferece sua ajuda.  
+> Se os jogadores levarem Ireena à Igreja de St. Andral na primeira noite em Vallaki (isto é, o "dia zero" em Vallaki), eles chegam para encontrar o Padre Lucian terminando um serviço para sua congregação. Após tranquilizar Wilemina Rikalova (veja [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] para mais informações sobre Wilemina), o Padre Lucian recebe os jogadores e Ireena na igreja e oferece sua ajuda.  
 >  
-> Se informado de que Irene espera encontrar refúgio na igreja, o Padre Lucian se alegra em oferecer-lhe um colchão para dormir na capela. Depois que Irene se oferece para compensá-lo por sua bondade, o Padre Lucian considera seu pedido e a convida a ajudar com as tarefas e a educação de Yeska durante sua estadia — um pedido que Irene aceita graciosamente.  
+> Se informado de que Ireena espera encontrar refúgio na igreja, o Padre Lucian se alegra em oferecer-lhe um colchão para dormir na capela. Depois que Ireena se oferece para compensá-lo por sua bondade, o Padre Lucian considera seu pedido e a convida a ajudar com as tarefas e a educação de Yeska durante sua estadia — um pedido que Ireena aceita graciosamente.  
 >  
-> Na manhã seguinte, depois que os ossos de St. Andral são roubados conforme descrito abaixo, Irene visita os jogadores na Estalagem Água Azul antes da conversa deles com Urwin Martikov descrita em [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] e pede que visitem a igreja para falar com o Padre Lucian sobre um "incidente". (O Padre Lucian pediu que ela não falasse do incidente fora da igreja, por medo de causar pânico.) O restante deste arco então prossegue normalmente.  
+> Na manhã seguinte, depois que os ossos de St. Andral são roubados conforme descrito abaixo, Ireena visita os jogadores na Estalagem Água Azul antes da conversa deles com Urwin Martikov descrita em [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] e pede que visitem a igreja para falar com o Padre Lucian sobre um "incidente". (O Padre Lucian pediu que ela não falasse do incidente fora da igreja, por medo de causar pânico.) O restante deste arco então prossegue normalmente.  
 # D1. Igreja de St. Andral  
 <span class="citation"><em>Esta cena ocorre no Capítulo 5: Área N1.</em></span>
 
@@ -30,21 +30,21 @@ Os ocupantes da igreja seguem o seguinte cronograma, a menos que sejam interromp
 > [!profile]+ **Perfil: Padre Lucian Petrovich**
 >
 > **Informações de Interpretação**
-> ***Ressonância.*** O Padre Lucian deve inspirar gratidão por sua hospitalidade, lisonja pela sua disposição em ouvir e empatizar, conforto por seu calor, serenidade e sabedoria, e simpatia por sua ansiedade em relação aos ossos desaparecidos e à segurança de sua congregação.
+> ***Ressonância.*** O Padre Lucian deve inspirar gratidão com sua hospitalidade, adulação com sua disposição para ouvir e empatizar, conforto com seu calor, serenidade e sabedoria, e simpatia por sua ansiedade em relação aos ossos desaparecidos e à segurança de sua congregação.
 >
 > ***Emoções.*** As emoções mais frequentes do Padre Lucian são reflexão, esperança, preocupação e compaixão.
 >
-> ***Motivações.*** O Padre Lucian deseja manter o ânimo dos habitantes de Vallaki, preservar a igreja como um lugar de refúgio e conforto, e criar Yeska da melhor forma possível.
+> ***Motivações.*** O Padre Lucian deseja manter o ânimo de Vallaki, manter a igreja como um lugar de santuário e conforto, e criar Yeska da melhor maneira possível.
 >
-> ***Inspirações.*** Ao interpretar o Padre Lucian, canalize o Tio Iroh (*Avatar: The Last Airbender*), Michael Carpenter e Padre Forthill (*The Dresden Files*), e o Sr. Rogers (*Mr. Rogers' Neighborhood*).
+> ***Inspirações.*** Ao interpretar o Padre Lucian, canalize o Tio Iroh (*Avatar: A Lenda de Aang*), Michael Carpenter e o Padre Forthill (*The Dresden Files*), e o Sr. Rogers (*Mister Rogers' Neighborhood*).
 >
 > **Informações do Personagem**
 >
-> ***Persona.*** Para estranhos, o Padre Lucian é um sacerdote sereno, humilde e compassivo, sempre feliz em compartilhar uma palavra de louvor ou algumas pérolas de sabedoria. Para aqueles em quem confia, o Padre Lucian é um defensor dedicado e firme de sua comunidade, que, no entanto, se preocupa com sua capacidade de manter seus fiéis seguros. No fundo, o Padre Lucian guarda uma ponta de dúvida sobre a providência e o poder do Senhor da Manhã, perguntando-se se o despertar de Strahd é um teste da fé dos barovianos ou um sinal de que a terra está condenada para sempre.
+> ***Persona.*** Para estranhos, o Padre Lucian é um sacerdote sereno, humilde e compassivo, que está sempre feliz em compartilhar uma palavra de louvor ou algumas pérolas de sabedoria. Para aqueles em quem confia, o Padre Lucian é um defensor dedicado e firme de sua comunidade, que, no entanto, se preocupa com sua capacidade de manter seus congregantes seguros. No fundo, o Padre Lucian abriga uma pontada de dúvida sobre a providência e o poder do Senhor da Manhã, questionando se o despertar de Strahd é um teste da fé dos barovianos ou um sinal de que a terra está condenada para sempre.
 >
-> ***Moral.*** Em uma luta, o Padre Lucian preferiria dissuadir seus atacantes, entregando-se pacificamente se necessário para evitar derramamento de sangue desnecessário. Contudo, se uma vida inocente ou os membros de sua congregação fossem ameaçados, ele lutaria até a morte com uma oração nos lábios e paz no coração.
+> ***Moral.*** Em uma luta, o Padre Lucian preferiria dissuadir seus atacantes, rendendo-se pacificamente, se necessário, para evitar derramamento de sangue desnecessário. No entanto, se uma vida inocente ou os membros de sua congregação fossem ameaçados, ele lutaria até a morte com uma oração nos lábios e paz no coração.
 >
-> ***Relacionamentos.*** O Padre Lucian é mentor e figura paterna para o órfão e coroinha Yeska, empregador do zelador Milivoj, irmão da Baronesa Lydia Petrovna, e descendente distante de Tasha Petrovna, uma antiga clériga do Senhor da Manhã cujos restos são guardados nas catacumbas do Castelo Ravenloft.
+> ***Relacionamentos.*** O Padre Lucian é um mentor e figura paterna para o órfão e acólito Yeska, o empregador do zelador Milivoj, o irmão da Baronesa Lydia Petrovna, e o distante descendente de Tasha Petrovna, uma antiga clériga do Senhor da Manhã cujos restos são guardados nas catacumbas do Castelo Ravenloft.
 
 > [!lore]+ **Os Ossos Roubados**  
 > Embora tenha ajudado a Casa Von Zarovich a ascender ao poder, São Andral ironicamente permaneceu um inimigo feroz e poderoso dos mortos-vivos durante toda a sua vida. Como Sumo Sacerdote da igreja do Senhor da Manhã, Andral liderou crueldosas cruzadas contra os mortos-vivos que espreitavam nos recantos sombrios do reino do Rei Barov, erradicando-os onde quer que fossem encontrados.
@@ -113,9 +113,9 @@ Após os PJs trocarem cumprimentos, Milivoj desmonta sua escada de mão e a devo
 
 Milivoj está ansioso para impedir qualquer investigação adicional na igreja e espera persuadir o Padre Lucian a afastar os PJs. No entanto, ele não quer parecer suspeito e abandona o assunto se os PJs ou o Padre Lucian resistirem. "Não se pode ter cuidado demais," ele murmura. "Fique seguro, Padre." Em seguida, ele se retira.
 
-Assim que Milivoj partir, se o Padre Lucian for informado de que Irene está buscando refúgio na igreja para se proteger de Strahd ou de outras criaturas, ele primeiro certifica-se de que nenhum outro congregante esteja presente — espantando Yeska, caso esteja por ali—e faz os PJs jurarem segredo.
+Assim que Milivoj partir, se o Padre Lucian for informado de que Ireena está buscando refúgio na igreja para se proteger de Strahd ou de outras criaturas, ele primeiro certifica-se de que nenhum outro congregante esteja presente — espantando Yeska, caso esteja por ali—e faz os PJs jurarem segredo.
 
-Se os PJs concordarem em não espalhar suas palavras além da igreja, o Padre Lucian informa-lhes com pesar que, embora fosse seu profundo desejo oferecer a Irene um abrigo permanente, os eventos recentes deixaram as proteções da igreja em um estado precário. Ele também pode compartilhar as seguintes informações adicionais, caso os PJs o solicitem:
+Se os PJs concordarem em não espalhar suas palavras além da igreja, o Padre Lucian informa-lhes com pesar que, embora fosse seu profundo desejo oferecer a Ireena um abrigo permanente, os eventos recentes deixaram as proteções da igreja em um estado precário. Ele também pode compartilhar as seguintes informações adicionais, caso os PJs o solicitem:
 
 * A igreja é, em um dia normal, um terreno consagrado, como se o edifício estivesse protegido por um feitiço de *hallow*. Essa proteção mágica impede que demônios e mortos-vivos entrem na igreja, além de os impedir de encantar, amedrontar ou possuir magicamente aqueles que estão dentro dela.
 * A fonte dessa proteção é a cripta de Saint Andral, que historicamente guarda os ossos abençoados do próprio Andral, fundador da igreja de Vallaki e um grande clérigo do Senhor da Manhã.
@@ -302,7 +302,7 @@ Abrir o compartimento sem desativar o fio ou tentar desarmá-lo sem sucesso faz 
 > [!lore]+ **O Fazedor de Barulho**  
 > Volenta adquiriu o fazedor de barulho de Gadof Blinsky, da Blinsky Toys, descrita com mais detalhes em <span class="citation">N7. Blinsky Toys (p. 118)</span>, há algumas noites. Embora tentada a matá-lo ou tomar o brinquedo à força, a afinidade de Blinsky pelo macabro levou Volenta a vê-lo como um espírito simpático, e ela decidiu poupar sua vida por um capricho. 
 
-> [!abstract]+ **Desativando o Barulhento**
+> [!abstract]+ **Desativando o fazedor de Barulho**
 > Se os PJs conseguirem recuperar os ossos sem alertar os vampiros, Volenta descobre que os ossos estão desaparecidos logo após despertar ao anoitecer daquela noite. Se Henrik ainda estiver dentro da loja, ela o eviscera e decapita, deixando sua cabeça empalada em uma lança encostada na estátua no  <span class="citation">N8. Town Square (p. 119)</span>. Em qualquer dos casos, Volenta então parte de Vallaki rumo ao Castelo Ravenloft, retornando à fortaleza envergonhada.
 ## D4c. Armadilha de Volenta
 Se os PJs permitirem que o alarme seja ativado, [[Non-Player Characters#Volenta Popofsky|Volenta]] e suas duas leais **vampire spawn** surgem para confrontá-los um turno depois, seja forçando a entrada em **N6d. Kitchen** ou (se os PJs já tiverem saído de **N6e. Henrik's Bedroom**) bloqueando o caminho dos PJs na escada. Quando os vampiros aparecem, eles usam seu ***spider climb*** para escalar as paredes antes de despencar ao nível dos PJs, com Volenta agachada de cabeça para baixo no teto atrás deles.
@@ -438,28 +438,30 @@ Volenta usa as duas vampire spawn como escudo, posicionando-as entre ela e os PJ
   </tbody>
 </table>
 <hr>
-<strong>Teste de Salvaguarda</strong> Des +7, Sab +5<br>
+<strong>Teste de Salvaguarda</strong> Dex +7, Wis +5<br>
 <strong>Perícias</strong> Acrobacia +10, Percepção +5, Furtividade +10<br>
-<strong>Resistências a Dano</strong> necrótico; contundente, perfurante e cortante de ataques não mágicos<br>
+<strong>Resistências a Dano</strong> necrótico; contusão, perfuração e corte de ataques não mágicos<br>
 <strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 15<br>
 <strong>Idiomas</strong> Comum<br>
-<strong>Desafio</strong> 6 (2.300 PX)<br>
+<strong>Desafio</strong> 6 (2.300 XP)<br>
 <hr>
-<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início do seu turno se tiver pelo menos 1 ponto de vida e não estiver sob luz solar ou água corrente. Se Volenta sofrer dano radiante ou dano de água benta, essa característica não funciona no início do próximo turno do vampiro.</p>
-<p><strong><em>Escalada de Aranha.</em></strong> Volenta pode escalar superfícies difíceis, inclusive de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
-<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver sob luz solar, Volenta sofre 20 de dano radiante no início do seu turno, e tem desvantagem em jogadas de ataque e testes de habilidade.</p>
+<p><strong><em>Regeneração.</em></strong> Volenta recupera 10 pontos de vida no início de seu turno se tiver pelo menos 1 ponto de vida e não estiver exposta à luz solar ou água corrente. Se Volenta sofrer dano radiante ou dano de água sagrada, essa característica não funcionará no início do próximo turno do vampiro.</p>
+<p><strong><em>Escalada de Aranha.</em></strong> Volenta pode escalar superfícies difíceis, incluindo de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>
+<p><strong><em>Hipersensibilidade à Luz Solar.</em></strong> Enquanto estiver exposta à luz solar, Volenta sofre 20 pontos de dano radiante no início de seu turno, e ela tem desvantagem em jogadas de ataque e testes de habilidade.</p>
 <p><strong><em>Frenesi Sanguinário.</em></strong> Volenta tem vantagem em jogadas de ataque corpo a corpo contra qualquer criatura que não tenha todos os seus pontos de vida.</p>
+<div class="break"></div>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Volenta realiza dois ataques, dos quais apenas um pode ser um ataque de mordida.</p>
-<p><strong><em>Mordida.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, uma criatura voluntária, ou uma criatura que esteja agarrada por Volenta, incapacitada ou imobilizada. <em>Acerto:</em> 6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Volenta recupera pontos de vida iguais a essa quantidade. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0. Cada vez que o alvo termina um descanso longo sem ser mordido novamente, ele pode rolar um de seus dados de vida e adicionar seu modificador de Constituição. O máximo de pontos de vida do alvo aumenta em uma quantidade igual ao resultado. (Esse aumento não pode elevar os pontos de vida do alvo acima do seu máximo original.)</p>
-<p><strong><em>Garras.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +6 para atingir, alcance 1,5 m, uma criatura. <em>Acerto:</em> 8 (2d4 + 3) de dano cortante. Em vez de causar dano, Volenta pode agarrar o alvo (CD 13 para escapar).</p>
+<p><strong><em>Múltiplo Ataque.</em></strong> Volenta faz dois ataques, dos quais apenas um pode ser um ataque de mordida.</p>
+<p><strong><em>Mordida.</em></strong> <em>Ataque com Arma Corpo a Corpo:</em> +6 para acertar, alcance 1,5 m, uma criatura disposta, ou uma criatura que esteja agarrada por Volenta, incapacitada ou restrita. <em>Atingir:</em> 6 (1d6 + 3) de dano perfurante mais 7 (2d6) de dano necrótico. O máximo de pontos de vida do alvo é reduzido em uma quantidade igual ao dano necrótico sofrido, e Volenta recupera pontos de vida iguais a essa quantidade. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0. Cada vez que o alvo termina um descanso longo sem ser mordido novamente, ele pode rolar um de seus dados de vida e adicionar seu modificador de Constituição. Os pontos de vida máximos do alvo aumentam em uma quantidade igual ao resultado. (Esse aumento não pode elevar os pontos de vida do alvo acima de seu máximo original.)</p>
+<p><strong><em>Garras.</em></strong> <em>Ataque com Arma Corpo a Corpo:</em> +6 para acertar, alcance 1,5 m, uma criatura. <em>Atingir:</em> 8 (2d4 + 3) de dano cortante. Em vez de causar dano, Volenta pode agarrar o alvo (DC de fuga 13).</p>
 <h3>Ações Bônus</h3>
 <p><strong><em>Salto.</em></strong> Volenta se move até sua velocidade sem provocar ataques de oportunidade. Ao fazer isso, ela pode substituir 3 metros de movimento por um salto de 3 metros de altura.</p>
-<p><strong><em>Dislocar.</em></strong> Volenta desloca suas articulações, escapando automaticamente de quaisquer restrições não mágicas, como algemas ou uma criatura que a tenha agarrado.</p>
+<p><strong><em>Deslocar.</em></strong> Volenta desloca suas articulações, escapando automaticamente de quaisquer restrições não mágicas, como algemas ou de uma criatura que a tenha agarrada.</p>
 <h3>Reações</h3>
-<p><strong><em>Cuspir Sangue.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, Volenta cospe um jato de sangue nos olhos da criatura atacante, forçando-a a fazer um teste de salvaguarda de Destreza CD 15. Em caso de falha, a criatura fica cega até o final do seu próximo turno.</p>
-<p><strong><em>Agressão.</em></strong> Em resposta a sofrer dano de um ataque ou magia, Volenta se move até sua velocidade em direção a uma criatura hostil que possa ver, sem provocar ataques de oportunidade.</p>
-<p><strong><em>Fuga.</em></strong> Em resposta a escapar de um agarramento, Volenta usa sua característica <strong><em>salto</em></strong>.</p>
+<p>Volenta pode realizar até três reações por rodada, mas apenas uma por turno. Se Volenta perder suas reações, ela perde uma reação em vez disso.</p>
+<p><strong><em>Cospe Sangue.</em></strong> Em resposta a dano sofrido de um ataque corpo a corpo, Volenta cospe um bocado de sangue nos olhos da criatura atacante, forçando-a a fazer um teste de salvaguarda de Destreza CD 15. Em caso de falha, a criatura fica cega até o final de seu próximo turno.</p>
+<p><strong><em>Agressão.</em></strong> Em resposta a dano sofrido de um ataque ou feitiço, Volenta se move até sua velocidade em direção a uma criatura hostil que ela possa ver, sem provocar ataques de oportunidade.</p>
+<p><strong><em>Fugir.</em></strong> Em resposta a escapar de um agarrão, Volenta usa sua característica <strong><em>salto</em></strong>.</p>
 </div>
 
 ### 1. Volenta
@@ -490,11 +492,11 @@ Se algum dos PJs for reduzido a 0 pontos de vida, Father Lucian usa sua ação p
 >
 > Como Volenta e suas **vampire spawn** preferem atacar os PJs em vez do Padre Lucian, é improvável que o Padre Lucian seja reduzido a 0 pontos de vida nesta batalha.
 >
-> Contudo, como indicado em **Monstros e Morte** (<span class="citation">Player's Handbook, p. 198</span>), personagens não-jogadores aliados — como o Padre Lucian, Irene Kolyana e qualquer outro NPC lutando ao lado dos PJs — devem cair inconscientes ao serem reduzidos a 0 pontos de vida. Quando isso ocorre, eles seguem as mesmas regras para testes de salvaguarda contra a morte que os personagens jogadores, descritas mais detalhadamente em **Testes de Salvaguarda contra a Morte** (<span class="citation">Player's Handbook, p. 197</span>).
+> Contudo, como indicado em **Monstros e Morte** (<span class="citation">Player's Handbook, p. 198</span>), personagens não-jogadores aliados — como o Padre Lucian, Ireena Kolyana e qualquer outro NPC lutando ao lado dos PJs — devem cair inconscientes ao serem reduzidos a 0 pontos de vida. Quando isso ocorre, eles seguem as mesmas regras para testes de salvaguarda contra a morte que os personagens jogadores, descritas mais detalhadamente em **Testes de Salvaguarda contra a Morte** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. As Vampire Spawn
 As duas **vampire spawn** lutam usando suas ***garras*** para agarrar os inimigos, que então arrastam para se banquetear em privado — preferencialmente jogando a presa agarrada pela janela até o telhado da loja. Ambas as spawn lutam até a morte.
 # D5. Recuperando os Ossos
-Se os PJs e o Padre Lucian conseguirem devolver os ossos roubados para a Igreja de St. Andral antes do amanhecer de Neyavr 7, o Padre Lucian agradece aos PJs e convida Irene a permanecer sob sua proteção pelo tempo que desejar. Irene então dorme na Igreja de St. Andral todas as noites até que o grupo deixe Vallaki em [[Arc J - The Stolen Gem]]. 
+Se os PJs e o Padre Lucian conseguirem devolver os ossos roubados para a Igreja de St. Andral antes do amanhecer de Neyavr 7, o Padre Lucian agradece aos PJs e convida Ireena a permanecer sob sua proteção pelo tempo que desejar. Ireena então dorme na Igreja de St. Andral todas as noites até que o grupo deixe Vallaki em [[Arc J - The Stolen Gem]]. 
 
 **_Marco_**. Restaurar os ossos do São Andral completa um marco da história. Se a igreja for re-consagrada com sucesso, conceda a cada jogador 1.250 PX.  
 # D6. A Visita de Rahadin  
@@ -606,40 +608,36 @@ Uma vez que Rahadin esteja satisfeito de que a justiça foi feita, ele convoca s
   </tbody>
 </table>
 <hr>
-<strong>Testes de Resistência</strong> Destreza +11, Sabedoria +8<br>
+<strong>Testes de Salvaguarda</strong> Dex +11, Wis +8<br>
 <strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
-<strong>Sentidos</strong> visão no escuro 18 m (60 ft.), Percepção passiva 23<br>
+<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 23<br>
 <strong>Idiomas</strong> Comum, Élfico<br>
 <strong>Desafio</strong> 14<br>
-<strong>Bônus de Proficiência</strong> +5<br>
+<strong>Proficiência</strong> +5<br>
 <hr>
-<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura em um raio de 3 metros (10 ft.) de Rahadin que não esteja protegida pela magia <em>bloqueio mental</em> (mind blank) ouça em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
-<p><strong><em>Ancestral Feérico.</em></strong> Rahadin tem vantagem em testes de resistência contra ser enfeitiçado, e magia não pode colocá-lo para dormir.</p>
-<p><strong><em>Indomável.</em></strong> Se Rahadin falhar em um teste de resistência, ele pode escolher ter sucesso em vez disso. Se o fizer, ele fica prejudicado até o final de seu próximo turno. Enquanto estiver prejudicado, seus movimentos são mais lentos, ele pode usar uma reação a menos por rodada e não pode usar sua ação multiataque. (Uma criatura pode ser prejudicada várias vezes. A cada vez adicional, ela perde mais uma reação (mínimo zero). Outros efeitos de ser prejudicado não se acumulam.)</p>
-<p><strong><em>Conjuração Inata.</em></strong> A habilidade de conjuração inata de Rahadin é Inteligência. Ele pode conjurar as magias abaixo sem precisar de componentes:<br>
-- 3/dia: <em>cavalgada fantasma</em> (phantom steed)<br>
-- 1/dia: <em>não detecção</em> (nondetection)</p>
-<p><strong><em>Máscara da Natureza.</em></strong> Rahadin pode tentar se esconder mesmo quando estiver apenas parcialmente oculto por folhagens, chuva forte, neve caindo, neblina ou outros fenômenos naturais.</p>
-<p><strong><em>Instinto Assassino.</em></strong> Quando Rahadin chega a 0 pontos de vida, ele guarda seu sabre e saca suas duas cimitérias, <em>Thorn</em> e <em>Chain</em>. Suas estatísticas são então imediatamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano em excesso não é transferido para a nova forma, e ele não mantém nenhuma condição que possuía em sua forma anterior.</p>
-
+<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço de <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
+<p><strong><em>Ancestralidade Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser encantado, e magia não pode fazê-lo dormir.</p>
+<p><strong><em>Magia Inata.</em></strong> A habilidade mágica inata de Rahadin é Inteligência. Ele pode conjurar inatamente os seguintes feitiços, não requerendo componentes:<br>
+- 3/dia: cavalo fantasma<br>
+- 1/dia: não detecção</p>
+<p><strong><em>Máscara da Selva.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente obscurecido por folhagens, chuva forte, neve caindo, brumas e outros fenômenos naturais.</p>
+<p><strong><em>Instinto Assassino.</em></strong> Quando Rahadin cai a 0 pontos de vida, ele guarda seu sabre e saca suas garras gêmeas, <em>Espinho</em> e <em>Corrente</em>. Suas estatísticas são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excessivo não se transfere para sua nova forma, e ele não retém nenhuma condição que tinha em sua forma anterior.</p>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Rahadin realiza dois ataques.</p>
-<p><strong><em>Sabre.</em></strong> <em>Ataque Corpo a Corpo com Arma:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Dano:</em> 11 (1d8 + 6) de dano cortante, e Rahadin pode empurrar o alvo em até 1,5 m. Em vez de empurrar o alvo, Rahadin pode forçar o alvo a ser bem-sucedido em um teste de resistência de Força CD 15 ou ser derrubado no chão (prone).</p>
-<p><strong><em>Dardo Envenenado.</em></strong> <em>Ataque à Distância com Arma:</em> +11 para atingir, alcance 6/18 m (20/60 ft.), um alvo. <em>Dano:</em> 14 (1d4 + 6 + 2d4) perfurante e venenoso, e o alvo deve ser bem-sucedido em um teste de resistência de Constituição CD 15 ou ficará envenenado até o início do próximo turno de Rahadin.</p>
-
+<p><strong><em>Múltiplo Ataque.</em></strong> Rahadin faz dois ataques.</p>
+<p><strong><em>Sabre.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +11 para acertar, alcance 1,5 m, um alvo. <em>Atingido:</em> 11 (1d8 + 6) de dano cortante, e Rahadin pode empurrar o alvo até 1,5 metros para longe. Em vez de empurrar o alvo, Rahadin pode forçá-lo a ter sucesso em um teste de salvaguarda de Força CD 15 ou ser derrubado.</p>
+<p><strong><em>Seta Envenenada.</em></strong> <em>Ataque de Arma à Distância:</em> +11 para acertar, alcance 6/18 m, um alvo. <em>Atingido:</em> 14 (1d4 + 6 mais 2d4) de dano perfurante e de veneno, e o alvo deve ter sucesso em um teste de salvaguarda de Constituição CD 15 ou ficar envenenado até o início do próximo turno de Rahadin.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Investida do Vento.</em></strong> Rahadin move-se até seu deslocamento em linha reta em direção a um espaço desocupado que ele possa ver, incluindo através de espaços inimigos, sem provocar ataques de oportunidade. Cada criatura que estiver a até 1,5 m (5 ft.) de qualquer espaço por onde ele passar deve fazer um teste de resistência de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em caso de falha, ou metade desse dano em caso de sucesso.</p>
-<p><strong><em>Lâminas Rodopiantes.</em></strong> Cada criatura em um raio de 3 metros (10 ft.) de Rahadin deve fazer um teste de resistência de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em caso de falha, ou metade em caso de sucesso.</p>
-
+<p><strong><em>Golpe do Vento.</em></strong> Rahadin se move até sua velocidade em linha reta em direção a um espaço desocupado que ele pode ver, incluindo através de espaços de inimigos, sem provocar ataques de oportunidade. Cada criatura a até 1,5 metros de um espaço que ele atravessa deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em um teste falho, ou metade desse dano em um teste bem-sucedido.</p>
+<p><strong><em>Lâminas Giratórias.</em></strong> Cada criatura a até 3 metros de Rahadin deve fazer um teste de salvaguarda de Destreza CD 19, sofrendo 7 (2d6) de dano cortante em um teste falho, ou metade desse dano em um teste bem-sucedido.</p>
 <h3>Reações</h3>
-<p>Rahadin pode usar até três reações por rodada, embora não mais de uma por turno. Se Rahadin perder suas reações e não estiver incapacitado, ele perde apenas uma reação.</p>
-<p><strong><em>Golpe Punitivo.</em></strong> Quando Rahadin é atingido por um ataque corpo a corpo ou à distância, ele pode usar sua reação para mover-se até seu deslocamento em direção ao atacante e fazer um ataque com seu sabre. Este movimento não provoca ataques de oportunidade.</p>
-<p><strong><em>Desarme.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin enquanto empunha uma arma, ele pode usar sua reação para forçar aquele inimigo a fazer um teste de resistência de Força CD 19, com vantagem se o inimigo estiver segurando a arma com ambas as mãos. Em caso de falha, o inimigo derruba o objeto, que é lançado a 3 metros (10 ft.) de distância.</p>
-<p><strong><em>Passo Breve (1/rodada).</em></strong> Quando um inimigo erra um ataque contra Rahadin ou causa dano a ele, ele pode usar sua reação para lançar <em>passo da bruma</em> (misty step). Em seguida, ele pode imediatamente usar a ação Esconder. Rahadin não precisa ver seu destino ao lançar <em>passo da bruma</em> dessa forma.</p>
-<p><strong><em>Grito Psíquico (1/dia).</em></strong> Quando Rahadin é reduzido a 0 pontos de vida, ele pode usar sua reação para fazer com que seu coro fúnebre libere um grito terrível. Cada criatura em um raio de 18 m (60 ft.) de Rahadin deve fazer um teste de resistência de Sabedoria CD 17, sofrendo 11 (2d10) de dano psíquico em caso de falha, ou metade desse dano em caso de sucesso. Se uma criatura falhar no teste por 5 ou mais, ela também fica atordoada até o início do próximo turno de Rahadin.</p>
+<p>Rahadin pode realizar até três reações por rodada, embora não mais de uma por turno. Se Rahadin perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigisse originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Golpe Punitivo.</em></strong> Quando Rahadin é atingido por um ataque corpo a corpo ou à distância, ele pode usar sua reação para se mover até sua velocidade em direção ao atacante e fazer um ataque com seu sabre. Esse movimento não provoca ataques de oportunidade.</p>
+<p><strong><em>Desarmar.</em></strong> Quando um inimigo erra Rahadin com um ataque corpo a corpo enquanto empunha uma arma, ele pode usar sua reação para forçar esse inimigo a fazer um teste de salvaguarda de Força CD 19, com vantagem se o inimigo estiver segurando a arma com duas mãos. Em caso de falha, o inimigo solta o item, que é lançado a 3 metros de distância.</p>
+<p><strong><em>Passo Nebuloso (1/rodada).</em></strong> Quando um inimigo erra Rahadin com um ataque ou causa dano a ele, ele pode usar sua reação para conjurar <em>passo nebuloso</em>. Ele pode então imediatamente realizar a ação Esconder. Rahadin não precisa ver seu destino ao conjurar <em>passo nebuloso</em> dessa forma.</p>
+<p><strong><em>Grito Psíquico (1/dia).</em></strong> Quando Rahadin é reduzido a 0 pontos de vida, ele pode usar sua reação para fazer seu coro mortal liberar um grito terrível. Cada criatura a até 18 metros de Rahadin deve fazer um teste de salvaguarda de Sabedoria CD 17, sofrendo 11 (2d10) de dano psíquico em um teste falho ou metade desse dano em um teste bem-sucedido. Se uma criatura falhar no teste de salvaguarda por 5 ou mais, ela também fica atordoada até o início do próximo turno de Rahadin.</p>
 </div>
 <br>
-
 
 <div class="statblock">
 <h2>Rahadin, Matador de Parentes</h2>
@@ -674,35 +672,35 @@ Uma vez que Rahadin esteja satisfeito de que a justiça foi feita, ele convoca s
   </tbody>
 </table>
 <hr>
-<strong>Testes de Salvaguarda</strong> Des +11, Sab +8<br>
+<strong>Testes de Salvaguarda</strong> Dex +11, Wis +8<br>
 <strong>Perícias</strong> Acrobacia +11, Enganação +9, Intuição +8, Intimidação +14, Percepção +13, Furtividade +16<br>
 <strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 23<br>
 <strong>Idiomas</strong> Comum, Élfico<br>
 <strong>Desafio</strong> 15<br>
 <strong>Proficiência</strong> +5<br>
 <hr>
-<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
-<p><strong><em>Ascendência Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser enfeitiçado, e magia não pode colocá-lo para dormir.</p>
-<p><strong><em>Máscara da Natureza.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente obscurecido por folhagens, chuva forte, neve caindo, névoa e outros fenômenos naturais.</p>
+<p><strong><em>Gritos dos Mortos.</em></strong> Qualquer criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço de <em>mind blank</em> ouve em sua mente os gritos das milhares de pessoas que Rahadin matou.</p>
+<p><strong><em>Ancestralidade Feérica.</em></strong> Rahadin tem vantagem em testes de salvaguarda contra ser encantado, e magia não pode fazê-lo dormir.</p>
+<p><strong><em>Máscara da Selva.</em></strong> Rahadin pode tentar se esconder mesmo quando está apenas levemente obscurecido por folhagens, chuva forte, neve caindo, brumas e outros fenômenos naturais.</p>
 <h3>Ações</h3>
-<p><strong><em>Multiataque.</em></strong> Rahadin realiza três ataques com suas cimitarra <strong><em>Thorn</em></strong> e/ou <strong><em>Chain</em></strong>. Ele pode substituir um ataque por sua habilidade <strong><em>haunt</em></strong>.</p>
-<p><strong><em>Thorn.</em></strong> <em>Ataque Corpo a Corpo:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou sangrar pelo próximo 1 minuto. (Um alvo sangrando deve ter sucesso em um teste de salvaguarda de Constituição CD 19 no início de cada um de seus turnos ou sofrer 1d6 de dano cortante adicional. Em caso de sucesso ou ao receber cura mágica, o alvo para de sangrar.)</p>
-<p><strong><em>Chain.</em></strong> <em>Ataque Corpo a Corpo:</em> +11 para atingir, alcance 1,5 m, um alvo. <em>Acerto:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou ter sua velocidade reduzida a 0 até o final do seu próximo turno. Se o alvo falhar por 5 ou mais, ele também cai prone.</p>
-<p><strong><em>Haunt.</em></strong> Rahadin força uma criatura que ele possa ver a até 9 metros a ter sucesso em um teste de salvaguarda de Sabedoria CD 17 ou sofrer 7 (2d6) de dano psíquico e ficar amedrontada e surda pelos gritos das almas até o início do próximo turno dele.</p>
+<p><strong><em>Múltiplo Ataque.</em></strong> Rahadin faz três ataques com suas scimitars <strong><em>Espinho</em></strong> e/ou <strong><em>Corrente</em></strong>. Ele pode substituir um ataque por sua característica <strong><em>assombração</em></strong>.</p>
+<p><strong><em>Espinho.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +11 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou sangrar pelos próximos 1 minuto. (Um alvo sangrando deve ter sucesso em um teste de salvaguarda de Constituição CD 19 no início de cada um de seus turnos ou sofrer 1d6 de dano cortante adicional. Em um sucesso ou ao receber cura mágica, o alvo não está mais sangrando.)</p>
+<p><strong><em>Corrente.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +11 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 9 (1d6 + 6) de dano cortante, e Rahadin pode forçar o alvo a fazer um teste de salvaguarda de Constituição CD 19 ou ter sua velocidade reduzida a 0 até o final de seu próximo turno. Se o alvo falhar por 5 ou mais, ele também cai no chão.</p>
+<p><strong><em>Assombração.</em></strong> Rahadin força uma criatura que ele pode ver a até 9 metros a ter sucesso em um teste de salvaguarda de Sabedoria CD 17 ou sofrer 7 (2d6) de dano psíquico e ficar amedrontada e surda por almas gritando até o início de seu próximo turno.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Coro Mortal.</em></strong> Cada criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço <em>mind blank</em> deve ter sucesso em um teste de salvaguarda de Sabedoria CD 17, sofrendo 9 (2d8) de dano psíquico em uma falha ou metade desse dano em um sucesso. Se uma criatura falhar o teste por 5 ou mais, ela também fica amedrontada até o início do próximo turno de Rahadin.</p>
-<p><strong><em>Passo Veloz.</em></strong> Rahadin realiza a ação Correr ou Desengajar.</p>
+<p><strong><em>Coral Mortal.</em></strong> Cada criatura a até 3 metros de Rahadin que não esteja protegida por um feitiço de <em>mind blank</em> deve ter sucesso em um teste de salvaguarda de Sabedoria CD 17, sofrendo 9 (2d8) de dano psíquico em um teste falho ou metade desse dano em um teste bem-sucedido. Se uma criatura falhar no teste de salvaguarda por 5 ou mais, ela também fica amedrontada até o início do próximo turno de Rahadin.</p>
+<p><strong><em>Passo Ágil.</em></strong> Rahadin realiza a ação de Correr ou Desengajar.</p>
 <h3>Reações</h3>
-<p>Rahadin pode realizar até três reações por rodada, embora não mais que uma por turno. Se Rahadin perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o esteja afetando no momento. (Esta reação não tem efeito se o efeito ou condição não exigiu originalmente que ele falhasse em um teste de salvaguarda.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adiciona +5 à sua Classe de Armadura contra um ataque corpo a corpo ou à distância que o atingiria ou ao resultado de um teste de salvaguarda de Destreza falho, ou não sofre dano de <em>magic missile</em> neste turno. Se ele fizer um ataque corpo a corpo errar dessa forma, pode usar imediatamente uma reação adicional, se disponível, para usar seu Riposte contra o atacante.</p>
-<p><strong><em>Riposte.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin, ele pode usar sua reação para se mover até sua velocidade para um espaço desocupado a até 1,5 m daquele inimigo sem provocar ataques de oportunidade. Ele pode então fazer imediatamente um ataque com <strong><em>Thorn</em></strong> ou <strong><em>Chain</em></strong> contra esse inimigo com vantagem.</p>
+<p>Rahadin pode realizar até três reações por rodada, embora não mais de uma por turno. Se Rahadin perder suas reações, ele perde uma reação em vez disso.</p>
+<p><strong><em>Indomável.</em></strong> <strong>Gatilho:</strong> Uma criatura hostil termina seu turno. <strong>Efeito:</strong> Rahadin pode repetir o teste de salvaguarda contra um efeito ou condição que o afete atualmente. (Essa reação não tem efeito se o efeito ou condição não exigisse originalmente que ele falhasse em um teste de salvaguarda.)</p>
+<p><strong><em>Parar.</em></strong> Rahadin adiciona +5 à sua Classe de Armadura contra um ataque corpo a corpo ou à distância que o acertaria ou ao resultado de um teste de salvaguarda de Destreza falho, ou não sofre dano de <em>magic missile</em> neste turno. Se ele fizer um ataque corpo a corpo errar dessa forma, ele pode então imediatamente usar uma reação adicional, se disponível, para usar seu Riposte contra o atacante.</p>
+<p><strong><em>Riposte.</em></strong> Quando um inimigo erra um ataque corpo a corpo contra Rahadin, ele pode usar sua reação para se mover até sua velocidade para um espaço desocupado a até 1,5 m daquele inimigo sem provocar ataques de oportunidade. Ele pode então imediatamente fazer um ataque com <strong><em>Espinho</em></strong> ou <strong><em>Corrente</em></strong> contra aquele inimigo com vantagem.</p>
 </div>
 
 # Notas de Design: O Banquete de São Andral
 ***Igreja de São Andral.*** A exigência do módulo original de que um dos PJs fosse um clérigo ou paladino para receber esta missão foi removida para torná-la mais acessível. 
 
-Embora não exista na aventura original, o dia sagrado da Festa de São Andral foi adicionado para fornecer um prazo claro para os esforços dos PJs em recuperar os ossos, e para garantir um lugar seguro para que a Irene permaneça enquanto o arco se desenrola.
+Embora não exista na aventura original, o dia sagrado da Festa de São Andral foi adicionado para fornecer um prazo claro para os esforços dos PJs em recuperar os ossos, e para garantir um lugar seguro para que a Ireena permaneça enquanto o arco se desenrola.
 
 A data do roubo dos ossos foi antecipada para a noite da chegada dos PJs em Vallaki, garantindo que a cena do crime esteja suficientemente preservada para que eles possam realizar um trabalho investigativo substancial. Uma série de pistas foi adicionada para apontar claramente o dedo para Milivoj.
 

@@ -10,7 +10,7 @@ Logo depois, os PJs finalmente chegam ao acampamento Vistani no Lago Tser. Lá, 
 
 Enquanto estão hospedados no Lago Tser, os PJs ouvem contos Vistani sobre a história de Strahd e o *Símbolo Sagrado de Ravenkind*, e também podem encontrar Arturi Radanavich, um Vistana errante que afirma ter conhecido Rudolph van Richten. Ao partirem, os PJs também recebem uma missão de Madame Eva para comprar um brinquedo em Vallaki para entregar à sua sobrinha-neta, Arabelle.
 
-Se os PJs forem encarregados de escoltar Irene até a Igreja de São Andral em Vallaki, ou se tiverem suas próprias razões para fazê-lo, eles então retornam à Velha estrada Svalich através do Cruzamento do Rio Ivlis, viajando para o oeste pelas montanhas. Ao longo do caminho, eles encontram um estranho cavaleiro esquelético, um par de sepulturas frescas, um revenant vigilante, a **night hag** Morgantha disfarçada de vendedora, dois bandos de **corvos** amigáveis e um **werewolf** acompanhado por sua matilha de **wolves** famintos. 
+Se os PJs forem encarregados de escoltar Ireena até a Igreja de São Andral em Vallaki, ou se tiverem suas próprias razões para fazê-lo, eles então retornam à Velha estrada Svalich através do Cruzamento do Rio Ivlis, viajando para o oeste pelas montanhas. Ao longo do caminho, eles encontram um estranho cavaleiro esquelético, um par de sepulturas frescas, um revenant vigilante, a **night hag** Morgantha disfarçada de vendedora, dois bandos de **corvos** amigáveis e um **werewolf** acompanhado por sua matilha de **wolves** famintos. 
 
 Ao chegarem em Vallaki, os jogadores podem se hospedar na Estalagem da Água Azul, onde encontrarão diversos personagens pitorescos—entre eles, o excêntrico mestre de circo Rictavio e os filhos da Lady Fiona Wachter. Pela manhã, podem ainda se deparar com um encontro decisivo com o Barão Vargas Vallakovich e seu brutal capanga, Izek Strazni..
 
@@ -32,9 +32,9 @@ Enquanto os PJs viajam, leia:
 
 Se algum PJs tiver um valor de Sabedoria (Percepção) passivo de 16 ou mais, eles ouvem um ruído de folhas e veem uma silhueta agachada na vegetação enevoada. Caso contrário, os PJs simplesmente ouvem uma voz chamando, abafada e difusa na névoa: “Quem vai aí? Identifiquem-se.”
 
-A voz pertence a uma **scout** baroviana de voz rouca chamada Kereza, que é acompanhada por um segundo **scout** de fala suave chamado Korga, que os PJs encontraram anteriormente em [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Após confirmar que os PJs não estão transportando Irene contra a vontade dela, os scouts alertam os PJs de que os espiões de Strahd são numerosos por toda a Floresta Svalich, incluindo lobos, morcegos e—em certos momentos—até mesmo as próprias árvores. (Se perguntados sobre as árvores, os scouts podem descrever ter visto cipós animados, mudas e matagais que vagam pela floresta com intenções hostis.)
+A voz pertence a uma **scout** baroviana de voz rouca chamada Kereza, que é acompanhada por um segundo **scout** de fala suave chamado Korga, que os PJs encontraram anteriormente em [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Após confirmar que os PJs não estão transportando Ireena contra a vontade dela, os scouts alertam os PJs de que os espiões de Strahd são numerosos por toda a Floresta Svalich, incluindo lobos, morcegos e—em certos momentos—até mesmo as próprias árvores. (Se perguntados sobre as árvores, os scouts podem descrever ter visto cipós animados, mudas e matagais que vagam pela floresta com intenções hostis.)
 
-Se [[Non-Player Characters#Irene Kolyana|Irene]] estiver com os PJs, ela pode ajudar os PJs a tranquilizar os scouts, que a reconhecem e a cumprimentam com respeito silencioso. Os scouts ficam surpresos ao ver Irene se aventurando para fora da vila, mas concordam que Vallaki é provavelmente um lugar mais seguro do que a Baróvia—supondo, é claro, que ela consiga chegar lá em segurança. (Irene insiste teimosamente, no entanto, que sua jornada é uma missão diplomática e humanitária, e que os PJs são seus acompanhantes e guardas-costas.)
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] estiver com os PJs, ela pode ajudar os PJs a tranquilizar os scouts, que a reconhecem e a cumprimentam com respeito silencioso. Os scouts ficam surpresos ao ver Ireena se aventurando para fora da vila, mas concordam que Vallaki é provavelmente um lugar mais seguro do que a Baróvia—supondo, é claro, que ela consiga chegar lá em segurança. (Ireena insiste teimosamente, no entanto, que sua jornada é uma missão diplomática e humanitária, e que os PJs são seus acompanhantes e guardas-costas.)
 
 Os scouts estão à procura da família Lansten: dois pais e três crianças pequenas—uma menina e dois meninos—que desapareceram durante o ataque dos zumbis à vila e não foram vistos desde então. Após perguntarem se os PJs viram suas presas em sua jornada, os scouts os avisam para não se afastarem da estrada, observando que os mortos coisas e sombrias espreitam sob as copas das árvores. Kereza e Korga então se afastam respeitosamente.
 
@@ -54,6 +54,11 @@ As cinco figuras são **zumbis**. Elas também correspondem às descrições da 
 
 Os PJs podem tentar atrair os zumbis para longe da clareira; dada a baixa inteligência dos zumbis, fazer isso deve ser razoavelmente fácil. Alternativamente, os PJs podem tentar emboscar e atacar os zumbis para destruí-los completamente.
 
+> [!info]+ **Resistência Morto-Viva**
+> Revise cada recurso de **zumbi** ***Resistência morto-viva*** para ler da seguinte forma:
+>
+> * ***Resistência Morto-Viva (1/dia).*** Se o dano reduzir o zumbi a 0 pontos de vida, o zumbi cai para 1 ponto de vida em vez disso. O zumbi não pode usar essa habilidade se o dano for radiante ou de um golpe crítico, se o dano recebido for 15 ou mais, ou se ele tiver apenas 1 ponto de vida restante. 
+
 Se os PJs chegarem à árvore de carvalho, poderão encontrar o esconderijo de armas de Van Richten onde Doru lhes disse: em um oco aninhado sob as raízes da árvore. O esconderijo em si é um pequeno baú de madeira, destrancado, contendo 20 virotes de prata para besta , uma besta leve, dois *kits de cura*, dois frascos de *água benta* e uma *poção de cura*.
 # C2. Encruzilhada do Rio Ivlis
 <span class="citation"><em>Esta cena ocorre no Capítulo 2: Área F.</em></span>
@@ -67,21 +72,21 @@ Os PJs chegaram ao Cruzamento do Rio Ivlis, que é em grande parte como descrito
 Esta cena começa de maneira semelhante à descrita em <span class="citation">Cruzamento do Rio Ivlis (p. 35)</span>. Contudo, na primeira vez em que os jogadores se prepararem para partir em direção à Lagoa Tser, em vez de avistarem O Enforcado, eles ouvem o ruído de uma carruagem ou carroça puxada por cavalos se aproximando através da névoa. Quase imediatamente após o som surgir, a carruagem negra de Strahd, conforme descrita em <span class="citation">Carruagem Negra (p. 37)</span> e <span class="citation">Casa da Carruagem (p. 54)</span>, surge à vista.
 
 ## C2a. A Chegada de Strahd
-Os jogadores avistam um condutor sentado no banco da carruagem: o vampiro progenie Escher, descrito em <span class="citation">K49. Salão (p. 70)</span>. Se estiver presente, Irene ofega ao vê-lo e sussurra que pensava que ele estivesse morto.
+Os jogadores avistam um condutor sentado no banco da carruagem: o vampiro progenie Escher, descrito em <span class="citation">K49. Salão (p. 70)</span>. Se estiver presente, Ireena ofega ao vê-lo e sussurra que pensava que ele estivesse morto.
 
 > [!abstract]+ **E Se Os PJs Fugirem?**
 >
-> Os PJs devem ter pouco tempo para tentar se esconder antes que a carruagem de Strahd apareça à vista. No entanto, se os PJs tentarem fugir da carruagem para a floresta, os **lobos malignos** de Strahd—um para cada PJ, além de Irene—emergem da névoa atrás deles e rosnar, obstruindo a fuga dos PJs.
+> Os PJs devem ter pouco tempo para tentar se esconder antes que a carruagem de Strahd apareça à vista. No entanto, se os PJs tentarem fugir da carruagem para a floresta, os **lobos malignos** de Strahd—um para cada PJ, além de Ireena—emergem da névoa atrás deles e rosnar, obstruindo a fuga dos PJs.
 
-A carruagem então para. Leia o seguinte, modificando o texto conforme necessário se Irene não estiver presente, e faça uma pausa breve após cada parágrafo para permitir que os PJs tenham uma curta oportunidade de agir ou reagir:
+A carruagem então para. Leia o seguinte, modificando o texto conforme necessário se Ireena não estiver presente, e faça uma pausa breve após cada parágrafo para permitir que os PJs tenham uma curta oportunidade de agir ou reagir:
 
 <div class="description"> <p>O cocheiro solta as rédeas, desce do assento e se dirige para abrir a porta lateral da carruagem, curvando-se profundamente. Passa-se um momento—e então um homem sai de dentro da carruagem.</p> <p>Ele é alto, esguio e trajado com uma elegância digna de um aristocrata, talvez até mesmo de um membro da realeza. Uma capa negra está cuidadosamente disposta sobre seus ombros, presa no pescoço por um broche vermelho-sangue. Uma espada longa repousa embainhada em seu flanco, seu punho polido cintilando sob a luz tênue. Seu gibão escarlate exibe desenhos intrincados, e seu cabelo é penteado para trás forma um "v" impecável em sua testa.</p> <p>Seus olhos são escuros e, ao ajeitar o rubi em seu pescoço, é possível ver que suas unhas são longas e elegantes como garras. É só então que vocês percebem que sua pele é pálida—de um modo antinatural—e que seus olhos reluzem com uma fome profunda e inteligente.</p> </div>
 
-Se [[Non-Player Characters#Irene Kolyana|Irene]] estiver com o grupo, adicione:
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] estiver com o grupo, adicione:
 
-<div class="description"> <p>Irene recua como se tivesse levado um tapa. Ela desvia o olhar do homem, todo o seu corpo se contraindo. "Não olhem nos olhos dele," ela balbucia.</p> <p>O olhar do homem se detém brevemente em Irene, e ele sorri—embora nenhum calor alcance seus olhos. "Lady Kolyana," ele diz. "Que surpresa agradável." Em seguida, ele dirige o olhar a vocês.</p> </div>
+<div class="description"> <p>Ireena recua como se tivesse levado um tapa. Ela desvia o olhar do homem, todo o seu corpo se contraindo. "Não olhem nos olhos dele," ela balbucia.</p> <p>O olhar do homem se detém brevemente em Ireena, e ele sorri—embora nenhum calor alcance seus olhos. "Lady Kolyana," ele diz. "Que surpresa agradável." Em seguida, ele dirige o olhar a vocês.</p> </div>
 
-Independente de Irene estar com o grupo adicione:
+Independente de Ireena estar com o grupo adicione:
 
 <div class="description"> <p>"Muito bom dia," diz ele. "Sou o Conde Strahd von Zarovich—e é um prazer finalmente conhecer os recém-chegados ao meu domínio. Meus amigos já me contaram muito sobre vocês." Seus olhos passam por cada um de vocês, avaliando-os como se fossem cortes de carne em um mercado, um ornamento curioso mas inanimado—presas avistadas por um predador na mata.</p> </div>
 
@@ -182,7 +187,7 @@ Na primeira vez em que o jogador tiver sucesso no teste de resistência contra *
 ## C2b. A Conversa Começa
 Se não for desviado, [[Strahd von Zarovich#The Gentleman|Strahd]] cumprimenta cada um dos personagens jogadores individualmente—pelo nome, se seus espiões tiveram a chance de aprendê-los e relatar de volta a ele. Enquanto faz isso, ele faz um comentário pessoal sobre a espécie, classe (se aparente pelo equipamento ou vestimenta) e/ou personalidade de cada personagem (se relatado por seus espiões). Se possível, ele enquadra cada comentário na forma de um elogio, uma observação simpática ou (com parcimônia) uma ameaça excepcionalmente velada.
 
-Se [[Non-Player Characters#Irene Kolyana|Irene]] estiver presente, Strahd então pergunta se “Lady Kolyana” os apresentou adequadamente ao seu domínio e se desculpa por quaisquer “contos folclóricos” que seus súditos possam ter compartilhado sobre ele. 
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] estiver presente, Strahd então pergunta se “Lady Kolyana” os apresentou adequadamente ao seu domínio e se desculpa por quaisquer “contos folclóricos” que seus súditos possam ter compartilhado sobre ele. 
 
 (Ele, no entanto, não nega seu ataque à vila da Baróvia, observando apenas que o povo da vila o desafiou em um ato de traição extrema. "Tenho certeza de que vocês podem concordar que minha resposta foi ponderada," ele diz. "Afinal, nenhum senhor poderia tolerar um assentamento que fomentasse tal sedição. O bom povo da  Baróvia precisavam aprender uma lição. Sua disciplina foi uma bondade que poucos outros estariam dispostos a considerar.")
 
@@ -198,7 +203,7 @@ Se os PJs perguntarem sobre o motorista de Strahd, Strahd o apresenta como Esche
 Durante a conversa, em momentos em que parece natural fazê-lo, [[Strahd von Zarovich#O Cavalheiro|Strahd]] faz aos PJs as seguintes perguntas (sem uma ordem específica):
 
 * "Ismark Kolyanovich desafiou-me ao obstruir a justiça que impus sobre sua vila. Por que eu, como seu senhor, não deveria puni-lo por sua deslealdade?"
-* "Reivindiquei Irene Kolyana, e a marquei como minha. Por que eu não deveria levá-la comigo agora para o Castelo Ravenloft?"
+* "Reivindiquei Ireena Kolyana, e a marquei como minha. Por que eu não deveria levá-la comigo agora para o Castelo Ravenloft?"
 * "Vocês são intrusos em minhas terras, e o último forasteiro que entrou na Baróvia fomentou sedição e traição. Por que eu não deveria eliminá-los agora, para impedir que façam o mesmo?" (A pergunta de Strahd refere-se ao Dr. Rudolph van Richten.)
 
 Se os PJs enterraram os ossos de Walter e colocaram os espíritos da Death House para descansar, Strahd faz uma pergunta adicional:
@@ -215,13 +220,13 @@ Enquanto os jogadores tentam responder às perguntas dele, [[Strahd von Zarovich
 Os PJs podem pressionar Strahd a fazer as seguintes concessões:
 
 * Ele concorda em ignorar as transgressões de Ismark, contanto que Ismark não o oponha ou aja contra sua vontade novamente.
-* Ele concorda em permitir que Irene parta da encruzilhada do Rio Ivlis em segurança. (Strahd não concederá um prazo de graça maior do que esse.)
+* Ele concorda em permitir que Ireena parta da encruzilhada do Rio Ivlis em segurança. (Strahd não concederá um prazo de graça maior do que esse.)
 * Ele concorda em se abster de julgamento contra os PJs, a menos que eles tomem uma ação diretamente contra sua pessoa.
 * Ele concorda em perdoar os PJs por suas transgressões contra o culto da Casa da Morte.
 
 Os PJs podem conseguir essas concessões com uma variedade de argumentos, incluindo (mas não se limitando a) os seguintes:
 
-* Os PJs prometeram a Ismark que irão acompanhar Irene até Vallaki e devem ser autorizados a cumprir sua palavra.
+* Os PJs prometeram a Ismark que irão acompanhar Ireena até Vallaki e devem ser autorizados a cumprir sua palavra.
 * Os PJs não tomaram nenhuma ação hostil contra Strahd e devem ser concedidos a presunção de inocência.
 * As ações dos PJs na Casa da Morte foram realizadas em legítima defesa e, portanto, devem ser desculpadas. 
 
@@ -229,7 +234,7 @@ Se os PJs parecerem duvidar da fidelidade de Strahd às suas concessões, [ele p
 
 Quando os PJs responderem a todas as perguntas de Strahd de forma satisfatória, ele se despede e recua para dentro da carruagem negra.
 
-À medida que isso acontece, os **lobos ferozes** de Strahd—incluindo um para cada PJ mais um para Irene—emergem das florestas, se é que já não o fizeram, e se posicionam para flanquear a carruagem. Strahd observa que ele e seus “amigos” verão os PJs novamente—talvez muito em breve. A carruagem e os lobos então partem em direção ao Castelo Ravenloft.
+À medida que isso acontece, os **lobos ferozes** de Strahd—incluindo um para cada PJ mais um para Ireena—emergem das florestas, se é que já não o fizeram, e se posicionam para flanquear a carruagem. Strahd observa que ele e seus “amigos” verão os PJs novamente—talvez muito em breve. A carruagem e os lobos então partem em direção ao Castelo Ravenloft.
 
 ## C2e. Partindo da Encruzilhada
 Enquanto os PJs se preparam para deixar o Cruzamento do Rio Ivlis após a partida de Strahd, eles encontram <span class="citation">O Enforcado (p. 35)</span>. O personagem pendurado na forca deve ser aquele que foi mais rude com Strahd ou o menos cooperativo com suas perguntas.
@@ -251,7 +256,7 @@ A **greater strix** utiliza as estatísticas de uma **manticore**, mas é uma cr
 O greater strix é acompanhado por dois **swarms of lesser strix** (cada um usando as estatísticas de um **swarm of ravens**, mas com vulnerabilidade a dano de fogo). Cada lesser strix é um “corvo” artificial, ligeiramente maior que um raven, feito de estopa, palha, gravetos e dentes afiados de pedra.
 
 > [!combat]- **Balanceando a Strix**  
-> Este encontro de combate é um confronto **brutal** contra um grupo de cinco jogadores de 3º nível e um aliado CR 1 (Irene Kolyana), consumindo aproximadamente 34% do total de pontos de vida máximos deles. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
+> Este encontro de combate é um confronto **brutal** contra um grupo de cinco jogadores de 3º nível e um aliado CR 1 (Ireena Kolyana), consumindo aproximadamente 34% do total de pontos de vida máximos deles. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
 >  
 > * ***Três Jogadores.*** Reduza os pontos de vida da greater strix para 46. Reduza os ataques de ***tail spike*** e ***bite*** para 5 (1d6+2) de dano perfurante e o ataque de ***claw*** para 4 (1d4+2) de dano cortante. Reduza o número de swarms de lesser strix para um e diminua os pontos de vida do enxame para 16, com o ataque de ***bite*** causando 5 (2d4) de dano perfurante ou 2 (1d4) de dano perfurante se ele tiver metade dos pontos de vida restantes ou menos.  
 > * ***Quatro Jogadores.*** Reduza o número de swarms de lesser strix para um.  
@@ -259,8 +264,8 @@ O greater strix é acompanhado por dois **swarms of lesser strix** (cada um usan
 
 Essas abominações foram criadas pela bruxa Baba Lysaga para caçar licantropo-corvos. Esses strix em particular—um presente de Baba Lysaga para Strahd em seu despertar—receberam ordens de caçar e matar Muriel, que foi vista escutando a leitura de Tarokka que Strahd recebeu de Madame Eva mais cedo naquela manhã. Ele continua a perseguir Muriel, atacando os PJs caso eles tentem feri-lo ou de alguma forma proteger Muriel de seu ataque. Ele luta até a morte.
 
-> [!warning]+ **Não Machuque Irene**
-> Os servos de Strahd e aqueles leais a ele, incluindo os strix, não atacam Irene.
+> [!warning]+ **Não Machuque Ireena**
+> Os servos de Strahd e aqueles leais a ele, incluindo os strix, não atacam Ireena.
 
 Se resgatada, Muriel permanece com os PJs até que consiga discernir suas reais intenções. Um PJ pode remover os espinhos de prata em seu corpo e asas com um teste de Sabedoria (Medicina) CD 15, em caso de falha reduzindo-a a 0 pontos de vida e fazendo-a cair inconsciente. No entanto, uma vez que os espinhos sejam removidos, a regeneração de Muriel retorna imediatamente, curando suas feridas em questão de segundos.
 
@@ -415,9 +420,9 @@ A menos que os PJs intervenham, a conversa se desenrola da seguinte forma:
 >
 > ***Início Sombrio.*** Há vinte anos, quando Arturi Radanavich tinha apenas dezessete, vários membros de sua extensa família no clã Radanavich o convidaram para uma “caçada.” Tímido, solitário e desesperado por conexão, Arturi aceitou o convite de bom grado.
 >
-> Não demorou, porém, para Arturi descobrir a verdadeira natureza daquela caçada. Sua tia, Madame Irene Radanavich, líder do grupo, havia visto recentemente seu filho, Radu, ficar gravemente ferido. Quando os cuidados dos Vistani não surtiram efeito, Madame Radanavich levou Radu a um curandeiro em uma vila próxima — um doutor chamado Rudolph van Richten. Contudo, Radu morreu sob os cuidados de Van Richten, e a aflita e vingativa Madame Radanavich desejava agora infligir dor semelhante a Van Richten.
+> Não demorou, porém, para Arturi descobrir a verdadeira natureza daquela caçada. Sua tia, Madame Ireena Radanavich, líder do grupo, havia visto recentemente seu filho, Radu, ficar gravemente ferido. Quando os cuidados dos Vistani não surtiram efeito, Madame Radanavich levou Radu a um curandeiro em uma vila próxima — um doutor chamado Rudolph van Richten. Contudo, Radu morreu sob os cuidados de Van Richten, e a aflita e vingativa Madame Radanavich desejava agora infligir dor semelhante a Van Richten.
 >
-> Arturi sentia-se confuso e temeroso — mas toda vez que pensava em protestar, ele imaginava as provocações e insultos dos primos ou o olhar fulminante de sua tia Irene. E, assim, Arturi observou em silêncio enquanto sua família sequestrava Erasmus, o filho de catorze anos de Van Richten, levando-o a um pântano escuro e vendendo-o ao lorde vampiro, Barão Metus. Em seguida, os Radanaviches fugiram pelas Brumas — para Baróvia.
+> Arturi sentia-se confuso e temeroso — mas toda vez que pensava em protestar, ele imaginava as provocações e insultos dos primos ou o olhar fulminante de sua tia Ireena. E, assim, Arturi observou em silêncio enquanto sua família sequestrava Erasmus, o filho de catorze anos de Van Richten, levando-o a um pântano escuro e vendendo-o ao lorde vampiro, Barão Metus. Em seguida, os Radanaviches fugiram pelas Brumas — para Baróvia.
 >
 > Não tardou para que, após Erasmus ser vendido, Van Richten rastreasse a caravana Vistani. Ele emboscou os d’Avenir — um casal Vistani que então viajava com os Radanaviches e havia ajudado Madame Radanavich em sua vingança — exigindo que lhe dissessem onde seu filho fora levado. Arturi soube mais tarde que Van Richten poupou a vida dos d’Avenir — uma clemência que não duraria para sempre.
 >
@@ -447,12 +452,12 @@ Se ele ainda não o fez, Arturi pergunta aos PJs se há novidades da Baróvia, i
 
 Após o jantar, Stanimir informa alegremente aos PJs que, como convidados de uma fogueira Vistani, agora se espera que joguem o Jogo das Histórias, e pergunta se eles aceitarão. Para jogar, cada participante deve colocar uma aposta, que pode ser um objeto de pequeno valor monetário, intelectual ou sentimental. Cada participante deve então compartilhar uma história para fazer um homem "rir ou chorar". Cada vez que uma história é contada, os outros participantes do jogo devem adivinhar se a história é verdade, falsidade ou ambas. Ao final do jogo, o participante com o maior número de palpites corretos ganha o prêmio.
 
-Se os PJs aceitarem o desafio, Eliza, Arturi e [[Non-Player Characters#Irene Kolyana|Irene]] também se oferecem para participar do jogo. As apostas dos participantes são as seguintes:
+Se os PJs aceitarem o desafio, Eliza, Arturi e [[Non-Player Characters#Ireena Kolyana|Ireena]] também se oferecem para participar do jogo. As apostas dos participantes são as seguintes:
 
 * **Stanimir** aposta um baralho de cartas Tarokka desgastado que pertenceu à sua falecida esposa. (“Elas ficaram paradas e empoeiradas na minha carroça por tempo demais,” ele diz com um sorriso triste. “Acho que ela gostaria que estivessem de volta ao mundo.”)
 * **Eliza** aposta um telescópio de latão dobrável com um pequeno espelho manobrável, permitindo ao usuário espiar ao redor de cantos.
 * **Arturi** aposta um curto manuscrito sobre lobisomens escrito pelo Dr. Rudolph van Richten.
-* **Irene** aposta um prendedor de cabelo de madeira pintado em forma de girassol que ela usou quando era criança.
+* **Ireena** aposta um prendedor de cabelo de madeira pintado em forma de girassol que ela usou quando era criança.
 
 Dê aos jogadores alguns minutos longe da mesa para planejar suas histórias antes do início do jogo.
 
@@ -461,7 +466,7 @@ Dê aos jogadores alguns minutos longe da mesa para planejar suas histórias ant
 > * Stanimir, acreditando que um grão de verdade reside no coração de cada conto, vota apenas em Verdadeiro.
 > * Eliza, que não é fã de meias-verdades, alterna entre Verdadeiro e Falso.
 > * Arturi, cínico e desconfiado, alterna entre Meia-Verdade e Falso.
-> * Irene, rápida em se afeiçoar aos jogadores, alterna entre Verdadeiro e Meia-Verdade.
+> * Ireena, rápida em se afeiçoar aos jogadores, alterna entre Verdadeiro e Meia-Verdade.
 
 
 > [!lore]+ **O Manuscrito de Arturi**
@@ -518,8 +523,8 @@ Após três dos PJs terem partido, Arturi então compartilha a seguinte históri
 
 
 Quando sua história chega ao fim e todos os participantes fizeram suas apostas—Stanimir e Eliza indo por último, com Stanimir votando "Verdadeiro" e Eliza votando "Falso"—Arturi revela que sua história era verdadeira. No entanto, ele recusa educadamente a revelar qualquer coisa a mais, observando apenas com um sorriso triste que "Uma história não pode ser verdadeiramente contada até que tenha terminado."
-### A História de Irene
-Depois que todos os PJs tiverem participado, [[Non-Player Characters#Irene Kolyana|Irene]] (se presente) então compartilha a seguinte história:
+### A História de Ireena
+Depois que todos os PJs tiverem participado, [[Non-Player Characters#Ireena Kolyana|Ireena]] (se presente) então compartilha a seguinte história:
 
 <div class="description">
   <p>"Quando eu era criança, meu pai levou a mim e meu irmão a um lago vasto e tranquilo. Lembro-me da areia sob meus pés descalços e do som das ondas batendo na margem.</p>
@@ -531,9 +536,9 @@ Depois que todos os PJs tiverem participado, [[Non-Player Characters#Irene Kolya
 </div>
 
 
-Quando sua história chega ao fim e todos os participantes fazem suas apostas—Stanimir votando “Verdadeiro” e Eliza e Arturi votando “Falso”—Irene revela que sua história era falsa. Com uma risada suave, ela compartilha que a história é um sonho que teve desde a infância, observando que não há lagos perto da vila da Baróvia e que nunca tinha visto um **dire wolf** até recentemente.
+Quando sua história chega ao fim e todos os participantes fazem suas apostas—Stanimir votando “Verdadeiro” e Eliza e Arturi votando “Falso”—Ireena revela que sua história era falsa. Com uma risada suave, ela compartilha que a história é um sonho que teve desde a infância, observando que não há lagos perto da vila da Baróvia e que nunca tinha visto um **dire wolf** até recentemente.
 
-Se desafiado sobre seu voto, Stanimir apenas diz, com um sorriso misterioso, que muitos sonhos têm um núcleo de verdade. Ele então agradece a Irene por compartilhar sua história.  
+Se desafiado sobre seu voto, Stanimir apenas diz, com um sorriso misterioso, que muitos sonhos têm um núcleo de verdade. Ele então agradece a Ireena por compartilhar sua história.  
 ### A Partida de Arturi  
 Quando o jogo termina, Arturi se despede dos PJs e parte do acampamento. Se perguntado por quê, ele compartilha, com um sorriso triste, que o acampamento está em perigo a cada momento que ele permanece ali após o anoitecer. "Fui egoísta esta noite," murmura, "e empurrei minha sorte o quanto pude. Mas não me atrevo a ficar mais tempo, por medo do terror que pode vir a seguir." 
 
@@ -755,7 +760,7 @@ Se os PJs pausarem, prosseguirem ou atacarem, os seis lobos na floresta atacam. 
 ![[wolf_ravine.jpg]]
 
 > [!combat]- **Equilibrando os Lobos**  
-> Este encontro de combate é um confronto sangrento contra um grupo de cinco PJs de 3º nível, um aliado de CR 1 (Irene Kolyana) e um aliado de CR 0 (Muriel na forma de corvo), e consumirá aproximadamente 58% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
+> Este encontro de combate é um confronto sangrento contra um grupo de cinco PJs de 3º nível, um aliado de CR 1 (Ireena Kolyana) e um aliado de CR 0 (Muriel na forma de corvo), e consumirá aproximadamente 58% de seus pontos de vida máximos totais. Para grupos de tamanhos menores ou maiores, modifique o encontro da seguinte forma:  
 > * **Três PJs**. Reduza o número de lobos para 3.  
 > * **Quatro PJs**. Reduza o número de lobos para 4.  
 > * **Seis PJs**. Reduza o número de lobos para 1 e aumente o número de lobisomens para 2.
@@ -920,13 +925,13 @@ Este encontro se desenrola conforme descrito em <span class="citation">Swarms of
 
 <div class="description"><p>Adiante, as árvores ao norte se abrem, revelando uma clareira gramada. As altas gramíneas balançam no ar frio, o campo se estendendo até alcançar as margens de um lago escuro e distante. Névoa se agarra à linha costeira. Mesmo à distância, eles podem ouvir o som suave da água batendo contra as rochas.</p></div>
 
-Se [[Non-Player Characters#Irene Kolyana|Irene]] estiver com o grupo, ela congela e pergunta aos PJs se o grupo pode fazer um rápido desvio pelo campo até o lago. Se questionada, ela apenas observa que o lago parece estranhamente familiar.
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] estiver com o grupo, ela congela e pergunta aos PJs se o grupo pode fazer um rápido desvio pelo campo até o lago. Se questionada, ela apenas observa que o lago parece estranhamente familiar.
 
 O Lago Zarovich é como descrito em <span class="citation">L. O Lago Zarovich (p. 38)</span>, mas sem os barcos a remo encalhados ou o barco de Bluto visíveis. 
 
-Ao chegar à margem do lago, Irene observa com apreensão que parece ser o mesmo lago que ela viu em seus sonhos. (Se ela ainda não tiver compartilhado, Irene conta a história de seu sonho, descrita em [[#C4d. The Dancing Fire]] acima.)
+Ao chegar à margem do lago, Ireena observa com apreensão que parece ser o mesmo lago que ela viu em seus sonhos. (Se ela ainda não tiver compartilhado, Ireena conta a história de seu sonho, descrita em [[#C4d. The Dancing Fire]] acima.)
 
-Irene está certa, no entanto, de que nunca visitou este lago com Ismark  ou seu pai, Kolyan. Ela está incerta sobre as implicações, mas se perde em pensamentos se um PJ a lembra que seu pai a encontrou vagando pela Velha estrada Svalich quando era criança.  
+Ireena está certa, no entanto, de que nunca visitou este lago com Ismark  ou seu pai, Kolyan. Ela está incerta sobre as implicações, mas se perde em pensamentos se um PJ a lembra que seu pai a encontrou vagando pela Velha estrada Svalich quando era criança.  
 # C11. A Caçada dos Lobisomens  
 Enquanto os PJs continuam pela estrada, leia:
 
@@ -945,7 +950,7 @@ Os lobisomens não atacam imediatamente, preferindo esperar pelo momento perfeit
 <div class="description"><p>A estrada da floresta leva vocês através de uma pequena clareira arborizada, a linha de árvores é salpicada de densos arbustos, rochas cobertas de musgo e cristas escarpadas.</p>
 <p>Então, sem aviso, cinco lobos saltam da floresta, olhos amarelos brilhando enquanto seus focinhos se contorcem em rosnados!</p></div>
 
-Façam os PJs, **lobos**, **licantropos** (na forma de lobo), e (se estiverem com o grupo) Irene, os dois **enxames de corvos**, e Muriel (uma **licantropo-corvo** na forma de corvo) rolar a iniciativa. Qualquer personagem com um valor passivo de Sabedoria (Percepção) inferior a 14 está surpreso e, portanto, terá desvantagem no teste de iniciativa.
+Façam os PJs, **lobos**, **licantropos** (na forma de lobo), e (se estiverem com o grupo) Ireena, os dois **enxames de corvos**, e Muriel (uma **licantropo-corvo** na forma de corvo) rolar a iniciativa. Qualquer personagem com um valor passivo de Sabedoria (Percepção) inferior a 14 está surpreso e, portanto, terá desvantagem no teste de iniciativa.
 
 Modifique os estatísticas dos lobos conforme descrito em [[#C7a. The Ravine]]. Além disso, utilize o bloco de estatísticas abaixo para os lobisomens, em vez do que está no *Manual dos Monstros*:
 
@@ -994,15 +999,15 @@ Modifique os estatísticas dos lobos conforme descrito em [[#C7a. The Ravine]]. 
 <p><strong><em>Regeneração.</em></strong> O lobisomem recupera 10 pontos de vida no início de seu turno. Se o lobisomem sofrer dano necrótico ou dano de contundente, perfurante ou cortante de uma arma prateada, essa característica não funciona no início do próximo turno do lobisomem. O lobisomem morre apenas se começar seu turno com 0 pontos de vida e não regenerar.</p>
 <h3>Ações</h3>
 <p><strong><em>Múltiplos Ataques.</em></strong> O lobisomem faz dois ataques: dois com sua lança (forma humanoide) ou um com sua mordida e um com suas garras (forma de lobo ou híbrida).</p>
-<p><strong><em>Mordida (Apenas na Forma de Lobo ou Híbrida).</em></strong> Ataque de Arma Corpo a Corpo: +5 para acertar, alcance 1,5 m, um alvo. Acerto: 7 (1d8 + 3) de dano perfurante. Em vez de causar dano, o lobisomem pode agarrar o alvo (DC de fuga 11). Além disso, se o alvo for um humanoide, ele deve ter sucesso em um teste de salvaguarda de Constituição CD 13 ou será amaldiçoado com licantropia de lobisomem.</p>
+<p><strong><em>Mordida (Apenas na Forma de Lobo ou Híbrida).</em></strong> Ataque de Arma Corpo a Corpo: +5 para acertar, alcance 1,5 m, um alvo. Acerto: 7 (1d8 + 3) de dano perfurante. Em vez de causar dano, o lobisomem pode agarrar o alvo (CD de fuga 11). Além disso, se o alvo for um humanoide, ele deve ter sucesso em um teste de salvaguarda de Constituição CD 13 ou será amaldiçoado com licantropia de lobisomem.</p>
 <p><strong><em>Garras (Apenas na Forma de Lobo ou Híbrida).</em></strong> Ataque de Arma Corpo a Corpo: +5 para acertar, alcance 1,5 m, uma criatura. Acerto: 8 (2d4 + 3) de dano cortante. Se o alvo for uma criatura, ele deve ter sucesso em um teste de salvaguarda de Força CD 13 ou será derrubado.</p>
-<p><strong><em>Lança (Apenas na Forma Humanoide).</em></strong> Ataque de Arma Corpo a Corpo ou à Distância: +5 para acertar, alcance 1,5 m ou distância 6/18 m, uma criatura. Acerto: 6 (1d6 + 3) de dano perfurante, ou 6 (1d8 + 3) de dano perfurante se usada com duas mãos para fazer um ataque corpo a corpo.</p>
+<p><strong><em>Lança (Apenas na Forma Humanoide).</em></strong> Ataque de Arma Corpo a Corpo ou à Distância: +5 para acertar, alcance 1,5 m ou distância 6/18 m, uma criatura. Acerto: 6 (1d6 + 3) de dano perfurante, ou 7 (1d8 + 3) de dano perfurante se usada com duas mãos para fazer um ataque corpo a corpo.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Transformação.</em></strong> O lobisomem se transforma em um híbrido humano-lobo ou em um lobo, ou volta à sua verdadeira forma, que é humanoide. Suas estatísticas, exceto sua CA, são as mesmas em cada forma. Qualquer equipamento que estiver vestindo ou carregando se funde na nova forma. Ele reverte para sua verdadeira forma se morrer.</p>
+<p><strong><em>Transformação.</em></strong> O lobisomem se transforma em um híbrido humano-lobo ou em um lobo, ou volta à sua verdadeira forma, que é humanoide. Suas estatísticas, além de sua CA, são as mesmas em cada forma. Qualquer equipamento que ele esteja vestindo ou carregando se funde na nova forma. Ele retorna à sua verdadeira forma se morrer.</p>
 </div>
 
 
-Em combate, os **lobos** trabalham em conjunto, usando suas ***Garras*** para derrubar personagens, e então utilizando seu ***Ataque Poderoso*** para agarrar alvos que estão no chão. Uma vez que os lobos tenham arrastado um personagem agarrado para longe do grupo, os **lobisomens** desviam sua atenção para atacá-los com sua ***mordida***. O primeiro personagem alvo dessa forma percebe que os lobisomens são ligeiramente maiores que os outros dois e possuem olhos humanos, inquietantemente inteligentes.
+Em combate, os **lobos** trabalham em conjunto, usando suas ***Garras*** para derrubar os personagens, e então utilizando seu ***Ataque Desgarrador*** para agarrar os alvos derrubados. Uma vez que os lobos tenham arrastado um personagem agarrado para longe do grupo, os **lobisomens** voltam sua atenção para atacá-los com sua ***mordida***. O primeiro personagem alvo dessa maneira percebe que os lobisomens são ligeiramente maiores que os outros três e possuem olhos humanos, inquietantemente inteligentes.
 
 Um werewolf foge se começar seu turno com 20 pontos de vida ou menos e não regenerar, ou se começar seu turno com 0 pontos de vida em três turnos consecutivos. Qualquer lobo sobrevivente segue logo em seguida. 
 
@@ -1042,13 +1047,13 @@ A estrada continua em direção à **Cidade de Vallaki**, em grande parte como d
 
 Se os PJs partiram do Lago Tser naquela manhã, eles chegam em Vallaki ao anoitecer.
 
-Se [[Non-Player Characters#Irene Kolyana|Irene]] estiver visivelmente viajando com o grupo, adicione:
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] estiver visivelmente viajando com o grupo, adicione:
 
-<div class="description"><p>Alguns deles olham para Irene com um reconhecimento apagado, mas nenhum levanta a mão em saudação ou faz qualquer gesto de empatia.</p></div>
+<div class="description"><p>Alguns deles olham para Ireena com um reconhecimento apagado, mas nenhum levanta a mão em saudação ou faz qualquer gesto de empatia.</p></div>
 
 Esta área, o Portão da Manhã, é em grande parte como descrito em <span class="citation">Portões da Cidade (p. 95)</span>. As tendas são um acampamento de refugiados da Baróvia, abrigando aqueles que sobreviveram à jornada da vila da Baróvia após o cerco de Strahd.
 ### O Acampamento de Refugiados
-Se ela estiver com o grupo, [[Non-Player Characters#Irene Kolyana|Irene]] está de coração partido e enfurecida ao ver o acampamento de refugiados. Ela sugere que fique com os refugiados enquanto os PJs encontram abrigo na vila, e promete se juntar aos PJs mais tarde. Os PJs podem dissuadi-la com um teste bem-sucedido de Carisma (Persuasão) CD 10. Caso contrário, Irene se aproxima de uma das fogueiras, sozinha ou—se os PJs insistirem em acompanhá-la—com companhia.
+Se ela estiver com o grupo, [[Non-Player Characters#Ireena Kolyana|Ireena]] está de coração partido e enfurecida ao ver o acampamento de refugiados. Ela sugere que fique com os refugiados enquanto os PJs encontram abrigo na vila, e promete se juntar aos PJs mais tarde. Os PJs podem dissuadi-la com um teste bem-sucedido de Carisma (Persuasão) CD 10. Caso contrário, Ireena se aproxima de uma das fogueiras, sozinha ou—se os PJs insistirem em acompanhá-la—com companhia.
 
 Os membros do campo de refugiados, que incluem Emeric, um homem mais velho e melancólico, e Magda, uma jovem consumida pela dor, podem compartilhar as seguintes informações:
 
@@ -1058,9 +1063,9 @@ Os membros do campo de refugiados, que incluem Emeric, um homem mais velho e mel
 * Devido às perdas que sofreram na estrada e à ameaça do Diabo no Castelo Ravenloft, os refugiados estão relutantes em arriscar a jornada de volta para casa, preferindo esperar até que o Barão seja razoável e lhes permita entrar nas muralhas.
 * Aproximadamente um quarto dos refugiados se tornou dependente das "tortas dos sonhos", um alimento vendido pela mascate Morgantha. Esses refugiados buscam uma fuga da miséria e do desespero de sua situação. Aqueles que comem uma torta dos sonhos caem em um transe, conforme descrito em <span class="citation">Tortas dos Sonhos (p. 125)</span>.
 
-Os refugiados estão afundados em desespero. Alguns lembram de uma superstição de que mulheres barovianas de cabelos ruivos trazem infortúnio, e sugerem que a própria Irene trouxe uma maldição sobre seu povo. Poucos têm qualquer desejo de lidar com ela novamente.
+Os refugiados estão afundados em desespero. Alguns lembram de uma superstição de que mulheres barovianas de cabelos ruivos trazem infortúnio, e sugerem que a própria Ireena trouxe uma maldição sobre seu povo. Poucos têm qualquer desejo de lidar com ela novamente.
 
-Após sua interação com os refugiados, Irene está enfurecida pela indiferença do Barão e promete fazer o possível para garantir a entrada dos refugiados em Vallaki.  
+Após sua interação com os refugiados, Ireena está enfurecida pela indiferença do Barão e promete fazer o possível para garantir a entrada dos refugiados em Vallaki.  
 ### Os Guardas nos Portões  
 Os guardas nos portões agem em grande parte como descrito em <span class="citation">Portões da Cidade (p. 95)</span>. Um deles possui uma lança prateada, enquanto o outro tem um aljava contendo uma dúzia de virotes de besta, metade dos quais é prateada.
 
@@ -1145,7 +1150,7 @@ O salão principal é descrito em <span class="citation">N2c. Taproom (p. 100)</
 
 
 <div class="description">
-<p>Quase uma dúzia de vallakianos está espalhada pelas várias mesas, saboreando canecos de vinho ou tigelas de um ensopado robusto. Ao longo da escadaria, um homem vestido de forma colorida, usando um chapéu de aba larga com penas, gesticula de forma exagerada na cabeceira de uma longa mesa, mantendo a atenção cativada dos vários clientes que ali estão sentados. Vocês ouvem uma onda de risadas ecoar pelo grupo, seguida por uma palmas tímidas.</p>
+<p>Quase uma dúzia de vallakianos está espalhada pelas várias mesas, saboreando canecos de vinho ou tigelas de um ensopado robusto. Ao longo da escadaria, um homem vestido de forma colorida, usando um chapéu de aba larga com penas, gesticula de forma exagerada na cabeceira de uma longa mesa, mantendo a atenção cativada dos vários clientes que ali estão sentados. Vocês ouvem uma onda de risadas ecoar pelo grupo, seguida por uma salva de aplausos tímidos.</p>
 </div>
 
 O homem é o mestre de cerimônias Rictavio, que é amplamente descrito em <span class="citation">Rictavio (p. 238)</span> e <span class="citation">N2c. Bar (p. 100)</span>. Dois dos cinco ouvintes à sua mesa são Nikolai e Karl Wachter, que são descritos em <span class="citation">N2c. bar (p. 100)</span>.
@@ -1276,7 +1281,7 @@ O salão do bar vai esvaziando lentamente ao longo das próximas duas horas. Nik
 
 Se os PJs alugaram quartos para a noite, [[Non-Player Characters#Danika Dorakova|Danika]] eventualmente se aproxima da mesa deles e oferece-se para mostrar o caminho até os quartos. (Veja **N2l. Quartos de Hóspedes** e <span class="citation">N2m. Quarto de Hóspede (p. 102)</span>). Durante a visita, Danika informa que eles estão à vontade para solicitar lençóis limpos ou uma banheira de água quente (para um banho) que seja levada até os quartos. "O café da manhã é servido ao primeiro clarão da luz," diz ela calorosamente, e acrescenta: "Sintam-se à vontade para nos avisar se precisarem de mais alguma coisa."
 
-***Marco.*** Quando os PJs fizerem seu primeiro descanso longo em Vallaki, conceda a cada PJ 1.000 XP. (Isso deve levar os PJs ao 4º nível.) Se os PJs escortaram Irene com sucesso até Vallaki, eles ganham 250 XP adicionais. (Os PJs não precisam levar Irene até a igreja de São Andral para receber esse XP.)
+***Marco.*** Quando os PJs fizerem seu primeiro descanso longo em Vallaki, conceda a cada PJ 1.000 XP. (Isso deve levar os PJs ao 4º nível.) Se os PJs escortaram Ireena com sucesso até Vallaki, eles ganham 250 XP adicionais. (Os PJs não precisam levar Ireena até a igreja de São Andral para receber esse XP.)
 ## C12c. Manhã em Vallaki
 ### Conselho de Urwin
 Quando os PJs emergirem de seus quartos para <span class="citation">N2k. Varanda dos Hóspedes</span> na manhã seguinte, [[Non-Player Characters#Urwin Martikov|Urwin]]—que está retirando as cadeiras das mesas da taverna—pede que eles desçam até o bar para conversar.
@@ -1362,7 +1367,7 @@ Enquanto os PJs saem da Estalagem Água Azul em sua primeira manhã em Vallaki, 
 > [!profile]+ **Perfil: Izek Strazni**
 
 > **Informações de Interpretação**
-> ***Ressonância.*** Izek deve inspirar repulsa por sua crueldade e indiferença à vida, além de gerar desconforto com seu interesse perturbador em Irene Kolyana.
+> ***Ressonância.*** Izek deve inspirar repulsa por sua crueldade e indiferença à vida, além de gerar desconforto com seu interesse perturbador em Ireena Kolyana.
 >
 > ***Emoções.*** As emoções mais comuns em Izek são irritação, fúria, impaciência, sadismo, obsessão ou tédio.
 >
@@ -1375,7 +1380,7 @@ Enquanto os PJs saem da Estalagem Água Azul em sua primeira manhã em Vallaki, 
 >
 > ***Moral.*** Em combate, Izek empunharia seu machado de batalha prateado sem hesitar e lutaria até a morte.
 >
-> ***Relacionamentos.*** Izek é o “filho” adotivo do Barão Vargas Vallakovich, capitão da guarda de Vallaki, cliente frequente do fabricante de brinquedos Gadof Blinsky e (sem que nenhum dos dois saiba) irmão biológico de Irene Kolyana.
+> ***Relacionamentos.*** Izek é o “filho” adotivo do Barão Vargas Vallakovich, capitão da guarda de Vallaki, cliente frequente do fabricante de brinquedos Gadof Blinsky e (sem que nenhum dos dois saiba) irmão biológico de Ireena Kolyana.
 
 
 Se os PJs interromperem a prisão de Willemina, o Barão os cumprimenta como forasteiros e pergunta, com diversão, se eles desejam assumir a responsabilidade pela reabilitação da "velha tola” eles mesmos. 
@@ -1399,9 +1404,9 @@ O Barão ordena imperiosamente que ele cuide disso, então informa aos PJs que o
 
 Os habitantes da cidade, com sorrisos que mais se assemelham a caretas, entoam sombriamente: “Tudo vai ficar bem!” O Barão acena com a cabeça, evidentemente satisfeito, e continua a cavalgar para o norte, seguido por Izek, seus mastins e quaisquer guardas restantes. A atividade da rua retoma logo em seguida.
 
-Se Irene está com o grupo, ela levantou o capuz de sua capa ao sair da estalagem. No entanto, a menos que o grupo tenha tomado uma ação específica para impedir que Izek a notasse, ele captura o olhar de Irene e mantém seu olhar por um longo e persistente momento antes de finalmente se afastar, deixando Irene se sentindo desconfortável e fria. [[Arc G - Os Irmãos Strazni]] então começa.
+Se Ireena está com o grupo, ela levantou o capuz de sua capa ao sair da estalagem. No entanto, a menos que o grupo tenha tomado uma ação específica para impedir que Izek a notasse, ele captura o olhar de Ireena e mantém seu olhar por um longo e persistente momento antes de finalmente se afastar, deixando Ireena se sentindo desconfortável e fria. [[Arc G - Os Irmãos Strazni]] então começa.
 
-Se perguntada, Irene observa com incerteza que algo sobre Izek parecia quase familiar, embora ela não consiga lembrar o porquê.
+Se perguntada, Ireena observa com incerteza que algo sobre Izek parecia quase familiar, embora ela não consiga lembrar o porquê.
 
 Se os PJs desafiarem Vargas ou Izek de alguma forma, ou de outra maneira ajudaram Willemina, Ernst Larnak reporta suas ações para Lady Fiona Wachter em Wachterhaus. [[Arc F - O Desejo de Lady Wachter]] então começa.
 
@@ -1412,7 +1417,7 @@ Se os PJs desafiarem Vargas ou Izek de alguma forma, ou de outra maneira ajudara
 
 ***Encontro com Strahd.*** Muitos encontros comunitários com Strahd criam situações nas quais, para enfatizar o poder e a crueldade de Strahd, os PJs inevitavelmente "perdem". Esses encontros são propensos a frustrar os PJs e gerar apatia ou desespero em vez de uma experiência de jogo tensa, mas agradável. No entanto, é igualmente importante que Strahd não seja permitido "perder" seu encontro inicial com os PJs, mesmo que indiretamente (por exemplo, em combate com seus lacaios). Permitir que o poder de Strahd seja questionado neste estágio minaria fundamentalmente sua capacidade como vilão. 
 
-Assim, este encontro cria intencionalmente uma circunstância na qual tanto Strahd quanto os PJs podem "vencer" ao final—os PJs, ao convencer Strahd a deixá-los ir junto com Irene, e Strahd, ao extrair informações úteis dos argumentos dos PJs e ao sinalizar claramente que ele está apenas fazendo um favor a seus esforços.
+Assim, este encontro cria intencionalmente uma circunstância na qual tanto Strahd quanto os PJs podem "vencer" ao final—os PJs, ao convencer Strahd a deixá-los ir junto com Ireena, e Strahd, ao extrair informações úteis dos argumentos dos PJs e ao sinalizar claramente que ele está apenas fazendo um favor a seus esforços.
 
 Enquanto conduzirem esta cena, recordem as sábias palavras de Tywin Lannister: "Qualquer homem que precise dizer 'eu sou o rei' não é um verdadeiro rei." O mesmo se aplica a Strahd: permitir que os PJs consigam irritá-lo, aborrecê-lo ou, de outra forma, levá-lo a "punir vocês" funcionalmente permite que os PJs ganhem um certo grau de controle sobre a conversa, reduzindo a aparência de controle real e aparente de Strahd, e indicando que Strahd é um nobre mesquinho que se preocupa com seu próprio ego. Lembrem-se sempre que, especialmente nesta fase, os PJs *não podem ferir* Strahd de maneira significativa—e, como tal, ele não sente necessidade de ferir *vocês* de maneira significativa.
 
@@ -1430,9 +1435,9 @@ A imunidade licantropa foi alterada para regeneração baseada em prata, a fim d
 
 ***O Fogo Dançante.*** O Jogo das Histórias foi introduzido para proporcionar aos jogadores uma oportunidade de descomprimir em um local relativamente seguro, enquanto se envolvem e exploram as histórias e interesses uns dos outros. O Jogo em si—junto com suas apostas—introduz um aspecto de tensão dramática ao encontro, garantindo que os jogadores permaneçam investidos e engajados com cada história contada. 
 
-A história de Stanimir indica a relação entre Strahd e os Vistani, antecipando assim a lealdade de Arrigal a ele. A história de Eliza apresenta o *Símbolo Sagrado do Grande Corvo* e a natureza simpática dos corvos, bem como a interferência de Baba Zelenna no Santuário da Floresta na Colina d'Antes (ou seja, usando-o para invocar Chernovog). A história de Arturi introduz de forma vívida a tragédia do Dr. Rudolph van Richten, aumentando a tensão para um personagem que os PJs em breve terão a oportunidade de encontrar. Finalmente, a história de Irene antecipa sua relação com Izek Strazni e suas verdadeiras origens em Vallaki.
+A história de Stanimir indica a relação entre Strahd e os Vistani, antecipando assim a lealdade de Arrigal a ele. A história de Eliza apresenta o *Símbolo Sagrado do Grande Corvo* e a natureza simpática dos corvos, bem como a interferência de Baba Zelenna no Santuário da Floresta na Colina d'Antes (ou seja, usando-o para invocar Chernovog). A história de Arturi introduz de forma vívida a tragédia do Dr. Rudolph van Richten, aumentando a tensão para um personagem que os PJs em breve terão a oportunidade de encontrar. Finalmente, a história de Ireena antecipa sua relação com Izek Strazni e suas verdadeiras origens em Vallaki.
 
-***Um Presente para Arabelle.*** O pedido da Madame Eva foi adicionado para criar um gancho para a Blinsky Toys em Vallaki (permitindo que os PJs observem a boneca em forma de Irene encomendada por Izek) e para o acampamento Vistani fora de Vallaki (permitindo que os PJs comecem a busca pela desaparecida Arabelle).
+***Um Presente para Arabelle.*** O pedido da Madame Eva foi adicionado para criar um gancho para a Blinsky Toys em Vallaki (permitindo que os PJs observem a boneca em forma de Ireena encomendada por Izek) e para o acampamento Vistani fora de Vallaki (permitindo que os PJs comecem a busca pela desaparecida Arabelle).
 
 ***O Cavaleiro Esquelético.*** O encontro com o cavaleiro esquelético é uma cena curta, mas evocativa, que visa ressoar com os temas de não-morte, solidão e mistério que permeiam este arco.
 
@@ -1442,14 +1447,14 @@ A história de Stanimir indica a relação entre Strahd e os Vistani, antecipand
 
 ***Encontrando Morgantha.*** Esta cena foi intencionalmente estruturada para desencorajar os PJs de descobrirem a verdadeira identidade de Morgantha, atacarem as megeras da noite ou entrarem no Velho Móiossos. (Eles terão uma oportunidade completa de fazer isso mais tarde em [[Arc H - A Alma Perdida]].) Em vez disso, esta cena apenas apresenta Morgantha como uma personagem, pressagia seu domínio sobre os sonhos e informa os PJs que ela vive no velho moinho de vento com suas duas filhas (ou seja, sua Laia).
 
-***A Floresta Profunda.*** As nuvens de corvos foram adicionadas para garantir que os PJs vejam os corvos (e, por extensão, os licantropos-corvos) como amigos e aliados. A reação de Irene ao Lago Zarovich foi adicionada para prenunciar ainda mais seu relacionamento com Izek e suas origens em Vallaki.
+***A Floresta Profunda.*** As nuvens de corvos foram adicionadas para garantir que os PJs vejam os corvos (e, por extensão, os licantropos-corvos) como amigos e aliados. A reação de Ireena ao Lago Zarovich foi adicionada para prenunciar ainda mais seu relacionamento com Izek e suas origens em Vallaki.
 
 ***A Caçada do Lobisomem.*** Este breve encontro de combate introduz lobisomens e oferece aos enxames de corvos (e a Muriel) uma oportunidade de ajudar e defender os PJs. A opção de ação ***Atropelar*** dos lobos foi adicionada para criar um cenário de combate mais tenso e dinâmico.  
 ## Bem-vindos a Vallaki  
-***O Campo de Refugiados.*** O campo de refugiados barovianos foi colocado aqui para fornecer aos PJs uma razão adicional para odiar o Barão Vallakovich e Izek, e para dar a Morgantha uma base natural para seus bolos dos sonhos. Ao rejeitar os esforços de Irene para ajudá-los, os refugiados progridem o arco interno de personagem dela, permitindo que ela perceba que não pode ajudar seu povo enquanto Strahd sobreviver, o que alimenta sua decisão final de se juntar ao grupo na luta deles.
+***O Campo de Refugiados.*** O campo de refugiados barovianos foi colocado aqui para fornecer aos PJs uma razão adicional para odiar o Barão Vallakovich e Izek, e para dar a Morgantha uma base natural para seus bolos dos sonhos. Ao rejeitar os esforços de Ireena para ajudá-los, os refugiados progridem o arco interno de personagem dela, permitindo que ela perceba que não pode ajudar seu povo enquanto Strahd sobreviver, o que alimenta sua decisão final de se juntar ao grupo na luta deles.
 
 ***O Imposto.*** O imposto dos guardas dá aos PJs uma razão adicional para odiar o Barão Vallakovich. A tarifa de prata também indica aos PJs a riqueza de armas e munições prateadas que o Barão acumulou.
 
 ***A Estalagem Água Azul.*** Esta sequência foi intencionalmente estruturada para introduzir lenta e gerenciavelmente os PJs a vários dos personagens-chave em Vallaki: os Martikovs, os Wachters, os caçadores de lobos e o mestre de cerimônias Rictavio. A história de Rictavio foi escrita para ser o mais cômica possível, a fim de desencorajar os PJs de levá-lo a sério até a revelação de sua identidade em [[Arco E - A Vistana Desaparecida]].
 
-***Saindo da Estalagem.*** O encontro dos PJs com o Barão Vallakovich e Izek nas estradas de Vallaki foi adicionado para fornecer aos PJs uma razão imediata para desgostarem deles, para apresentar os PJs ao Padre Lucian Petrovich, para estabelecer a tensão dramática central do governo tirânico do Barão sobre Vallaki, para dar início à perseguição de Izek a Irene, e para fornecer à Lady Fiona Wachter uma razão concreta para convidar os PJs a se envolverem em suas maquinações. **É essencial que os PJs *não* lutem contra Izek aqui, e todas as precauções razoáveis foram tomadas para garantir isso.**
+***Saindo da Estalagem.*** O encontro dos PJs com o Barão Vallakovich e Izek nas estradas de Vallaki foi adicionado para fornecer aos PJs uma razão imediata para desgostarem deles, para apresentar os PJs ao Padre Lucian Petrovich, para estabelecer a tensão dramática central do governo tirânico do Barão sobre Vallaki, para dar início à perseguição de Izek a Ireena, e para fornecer à Lady Fiona Wachter uma razão concreta para convidar os PJs a se envolverem em suas maquinações. **É essencial que os PJs *não* lutem contra Izek aqui, e todas as precauções razoáveis foram tomadas para garantir isso.**

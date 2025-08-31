@@ -199,7 +199,7 @@ Sem que os PJs saibam, o *fragmento de âmbar* foi outrora parte do sarcófago �
 
 O jogador que possuir o *fragmento âmbar* deve ter motivos fortes e vívidos para desejar desvendar seus segredos e a magia que ele contém.
 
-***Desenvolvimentos.*** No **Ato I, Arco A: Fuga da Casa da Morte**, os PJs reconhecem o *fragmento de âmbar* de Elisabeth Durst como semelhante em aparência ao deles próprios. Em [[Arco G - Os Irmãos Strazni]], os PJs reconhecem o *fragmento de âmbar* de Izek Strazni de maneira semelhante. No *Ato V, Arco U*, o Ancião Burebis de Soldav pode reconhecer o *fragmento de âmbar* como um fragmento do mal retirado do Templo de Âmbar, e os PJs podem reconhecer os *fragmentos de âmbar* mantidos pelos **shoosuva** e **bodaks** como semelhantes aos seus próprios. 
+***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 Se o personagem jogador for reduzido a 0 pontos de vida na Baróvia enquanto estiver em posse de seu *fragmento de âmbar*, ele se comporta conforme descrito em [[Amber Shards]], oferecendo ao jogador a oportunidade de forjar um pacto com um vestígio do Templo de Âmbar que se encaixe na personalidade, falhas e tentações do personagem. Ao adentrar o Templo de Âmbar, o *fragmento de âmbar* do jogador brilha e puxa da mesma forma que fez ao sentir a Casa da Morte, guiando o jogador em direção a um sarcófago de âmbar adequado.
 
@@ -253,11 +253,10 @@ Sem que os PJs saibam, o dente pertenceu a um wolfir—um **werewolf** que servi
 
 O PJ que possuir o *dente de lobo* deve ter motivos fortes e vívidos para acreditar que o dente é a chave para curar uma ferida, maldição ou enfermidade específica que o aflige.
 
-***Desenvolvimentos.*** Se o jogador mostrar o *dente de lobo* a Kavan em [[Arco J - A Jóia Roubada]] ou ao Ancião Burebis em **Ato V, Arco W: As Damas dos Fanes**, o dente é reconhecido como um artefato e símbolo da Caçadora. Quando o jogador se aproxima pela primeira vez do círculo de pedras no Fane da Floresta em **Ato V, Arco W: As Damas dos Fanes**, o dente se alonga e brilha com a luz do luar, como fez ao sentir a Casa da Morte.
-
-## Dever—A Pena do Corvo
+***Developments.*** If the player shows the *wolf's tooth* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the tooth is recognized as an artifact and symbol of the Huntress. When the player first approaches the circle of stones at the Forest Fane in [[Arc T - The Three Fanes]], the tooth lengthens and glows with moonlight as it did upon sensing Death House.
+## Duty—The Raven's Feather
 ![[Raven's Feather.png]]
-Um jogador que busca **dever** começa a campanha com uma *pena de corvo*, uma pequena pena negra com barbas macias e felpudas. Quando erguida diante de uma tempestade, a pena parece tremer suavemente, exalando o cheiro de chuva fria e terra úmida.
+A player seeking **duty** begins the campaign with a *raven's feather*, a small, black feather with soft, downy barbs. When held aloft before a storm, the feather seems to gently tremble, exuding the scent of cold rain and damp earth.
 
 Sem que os jogadores saibam, a pena já pertenceu ao **roc** do Monte Ghakis, um servo da deusa feérica conhecida como a Buscadora, cujo Santuário Montanhoso repousa à sombra do Monte Ghakis na Baróvia. O roc costumava se disfarçar de corvo comum, e perdeu esta pena em uma dessas ocasiões. Quando sente a presença da Casa da Morte, a pena é arrebatada por um vento invisível e violento, com o cheiro de chuva e ozônio preenchendo o ar, antes de finalmente pousar no limiar da casa.
 
@@ -265,21 +264,19 @@ O PJ que possuir a *pena do corvo* deve ter motivos fortes e vívidos para acred
 
 ***Desenvolvimentos.*** Se o jogador mostrar a *pena do corvo* para Madame Eva em [[Act I - Into the Mists/Arc C - Into the Valley|Arco C - Para o Vale]], ela a examina reverentemente e a devolve ao jogador, alegando misteriosamente que certa vez conheceu o pássaro que a perdeu. Se o jogador mostrar a pena para Urwin Martikov, Danika Dorakova, Muriel Vinshaw ou qualquer outro membro do Prelado da Pena, esse membro se torna mais caloroso e amigável com aquele jogador. 
 
-Quando o jogador entra pela primeira vez no círculo de pedras erguidas no Santuário do Monte em **Ato V, Arco W: As Damas dos Santuários**, a pena treme e o ar ao seu redor se torna brevemente denso com o cheiro de chuva e ozônio, como aconteceu ao sentir a Casa da Morte. Se o jogador mostrar a pena ao Roc do Monte Ghakis após consagrar o Santuário do Monte no mesmo arco, o roc encosta a ponta do bico na testa do jogador como sinal de gratidão e aprovação antes de partir.
-
-## Poder—A Página Amassada
+When the player first enters the circle of standing stones at the Mountain Fane in [[Arc T - The Three Fanes]], the feather trembles and the air around it briefly grows thick with the scent of rain and ozone as it did upon sensing Death House. If the player shows the feather to the Roc of Mount Ghakis after consecrating the Mountain Fane in the same arc, the roc places the tip of its beak against the player's forehead as a sign of gratitude and approval before departing.
+## Power—The Crumpled Page
 ![[Crumpled Page.png]]
-Um jogador em busca de **poder** começa a campanha com a *página amassada*, uma página antiga e amarelada que foi arrancada de seu livro há muito tempo. A página está escrita em estranhas e crípticas runas arcanas; aquelas poucas runas que podem ser decifradas falam de um caminho que leva à imortalidade e a um poder incalculável.
+A player seeking **power** begins the campaign with the *crumpled page*, an old, yellowed page that was torn from its book long ago. The page is written in strange and cryptic arcane runes; those few runes that can be decoded speak of a path that leads to immortality and untold power.
 
 Sem que os PJs saibam, a página foi retirada da biblioteca de Exethanter, um **lich** que habita o santuário mais profundo do Templo de Âmbar, na Baróvia. Quando sente a presença da Casa da Morte, a tinta na página brilha com uma luz âmbar, as runas se remodelando em um mapa que conduz até a casa.
 
 O jogador que possui a *página amassada* deve ter motivos fortes e vívidos para desejar encontrar e reivindicar o poder que a página promete.
 
-***Desenvolvimentos.*** Quando os PJs se aproximam pela primeira vez da biblioteca de Exethanter em **Ato V, Arco U: O Templo de Âmbar**, a tinta brilha com uma luz âmbar, como fez ao perceber a Casa da Morte, e as runas se reorganizam formando um mapa das câmaras de Exethanter e dos pontos de acesso próximos. Se os PJs mostrarem a página a Exethanter após restaurarem suas memórias no mesmo arco, Exethanter se torna mais caloroso e amigável com esses PJs.
-
-## Ambição — O Estandarte Rasgado  
-![[Tattered Banner.png]]  
-Um PJ que busca **ambição** começa a campanha com o *estandarte rasgado*, um antigo e esfarrapado estandarte vermelho que ostenta a heráldica de um corvo diante de um escudo. As asas do corvo estão amplamente abertas, e o escudo tem a imagem da torre de um castelo gravada em sua parte superior. Às vezes, quando uma criatura alinhada com a Lei segura o estandarte, uma luz carmesim parece cintilar do topo da torre do castelo, e o som de soldados marchando pode ser ouvido ao longe.
+***Developments.*** When the player first approaches Exethanter's library in [[Arc S - A Sword of Sunlight]], the ink glows with amber light as it did upon sensing Death House, and the runes reshape themselves into a map of Exethanter's chambers and nearby access points. If the player shows the page to Exethanter after restoring his memories in the same arc, Exethanter grows warmer and friendlier toward that player.
+## Ambition—The Tattered Banner
+![[Tattered Banner.png]]
+A player seeking **ambition** begins the campaign with the *tattered banner*, an old, ragged red banner bearing the heraldry of a raven in front of a shield. The raven's wings are spread wide, and the shield has the image of a castle's keep engraved into its top. Sometimes, when a Lawful-aligned creature holds the banner, a crimson light seems to glimmer from the peak of the castle's keep, and the sound of soldiers marching can be distantly heard.
 
 Sem que os PJs saibam, o estandarte foi outrora hasteado pelo senhor da guerra Strahd von Zarovich nos dias anteriores a sua transformação em vampiro e seu aprisionamento nas brumas da Baróvia. Quando percebe a presença da Casa da Morte, o distante som de tambores de guerra preenche os ouvidos de quem o segura, e o estandarte se agita em um vento invisível, puxando na direção da casa.
 
@@ -287,7 +284,7 @@ O PJ que possuir o *estandarte esfarrapado* deve ter motivos fortes e vívidos p
 
 ***Desdobramentos.*** Quando os PJs experimentam pela primeira vez o campo de batalha assombrado ao norte de Berez em [[Arco I - As Muralhas de Krezk]], o estandarte esvoaça ao vento, que ecoa com o som de tambores de guerra. 
 
-Se os PJs mostrarem o estandarte ao retornado em Tser Falls em [[Act I - Into the Mists/Arc C - Into the Valley|Arco C - Para o Vale]], a Sir Godfrey Gwilym ou Sir Vladimir Horngaard em [[Arc M - The Dragon's Manor]], ou a Kasimir Velikov em [[Arc E - The Missing Vistana]] ou em **Act V, Arc U: The Amber Temple**, sua aparência será recebida com repulsa e amargo desgosto. 
+If the player shows the banner to the revenant at Tser Falls in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]], Sir Godfrey Gwilym or Sir Vladimir Horngaard in [[Arc M - The Dragon's Manor]], or Kasimir Velikov in either [[Arc E - The Missing Vistana]] or [[Arc S - A Sword of Sunlight]], its appearance is met with revulsion and bitter disgust. 
 
 Se o jogador mostrar o estandarte a Strahd, ele o contempla com um pensamento afetuoso, mas recusa-se a elaborar sobre seu significado. Se o jogador mostrar o estandarte ao Dr. Rudolph van Richten em **Arco M: Inimigo de Strahd** ou a qualquer Vistani, eles imediatamente o reconhecem como a heráldica do Castelo Ravenloft.
 
@@ -309,12 +306,12 @@ Sem que os PJs saibam, o brasão já pertenceu a um líder espiritual entre os F
 
 O PJ que possuir o *stone crest* deve ter motivos fortes e vívidos para acreditar que os símbolos nele gravados representam um poder primal ou divino de harmonia e natureza, e que o brasão pode ajudá-los a restaurar a santidade dos lugares selvagens.
 
-***Desenvolvimentos.*** Quando o jogador se aproxima pela primeira vez do exterior de Soldav em **Ato V, Arco W: As Damas dos Santuários**, o *brasão de pedra* vibra e libera um aroma de agulhas de pinheiro e terra úmida, assim como fez ao perceber a Casa da Morte, ambos os cheiros se intensificando à medida que o jogador se aproxima do Santuário da Rozana em Soldav. 
+***Developments.*** When the player first approaches the exterior of Soldav in [[Arc R - Trials of the Mountain]], the *stone crest* hums and releases a scent of pine needles and earth soil as it did upon sensing Death House, both of which grow stronger as the player approaches the Shrine of the Rozana in Soldav. 
 
-Se o jogador mostrar o *brasão de pedra* a Kavan em [[Arco J - A Joia Roubada]] ou ao Ancião Burebis em **Ato V, Arco W: As Damas dos Santuários**, o brasão é reconhecido como um artefato e símbolo das Damas dos Santuários.  
-## Justiça — A Lâmina Quebrada  
-![[Broken Blade.png]]  
-Um jogador em busca de **justiça** começa a campanha com a *lâmina quebrada*, a ponta estilhaçada de uma espada longa élfica. A lâmina está gravada com o signo de um leão rampante, que parece rugir quando a luz do crepúsculo a toca.
+If the player shows the *stone crest* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
+## Justice—The Broken Blade
+![[Broken Blade.png]]
+A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.
 
 Sem que os PJs saibam, a lâmina já pertenceu a Erevan, um príncipe elfo do crepúsculo. Erevan, um mestre bladesinger, praticava o estilo do leão, que também usava como seu signo pessoal. Contudo, Erevan recusou-se a prestar tributo ao Rei Barov von Zarovich, um poderoso senhor da guerra e pai de Strahd von Zarovich. 
 
@@ -322,6 +319,6 @@ Rahadin, um elfo crepuscular que rejeitara o domínio de Erevan, ajudou o Rei Ba
 
 O PJ que possuir a *lâmina quebrada* deve ter motivos fortes e vívidos para acreditar que seus ancestrais foram refugiados, expulsos de suas terras natais e perseguidos, e que a lâmina um dia trará justiça ao traidor que os destruiu.
 
-***Desenvolvimentos.*** Se os PJs mostrarem a *lâmina quebrada* a Kasimir Velikov em [[Arco E - A Vistana Desaparecida]], ele recorda com pesar sua história e pergunta aos PJs como vieram a possuí-la. Se os PJs informarem Kasimir sobre como a herdaram, ele os cumprimenta como família, perguntando em voz alta se mais dos elfos do crepúsculo podem ter escapado do massacre de Strahd fora da Baróvia.
+***Desenvolvimentos.*** Se os PJs mostrarem a *lâmina quebrada* a Kasimir Velikov em [[Arco E - A Vistana Desaparecida]], ele recorda com pesar sua história e pergunta aos PJs como vieram a possuí-la. Se os PJs informarem Kasimir sobre como a herdaram, ele os cumprimenta como família, perguntando em voz alta se mais dos elfos crepusculáres podem ter escapado do massacre de Strahd fora da Baróvia.
 
 Se a *lâmina quebrada* estiver alguma vez próxima de Rahadin, o camareiro de Strahd, ela emite um zumbido agudo e treme violentamente, girando como uma agulha de bússola em sua direção, assim como fez ao sentir a Casa da Morte. Se os PJs mostrarem a *lâmina quebrada* a Rahadin, ele inicialmente afirma não se lembrar dela, observando com indiferença os milhares que já massacrou. Contudo, em combate, Rahadin acaba por recordar a origem da lâmina, descartando-a como "o brinquedo estilhaçado de um homem fraco e inútil."

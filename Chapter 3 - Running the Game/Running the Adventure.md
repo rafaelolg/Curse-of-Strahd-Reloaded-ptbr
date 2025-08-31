@@ -75,7 +75,7 @@ A *Espada Solar* não pode ser sintonizada quando os PJs a obtêm pela primeira 
 
 Note que a *Espada Solar* é um item mágico senciente; conforme descrito em **Conflito** (*Guia do Mestre*, p. 216), ela pode fazer exigências de seu portador ou tentar tomar controle dele se agir de forma contrária à sua vontade. (Isso é especialmente provável de ocorrer se, por exemplo, seu portador for encantado por Strahd von Zarovich.)
 ## Inimigo de Strahd
-O inimigo de Strahd não possui mais a ação ***Inspirar*** (**Inimigo de Strahd**, p. 15). Em vez disso, se ela confrontar os Poderes Sombrios no Monumento de Marina em Berez (veja ***Arc X: Whispers of the Mists***), Irene Kolyana ganha essa habilidade como uma ação bônus. Veja ***Arco B: Bem-vindo à Baróvia*** para mais informações sobre as estatísticas de Irene.
+O inimigo de Strahd não possui mais a ação ***Inspirar*** (**Inimigo de Strahd**, p. 15). Em vez disso, se ela confrontar os Poderes Sombrios no Monumento de Marina em Berez (veja ***Arc X: Whispers of the Mists***), Ireena Kolyana ganha essa habilidade como uma ação bônus. Veja ***Arco B: Bem-vindo à Baróvia*** para mais informações sobre as estatísticas de Ireena.
 ## A Leitura de Cartas
 Imediatamente antes da cena em que os PJs encontram Madame Eva, se você estiver usando um baralho de Tarokka físico para a leitura, escolha quais cinco cartas Madame Eva sacar  e empilhe-as sobre o baralho na ordem descrita em <strong>Leitura de Cartas</strong> (p. 11).
 
@@ -108,7 +108,7 @@ O *Símbolo Sagrado* foi intencionalmente colocado na Toca do Lobisomem para gar
 
 As quatro premonições que levam a Krezk—o espantalho no jardim da Abadia de Saint Markova (***Dois de Glifos—Missionário***), o salão principal da Abadia (***Um de Glifos—Monge***), o berçário da Abadia (***Dois de Moedas—Filantropo***), e o gazebo no Santuário do Sol Branco (***Três de Glifos—Curador***)—foram removidas para garantir que os PJs não cumpram duas de suas leituras de Tarokka (ou seja, tanto o *Símbolo Sagrado* quanto o Inimigo de Strahd) enquanto estiverem na mesma área relativa.
 
-***A Espada Solar.*** A lâmina radiante da *Espada Solar* foi retida dos PJs para criar uma oportunidade mais orgânica de encontrar o espírito de Sergei von Zarovich, para fabricar uma interação no final do jogo entre Sergei e Irene, e para criar uma narrativa mais climática e envolvente. 
+***A Espada Solar.*** A lâmina radiante da *Espada Solar* foi retida dos PJs para criar uma oportunidade mais orgânica de encontrar o espírito de Sergei von Zarovich, para fabricar uma interação no final do jogo entre Sergei e Ireena, e para criar uma narrativa mais climática e envolvente. 
 
 Devido ao seu poder em combate contra Strahd, a *Sunsword* foi intencionalmente colocada no Templo de Âmbar—o local mais perigoso e isolado do jogo—para garantir que os PJs não a obtenham muito cedo. Essa colocação também assegura que os PJs tenham um gancho confiável para o Templo e um objetivo recompensador a ser alcançado enquanto estiverem lá.
 
@@ -123,7 +123,7 @@ Isso deixa Ezmerelda d'Avenir. Escolher Ezmerelda como a Inimiga de Strahd reduz
 ***Localização de Strahd.*** A localização da batalha final com Strahd foi intencionalmente limitada a **K20. Coração do Pesar**. Como o novo centro do poder e esquemas de Strahd, uma arena perfeita para combate tático, e uma área com vistas claras do nascer do sol pós-batalha, o Coração—incluindo sua ponte adjacente e telhado—é o lugar ideal (e esperado) para o desfecho se desenrolar.
 ## Ganchos de Aventura
 
-Os quatro ganchos de aventura do módulo original são fundamentalmente falhos: *Plea for Help* tende a fazer com que os jogadores fiquem ressentidos com Irene Kolyana; *Mysterious Visitors* tende a fazer com que os jogadores se sintam enganados (e, portanto, se arrependam de aceitar a missão de Stanimir); *Werewolves in the Mist* atinge seu clímax muito cedo; e *Creeping Fog* oferece pouca preparação ou investimento emocional. Mais significativamente, exceto por *Mysterious Visitors*, nenhum gancho de aventura leva os PJs direta e inevitavelmente a um confronto final com Strahd.
+Os quatro ganchos de aventura do módulo original são fundamentalmente falhos: *Plea for Help* tende a fazer com que os jogadores fiquem ressentidos com Ireena Kolyana; *Mysterious Visitors* tende a fazer com que os jogadores se sintam enganados (e, portanto, se arrependam de aceitar a missão de Stanimir); *Werewolves in the Mist* atinge seu clímax muito cedo; e *Creeping Fog* oferece pouca preparação ou investimento emocional. Mais significativamente, exceto por *Mysterious Visitors*, nenhum gancho de aventura leva os PJs direta e inevitavelmente a um confronto final com Strahd.
 
 Ganchos de aventura personalizados que ligam as histórias dos PJs diretamente à Baróvia (por exemplo, permitindo que eles resgatem um ente querido perdido) tendem a falhar por três razões: eles carecem de uma ligação direta com Strahd; distraem os PJs da luta contra Strahd; e violam princípios de verossimilhança (ou seja, tornam a Baróvia um lugar muito mais movimentado do que merece ser). É importante notar que PJs que recebem tais ganchos podem ter dificuldade em entender a importância da leitura de Tarokka da Madame Eva, especialmente enquanto mantêm negócios inacabados no vale.
 

@@ -8,22 +8,22 @@ If the players have arrived before the second night after the full moon, the Abb
 # K1. The Village of Krezk
 The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
 
-> [!profile]+ **Profile: Baron Dmitri Krezkov**
-> **Roleplaying Information.**
-> ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+> [!profile]+ **Perfil: Barão Dmitri Krezkov**
+> **Informações de Interpretação.**
+> ***Ressonância.*** Dmitri deve inspirar conforto com sua confiança silenciosa e liderança, despertar simpatia por sua ansiedade e luto após o desaparecimento de seu filho, e provocar leve irritação por sua teimosia e desconfiança habitual em relação a forasteiros.
 > 
-> ***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+> ***Emoções.*** Dmitri sente-se, na maior parte do tempo, preocupado, melancólico, soturno, determinado, cauteloso, obstinado ou cortês.
 > 
-> ***Motivations.*** Dmitri wants to protect his village and keep his family together.
+> ***Motivações.*** Dmitri deseja proteger sua vila e manter sua família unida.
 > 
-> ***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
+> ***Inspirações.*** Ao interpretar Dmitri, canalize Eddard Stark (*Game of Thrones*), Rei Théoden (*O Senhor dos Anéis*) e Stoick, o Imenso (*Como Treinar o Seu Dragão*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, Dmitri é um líder severo, porém acolhedor. Para aqueles em quem confia, Dmitri é um pai, marido e amigo caloroso e afetuoso. Apenas Dmitri conhece a extensão de sua dor, ansiedade e culpa em relação à maldição de sua família e ao destino de seus filhos e esposa.
 > 
-> ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+> ***Moral.*** Em combate, Dmitri agiria apenas para proteger a si mesmo ou a quem ama, começando por advertir seu oponente a recuar, lutando então com ferocidade até que o adversário se rendesse ou fosse derrotado.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Relacionamentos.*** Dmitri, um **werewolf** em segredo, é marido da Baronesa Anna Krezkova, irmão da clériga **werewolf** da Noite Mãe Zuleika Toranescu, pai de Kala e Ilya Krezkov, e burgomestre da vila de Krezk.
 
 The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
 
@@ -78,6 +78,9 @@ When the players enter the cottage’s front door, read:
 </div>
 
 Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
+
+![[Anna_and_Dmitri_Krezkov_transparent.png]]
+<span class="credit">"Anna and Dmitri Krezkov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Baroness Anna Krezkova**
 > **Roleplaying Information**
@@ -218,7 +221,7 @@ If asked why the Krezkovs appear to be afraid of him, the Abbot insists that the
 
 If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
 
-Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. “You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
+Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. "You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
 
 <div class="description">
 <p>Through the front door of the cottage, beneath the fresh-falling snow, the young man’s silent silhouette stands wrought in a halo of dark moonlight. Then, within the blink of an eye, the man simply ceases to be; in his place, an eagle taller than a man stands upon the earth, its feathers blending seamlessly with the falling snowflakes. With a powerful flap of its wings, the creature ascends, soaring into the night sky until it vanishes into the depths of the Barovian darkness.</p>
@@ -313,7 +316,7 @@ Dmitri can share the following information if asked:
 
 Dmitri apologizes to the players for concealing this information from them, and notes his understanding if the players are frightened or upset.
 
-> [!abstract]+ **The Players'Choice**
+> [!abstract]+ **The Players' Choice**
 > The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#K2c. The East Wing]].)
 > 
 > The Krezkovs also have additional aid in locating Ilya: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of him. (See **Ezmerelda’s Visit** below for more information.)
@@ -390,22 +393,22 @@ If the players ask Clovin about the Vistana described in Madam Eva’s reading, 
 ## K2b. Main Hall
 This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
 
-> [!profile]+ **Profile: The Abbot**
-> **Roleplaying Information**
-> ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
+> [!profile]+ **Perfil: O Abade**
+> **Informações de Interpretação**
+> ***Ressonância.*** O Abade deve inspirar desconforto com seu estoicismo e observações rotineiras sobre os “mortais”, repulsa por sua total falta de respeito pela vida ou valores humanos, ira diante de sua suprema e inabalável autoconfiança, e uma estranha gratidão por sua cordialidade (um tanto inquietante) e disposição em curar os PJs da licantropia sem exigir pagamento.
 > 
-> ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
+> ***Emoções.*** O Abade sente-se, na maior parte do tempo, curioso, intrigado, frio, impassível ou (raramente) tomado por fúria.
 > 
-> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+> ***Motivações.*** O Abade deseja romper a “maldição” que assola a Baróvia e preservar a “santidade” da Abadia de Santa Markova.
 > 
-> ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
+> ***Inspirações.*** Ao interpretar o Abade, canalize Vision (*Marvel*), Data (*Star Trek*) e Dr. Manhattan (*Watchmen*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+> **Informações do Personagem**
+> ***Persona.*** Para o mundo, o Abade é um homem santo sereno, porém inumanamente desprovido de paixão, e um “cientista”. Apenas o Abade conhece sua verdadeira identidade: Ithuriel, um anjo do Senhor da Manhã enviado para honrar a memória de Santa Markova.
 > 
-> ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
+> ***Moral.*** Em combate, o Abade revelaria sua forma divina e ordenaria que seus inimigos largassem as armas e se rendessem. Caso recusassem, ele os atacaria sem piedade, buscando esmagar qualquer resistência até que se rendessem ou fugissem.
 > 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+> ***Relações.*** O Abade, um anjo do Senhor da Manhã outrora chamado Ithuriel, é o mestre da Abadia de Santa Markova, incluindo os **mongrelfolk** (povo-mestiço) Otto, Zygfrek e Clovin Belview. Ele também é o criador da **flesh golem** (golem de carne) Vasilka e o responsável por ressuscitar Kala Krezkova.
 
 The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
 
@@ -413,7 +416,7 @@ The Abbot greets the players with warmth, welcoming them to the Abbey of Saint M
 * **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
 
 ![[The Abbot.png]]
-<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"O Abade" por Caleb Cleveland. Apoie-o no <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### The Abbot’s Knowledge
 The Abbot can also share the following information about himself, Vasilka, and Strahd if asked:
@@ -553,7 +556,7 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
     <br>
     <strong>Hit Points</strong> 82 (11d8 + 33)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocidade</strong> 9 metros
     <hr>
     <table class="ability-table">
         <thead>
@@ -583,7 +586,7 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
     <strong>Senses</strong> passive Perception 14<br>
     <strong>Languages</strong> Common<br>
     <strong>Challenge Rating</strong> 4<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Bônus de Proficiência</strong> +2
     <hr>
     <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
     <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
@@ -593,14 +596,14 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
     </ul>
     <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
     <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
-    <h3>Actions</h3>
+    <h3>Ações</h3>
     <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
     <p><strong><em>Rapier +1.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
     <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
     <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
     <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
-    <h3>Bonus Actions</h3>
+    <h3>Ações Bônus</h3>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
 </div>
 
@@ -716,6 +719,11 @@ The presence is the spirit of Saint Markovia, which can communicate with the pla
 > * **Importance**: If the question is about traits or qualities, you might choose to place the most dominant feature or most important card first, followed by cards that represent secondary or tertiary qualities.
 > * **Contrast and Transition**: When you choose cards that represent contrasting ideas or states, arrange them in an order that best illustrates the contrast or transition from one state to another.
 
+> [!abstract]+ **Ezmerelda’s Advice**
+> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
+>
+> Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
+
 If the players appear at a loss for which questions to ask, Ezmerelda suggests asking any or all of the following questions:
 
 * “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
@@ -747,7 +755,7 @@ Immediately after the spirit answers the players’ tenth question, the players 
 > [!info]+ **The Artifact**
 > The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
 
-***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,250 XP.
+***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
 ##### The Eavesdroppers
 Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
 
@@ -764,13 +772,15 @@ The Belviews ask the players to find and speak with Cyrus upon visiting Castle R
 If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
 
 > [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames and the following changes:
+> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
 > 
 > * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
 > * A set of wings animates for 1 minute, rather than 1 hour
 > * Once a set of wings has been used, it can't be used again until dawn.
+> * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
+> * A creature can attune itself to the wings in 1 minute.
 > 
-One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
+
 ### The Abbot’s Wrath
 When the players re-enter the East Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
 

@@ -988,24 +988,24 @@ Uma criatura engolida pela primeira forma do monte de carne pode ouvir o suave s
 <hr>
 <strong>Imunidades a Condições</strong> cegueira, surdez, exaustão, agarrado, caído<br>
 <strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 10<br>
-<strong>Idiomas</strong> Compreende Comum, mas não pode falar<br>
-<strong>Desafio</strong> 4, ou 3 quando sua característica <strong><em>pesadão</em></strong> está ativa.<br>
+<strong>Idiomas</strong> Compreende Comum, mas não consegue falar<br>
+<strong>Desafio</strong> 4, ou 3 quando seu recurso <strong><em>pesadão</em></strong> está ativo.<br>
 <hr>
-<p><strong><em>Pesadão.</em></strong> Se qualquer uma das formas do monte de carne estiver inconsciente nos últimos 60 segundos, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez por turno.</p>
-<p><strong><em>Corpo Viscoso.</em></strong> O monte de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado e provoca ataques de oportunidade normalmente.)</p>
+<p><strong><em>Sono profundo.</em></strong> Se qualquer uma das formas do monte de carne estiver inconsciente nos últimos minutos, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez por turno.</p>
+<p><strong><em>Corpo Oozing.</em></strong> O monte de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado e provoca ataques de oportunidade normalmente.)</p>
 <p><strong><em>Defesa Instintiva.</em></strong> Quando o monte cai a 0 pontos de vida, ele expulsa cada criatura atualmente engolida por ele. (Essas criaturas aparecem caídas em um espaço vazio a até 1,5 m do monte.) As estatísticas do monte são então instantaneamente substituídas pelas estatísticas de sua segunda forma. Sua contagem de iniciativa não muda. O dano excedente não se transfere para sua nova forma, mas ele retém quaisquer condições que tinha em sua forma anterior.</p>
 <h3>Ações</h3>
-<p><strong><em>Múltiplo Ataque.</em></strong> O monte de carne faz dois ataques. Ele pode substituir um desses ataques por <strong><em>engolir</em></strong>. Se sua característica <strong><em>pesadão</em></strong> estiver ativa, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez, e não pode usar <strong><em>engolir</em></strong> no mesmo turno em que usa seu <strong><em>pancada</em></strong>.</p>
-<p><strong><em>Pancada.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 1,5 m, um alvo. <em>Atingido:</em> 14 (2d10 + 3) de dano contundente, ou 10 (2d6 + 3) de dano contundente se a característica <strong><em>pesadão</em></strong> do monte estiver ativa. Se o ataque atingir um alvo Médio ou menor, o alvo é agarrado (DC de fuga 13).</p>
-<p><strong><em>Fragmentos de Osso.</em></strong> <em>Ataque de Arma à Distância:</em> +5 para acertar, alcance 6/18 m, até dois alvos que estejam a até 1,5 m um do outro. <em>Atingido:</em> 5 (1d4 + 3) de dano perfurante.</p>
+<p><strong><em>Múltiplo Ataque.</em></strong> O monte de carne faz dois ataques. Ele pode substituir um desses ataques por <strong><em>engolir</em></strong>. Se seu recurso <strong><em>pesadão</em></strong> estiver ativo, ele não pode usar seu ataque <strong><em>pancada</em></strong> mais de uma vez, e não pode usar <strong><em>engolir</em></strong> no mesmo turno em que usa seu <strong><em>pancada</em></strong>.</p>
+<p><strong><em>Pancada.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 1,5 m, um alvo. <em>Atingir:</em> 14 (2d10 + 3) de dano contundente, ou 10 (2d6 + 3) de dano contundente se o recurso <strong><em>pesadão.</em></strong> estiver ativo. Se o ataque acerta um alvo Médio ou menor, o alvo é agarrado (DC de fuga 13).</p>
+<p><strong><em>Estilhaços de Osso.</em></strong> <em>Ataque de Arma à Distância:</em> +5 para acertar, alcance 6/18 m, até dois alvos que estejam a até 1,5 m um do outro. <em>Atingir:</em> 5 (1d4 + 3) de dano perfurante.</p>
 <p><strong><em>Engolir.</em></strong> O monte de carne tenta engolir uma criatura Média ou menor que esteja agarrada por ele, forçando essa criatura a fazer um teste de salvaguarda de Força DC 13. Em caso de falha, o alvo engolido fica cego, restrito e incapaz de respirar, e deve ter sucesso em um teste de salvaguarda de Constituição DC 13 no início de cada um de seus turnos ou sofrer 8 (2d4 + 3) de dano contundente. Se o monte se mover, o alvo engolido se move com ele. O monte pode ter apenas uma criatura engolida por vez. Uma criatura engolida pode fazer um teste de salvaguarda de Força DC 13 no final de cada um de seus turnos, libertando-se em caso de sucesso. (Uma vez libertada, a criatura não está mais agarrada.)</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Ruptura.</em></strong> O monte de carne expulsa uma pústula de carne podre, que atinge um ponto a até 6 m do monte e estoura, borrifando cada criatura a até 1,5 m com sangue cáustico e pus. Um alvo deve ter sucesso em um teste de salvaguarda de Constituição DC 13 ou ficará envenenado até o início do próximo turno do monte de carne.</p>
+<p><strong><em>Ruptura.</em></strong> O monte de carne expulsa uma pústula de carne em decomposição, que atinge um ponto a até 6 m do monte e explode, borrifando cada criatura a até 1,5 m com sangue cáustico e pus. Um alvo deve ter sucesso em um teste de salvaguarda de Constituição DC 13 ou ficará envenenado até o início do próximo turno do monte de carne.</p>
 <p><strong><em>Treme.</em></strong> O monte de carne bate contra o chão, fazendo o cômodo tremer. Cada criatura a até 3 m do monte deve ter sucesso em um teste de salvaguarda de Força DC 13 ou cairá no chão.</p>
 <h3>Reações</h3>
-<p>O monte de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Esmagar.</em></strong> Em resposta a um dano recebido de um ataque corpo a corpo, o monte de carne tenta agarrar o atacante usando seu <strong><em>Pancada.</em></strong></p>
-<p><strong><em>Rolar.</em></strong> Em resposta a um dano recebido de um ataque à distância ou feitiço, o monte de carne se move até sua velocidade diretamente em direção ou para longe do atacante sem provocar ataques de oportunidade. Se ele se mover em direção ao atacante, pode então imediatamente tentar empurrá-lo.</p>
+<p>O monte de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações, perde uma reação em vez disso.</p>
+<p><strong><em>Esguichar.</em></strong> Em resposta a um dano recebido de um ataque corpo a corpo, o monte de carne tenta agarrar o atacante usando seu <strong><em>Pancada.</em></strong></p>
+<p><strong><em>Rolagem.</em></strong> Em resposta a um dano recebido de um ataque à distância ou feitiço, o monte de carne se move até sua velocidade diretamente em direção ou para longe do atacante sem provocar ataques de oportunidade. Se ele se mover em direção ao atacante, pode então imediatamente tentar empurrá-lo.</p>
 </div><br>
 
 <div class="statblock">
@@ -1041,27 +1041,27 @@ Uma criatura engolida pela primeira forma do monte de carne pode ouvir o suave s
   </tbody>
 </table>
 <hr>
-<strong>Imunidades a Condições</strong> cegos, surdos, exaustão, agarrado, caído<br>
-<strong>Sentidos</strong> visão cega 60 pés, Percepção passiva 10<br>
-<strong>Idiomas</strong> Entende Comum, mas não pode falar<br>
+<strong>Imunidades a Condições</strong> cegueira, surdez, exaustão, agarrado, caído<br>
+<strong>Sentidos</strong> visão no escuro 18 m, Percepção passiva 10<br>
+<strong>Idiomas</strong> Compreende Comum, mas não consegue falar<br>
 <strong>Desafio</strong> 4, ou 3 quando seu recurso <em>pesadão</em> está ativo.<br>
 <hr>
-<p><strong><em>Sono Pesado.</em></strong> Se qualquer uma das formas do montículo estiver inconsciente nos últimos minutos, ele não pode usar seu ataque <strong><em>tentáculo</em></strong> mais de uma vez por turno.</p>
-<p><strong><em>Corpo Viscoso.</em></strong> O montículo de carne pode se mover através de espaços ocupados por criaturas inimigas, bem como espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado, e provoca ataques de oportunidade normalmente.)</p>
-<p><strong><em>Coração Inocente.</em></strong> O centro do montículo oculta seu "coração": uma grande e deformada caixa torácica. Dentro da caixa torácica paira o cadáver infantil de Walter Durst. O cadáver de Walter tem CA 15 e os mesmos valores de habilidade que o montículo de carne. Cada vez que o cadáver de Walter recebe dano, o montículo de carne recebe o dobro de dano.</p>
-<p><strong><em>Canção de Ninar da Mãe.</em></strong> Se um PJ usar sua ação para cantarolar ou tocar <em>Valsa para Klara</em> e tiver sucesso em um teste de Carisma (Performance) CD 10, o montículo expõe seu coração e não pode usar sua reação <strong><em>retirada</em></strong> até o início do próximo turno do PJ.</p>
+<p><strong><em>Sono Pesado</em></strong> Se qualquer uma das formas do monte estiver inconsciente nos últimos 60 segundos, ele não pode usar seu ataque <strong><em>tentáculo</em></strong> mais de uma vez por turno.</p>
+<p><strong><em>Corpo Viscoso.</em></strong> O monte de carne pode se mover através de espaços ocupados por criaturas inimigas, assim como em espaços menores que uma criatura Grande. (Ele não pode terminar seu turno dentro de um espaço ocupado e provoca ataques de oportunidade normalmente.)</p>
+<p><strong><em>Coração Inocente.</em></strong> O centro do monte oculta seu "coração": uma grande caixa torácica deformada. Dentro da caixa torácica flutua o cadáver infantil de Walter Durst. O cadáver de Walter tem CA 15 e os mesmos valores de habilidade que o monte de carne. Cada vez que o cadáver de Walter sofre dano, o monte de carne sofre o dobro de dano.</p>
+<p><strong><em>Canção de Ninar da Mãe.</em></strong> Se um PJ usar sua ação para cantarolar ou tocar <em>Valsa para Klara</em> e tiver sucesso em um teste de Carisma (Performance) CD 10, o monte expõe seu coração e não pode usar sua reação <strong><em>retirada</em></strong> até o início do próximo turno do PJ.</p>
 <h3>Ações</h3>
-<p><strong><em>Múltiplo Ataque.</em></strong> O montículo de carne faz três ataques, ou dois ataques se seu recurso <strong><em>pesadão</em></strong> estiver ativo.</p>
-<p><strong><em>Tentáculo.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 15 pés, um alvo. <em>Atingir:</em> 14 (2d10 + 3) de dano contundente, ou 7 (1d8 + 3) de dano contundente se o recurso <strong><em>pesadão</em></strong> do montículo estiver ativo. Se o alvo for uma criatura, ela deve ter sucesso em um teste de salvaguarda de Força CD 13 ou ser puxada até 15 pés em direção ao montículo.</p>
-<p><strong><em>Mordida.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 5 pés, um alvo. <em>Atingir:</em> 10 (2d6 + 3) de dano perfurante.</p>
+<p><strong><em>Múltiplo Ataque.</em></strong> O monte de carne faz três ataques, ou dois ataques se seu recurso <strong><em>pesadão</em></strong> estiver ativo.</p>
+<p><strong><em>Tentáculo.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 4,5 m, um alvo. <em>Atingido:</em> 14 (2d10 + 3) de dano contundente, ou 7 (1d8 + 3) de dano contundente se o recurso <strong><em>pesadão</em></strong> do monte estiver ativo. Se o alvo for uma criatura, ela deve ter sucesso em um teste de resistência de Força CD 13 ou ser puxada até 4,5 metros em direção ao monte.</p>
+<p><strong><em>Mordida.</em></strong> <em>Ataque de Arma Corpo a Corpo:</em> +5 para acertar, alcance 1,5 m, um alvo. <em>Atingido:</em> 10 (2d6 + 3) de dano perfurante.</p>
 <h3>Ações Bônus</h3>
-<p><strong><em>Jato de Vísceras.</em></strong> O montículo jorra sangue e vísceras em um cone de 15 pés. Cada criatura nessa área deve fazer um teste de salvaguarda de Destreza CD 13. Em caso de falha, uma criatura recebe 7 (2d6) de dano necrótico e fica cega até o final do próximo turno do montículo. Em caso de sucesso, uma criatura recebe metade do dano e não fica cega. Usar essa habilidade expõe o coração do montículo, permitindo que ele seja atacado.</p>
-<p><strong><em>Uivo.</em></strong> O cadáver infantil de Walter Durst emite um grito penetrante. Cada criatura que pode ouvir o grito dentro de 30 pés do montículo deve ter sucesso em um teste de salvaguarda de Constituição CD 10 ou sofrer 2 (1d4) de dano psíquico e ficar surda até o final do próximo turno do montículo. Usar essa habilidade expõe o coração do montículo, permitindo que ele seja atacado.</p>
+<p><strong><em>Jato de Vísceras.</em></strong> O monte jorra sangue e vísceras em um cone de 4,5 metros. Cada criatura nessa área deve fazer um teste de resistência de Destreza CD 13. Em caso de falha, a criatura sofre 7 (2d6) de dano necrótico e fica cega até o final do próximo turno do monte. Em caso de sucesso, a criatura sofre metade do dano e não fica cega. Usar essa habilidade expõe o coração do monte, permitindo que ele seja atacado.</p>
+<p><strong><em>Uivo.</em></strong> O cadáver infantil de Walter Durst emite um grito penetrante. Cada criatura que puder ouvir o grito dentro de 9 metros do monte deve ter sucesso em um teste de resistência de Constituição CD 10 ou sofrer 2 (1d4) de dano psíquico e ficar surda até o final do próximo turno do monte. Usar essa habilidade expõe o coração do monte, permitindo que ele seja atacado.</p>
 <h3>Reação</h3>
-<p>O montículo de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações e não estiver incapacitado, ele perde uma reação em vez disso.</p>
-<p><strong><em>Retirada.</em></strong> Em resposta a um ataque ou feitiço prejudicial que acerte ou erre seu coração, o montículo retira seu coração para dentro de seu corpo, ocultando-o da vista e protegendo-o de ataques.</p>
-<p><strong><em>Atacar.</em></strong> Em resposta a receber dano de um ataque corpo a corpo, o montículo ataca o agressor com um tentáculo. O agressor deve ter sucesso em um teste de salvaguarda de Destreza CD 13 ou ser empurrado 10 pés para longe. Se o agressor falhar no teste de salvaguarda por 5 ou mais, ele também cai no chão.</p>
-<p><strong><em>Rolamento.</em></strong> Em resposta a receber dano de um ataque à distância ou feitiço, o montículo se move até sua velocidade diretamente em direção ou para longe do agressor sem provocar ataques de oportunidade. Se ele se mover em direção ao agressor, pode então imediatamente tentar empurrá-lo.</p>
+<p>O monte de carne pode realizar até três reações por rodada, embora não mais de uma por turno. Se ele perder suas reações, perde uma reação em vez disso.</p>
+<p><strong><em>Retirada.</em></strong> Em resposta a um ataque ou feitiço prejudicial que acerte ou erre seu coração, o monte retira seu coração para dentro de seu corpo, ocultando-o da vista e protegendo-o de ataques.</p>
+<p><strong><em>Atacar.</em></strong> Em resposta a sofrer dano de um ataque corpo a corpo, o monte ataca o agressor com um tentáculo. O agressor deve ter sucesso em um teste de resistência de Destreza CD 13 ou ser empurrado para longe 3 metros. Se o agressor falhar no teste de resistência por 5 ou mais, ele também cai no chão.</p>
+<p><strong><em>Rolar.</em></strong> Em resposta a sofrer dano de um ataque à distância ou feitiço, o monte se move até sua velocidade diretamente em direção ou para longe do agressor sem provocar ataques de oportunidade. Se ele se mover em direção ao agressor, pode então imediatamente tentar empurrá-lo.</p>
 </div>
 
 
@@ -1149,7 +1149,7 @@ O cachorro Lancelot, um personagem popular da comunidade, foi intencionalmente c
 
 ***O Sótão.*** Pistas foram adicionadas para transmitir o destino da ama e a fundação do culto da Sra. Durst.
 
-***A Masmorra.*** Vários dos encontros nesta área foram alterados para reduzir a probabilidade de um TPK e ensinar os jogadores a agirem com cautela e tomar decisões sábias. Na câmara ritual, o culto não está mais disposto a aceitar o sacrifício de um animal(por exemplo, Lancelot), prenunciando que Strahd não ficará satisfeito apenas com Irene. O **shambling mound** foi substituído por um **monte de carne** em duas etapas, cujas estatísticas foram calibradas para proporcionar uma luta desafiadora sem arriscar um TPK.
+***A Masmorra.*** Vários dos encontros nesta área foram alterados para reduzir a probabilidade de um TPK e ensinar os jogadores a agirem com cautela e tomar decisões sábias. Na câmara ritual, o culto não está mais disposto a aceitar o sacrifício de um animal(por exemplo, Lancelot), prenunciando que Strahd não ficará satisfeito apenas com Ireena. O **shambling mound** foi substituído por um **monte de carne** em duas etapas, cujas estatísticas foram calibradas para proporcionar uma luta desafiadora sem arriscar um TPK.
 
 ***Fuga da Casa da Morte.*** A sequência original de "fuga da Casa da Morte" foi substituída por um par de encontros sociais que recompensam os jogadores por investigarem a história da casa, e que servem para prenunciar as caracterizações de Sergi von Zarovich, Lady Fiona Wachter e as noivas e servos de Strahd na aventura que está por vir.
 

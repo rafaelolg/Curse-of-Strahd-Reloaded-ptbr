@@ -18,7 +18,7 @@ Uma lista de tópicos potencialmente desconfortáveis que vocês podem querer di
 * Tortura e mutilação (ex.: as orelhas de Kasimir cortadas)  
 * Controle mental (ex.: a habilidade de ***charm*** de Strahd)  
 * Incesto (implícito) (ex.: os Belviews)  
-* Stalking e (simbolicamente) Abuso sexual. (ex.: a obsessão de Strahd por Irene)  
+* Stalking e (simbolicamente) Abuso sexual. (ex.: a obsessão de Strahd por Ireena)  
 * Suicídio (ex.: a morte de Tatyana)  
 * Dependência química (ex.: os pastéis de sonhos)  
 * Horror corporal (ex.: os dons sombrios dos vestígios)  

@@ -51,13 +51,13 @@ No entanto, o sonho de Zarovia nunca abandonou os descendentes do Rei Barov. Cem
 
 A cruzada de Barov foi impulsionada quando São Andral—um líder espiritual da Igreja do Senhor da Manhã, desesperado com o caos e a pobreza que haviam envolvido o reino desde sua queda—lhe concedeu a coroa da antiga Zarovia. Com a ajuda de Barov, São Andral tornou-se o Sumo Sacerdote da igreja do Senhor da Manhã; com a ajuda de Andral, a expansão de Barov transformou-se em uma guerra santa.
 
-O reino dos elfos do crepúsculo—uma antiga província de Zarovia—recusou-se a prestar lealdade ao Rei Barov, a quem declarou guerra. Em um ano, as forças de Barov—auxiliadas por Rahadin, o filho elfo do crepúsculo exilado do Príncipe Erevan Löwenhart, descrito mais adiante em <span class="citation">Rahadin (p. 237)</span>—conquistaram os elfos do crepúsculo, obliterando a linhagem real élfica e subjugando aqueles que restaram.
+O reino dos elfos crepusculáres—uma antiga província de Zarovia—recusou-se a prestar lealdade ao Rei Barov, a quem declarou guerra. Em um ano, as forças de Barov—auxiliadas por Rahadin, o filho elfo do crepúsculo exilado do Príncipe Erevan Löwenhart, descrito mais adiante em <span class="citation">Rahadin (p. 237)</span>—conquistaram os elfos crepusculáres, obliterando a linhagem real élfica e subjugando aqueles que restaram.
 
 Com a ajuda de Ciril Romulich, o Rei Barov tomou o punho da *moonblade* estilhaçada do Príncipe Löwenhart e o usou para forjar a *Brightblade*: uma lâmina de cristal de luz radiante. Para fortalecer ainda mais a espada, a bruxa Baba Lysaga—conselheira do Rei Barov em assuntos de magia—selou o espírito do Príncipe Löwenhart dentro da lâmina.
 
 Não muito depois, no entanto, Baba Lysaga foi banida por seu apego doentio ao recém-nascido filho do rei, Strahd, conforme descrito em <span class="citation">Baba Lysaga (p. 228)</span>. Sete anos depois, o jovem Strahd juntou-se ao exército de seu pai como escudeiro. Enquanto estava em guerra, Barov também gerou uma filha bastarda, Katarina, com uma mulher Vistani. (Veja <span class="citation">Madame Eva (p. 233)</span>.)
 
-Uma década após a queda dos elfos do crepúsculo, Strahd—agora um soldado e capitão sob o comando do Rei Barov—foi ferido em batalha e resgatado pelos Vistani, conforme descrito em <span class="citation">O Fogo Dançante (p. 20)</span>. 
+Uma década após a queda dos elfos crepusculáres, Strahd—agora um soldado e capitão sob o comando do Rei Barov—foi ferido em batalha e resgatado pelos Vistani, conforme descrito em <span class="citation">O Fogo Dançante (p. 20)</span>. 
 
 Dentro de quatro anos após seu retorno em segurança, Strahd tornou-se um general no exército do Rei Barov, liderando a vanguarda da força conquistadora. Enquanto travava guerra contra os inimigos de sua família, Strahd não viu nem uma folha ou pedra da terra natal de sua família, mais frequentemente dormindo em tendas sobre a terra encharcada e manchada de sangue do que em lençóis e roupas reais.
 
@@ -93,11 +93,11 @@ O Rei Barov não viveu para ver os frutos de seu trabalho. Quando o rei veio a f
 
 Strahd também recusou a *Lâmina Brilhante* de seu pai, presenteando-a a Sergei—agora um sacerdote na igreja do Senhor da Manhã—com a justificativa de que seu legado era algo que ele mesmo deveria conquistar. Sua própria lâmina havia sido suficiente para as inúmeras batalhas anteriores; ela seria suficiente para as guerras que estavam por vir.
 
-A guerra veio primeiro com os elfos do crepúsculo, há muito subjugados, que—esperando tirar proveito da mudança na liderança—iniciaram uma rebelião contra o governador que Strahd havia colocado sobre sua terra natal. 
+A guerra veio primeiro com os elfos crepusculáres, há muito subjugados, que—esperando tirar proveito da mudança na liderança—iniciaram uma rebelião contra o governador que Strahd havia colocado sobre sua terra natal. 
 
 Fortalecidos pela coragem dos elfos, outras nações entraram na luta, posicionando tropas perto das fronteiras do reino e impondo embargos e altas tarifas sobre os bens transportados de seus mercados e portos.
 
-Onde seus generais viam ameaças, no entanto, Strahd via oportunidades. Essas hostilidades recém criadas lhe proporcionaram a justificativa perfeita para semear as sementes de seu futuro império. Ele começou esmagando impiedosamente a rebelião dos elfos do crepúsculo, como descrito em <span class="citation">Kasimir Velikov (p. 233)</span>, e prosseguiu declarando guerra a todas as nações que alguma vez o insultaram ou se opuseram a ele. Os elfos do crepúsculo foram deixados aos cuidados dos Vistani, que os levaram para o vale onde os inimigos de Strahd— a Ordem do Dragão Prateado e a Abadia de São Markova—ofereciam santuário e paz.
+Onde seus generais viam ameaças, no entanto, Strahd via oportunidades. Essas hostilidades recém criadas lhe proporcionaram a justificativa perfeita para semear as sementes de seu futuro império. Ele começou esmagando impiedosamente a rebelião dos elfos crepusculáres, como descrito em <span class="citation">Kasimir Velikov (p. 233)</span>, e prosseguiu declarando guerra a todas as nações que alguma vez o insultaram ou se opuseram a ele. Os elfos crepusculáres foram deixados aos cuidados dos Vistani, que os levaram para o vale onde os inimigos de Strahd— a Ordem do Dragão Prateado e a Abadia de São Markova—ofereciam santuário e paz.
 
 Até agora, as forças de Strahd eram legiões, seus soldados uma força de combate implacável que incorporava sua ambição conquistadora. Embora tecnicamente em menor número, a astúcia e o talento militar de Strahd permitiram que ele cortasse qualquer força opositora com facilidade—e, um por um, os dominós caíram.
 
@@ -123,7 +123,7 @@ Por lealdade à sua família, Strahd legou aos Krezkovs a vinícola Mago dos Vin
 
 São Andral, agora o Mais Alto Sacerdote da igreja do Senhor da Manhã, faleceu com a venerável idade de oitenta e dois anos. Uma igreja foi construída em Vallaki e nomeada Igreja de São Andral em sua homenagem, com seus ossos enterrados em uma cripta sob o altar. Enquanto isso, uma velha bruxa chamada Baba Lysaga—ex-ama-seca de Strahd, conforme descrito em <span class="citation">Baba Lysaga (p. 228)</span>—seguiu as forças de Strahd até o vale, estabelecendo-se em uma pequena e precária cabana no meio da Floresta Svalich.
 
-Os elfos do crepúsculo—os mesmos refugiados que haviam, não muito antes, fugido das consequências da rebelião contra Strahd—se viram presos no coração do novo império de seu conquistador. Após um longo debate liderado por seu líder, Kasimir Velikov, os elfos relutantemente concordaram em permanecer nas novas casas que haviam construído no vale, na esperança de que o santuário dos Vistani os mantivesse a salvo de novas represálias. 
+Os elfos crepusculáres—os mesmos refugiados que haviam, não muito antes, fugido das consequências da rebelião contra Strahd—se viram presos no coração do novo império de seu conquistador. Após um longo debate liderado por seu líder, Kasimir Velikov, os elfos relutantemente concordaram em permanecer nas novas casas que haviam construído no vale, na esperança de que o santuário dos Vistani os mantivesse a salvo de novas represálias. 
 
 A irmã de Kasimir, Patrina Velikovna, no entanto, uma arquimaga de considerável poder, sentiu-se impelida a tomar novas ações. Com a Ordem do Dragão Prateado caída, ela investigou os segredos que a Ordem deixou para trás—e assim descobriu o segredo do Templo de Âmbar. Lá, ela completou seus estudos das artes escuras e começou a elaborar um plano sombrio e ambicioso.
 

@@ -1,3 +1,27 @@
+# Hotfix 2.1.0.4 (July 6, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Added an image of Argynvost's Ghost to [[Arc Q - A Shining Beacon]]
+* Added an updated, labelled image of Bodak's Lair to [[Arc R - Trials of the Mountain]]
+# Patch 2.1.0.3 (June 18, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified fog and vision limitations in the siege in [[Arc B - Welcome to Barovia]]
+* Changed Parriwimple's statblock to that of a berserker with a spear in [[Arc B - Welcome to Barovia]]
+* Added a light crossbow to Ireena's equipment in [[Arc B - Welcome to Barovia]]
+* Ensured parity between stats and balancing of Izek in [[Arc F - Lady Wachter's Wish]] and [[Arc G - The Strazni Siblings]]
+* Removed the refugees' coldness to Ireena and Ismark in [[Arc H - The Lost Soul]], on account of their father being alive at time of the refugees leaving
+* Ensured parity of the Order of the Silver Dragon's oath across [[Arc M - The Dragon's Manor]]
+* Added a short scene with disinterested wolves in [[Arc O - Dinner with the Devil]] to show that Strahd is honoring his word
+* Updated reconsecration information for the *Spear of the Huntress* in [[Arc P - Ravenloft Heist]]
+* Added clarifying information on where in the mausoleum the black flames erupt in [[Arc Q - A Shining Beacon]]
+* Added balancing encounters in [[Arc R - Trials of the Mountain]]
+* Added balancing encounters in [[Arc S - A Sword of Sunlight]]
+* Added roleplaying guidance for those possessed by Dorina in [[Arc S - A Sword of Sunlight]]
+* Added balancing encounters in [[Arc T - The Three Fanes]]
+* Added stat block for Animated Minor Object in [[Arc T - The Three Fanes]]
+* Updated amber shard locations in [[Amber Shards]]
+
+# Hotfix 2.1.0.2 (June 12, 2025)
+* Changed Strahd's dying words in [[Arc U - Dreams of Dawn]]
 # Hotfix 2.1.0.1 (May 30, 2025)
 * Fixed ravine battlemap not rendering in [[Arc C - Into the Valley]]
 # Update 2.1 (May 23, 2025)
@@ -153,7 +177,7 @@
 # Version 2.0.9 (August 29, 2024)
 * Added [[Arc Q - A Shining Beacon]]
 *  Fixed assorted typos & inconsistencies
-* Revised [[History of Barovia]] to reflect that Strahd has not yet bitten Irene and the siege of Barovia is ongoing at the beginning of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
+* Revised [[History of Barovia]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
 * Added a milestone XP chart in [[Adventure Summary]]
 * Added an additional warning regarding homebrewing or modifications/additions in [[Arc A - Escape From Death House]]
 * Addressed the possibility of players visiting the church early in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
@@ -172,7 +196,7 @@
 * Clarified that Ezmerelda's map of Barovia doesn't mark locations other than settlements in [[Arc E - The Missing Vistana]]
 * Added an NPC profile for Van Richten in [[Arc E - The Missing Vistana]]
 * Explained how Van Richten responds if the players attempt to recruit him in [[Arc E - The Missing Vistana]]
-* Expanded Irene's response if the players refuse to bring her to fight Izek in [[Arc G - The Strazni Siblings]]
+* Expanded Ireena's response if the players refuse to bring her to fight Izek in [[Arc G - The Strazni Siblings]]
 * Added rules regarding the destruction of the hag coven's contract in [[Arc H - The Lost Soul]]
 * Made it more difficult to accidentally trigger combat with the hag coven in [[Arc H - The Lost Soul]]
 * Added a fail-forward plotline for players defeated by Baba Lysaga in [[Arc I - The Walls of Krezk]]
@@ -209,7 +233,7 @@
 * Added a copy of the deprecated version of [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
 # Version 2.0.8 (July 19, 2024)
 * Added [[Arc P - Ravenloft Heist]]
-* Reworked [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Irene.
+* Reworked [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
 * Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
 * Added an additional line regarding creature alignments to the campaign contract in [[Session Zero]]
 * Updated Strahd's goals in [[Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
@@ -332,7 +356,7 @@
 
 [[Arc G - The Strazni Siblings]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
-* Clarified player XP if Irene is kidnapped and rescued
+* Clarified player XP if Ireena is kidnapped and rescued
 
 [[Arc H - The Lost Soul]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
@@ -404,7 +428,7 @@
 # Hotfix 2.0.6.4 (Feb. 16, 2024)
 * Explicitly removed the RAW "living fire" from Argynvostholt's northeast guest room
 # Hotfix 2.0.6.3 (Feb. 4, 2024
-* Delayed Izek's kidnapping of Irene in [[Arc G - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc G - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc D - St. Andral's Feast]] to the players' fifth day in Vallaki.
+* Delayed Izek's kidnapping of Ireena in [[Arc G - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc G - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc D - St. Andral's Feast]] to the players' fifth day in Vallaki.
 * Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc E - The Missing Vistana]]
 * Revised Ezmerelda's statistics in [[Arc K - The Fallen Abbey]]
 * Modified the Abbot's wrath in [[Arc K - The Fallen Abbey]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
@@ -421,9 +445,9 @@
 # Version 2.0.6 (Jan. 31, 2024)
 * Added [[Arc L - The Den of Wolves]] and [[Arc M - The Dragon's Manor]]
 * Added Campaign Contract in [[Session Zero]]
-* Added information regarding the Devourer and Strahd's intentions for Irene to [[History of Barovia]]
+* Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
 * Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]
-* Removed an excess skill proficiency from Irene's sidekick statblock in [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
+* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Added NPC profile for Morgantha in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc D - St. Andral's Feast]]
@@ -501,12 +525,12 @@
 * Added new descriptive text for the players' arrival in the village  
 * Expanded the players' first meeting with Ismark and Mary, including an encounter with Bildrath  
 * Changed Gertruda's intended destination from Castle Ravenloft to Vallaki  
-* Added periscope peephole to Ismark and Irene's door (for vampire detection)  
+* Added periscope peephole to Ismark and Ireena's door (for vampire detection)  
 * Added excerpt from *Van Richten's Guide to Vampires* in the players' bedroom in the mansion  
-* Allowed Irene to attend Kolyan's funeral  
+* Allowed Ireena to attend Kolyan's funeral  
 * Allowed Doru's fangs to retract upon passing the players' test  
 * Clarified that Doru doesn't fight in self-defense  
-* Clarified the point at which the players learn the identity of the vampire who bit Irene  
+* Clarified the point at which the players learn the identity of the vampire who bit Ireena  
 
 **[[Act I - Into the Mists/Arc C - Into the Valley]]**
 * Rebalanced the **zombie plague spreader** to avoid nova turns  
@@ -533,7 +557,7 @@
 * Added new scenes with Henrik and Milivoj when the players first arrive at St. Andral's Church  
 * Added a new lore box detailing the theft of the bones  
 * Changed Milivoj's knowledge of the bones to come from eavesdropping rather than asking Yeska  
-* Clarified Irene generally remains in the church from dusk until dawn  
+* Clarified Ireena generally remains in the church from dusk until dawn  
 * Changed Lucian to accompany the players to Milivoj's home  
 * Clarified that breaking down Henrik's door doesn't wake Volenta up  
 * Clarified how Volenta obtained her noisemaker trap  
@@ -557,11 +581,11 @@
 * Added additional silver for weapons to Lady Wachter's reward  
 
 **[[Arc G - The Strazni Siblings]]**
-* Added an Irene visit to the Blue Water Inn the morning after IZek's attack  
-* Clarified the Izek kidnaps Irene while the players are away  
-* Added an ending in which Izek hides Irene in the wicker sun on the morning of the Festival of the Blazing Sun, allowing her to burn alive if the players don't rescue her  
+* Added an Ireena visit to the Blue Water Inn the morning after IZek's attack  
+* Clarified the Izek kidnaps Ireena while the players are away  
+* Added an ending in which Izek hides Ireena in the wicker sun on the morning of the Festival of the Blazing Sun, allowing her to burn alive if the players don't rescue her  
 * Added a reminder box regarding surprise mechanics in the fight with Izek  
-* Gave Irene a dagger to escape her bindings if rescued from the mansion  
+* Gave Ireena a dagger to escape her bindings if rescued from the mansion  
 * Reduced Izek's damage to match recalibrated numbers  
 
 **[[Arc H - The Lost Soul]]**
@@ -590,7 +614,7 @@
 * added a safe place for the players to take a long rest upon exiting Death House
 * modified Dalvan Olensky’s corpse
 * Parriwimple now tells the PCs that “Alanik” had a pet monkey
-* added new detour sequence for Irene to take on the morning before leaving Barovia
+* added new detour sequence for Ireena to take on the morning before leaving Barovia
 * delayed the players’ departure from Barovia until noon
 * added Ismark’s recommendation to use Tser Pool as a waypoint
 * added information about Dalvan Olensky’s reading to Tser Pool
@@ -602,12 +626,12 @@
 # Version 2.0.3 (Jul. 10, 2023)
 * Added [[Act I - Into the Mists/Arc C - Into the Valley]]
 * Moved Van Richten’s weapon cache further southwest down the Old Svalich Road.
-* Added an “Irene Joins the Party” sidebar presenting Irene as a sidekick member of the party.
+* Added an “Ireena Joins the Party” sidebar presenting Ireena as a sidekick member of the party.
 * Moved the Huntress’s Forest Fane to Yester Hill and the Seeker’s Mountain Fane to Old Bonegrinder.
 * Added a fallback at the end of Death House in the event that the players fail the skill challenge.
 * Removed the Hooded One from the Tarokka reading options for the Sunsword.
 * Fixed Strahd’s statblock to limit his Father of the Night feature to humanoids.
-* Fixed a design note to clarify that the party’s final companions are expected to be Ezmerelda, Irene, and Kasimir.
+* Fixed a design note to clarify that the party’s final companions are expected to be Ezmerelda, Ireena, and Kasimir.
 * Added Strahd’s Espionage Tracker tothe end of the guide.
 * Updated the NPC appendix with new profiles.
 * Moved Van Richten’s birth three years earlier in the History of Barovia.
